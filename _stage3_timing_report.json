@@ -1,0 +1,4107 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 802.1776,
+  "average_page_seconds": 3.8018,
+  "phase_totals_seconds": {
+    "internal_links": 266.4748,
+    "youtube": 263.1164,
+    "content_assembly": 92.6358,
+    "monetization": 82.0712,
+    "media_svg": 77.1729,
+    "quality_write": 9.2227,
+    "content_cleanup_final": 6.4677,
+    "preparation": 4.8844,
+    "content_cleanup_initial": 0.1318
+  },
+  "slowest_pages": [
+    {
+      "base_name": "cryptozoology_99365b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 93.9335,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3124,
+        "content_cleanup_final": 0.0445,
+        "media_svg": 0.3449,
+        "youtube": 88.7719,
+        "content_assembly": 0.8056,
+        "monetization": 2.5767,
+        "quality_write": 0.054
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 90.911,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3599,
+        "content_cleanup_final": 0.0427,
+        "media_svg": 0.1969,
+        "youtube": 86.1443,
+        "content_assembly": 0.8849,
+        "monetization": 2.2004,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 88.4096,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3008,
+        "content_cleanup_final": 0.0735,
+        "media_svg": 0.1501,
+        "youtube": 83.377,
+        "content_assembly": 0.8673,
+        "monetization": 2.5632,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_willow_creek_bigfoot_4d049b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6349,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1556,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.3679,
+        "youtube": 0.0132,
+        "content_assembly": 0.3846,
+        "monetization": 7.6304,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1392,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1802,
+        "content_cleanup_final": 0.0194,
+        "media_svg": 0.3788,
+        "youtube": 0.0128,
+        "content_assembly": 0.3599,
+        "monetization": 6.1312,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3692,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1324,
+        "content_cleanup_final": 0.012,
+        "media_svg": 0.3944,
+        "youtube": 0.0116,
+        "content_assembly": 0.3502,
+        "monetization": 5.4139,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_jersey_devil_pine_ba_872ccd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8751,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.433,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.4163,
+        "youtube": 0.012,
+        "content_assembly": 0.374,
+        "monetization": 4.532,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3841,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1969,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.351,
+        "youtube": 0.0137,
+        "content_assembly": 0.3624,
+        "monetization": 4.3688,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_cadborosaurus_carcas_da09ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3306,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2066,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.372,
+        "youtube": 0.0119,
+        "content_assembly": 0.3919,
+        "monetization": 4.2606,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_flatwoods_museum_ide_4601d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8826,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1415,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.3681,
+        "youtube": 0.0112,
+        "content_assembly": 0.3615,
+        "monetization": 3.8691,
+        "quality_write": 0.093
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_former_cryptid_okapi_7f73af",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.237,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1486,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3675,
+        "youtube": 0.0125,
+        "content_assembly": 0.3732,
+        "monetization": 3.259,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_loch_ness_food_suppl_e0b341",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0056,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2017,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.3591,
+        "youtube": 0.0126,
+        "content_assembly": 0.4068,
+        "monetization": 2.9306,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_champ_lake_champlain_6a310c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7156,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1778,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3665,
+        "youtube": 0.009,
+        "content_assembly": 0.3806,
+        "monetization": 2.707,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_memory_contamination_3f618a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5636,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2089,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.364,
+        "youtube": 0.0131,
+        "content_assembly": 0.4312,
+        "monetization": 2.4545,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1232,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4926,
+        "content_cleanup_final": 0.0633,
+        "media_svg": 0.1755,
+        "youtube": 0.0124,
+        "content_assembly": 0.5667,
+        "monetization": 1.7131,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_cropping_scale_illus_448176",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1442,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3949,
+        "youtube": 1.9373,
+        "content_assembly": 0.3972,
+        "monetization": 0.057,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_stress_fear_sighting_db3d25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9915,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2325,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.355,
+        "youtube": 0.0124,
+        "content_assembly": 0.3851,
+        "monetization": 1.9107,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_confidence_accuracy_f963e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9315,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2327,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.3658,
+        "youtube": 0.0128,
+        "content_assembly": 0.423,
+        "monetization": 1.8052,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_mothman_museum_archi_e84f45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8976,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1781,
+        "content_cleanup_final": 0.0407,
+        "media_svg": 0.3655,
+        "youtube": 0.0108,
+        "content_assembly": 0.399,
+        "monetization": 1.8342,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7429,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4966,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.839,
+        "youtube": 0.0197,
+        "content_assembly": 0.3977,
+        "monetization": 0.9302,
+        "quality_write": 0.035
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 90.911,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3599,
+        "content_cleanup_final": 0.0427,
+        "media_svg": 0.1969,
+        "youtube": 86.1443,
+        "content_assembly": 0.8849,
+        "monetization": 2.2004,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 93.9335,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3124,
+        "content_cleanup_final": 0.0445,
+        "media_svg": 0.3449,
+        "youtube": 88.7719,
+        "content_assembly": 0.8056,
+        "monetization": 2.5767,
+        "quality_write": 0.054
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 88.4096,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3008,
+        "content_cleanup_final": 0.0735,
+        "media_svg": 0.1501,
+        "youtube": 83.377,
+        "content_assembly": 0.8673,
+        "monetization": 2.5632,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8426,
+      "phases": {
+        "preparation": 0.0411,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7629,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.1182,
+        "youtube": 0.0152,
+        "content_assembly": 0.6483,
+        "monetization": 0.1373,
+        "quality_write": 0.0931
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1493,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.9071,
+        "content_cleanup_final": 0.0646,
+        "media_svg": 0.1529,
+        "youtube": 0.0359,
+        "content_assembly": 0.7503,
+        "monetization": 0.1027,
+        "quality_write": 0.1051
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9851,
+      "phases": {
+        "preparation": 0.0528,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8018,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 0.1135,
+        "youtube": 0.0267,
+        "content_assembly": 0.7005,
+        "monetization": 0.1665,
+        "quality_write": 0.0748
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2444,
+      "phases": {
+        "preparation": 0.0573,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.9396,
+        "content_cleanup_final": 0.0393,
+        "media_svg": 0.1297,
+        "youtube": 0.0342,
+        "content_assembly": 0.8286,
+        "monetization": 0.1301,
+        "quality_write": 0.0843
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.104,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.9125,
+        "content_cleanup_final": 0.0606,
+        "media_svg": 0.105,
+        "youtube": 0.0245,
+        "content_assembly": 0.773,
+        "monetization": 0.1367,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3369,
+      "phases": {
+        "preparation": 0.0524,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.9398,
+        "content_cleanup_final": 0.0752,
+        "media_svg": 0.1714,
+        "youtube": 0.0165,
+        "content_assembly": 0.8681,
+        "monetization": 0.1421,
+        "quality_write": 0.0707
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7236,
+      "phases": {
+        "preparation": 0.053,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 1.6151,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 0.1631,
+        "youtube": 0.0146,
+        "content_assembly": 0.6543,
+        "monetization": 0.0807,
+        "quality_write": 0.1038
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9308,
+      "phases": {
+        "preparation": 0.0411,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7482,
+        "content_cleanup_final": 0.0617,
+        "media_svg": 0.0914,
+        "youtube": 0.0531,
+        "content_assembly": 0.7019,
+        "monetization": 0.1377,
+        "quality_write": 0.0951
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.03,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6518,
+        "content_cleanup_final": 0.0699,
+        "media_svg": 0.3681,
+        "youtube": 0.0236,
+        "content_assembly": 0.6942,
+        "monetization": 0.1332,
+        "quality_write": 0.0884
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1792,
+      "phases": {
+        "preparation": 0.0606,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.0673,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 0.1497,
+        "youtube": 0.0152,
+        "content_assembly": 0.6807,
+        "monetization": 0.0826,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0998,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.982,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.1203,
+        "youtube": 0.02,
+        "content_assembly": 0.7074,
+        "monetization": 0.104,
+        "quality_write": 0.0846
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3839,
+      "phases": {
+        "preparation": 0.0509,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.1384,
+        "content_cleanup_final": 0.0693,
+        "media_svg": 0.1606,
+        "youtube": 0.0239,
+        "content_assembly": 0.7839,
+        "monetization": 0.0838,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8881,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7303,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 0.1551,
+        "youtube": 0.0155,
+        "content_assembly": 0.729,
+        "monetization": 0.0956,
+        "quality_write": 0.0723
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1826,
+      "phases": {
+        "preparation": 0.0548,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.9587,
+        "content_cleanup_final": 0.0677,
+        "media_svg": 0.0978,
+        "youtube": 0.0202,
+        "content_assembly": 0.7623,
+        "monetization": 0.1365,
+        "quality_write": 0.0835
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9093,
+      "phases": {
+        "preparation": 0.042,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.7589,
+        "content_cleanup_final": 0.0444,
+        "media_svg": 0.1523,
+        "youtube": 0.0183,
+        "content_assembly": 0.7206,
+        "monetization": 0.1015,
+        "quality_write": 0.0703
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.741,
+      "phases": {
+        "preparation": 0.0493,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8067,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 0.1191,
+        "youtube": 0.0175,
+        "content_assembly": 0.5534,
+        "monetization": 0.0851,
+        "quality_write": 0.067
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5047,
+      "phases": {
+        "preparation": 0.0499,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6375,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.0958,
+        "youtube": 0.0179,
+        "content_assembly": 0.5491,
+        "monetization": 0.0648,
+        "quality_write": 0.053
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.728,
+      "phases": {
+        "preparation": 0.0509,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.7964,
+        "content_cleanup_final": 0.052,
+        "media_svg": 0.0897,
+        "youtube": 0.0189,
+        "content_assembly": 0.586,
+        "monetization": 0.0726,
+        "quality_write": 0.0604
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4777,
+      "phases": {
+        "preparation": 0.0344,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 1.4945,
+        "content_cleanup_final": 0.0661,
+        "media_svg": 0.1036,
+        "youtube": 0.0199,
+        "content_assembly": 0.6358,
+        "monetization": 0.0705,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4462,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4436,
+        "content_cleanup_final": 0.073,
+        "media_svg": 0.1253,
+        "youtube": 0.0188,
+        "content_assembly": 0.6349,
+        "monetization": 0.0623,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1232,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4926,
+        "content_cleanup_final": 0.0633,
+        "media_svg": 0.1755,
+        "youtube": 0.0124,
+        "content_assembly": 0.5667,
+        "monetization": 1.7131,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1718,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.272,
+        "content_cleanup_final": 0.0409,
+        "media_svg": 0.0935,
+        "youtube": 0.0144,
+        "content_assembly": 0.5725,
+        "monetization": 0.0881,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2882,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2621,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.1456,
+        "youtube": 0.0221,
+        "content_assembly": 0.6019,
+        "monetization": 0.1036,
+        "quality_write": 0.0791
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4482,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5042,
+        "content_cleanup_final": 0.0692,
+        "media_svg": 0.182,
+        "youtube": 0.0152,
+        "content_assembly": 0.5634,
+        "monetization": 0.0624,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4067,
+      "phases": {
+        "preparation": 0.0408,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4161,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.12,
+        "youtube": 0.027,
+        "content_assembly": 0.5996,
+        "monetization": 0.1059,
+        "quality_write": 0.0673
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3056,
+      "phases": {
+        "preparation": 0.0412,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3411,
+        "content_cleanup_final": 0.0444,
+        "media_svg": 0.0849,
+        "youtube": 0.0136,
+        "content_assembly": 0.6263,
+        "monetization": 0.0977,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6761,
+      "phases": {
+        "preparation": 0.0345,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7619,
+        "content_cleanup_final": 0.0605,
+        "media_svg": 0.1032,
+        "youtube": 0.0116,
+        "content_assembly": 0.5877,
+        "monetization": 0.0617,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_takahe_refuge_080f7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4337,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4816,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.3854,
+        "youtube": 0.0186,
+        "content_assembly": 0.4159,
+        "monetization": 0.0412,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4106,
+      "phases": {
+        "preparation": 0.0469,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.5586,
+        "content_cleanup_final": 0.0442,
+        "media_svg": 0.0923,
+        "youtube": 0.0144,
+        "content_assembly": 0.5244,
+        "monetization": 0.0802,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_cahow_recovery_ce257f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.249,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.284,
+        "content_cleanup_final": 0.0359,
+        "media_svg": 0.4069,
+        "youtube": 0.0128,
+        "content_assembly": 0.3927,
+        "monetization": 0.0571,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_hidden_refuges_d9aa67",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2087,
+      "phases": {
+        "preparation": 0.0306,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.232,
+        "content_cleanup_final": 0.0376,
+        "media_svg": 0.3843,
+        "youtube": 0.0104,
+        "content_assembly": 0.4036,
+        "monetization": 0.0609,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_coelacanth_myth_fdf452",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2672,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.246,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.3944,
+        "youtube": 0.0122,
+        "content_assembly": 0.4253,
+        "monetization": 0.081,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_stick_insect_dna_9a7778",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2184,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2619,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.3797,
+        "youtube": 0.014,
+        "content_assembly": 0.4105,
+        "monetization": 0.0595,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1268,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1833,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.3846,
+        "youtube": 0.0121,
+        "content_assembly": 0.3975,
+        "monetization": 0.0619,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2619,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2511,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.3899,
+        "youtube": 0.0117,
+        "content_assembly": 0.4251,
+        "monetization": 0.0789,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_minnesota_iceman_cf3881",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1896,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2235,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.4073,
+        "youtube": 0.0259,
+        "content_assembly": 0.4021,
+        "monetization": 0.0619,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2445,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2141,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.4353,
+        "youtube": 0.0161,
+        "content_assembly": 0.3944,
+        "monetization": 0.0923,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_local_testimony_unkn_011cb7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1894,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2035,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.4044,
+        "youtube": 0.0124,
+        "content_assembly": 0.3912,
+        "monetization": 0.0815,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_okapi_analogy_limits_f145a7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2472,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2904,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.3913,
+        "youtube": 0.0102,
+        "content_assembly": 0.3931,
+        "monetization": 0.0732,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_on_track_founding_te_31b061",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2107,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.244,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.3897,
+        "youtube": 0.0131,
+        "content_assembly": 0.3936,
+        "monetization": 0.072,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_heuvelmans_71c5ca_sanderson_naming_fie_d8d899",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1969,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2286,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.4047,
+        "youtube": 0.0182,
+        "content_assembly": 0.3809,
+        "monetization": 0.0715,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2812,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3046,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.3961,
+        "youtube": 0.014,
+        "content_assembly": 0.383,
+        "monetization": 0.0645,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_sykes_hair_samples_6c73aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2346,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2308,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.3977,
+        "youtube": 0.0109,
+        "content_assembly": 0.3618,
+        "monetization": 0.1436,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778_extinction_standards_f1e0a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2472,
+      "phases": {
+        "preparation": 0.022,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2899,
+        "content_cleanup_final": 0.041,
+        "media_svg": 0.3757,
+        "youtube": 0.013,
+        "content_assembly": 0.4021,
+        "monetization": 0.0622,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1731,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1792,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3793,
+        "youtube": 0.0146,
+        "content_assembly": 0.4185,
+        "monetization": 0.0939,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_tests_e6c8ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2656,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2574,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.3755,
+        "youtube": 0.0144,
+        "content_assembly": 0.444,
+        "monetization": 0.0811,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2167,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2194,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.368,
+        "youtube": 0.0112,
+        "content_assembly": 0.451,
+        "monetization": 0.0786,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_monsterquest_inconcl_440030",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2761,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2721,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.4959,
+        "youtube": 0.0092,
+        "content_assembly": 0.3669,
+        "monetization": 0.0562,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_paranormal_tv_credib_2233d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3152,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2898,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.5068,
+        "youtube": 0.0109,
+        "content_assembly": 0.3626,
+        "monetization": 0.0692,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6151,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2789,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4924,
+        "youtube": 0.0114,
+        "content_assembly": 0.3752,
+        "monetization": 1.3759,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.082,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1485,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.3798,
+        "youtube": 0.0103,
+        "content_assembly": 0.4044,
+        "monetization": 0.0559,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_bigfoot_cast_detail_32323f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0452,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1126,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3813,
+        "youtube": 0.0082,
+        "content_assembly": 0.4093,
+        "monetization": 0.0598,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_zoological_language_4a2264",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0794,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1529,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.381,
+        "youtube": 0.0117,
+        "content_assembly": 0.3945,
+        "monetization": 0.0553,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0705,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1302,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.376,
+        "youtube": 0.0112,
+        "content_assembly": 0.3802,
+        "monetization": 0.0901,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0876,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1792,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.37,
+        "youtube": 0.0109,
+        "content_assembly": 0.3848,
+        "monetization": 0.0628,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_ecology_li_5e0774",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0906,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.157,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3612,
+        "youtube": 0.0138,
+        "content_assembly": 0.4029,
+        "monetization": 0.0677,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_nessie_plesiosaur_bi_9488af",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1744,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1985,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3967,
+        "youtube": 0.0339,
+        "content_assembly": 0.394,
+        "monetization": 0.0718,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_eel_statis_12f999",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.182,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2241,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.4098,
+        "youtube": 0.0168,
+        "content_assembly": 0.3795,
+        "monetization": 0.078,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_loch_ness_dna_39c301_operation_deepscan_s_b3968e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0996,
+      "phases": {
+        "preparation": 0.1178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1258,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.3665,
+        "youtube": 0.0103,
+        "content_assembly": 0.3636,
+        "monetization": 0.0645,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0776,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1476,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3697,
+        "youtube": 0.0143,
+        "content_assembly": 0.3999,
+        "monetization": 0.0606,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_bear_encounter_misre_f8115c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1996,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2609,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3692,
+        "youtube": 0.0142,
+        "content_assembly": 0.41,
+        "monetization": 0.0625,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_yeti_bear_dna_3a5a98_yeti_relic_identitie_7df5b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0628,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1515,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.3698,
+        "youtube": 0.0203,
+        "content_assembly": 0.3823,
+        "monetization": 0.0606,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1579,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1503,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.3733,
+        "youtube": 0.0111,
+        "content_assembly": 0.405,
+        "monetization": 0.1384,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_nessie_surgeons_phot_e14764",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1369,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1816,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.3586,
+        "youtube": 0.0176,
+        "content_assembly": 0.4173,
+        "monetization": 0.0787,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_patterson_gimlin_deb_dbf361",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0479,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1344,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3548,
+        "youtube": 0.0099,
+        "content_assembly": 0.3921,
+        "monetization": 0.0734,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_wallace_bigfoot_trac_2d635e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0636,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1584,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.3588,
+        "youtube": 0.012,
+        "content_assembly": 0.3734,
+        "monetization": 0.0816,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_wetherell_hippo_trac_8cc9c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0396,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1591,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3638,
+        "youtube": 0.0114,
+        "content_assembly": 0.366,
+        "monetization": 0.0576,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_loch_ness_immersive_6f5ec7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1003,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1962,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.3621,
+        "youtube": 0.0122,
+        "content_assembly": 0.3902,
+        "monetization": 0.0534,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_camera_trap_false_po_4b7678",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1136,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.1722,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.3793,
+        "youtube": 0.0159,
+        "content_assembly": 0.3946,
+        "monetization": 0.0593,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_cryptid_image_proven_787ad1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0924,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1678,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3745,
+        "youtube": 0.0232,
+        "content_assembly": 0.3801,
+        "monetization": 0.0586,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_cropping_scale_illus_448176",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1442,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3949,
+        "youtube": 1.9373,
+        "content_assembly": 0.3972,
+        "monetization": 0.057,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0233,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1184,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3615,
+        "youtube": 0.0109,
+        "content_assembly": 0.3976,
+        "monetization": 0.0603,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_pg_film_scale_proven_d33ec6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1011,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1754,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3739,
+        "youtube": 0.0124,
+        "content_assembly": 0.3983,
+        "monetization": 0.0614,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_yeti_relic_bear_dna_7489ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1884,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.218,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.3573,
+        "youtube": 0.0118,
+        "content_assembly": 0.376,
+        "monetization": 0.1261,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_bear_barefoot_illusi_7c6aad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0093,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1369,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3492,
+        "youtube": 0.0102,
+        "content_assembly": 0.3583,
+        "monetization": 0.0747,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_cryptid_track_docume_bb05b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9991,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1185,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3589,
+        "youtube": 0.0086,
+        "content_assembly": 0.3691,
+        "monetization": 0.0658,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_single_print_vs_trac_b40c1f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9853,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1062,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3482,
+        "youtube": 0.0126,
+        "content_assembly": 0.3697,
+        "monetization": 0.0673,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_snowmelt_track_disto_1b2b41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9951,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.0716,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.3471,
+        "youtube": 0.0127,
+        "content_assembly": 0.3541,
+        "monetization": 0.1373,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tracks_4e254c_track_hoax_chain_cus_62b720",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9666,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.098,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.3612,
+        "youtube": 0.0103,
+        "content_assembly": 0.3618,
+        "monetization": 0.0576,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1392,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1802,
+        "content_cleanup_final": 0.0194,
+        "media_svg": 0.3788,
+        "youtube": 0.0128,
+        "content_assembly": 0.3599,
+        "monetization": 6.1312,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5141,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1093,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.84,
+        "youtube": 0.012,
+        "content_assembly": 0.4021,
+        "monetization": 0.0728,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5191,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1518,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.8503,
+        "youtube": 0.0113,
+        "content_assembly": 0.3827,
+        "monetization": 0.0559,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6743,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2524,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.842,
+        "youtube": 0.0109,
+        "content_assembly": 0.3785,
+        "monetization": 0.1322,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_hidden_habitat_limit_181e4a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6013,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.194,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.8462,
+        "youtube": 0.0145,
+        "content_assembly": 0.4157,
+        "monetization": 0.0593,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5518,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1624,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.8179,
+        "youtube": 0.0109,
+        "content_assembly": 0.3825,
+        "monetization": 0.0988,
+        "quality_write": 0.0552
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5625,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1901,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.8703,
+        "youtube": 0.011,
+        "content_assembly": 0.3682,
+        "monetization": 0.0633,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_argosy_magazine_mons_1d24bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.169,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1862,
+        "content_cleanup_final": 0.0194,
+        "media_svg": 0.3645,
+        "youtube": 0.011,
+        "content_assembly": 0.4381,
+        "monetization": 0.0859,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_flatwoods_anomaly_tu_67ad72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3201,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2841,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.475,
+        "youtube": 0.0133,
+        "content_assembly": 0.3754,
+        "monetization": 0.0743,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3516,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4726,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.3588,
+        "youtube": 0.011,
+        "content_assembly": 0.3686,
+        "monetization": 0.0578,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_snowmen_global_patte_a14ba4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2557,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3132,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.3587,
+        "youtube": 0.0109,
+        "content_assembly": 0.3792,
+        "monetization": 0.0866,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_ivan_sanderson_17ff64_tv_animals_authority_d1a71d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.031,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1277,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3612,
+        "youtube": 0.0125,
+        "content_assembly": 0.3477,
+        "monetization": 0.1138,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_chupacabra_changing_049cee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1971,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1853,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.3945,
+        "youtube": 0.0107,
+        "content_assembly": 0.389,
+        "monetization": 0.1315,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_cryptid_uncertainty_a52a2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0627,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1745,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3565,
+        "youtube": 0.0126,
+        "content_assembly": 0.3816,
+        "monetization": 0.061,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_flatwoods_museum_ide_4601d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8826,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1415,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.3681,
+        "youtube": 0.0112,
+        "content_assembly": 0.3615,
+        "monetization": 3.8691,
+        "quality_write": 0.093
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3692,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1324,
+        "content_cleanup_final": 0.012,
+        "media_svg": 0.3944,
+        "youtube": 0.0116,
+        "content_assembly": 0.3502,
+        "monetization": 5.4139,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3841,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1969,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.351,
+        "youtube": 0.0137,
+        "content_assembly": 0.3624,
+        "monetization": 4.3688,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.009,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1253,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3718,
+        "youtube": 0.0107,
+        "content_assembly": 0.3685,
+        "monetization": 0.0616,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_bigfoot_hair_known_a_a9cdfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0579,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1731,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.3465,
+        "youtube": 0.0127,
+        "content_assembly": 0.3853,
+        "monetization": 0.0559,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_cryptid_chain_custod_7b66e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0488,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1412,
+        "content_cleanup_final": 0.032,
+        "media_svg": 0.3486,
+        "youtube": 0.0123,
+        "content_assembly": 0.3975,
+        "monetization": 0.059,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_mothman_museum_archi_e84f45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8976,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1781,
+        "content_cleanup_final": 0.0407,
+        "media_svg": 0.3655,
+        "youtube": 0.0108,
+        "content_assembly": 0.399,
+        "monetization": 1.8342,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_cryptid_dna_retestin_9176bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0714,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.144,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3395,
+        "youtube": 0.0117,
+        "content_assembly": 0.4241,
+        "monetization": 0.068,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_oxford_lausanne_hair_c6de12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0555,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1313,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.3901,
+        "youtube": 0.0136,
+        "content_assembly": 0.3802,
+        "monetization": 0.059,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1617,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1826,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.4052,
+        "youtube": 0.011,
+        "content_assembly": 0.407,
+        "monetization": 0.0594,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_loch_ness_mystery_ec_0e6885",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0317,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1311,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.3552,
+        "youtube": 0.0122,
+        "content_assembly": 0.3902,
+        "monetization": 0.0542,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_champ_lake_champlain_6a310c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7156,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1778,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3665,
+        "youtube": 0.009,
+        "content_assembly": 0.3806,
+        "monetization": 2.707,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_cryptid_souvenirs_un_4a6b6e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0078,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1022,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.341,
+        "youtube": 0.0116,
+        "content_assembly": 0.3685,
+        "monetization": 1.1034,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_monster_museums_attr_39c62b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1414,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1112,
+        "content_cleanup_final": 0.032,
+        "media_svg": 0.3556,
+        "youtube": 0.0122,
+        "content_assembly": 0.4267,
+        "monetization": 0.1484,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_mothman_festival_civ_51c214",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0997,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1833,
+        "content_cleanup_final": 0.0282,
+        "media_svg": 0.3672,
+        "youtube": 0.011,
+        "content_assembly": 0.385,
+        "monetization": 0.0698,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_equus_johnstoni_mist_84ea75",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9675,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1105,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.3582,
+        "youtube": 0.0092,
+        "content_assembly": 0.3563,
+        "monetization": 0.058,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0233,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.0935,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3446,
+        "youtube": 0.0116,
+        "content_assembly": 0.3613,
+        "monetization": 0.1353,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9258,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.0636,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.3641,
+        "youtube": 0.0135,
+        "content_assembly": 0.3522,
+        "monetization": 0.0591,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_former_cryptid_okapi_7f73af",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.237,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1486,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3675,
+        "youtube": 0.0125,
+        "content_assembly": 0.3732,
+        "monetization": 3.259,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_local_congo_okapi_kn_7bf6a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9524,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.0819,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3584,
+        "youtube": 0.0184,
+        "content_assembly": 0.3671,
+        "monetization": 0.0576,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9965,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1307,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.3674,
+        "youtube": 0.01,
+        "content_assembly": 0.3607,
+        "monetization": 0.057,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_willow_creek_bigfoot_4d049b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6349,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1556,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.3679,
+        "youtube": 0.0132,
+        "content_assembly": 0.3846,
+        "monetization": 7.6304,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_cryptid_population_e_26fc7f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0837,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1534,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.3677,
+        "youtube": 0.0119,
+        "content_assembly": 0.3806,
+        "monetization": 0.081,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_cryptid_voucher_spec_7a324f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.287,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2468,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.3654,
+        "youtube": 0.0115,
+        "content_assembly": 0.4386,
+        "monetization": 0.1343,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_dna_not_enough_speci_62c842",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.137,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1928,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.3587,
+        "youtube": 0.0174,
+        "content_assembly": 0.4129,
+        "monetization": 0.0647,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_holotype_naming_rule_b6fd6a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.371,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4454,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.3545,
+        "youtube": 0.012,
+        "content_assembly": 0.4019,
+        "monetization": 0.0624,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_olinguito_species_pr_17ef9b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3411,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.415,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.3699,
+        "youtube": 0.01,
+        "content_assembly": 0.3898,
+        "monetization": 0.0736,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_proof_standards_bd0f6d_occurrence_records_s_46c067",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4818,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4977,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.3711,
+        "youtube": 0.0106,
+        "content_assembly": 0.4312,
+        "monetization": 0.0657,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_footprint_ca_1bf447",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0909,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1659,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.3672,
+        "youtube": 0.0157,
+        "content_assembly": 0.4006,
+        "monetization": 0.0576,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_population_t_f485f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0646,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.1641,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.3592,
+        "youtube": 0.0132,
+        "content_assembly": 0.377,
+        "monetization": 0.061,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_sightings_ev_3b606c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0726,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1728,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3614,
+        "youtube": 0.0112,
+        "content_assembly": 0.3853,
+        "monetization": 0.0626,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_fbi_bigfoot_hair_tes_d1632b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1453,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1641,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3564,
+        "youtube": 0.0112,
+        "content_assembly": 0.4357,
+        "monetization": 0.0747,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_bigfoot_evidence_195744_patterson_gimlin_fil_40aceb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2906,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1674,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.367,
+        "youtube": 0.0186,
+        "content_assembly": 0.5777,
+        "monetization": 0.0758,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_bigfoot_wilderness_i_5381c6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6495,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1814,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.3926,
+        "youtube": 0.0151,
+        "content_assembly": 0.5201,
+        "monetization": 0.4426,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2862,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3363,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.3536,
+        "youtube": 0.0134,
+        "content_assembly": 0.4062,
+        "monetization": 0.0807,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.249,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3298,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.3717,
+        "youtube": 0.0214,
+        "content_assembly": 0.3845,
+        "monetization": 0.0591,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_coelacanth_survivor_df8aad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0178,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1258,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.3498,
+        "youtube": 0.013,
+        "content_assembly": 0.3837,
+        "monetization": 0.0577,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_colossal_squid_live_6e0865",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1258,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1249,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.3531,
+        "youtube": 0.0119,
+        "content_assembly": 0.397,
+        "monetization": 0.1531,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_jersey_devil_pine_ba_872ccd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8751,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.433,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.4163,
+        "youtube": 0.012,
+        "content_assembly": 0.374,
+        "monetization": 4.532,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3779,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.0894,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.7698,
+        "youtube": 0.0106,
+        "content_assembly": 0.3892,
+        "monetization": 0.0622,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_chalumna_specimen_pr_ce0931",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0058,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1283,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3541,
+        "youtube": 0.0104,
+        "content_assembly": 0.3676,
+        "monetization": 0.0607,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_comoros_confirmation_cf5958",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0419,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1471,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.3552,
+        "youtube": 0.0105,
+        "content_assembly": 0.3807,
+        "monetization": 0.0631,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.06,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1368,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.3669,
+        "youtube": 0.0108,
+        "content_assembly": 0.3941,
+        "monetization": 0.0671,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_cryptid_evidence_sta_1fbf75",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2672,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2212,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.3668,
+        "youtube": 0.008,
+        "content_assembly": 0.5262,
+        "monetization": 0.0608,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_deep_water_hiding_pl_df3d54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1385,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1454,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.3756,
+        "youtube": 0.0121,
+        "content_assembly": 0.3866,
+        "monetization": 0.1337,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_coelacanth_lesson_51d02e_living_fossil_miscon_5d1b6c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0486,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1647,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.348,
+        "youtube": 0.0138,
+        "content_assembly": 0.3829,
+        "monetization": 0.0629,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_giant_squid_kraken_e_eadd1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2109,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2246,
+        "content_cleanup_final": 0.033,
+        "media_svg": 0.3555,
+        "youtube": 0.0159,
+        "content_assembly": 0.4595,
+        "monetization": 0.0626,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_midwater_sea_monster_bb4e9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.066,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1599,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3467,
+        "youtube": 0.0135,
+        "content_assembly": 0.4096,
+        "monetization": 0.0571,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_ocean_census_unknown_126f33",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1384,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2064,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.3641,
+        "youtube": 0.0082,
+        "content_assembly": 0.3958,
+        "monetization": 0.0698,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_deep_sea_unknowns_7769bf_seafloor_mapping_cry_2973d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1345,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2122,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.3627,
+        "youtube": 0.0127,
+        "content_assembly": 0.3953,
+        "monetization": 0.0582,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_loch_ness_edna_eels_8c4c99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1168,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.1742,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.35,
+        "youtube": 0.0095,
+        "content_assembly": 0.4004,
+        "monetization": 0.0824,
+        "quality_write": 0.0496
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_sea_cryptid_proof_e1a409",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1718,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1943,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.357,
+        "youtube": 0.013,
+        "content_assembly": 0.4565,
+        "monetization": 0.06,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_edna_false_positives_c20efe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2017,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2608,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.3665,
+        "youtube": 0.0145,
+        "content_assembly": 0.4005,
+        "monetization": 0.0593,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_edna_reference_datab_4abad4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4026,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3054,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.3861,
+        "youtube": 0.0085,
+        "content_assembly": 0.4629,
+        "monetization": 0.1434,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_lake_sampling_design_637141",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2537,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2709,
+        "content_cleanup_final": 0.0334,
+        "media_svg": 0.3938,
+        "youtube": 0.0125,
+        "content_assembly": 0.4133,
+        "monetization": 0.0736,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_negative_edna_result_fc315a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3511,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3811,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 0.3818,
+        "youtube": 0.0149,
+        "content_assembly": 0.4166,
+        "monetization": 0.0621,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_edna_lake_monsters_c31a50_sightings_after_edna_18accb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1054,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1669,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3831,
+        "youtube": 0.0124,
+        "content_assembly": 0.3918,
+        "monetization": 0.0735,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_gps_location_checks_07c103",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.232,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2316,
+        "content_cleanup_final": 0.044,
+        "media_svg": 0.3569,
+        "youtube": 0.0128,
+        "content_assembly": 0.4402,
+        "monetization": 0.0741,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_black_bears_bigfoot_28599a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1476,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1936,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.3643,
+        "youtube": 0.0147,
+        "content_assembly": 0.4249,
+        "monetization": 0.0645,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_black_panther_altern_6495ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0836,
+      "phases": {
+        "preparation": 0.0337,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1782,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.349,
+        "youtube": 0.0096,
+        "content_assembly": 0.3828,
+        "monetization": 0.0673,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_original_photo_files_5c5c93",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.096,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.205,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.3404,
+        "youtube": 0.0107,
+        "content_assembly": 0.3954,
+        "monetization": 0.0588,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_confidence_accuracy_f963e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9315,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2327,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.3658,
+        "youtube": 0.0128,
+        "content_assembly": 0.423,
+        "monetization": 1.8052,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_track_photos_scale_c_7ed58b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0606,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1024,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3821,
+        "youtube": 0.0122,
+        "content_assembly": 0.4185,
+        "monetization": 0.0676,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_weather_light_mistak_190150",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1204,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1977,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.3621,
+        "youtube": 0.0171,
+        "content_assembly": 0.3907,
+        "monetization": 0.0627,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_field_investigation_7e6e81_witness_first_accoun_472c3e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4037,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1943,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.3858,
+        "youtube": 0.0107,
+        "content_assembly": 0.5323,
+        "monetization": 0.1792,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_okapi_emblem_limits_e05391",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3261,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2497,
+        "content_cleanup_final": 0.0346,
+        "media_svg": 0.5197,
+        "youtube": 0.0171,
+        "content_assembly": 0.3875,
+        "monetization": 0.0632,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_breeding_population_e5ae69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0963,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2079,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.3645,
+        "youtube": 0.0107,
+        "content_assembly": 0.368,
+        "monetization": 0.0598,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7429,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4966,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.839,
+        "youtube": 0.0197,
+        "content_assembly": 0.3977,
+        "monetization": 0.9302,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_coelacanth_argument_3e7e20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0525,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1492,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3599,
+        "youtube": 0.0095,
+        "content_assembly": 0.3905,
+        "monetization": 0.0648,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_basking_shark_decay_3a2878",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0075,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1128,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3564,
+        "youtube": 0.0124,
+        "content_assembly": 0.3845,
+        "monetization": 0.0625,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.16,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2207,
+        "content_cleanup_final": 0.0353,
+        "media_svg": 0.3624,
+        "youtube": 0.0123,
+        "content_assembly": 0.4023,
+        "monetization": 0.0604,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_type_specimen_proof_abfe61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0198,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1381,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3641,
+        "youtube": 0.0113,
+        "content_assembly": 0.3664,
+        "monetization": 0.0576,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_basking_shark_carcas_db11fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1812,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1586,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.351,
+        "youtube": 0.0119,
+        "content_assembly": 0.3977,
+        "monetization": 0.179,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_loch_ness_wakes_bird_761903",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0432,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1188,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.4023,
+        "youtube": 0.0144,
+        "content_assembly": 0.3676,
+        "monetization": 0.0581,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0891,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1582,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3977,
+        "youtube": 0.0129,
+        "content_assembly": 0.3721,
+        "monetization": 0.0633,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_mange_coyotes_chupac_d60c23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1081,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1825,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.3607,
+        "youtube": 0.0124,
+        "content_assembly": 0.4059,
+        "monetization": 0.0584,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_oarfish_sea_serpents_84f9cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1314,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1789,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.3444,
+        "youtube": 0.0151,
+        "content_assembly": 0.4385,
+        "monetization": 0.0629,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1844,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2073,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.3611,
+        "youtube": 0.011,
+        "content_assembly": 0.4365,
+        "monetization": 0.062,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_elusive_animals_leav_3d83dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1511,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1999,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.3702,
+        "youtube": 0.0149,
+        "content_assembly": 0.4156,
+        "monetization": 0.0615,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_large_carnivore_evid_6f60a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0497,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1398,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3638,
+        "youtube": 0.0161,
+        "content_assembly": 0.378,
+        "monetization": 0.0627,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_minimum_viable_crypt_2ff0a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0435,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1404,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.3572,
+        "youtube": 0.0134,
+        "content_assembly": 0.3756,
+        "monetization": 0.072,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_no_cryptid_body_obje_f1c4e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1287,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1064,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.3508,
+        "youtube": 0.0145,
+        "content_assembly": 0.3896,
+        "monetization": 0.1833,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_loch_ness_food_suppl_e0b341",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0056,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2017,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.3591,
+        "youtube": 0.0126,
+        "content_assembly": 0.4068,
+        "monetization": 2.9306,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_breeding_populations_14f2d4_one_bigfoot_sighting_3edfe8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0476,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1059,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3807,
+        "youtube": 0.0121,
+        "content_assembly": 0.3954,
+        "monetization": 0.0733,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_distance_darkness_mi_0a15ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0592,
+      "phases": {
+        "preparation": 0.022,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1411,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.3468,
+        "youtube": 0.0134,
+        "content_assembly": 0.3974,
+        "monetization": 0.0636,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_lake_monster_scale_m_967a5b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0823,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.189,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.3507,
+        "youtube": 0.0126,
+        "content_assembly": 0.3675,
+        "monetization": 0.0693,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_hidden_animals_bound_1883df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.07,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1844,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.3472,
+        "youtube": 0.0121,
+        "content_assembly": 0.3754,
+        "monetization": 0.0623,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_stress_fear_sighting_db3d25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9915,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2325,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.355,
+        "youtube": 0.0124,
+        "content_assembly": 0.3851,
+        "monetization": 1.9107,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_eyewitness_sightings_76b10a_memory_contamination_3f618a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5636,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2089,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.364,
+        "youtube": 0.0131,
+        "content_assembly": 0.4312,
+        "monetization": 2.4545,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_indirect_evidence_pr_f9dbe7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1546,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1835,
+        "content_cleanup_final": 0.0371,
+        "media_svg": 0.3691,
+        "youtube": 0.0174,
+        "content_assembly": 0.4311,
+        "monetization": 0.0588,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0062,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1329,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3537,
+        "youtube": 0.0118,
+        "content_assembly": 0.3775,
+        "monetization": 0.0565,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_isc_journal_failed_d_036043",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0743,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1646,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3592,
+        "youtube": 0.0107,
+        "content_assembly": 0.3826,
+        "monetization": 0.0616,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_isc_professionalisat_d80f14_smithsonian_founding_5d633d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1532,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1831,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.3591,
+        "youtube": 0.0108,
+        "content_assembly": 0.3728,
+        "monetization": 0.1332,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_bigfoot_footprint_di_c9a669",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5467,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1444,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.871,
+        "youtube": 0.0118,
+        "content_assembly": 0.3782,
+        "monetization": 0.0773,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5627,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.12,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.8867,
+        "youtube": 0.0079,
+        "content_assembly": 0.3753,
+        "monetization": 1.1171,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5852,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1957,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.841,
+        "youtube": 0.0133,
+        "content_assembly": 0.4165,
+        "monetization": 0.0484,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_remote_cryptid_lands_e7870d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4761,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.0871,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.8295,
+        "youtube": 0.0164,
+        "content_assembly": 0.3949,
+        "monetization": 0.0782,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_coelacanth_monster_l_03488f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0963,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1549,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.38,
+        "youtube": 0.0085,
+        "content_assembly": 0.3985,
+        "monetization": 0.0589,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_living_fossil_langua_d8f352",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1241,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2005,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.3626,
+        "youtube": 0.0123,
+        "content_assembly": 0.3955,
+        "monetization": 0.0599,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_mokele_mbembe_saurop_cb331d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.037,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1466,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.3619,
+        "youtube": 0.0109,
+        "content_assembly": 0.3757,
+        "monetization": 0.0609,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0679,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1522,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.367,
+        "youtube": 0.015,
+        "content_assembly": 0.3763,
+        "monetization": 0.0825,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2726,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2367,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.3579,
+        "youtube": 0.0138,
+        "content_assembly": 0.4226,
+        "monetization": 0.1507,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_bigfoot_report_datab_439d80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1943,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2416,
+        "content_cleanup_final": 0.0542,
+        "media_svg": 0.3712,
+        "youtube": 0.0118,
+        "content_assembly": 0.3976,
+        "monetization": 0.0567,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_blurry_bigfoot_photo_af3845",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2286,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1798,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.3578,
+        "youtube": 0.0161,
+        "content_assembly": 0.5046,
+        "monetization": 0.0875,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3972,
+      "phases": {
+        "preparation": 0.0483,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2813,
+        "content_cleanup_final": 0.0428,
+        "media_svg": 0.4539,
+        "youtube": 0.035,
+        "content_assembly": 0.44,
+        "monetization": 0.0612,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_eyewitness_misidenti_edc3d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3648,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4311,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.3754,
+        "youtube": 0.0147,
+        "content_assembly": 0.3985,
+        "monetization": 0.0595,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_pseudoscience_claims_4480da_failed_search_belief_eb6ce5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2818,
+      "phases": {
+        "preparation": 0.0793,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.216,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.3624,
+        "youtube": 0.0107,
+        "content_assembly": 0.4052,
+        "monetization": 0.1518,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0566,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1656,
+        "content_cleanup_final": 0.0305,
+        "media_svg": 0.3547,
+        "youtube": 0.0087,
+        "content_assembly": 0.3806,
+        "monetization": 0.0591,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_hms_daedalus_sightin_7f2b8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0209,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.0788,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3575,
+        "youtube": 0.0104,
+        "content_assembly": 0.3564,
+        "monetization": 0.1415,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0117,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1039,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.3442,
+        "youtube": 0.0088,
+        "content_assembly": 0.4166,
+        "monetization": 0.0569,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_deep_sea_discoveries_799ec7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1642,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1812,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.3442,
+        "youtube": 0.0134,
+        "content_assembly": 0.4476,
+        "monetization": 0.0797,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_cadborosaurus_carcas_da09ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3306,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2066,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.372,
+        "youtube": 0.0119,
+        "content_assembly": 0.3919,
+        "monetization": 4.2606,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_museum_backlog_speci_b565d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1022,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.189,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3664,
+        "youtube": 0.0143,
+        "content_assembly": 0.3883,
+        "monetization": 0.0569,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_tiny_species_not_mon_db6932",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0803,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1714,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.3736,
+        "youtube": 0.011,
+        "content_assembly": 0.3837,
+        "monetization": 0.0559,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "cryptozoology_99365b_undiscovered_species_607d5a_undersampled_habitat_ef60b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1819,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1982,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.3523,
+        "youtube": 0.0119,
+        "content_assembly": 0.3893,
+        "monetization": 0.1354,
+        "quality_write": 0.0453
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 277.1852,
+    "rebuilt_pages_per_minute": 45.6734,
+    "queued_rebuild_pages_per_minute": 45.6734,
+    "apparent_page_work_speedup": 2.894,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "10788": {
+          "pages": 71,
+          "successes": 71,
+          "failures": 0,
+          "total_worker_seconds": 269.8081,
+          "max_worker_seconds": 90.9582,
+          "last_base_name": "cryptozoology_99365b_undiscovered_species_607d5a_museum_backlog_speci_b565d2"
+        },
+        "20208": {
+          "pages": 74,
+          "successes": 74,
+          "failures": 0,
+          "total_worker_seconds": 273.2952,
+          "max_worker_seconds": 93.9875,
+          "last_base_name": "cryptozoology_99365b_undiscovered_species_607d5a_tiny_species_not_mon_db6932"
+        },
+        "13060": {
+          "pages": 66,
+          "successes": 66,
+          "failures": 0,
+          "total_worker_seconds": 268.2975,
+          "max_worker_seconds": 88.4672,
+          "last_base_name": "cryptozoology_99365b_undiscovered_species_607d5a_undersampled_habitat_ef60b0"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "cryptozoology_99365b",
+          "level": 1,
+          "success": true,
+          "worker_pid": 20208,
+          "worker_duration_seconds": 93.9875,
+          "total_seconds": 93.9335,
+          "worker_started_at_utc": "2026-07-01T22:37:12.838565Z",
+          "worker_finished_at_utc": "2026-07-01T22:38:46.772154Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_heuvelmans_71c5ca",
+          "level": 2,
+          "success": true,
+          "worker_pid": 10788,
+          "worker_duration_seconds": 90.9582,
+          "total_seconds": 90.911,
+          "worker_started_at_utc": "2026-07-01T22:37:15.558959Z",
+          "worker_finished_at_utc": "2026-07-01T22:38:46.470019Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_lazarus_taxa_e4a778",
+          "level": 2,
+          "success": true,
+          "worker_pid": 13060,
+          "worker_duration_seconds": 88.4672,
+          "total_seconds": 88.4096,
+          "worker_started_at_utc": "2026-07-01T22:37:18.414116Z",
+          "worker_finished_at_utc": "2026-07-01T22:38:46.823775Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_tourism_9bd103_willow_creek_bigfoot_4d049b",
+          "level": 3,
+          "success": true,
+          "worker_pid": 10788,
+          "worker_duration_seconds": 9.6737,
+          "total_seconds": 9.6349,
+          "worker_started_at_utc": "2026-07-01T22:40:21.134555Z",
+          "worker_finished_at_utc": "2026-07-01T22:40:30.769504Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc",
+          "level": 3,
+          "success": true,
+          "worker_pid": 13060,
+          "worker_duration_seconds": 8.1789,
+          "total_seconds": 8.1392,
+          "worker_started_at_utc": "2026-07-01T22:39:47.602806Z",
+          "worker_finished_at_utc": "2026-07-01T22:39:55.742089Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e",
+          "level": 3,
+          "success": true,
+          "worker_pid": 10788,
+          "worker_duration_seconds": 7.4127,
+          "total_seconds": 7.3692,
+          "worker_started_at_utc": "2026-07-01T22:40:04.633823Z",
+          "worker_finished_at_utc": "2026-07-01T22:40:12.003096Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_folklore_f406e9_jersey_devil_pine_ba_872ccd",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20208,
+          "worker_duration_seconds": 6.9135,
+          "total_seconds": 6.8751,
+          "worker_started_at_utc": "2026-07-01T22:40:39.285809Z",
+          "worker_finished_at_utc": "2026-07-01T22:40:46.160917Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba",
+          "level": 3,
+          "success": true,
+          "worker_pid": 13060,
+          "worker_duration_seconds": 6.4263,
+          "total_seconds": 6.3841,
+          "worker_started_at_utc": "2026-07-01T22:40:05.730604Z",
+          "worker_finished_at_utc": "2026-07-01T22:40:12.114743Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_sea_serpent_sighting_7dd069_cadborosaurus_carcas_da09ed",
+          "level": 3,
+          "success": true,
+          "worker_pid": 13060,
+          "worker_duration_seconds": 6.3715,
+          "total_seconds": 6.3306,
+          "worker_started_at_utc": "2026-07-01T22:41:38.217507Z",
+          "worker_finished_at_utc": "2026-07-01T22:41:44.548193Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cryptozoology_99365b_cryptid_museums_71b4f6_flatwoods_museum_ide_4601d8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20208,
+          "worker_duration_seconds": 5.9212,
+          "total_seconds": 5.8826,
+          "worker_started_at_utc": "2026-07-01T22:40:05.853063Z",
+          "worker_finished_at_utc": "2026-07-01T22:40:11.735729Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,951 @@
+---
+level: 3
+basename: cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632
+parent_basename: cryptozoology_99365b_cryptid_media_7385ef
+child_basenames: []
+sibling_basenames:
+- cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43
+- cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca
+- cryptozoology_99365b_cryptid_media_7385ef_monsterquest_inconcl_440030
+- cryptozoology_99365b_cryptid_media_7385ef_paranormal_tv_credib_2233d7
+- cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676
+tags:
+- cryptozoology
+- media
+- bfro-reports
+keywords:
+- cryptozoology
+- media
+- bfro-reports
+affiliate_category: cryptozoology
+show_ads: true
+description: The BFRO database shows how thousands of reports can create a sense of evidence without settling whether a creature exists.
+hero_summary: The BFRO database shows how thousands of reports can create a sense of evidence without settling whether a creature exists.
+layout: default
+permalink: /bfro-reports/
+sidebar_expanded_urls:
+- /cryptozoology/
+- /media/
+nav_short_title: BFRO Reports
+title: Do Bigfoot Databases Prove Anything?
+title_full: Do Bigfoot Databases Prove Anything?
+display_title_short: BFRO Reports
+display_title: BFRO Reports
+heading_title: Do Bigfoot Databases Prove Anything?
+page_heading_title: Do Bigfoot Databases Prove Anything?
+source_count: 42
+infographic_count: 3
+planned_sections:
+- How the report archive model works
+- Why accumulation can look persuasive
+- Limits of unverified public sightings
+focal_unit_type: dataset_evidence
+topic_lens: evidence
+topic_granularity: single_dataset
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-01 20:53:14'
+parent_title: How Media Keeps Cryptids Alive
+parent_permalink: /media/
+parent_nav_short_title: Media
+parent_heading_title: How Media Keeps Cryptids Alive
+ancestor_links:
+- basename: cryptozoology_99365b
+  title: Cryptozoology
+  permalink: /cryptozoology/
+  short_title: Cryptozoology
+- basename: cryptozoology_99365b_cryptid_media_7385ef
+  title: Media | Cryptids, Evidence, and the Animals We Imagine
+  permalink: /media/
+  short_title: Media
+  heading_title: How Media Keeps Cryptids Alive
+breadcrumb_links:
+- basename: cryptozoology_99365b
+  title: Cryptozoology
+  permalink: /cryptozoology/
+  short_title: Cryptozoology
+- basename: cryptozoology_99365b_cryptid_media_7385ef
+  title: Media | Cryptids, Evidence, and the Animals We Imagine
+  permalink: /media/
+  short_title: Media
+  heading_title: How Media Keeps Cryptids Alive
+sibling_links:
+- basename: cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43
+  title: Data Hunts | Media
+  permalink: /data-hunts/
+  short_title: Data Hunts
+  heading_title: Can Algorithms Really Find Bigfoot?
+- basename: cryptozoology_99365b_cryptid_media_7385ef_monsterquest_inconcl_440030
+  title: Monster Quest | Media
+  permalink: /monster-quest/
+  short_title: Monster Quest
+  heading_title: Why Monster Quest Made Uncertainty Watchable
+- basename: cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca
+  title: Town Halls | Media
+  permalink: /town-halls/
+  short_title: Town Halls
+  heading_title: How Finding Bigfoot Turned Sightings Into Events
+- basename: cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676
+  title: Trail Cams | Media
+  permalink: /trail-cams/
+  short_title: Trail Cams
+  heading_title: Why Trail Cameras Have Not Ended Bigfoot Debates
+- basename: cryptozoology_99365b_cryptid_media_7385ef_paranormal_tv_credib_2233d7
+  title: TV Cues | Media
+  permalink: /tv-cues/
+  short_title: TV Cues
+  heading_title: Why Monster Shows Feel More Scientific Than They Are
+up_link:
+  basename: cryptozoology_99365b_cryptid_media_7385ef
+  title: Media | Cryptids, Evidence, and the Animals We Imagine
+  permalink: /media/
+  short_title: Media
+  heading_title: How Media Keeps Cryptids Alive
+next_link:
+  basename: cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43
+  title: Data Hunts | Media
+  permalink: /data-hunts/
+  short_title: Data Hunts
+  heading_title: Can Algorithms Really Find Bigfoot?
+header:
+  og_image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-social.jpg
+  preview_image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1.webp
+image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The Bigfoot Field Researchers Organization (BFRO) database is one of the most influential examples of how the internet transformed [cryptozoology]({{ 'cryptozoology/' | relative_url }}). Before large online archives existed, Bigfoot reports were scattered across local newspapers, books, newsletters and personal correspondence. The BFRO gathered thousands of sighting accounts into a searchable public collection, allowing users to browse reports by state, county, date and report type. As a result, Bigfoot ceased to be only a collection of isolated stories and became something that looked more like a growing body of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Geographical Database of Bigfoot Sightings &amp; ReportsThis comprehensive database of credible sightings and related reports is maintai...</span></span></span>
+
+
+<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-dark.svg" | relative_url }}" alt="BFRO Reports illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Whether that accumulation proves anything is a different question. The database demonstrates that many people report unusual experiences, and it provides a remarkable record of witness testimony across North America. At the same time, the archive consists largely of reports rather than independently verified biological evidence. The BFRO database therefore sits at the centre of a long-running debate in cryptozoology: can enough eyewitness reports eventually amount to [proof]({{ 'proof/' | relative_url }}), or does quantity alone leave the underlying question unresolved? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Geographical Database of Bigfoot Sightings &amp; ReportsThis comprehensive database of credible sightings and related reports is maintai...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPYlVm44xks" title="Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer">Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPYlVm44xks">Open on YouTube</a></p></div></div></div>
+
+## How the report archive model works
+
+The BFRO was founded in 1995 and built what it describes as a comprehensive sightings database. [Witnesses]({{ 'witnesses/' | relative_url }}) submit reports, which are reviewed by volunteer investigators before selected cases are published online. The archive covers reports from across the United States and Canada and continues to receive new submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">Bigfoot Field Researchers OrganizationThe Comprehensive Sightings Database. Reports added recently. Sightings by region. Pre-Columbian; E...</span></span></span>
+
+A key feature of the system is classification. Published reports are generally assigned categories such as:
+
+* **Class A**: direct visual observations.
+* **Class B**: indirect experiences, including sounds, [tracks]({{ 'tracks/' | relative_url }}) or brief observations under poorer [conditions]({{ 'conditions/' | relative_url }}).
+* **Class C**: reports considered insufficiently reliable for public listing or retained mainly for archival purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
+
+The organisation argues that reports are screened for credibility before publication and that investigators attempt to distinguish serious accounts from obvious hoaxes or misunderstandings. BFRO materials emphasise investigator review, witness interviews and credibility assessments as part of this process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
+
+The result is more than a list of stories. Reports are organised geographically, linked to maps and often include detailed narratives. Over time, the archive became a research tool for enthusiasts, television producers and expedition groups looking for apparent clusters of sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/news/google_earth.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2MERLOT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">Open source on bfro.net.</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--4_28E3vWQ" title="The Legend of Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer">The Legend of Bigfoot</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--4_28E3vWQ">Open on YouTube</a></p></div></div></div>
+
+## Why accumulation can look persuasive
+
+The database's strongest cultural effect comes from accumulation. A single witness account may be easy to dismiss. Thousands of accounts spread across decades and regions create a different impression. Browsing page after page of reports can make readers feel they are encountering a pattern rather than isolated anecdotes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Geographical Database of Bigfoot Sightings &amp; ReportsThis comprehensive database of credible sightings and related reports is maintai...</span></span></span>
+
+Several factors contribute to that impression.
+
+**Visible geographic concentration.** The database allows users to see apparent hotspots. States such as Washington, California, Florida, Ohio and Oregon contain large numbers of published reports, creating the appearance of recurring activity in specific landscapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigfootforums.com/topic/114654-trends-in-bfro-witness-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigfootforums.com">[Bigfootforums.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigfootforums.com</span><span class="citation-popover-title">114654 trends in bfro witness reports</span><span class="citation-popover-snippet">Trends in BFRO witness reports16 May 2025 — Washington has the highest number of reported sightings, with 726 entries, accounting for app...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+
+**Historical depth.** The archive includes reports spanning many decades, with some records reaching back into the early twentieth century. Seeing accounts from different eras can suggest continuity rather than a temporary cultural fad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cfholbert.com/blog/bigfoot-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfholbert.com">[Charles Holbert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfholbert.com</span><span class="citation-popover-title">bigfoot sightings</span><span class="citation-popover-snippet">All reports posted into the BFRO&#x27;s online database are...Read more...</span></span></span>
+
+**Searchability and mapping.** Digital tools changed how people interact with witness testimony. Users can filter by [location]({{ 'location/' | relative_url }}), compare counties, download geographic data and visualise reports on maps. These features make the collection resemble a research dataset rather than a stack of stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/news/google_earth.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">Open source on bfro.net.</span></span></span>
+
+**Constant growth.** New reports are added regularly. The archive's ongoing expansion gives the impression that evidence is accumulating in real time rather than remaining fixed in old books and magazines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/GDB/newadd.asp?Show=AB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-title">Sighting Reports Recently Added Reports posted since</span><span class="citation-popover-snippet">Sighting Reports Recently AddedReports posted since May 1, 2026. May 2026; Michigan, Chippewa County (Class B) - RECENT: Two ladies with...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+
+This accumulation has been influential beyond the BFRO website itself. Publicly available reports have been converted into downloadable datasets, mapped by independent enthusiasts and analysed using statistical and geographic tools. In effect, witness testimony became machine-readable data that could be explored in ways impossible before the internet era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/timothyrenner/bfro_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub+2Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">Code for obtaining sightings data from the Bigfoot Field...It has collected data on thousands of sightings throughout North Americ...</span></span></span>
+
+
+<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-2-dark.svg" | relative_url }}" alt="BFRO Reports illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why a large database is not the same as proof
+
+The central limitation is that the archive records claims, not confirmed specimens. A large collection of reports can show that many people believe they saw something unusual, but it cannot by itself establish the existence of an unknown species. This distinction is crucial in both science and cryptozoology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isu.edu/media/libraries/rhi/research-papers/Chibnall_Final_June_9_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isu.edu">[Idaho State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isu.edu</span><span class="citation-popover-title">Idaho State University Research Article PHYSICAL AND SOCIAL ...by JT Chibnall · Cited by 1 — BFRO reports are self-submitted by individua</span><span class="citation-popover-snippet">The ...Read more</span></span></span>
+
+Several issues explain why accumulation alone does not settle the question.
+
+First, eyewitness testimony is vulnerable to error. People can misjudge distance, lighting, size and movement, especially during brief encounters in forests, at night or under stressful conditions. Even sincere witnesses can reach mistaken conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isu.edu/media/libraries/rhi/research-papers/Chibnall_Final_June_9_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isu.edu">[Idaho State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isu.edu</span><span class="citation-popover-title">Idaho State University Research Article PHYSICAL AND SOCIAL ...by JT Chibnall · Cited by 1 — BFRO reports are self-submitted by individua</span><span class="citation-popover-snippet">The ...Read more</span></span></span>
+
+Second, reports are not independent in the same way that physical samples are. A biological specimen can be tested repeatedly by different researchers. A sighting report remains largely dependent on the witness account and the investigator's interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
+
+Third, publication standards are not equivalent to scientific verification. The BFRO presents its review process as a credibility filter, but the organisation itself is part of the Bigfoot research community rather than a conventional scientific institution. Critics therefore question whether credibility assessments can reliably separate unknown-animal encounters from misidentifications and folklore-influenced interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
+
+Finally, large datasets can create an illusion of evidential strength. Hundreds or thousands of entries look impressive, yet if each entry remains uncertain, adding more entries does not necessarily resolve the uncertainty. A thousand unresolved sightings are still sightings rather than physical proof.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kKiddG1QCRk" title="Finding Bigfoot with Redis + RediSearch by Guy Royse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer">Finding Bigfoot with Redis + RediSearch by Guy Royse</a></p><p class="youtube-embed-meta">Channel: Devoxx UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kKiddG1QCRk">Open on YouTube</a></p></div></div></div>
+
+## The database's real significance
+
+The BFRO archive is important even if it does not prove Bigfoot exists. Its significance lies in how it changed the social structure of cryptozoology. Reports that once remained local now circulate nationally. Witnesses can compare experiences, researchers can identify patterns and television programmes can draw on an enormous repository of stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/17499755241264879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Shape of Bigfoot: Transmuting Absences into Credible...Today, the BFRO hosts an accessible (inter)national database inc...</span></span></span>
+
+In the era of television series, online forums and interactive maps, the database helped turn Bigfoot research into a participatory network. It provided a common reference point where enthusiasts could point to thousands of reports and argue that the cumulative record deserves attention. Sceptics, meanwhile, could examine the same archive and conclude that it documents belief and perception rather than an undiscovered primate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/bigfoot/comments/1et2dta/new_to_bigfoot_help_me_out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">New to Bigfoot. Help me out</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 15, 2024</span></span></span>
+
+That tension explains why the BFRO database remains influential. It demonstrates the power of online accumulation: enough reports can make a mystery feel increasingly tangible. Yet the existence of a large archive does not remove the need for the kind of physical evidence that would be required to establish a [new species]({{ 'new-species/' | relative_url }}). The database records a phenomenon of reporting with remarkable detail; whether it records a real creature remains the unresolved question at its centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Geographical Database of Bigfoot Sightings &amp; ReportsThis comprehensive database of credible sightings and related reports is maintai...</span></span></span>
+
+
+<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-3-dark.svg" | relative_url }}" alt="BFRO Reports illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Do Bigfoot Databases Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CsDBqy9oHHkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman</p>
+        
+        <p class="fr-book-desc">Closely tied to the culture of sightings and report collections.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Field Guide to Bigfoot and Other Mystery Primates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dQDhsgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Field Guide to Bigfoot and Other Mystery Primates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Field Guide to Bigfoot and Other Mystery Primates">The Field Guide to Bigfoot and Other Mystery Primates</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe</p>
+        
+        <p class="fr-book-desc">Focuses on reports, distribution claims, and mystery primates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+        
+        <p class="fr-book-desc">Critically evaluates sighting-based evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
+        
+        <p class="fr-book-desc">Useful for understanding why large numbers of reports can seem persuasive.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Field+to+Bigfoot+and+Other+Mystery+Primates+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Field to Bigfoot and Other Mystery Primates books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Patterson &quot;Patty&quot; track footprint cast Wall Hanging"><img src="{{ '/assets/images/marketplace-covers/ff016594e9ab96340492.jpg' | relative_url }}" alt="Listing image for Bigfoot Patterson &quot;Patty&quot; track footprint cast Wall Hanging" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Patterson &quot;Patty&quot; track footprint cast Wall Hanging</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bigfoot footprint cast">Search <span data-ebay-domain-label>eBay.co.uk</span>: bigfoot footprint cast</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Patterson Patty Footprint Cast Display"><img src="{{ '/assets/images/marketplace-covers/ffdf06aa650adbd3578f.jpg' | relative_url }}" alt="Listing image for Bigfoot Patterson Patty Footprint Cast Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Patterson Patty Footprint Cast Display</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bigfoot footprint cast">Search <span data-ebay-domain-label>eBay.co.uk</span>: bigfoot footprint cast</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BIGFOOT FOOTPRINT CAST Vinyl Decal Window Wall Truck Sticker CHOOSE SIZE COLOR"><img src="{{ '/assets/images/marketplace-covers/99084a2df8658f3a0802.jpg' | relative_url }}" alt="Listing image for BIGFOOT FOOTPRINT CAST Vinyl Decal Window Wall Truck Sticker CHOOSE SIZE COLOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer">BIGFOOT FOOTPRINT CAST Vinyl Decal Window Wall Truck Sticker CHOOSE SIZE COLOR</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bigfoot footprint cast">Search <span data-ebay-domain-label>eBay.co.uk</span>: bigfoot footprint cast</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Plaster Cast Large Footprint Patterson site"><img src="{{ '/assets/images/marketplace-covers/70cc6c47285ba7c37178.jpg' | relative_url }}" alt="Listing image for Bigfoot Plaster Cast Large Footprint Patterson site" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Plaster Cast Large Footprint Patterson site</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bigfoot footprint cast">Search <span data-ebay-domain-label>eBay.co.uk</span>: bigfoot footprint cast</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bigfoot+footprint+cast&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bigfoot footprint cast" data-ebay-reference="bfro-reports-do-bigfoot-databases-prove-anything-cryptozoology-bigfoot-footprint-cast" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BFRO Geographical Database of Bigfoot Sightings &amp; ReportsThis comprehensive database of credible sightings and related reports is maintai...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/classify.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot Field Researchers OrganizationThe Comprehensive Sightings Database. Reports added recently. Sightings by region. Pre-Columbian; E...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/test.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/test.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot Field Researchers OrganizationFounded in 1995 - The scientific research organization exploring the bigfoot / sasquatch mystery. T...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: bfro.net  
+   Title: Sighting Reports Recently Added Reports posted since  
+   Link: <a href="https://www.bfro.net/GDB/newadd.asp?Show=AB" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/newadd.asp?Show=AB</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting Reports Recently AddedReports posted since May 1, 2026. May 2026; Michigan, Chippewa County (Class B) - RECENT: Two ladies with...</p></details>
+   Published: May 1, 2026  
+
+6. <a id="endnote-6"></a>
+   Source: medium.com  
+   Link: <a href="https://medium.com/data-science/can-data-science-find-bigfoot-ad0a54de5dda" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/can-data-science-find-bigfoot-ad0a54de5dda</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can data science find Bigfoot? | TDS ArchiveHowever, Class C reports are kept in BFRO archives but are very rarely listed publicly; there...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/gdb/show_FAQ.asp?id=849" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/show_FAQ.asp?id=849</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>termining the whether a report is credible or fabricated.Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/news/google_earth.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/news/google_earth.asp</a>  
+
+9. <a id="endnote-9"></a>
+   Source: merlot.org  
+   Link: <a href="https://www.merlot.org/merlot/viewCompositeReview.htm?id=1383550" target="_blank" rel="noopener noreferrer nofollow">https://www.merlot.org/merlot/viewCompositeReview.htm?id=1383550</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Review of Bigfoot Field Researchers OrganizationMar 11, 2025 — The database of sightings is extensive and has a rating system...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: bigfootforums.com  
+   Title: 114654 trends in bfro witness reports  
+   Link: <a href="https://bigfootforums.com/topic/114654-trends-in-bfro-witness-reports/" target="_blank" rel="noopener noreferrer nofollow">https://bigfootforums.com/topic/114654-trends-in-bfro-witness-reports/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in BFRO witness reports16 May 2025 — Washington has the highest number of reported sightings, with 726 entries, accounting for app...</p></details>
+   Published: May 2025  
+
+11. <a id="endnote-11"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/GDB/state_listing.asp?state=wa" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/state_listing.asp?state=wa</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>YESTERDAY (!!!): Bigfoot knocks (from multiple creatures) near Port...Read more...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/REF/gps_poi.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/REF/gps_poi.asp</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>s in the BFRO&#x27;s database which we cannot share with the public...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/gdb/newadd.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/newadd.asp</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting Reports Recently AddedSighting Reports Recently Added; January 2026; South Carolina, Florence County · - Road crossing sighting...</p></details>
+   Published: January 2026  
+
+14. <a id="endnote-14"></a>
+   Source: github.com  
+   Link: <a href="https://github.com/timothyrenner/bfro_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/bfro_sightings_data</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code for obtaining sightings data from the Bigfoot Field...It has collected data on thousands of sightings throughout North Americ...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: kaggle.com  
+   Link: <a href="https://www.kaggle.com/datasets/mexwell/bigfoot-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/mexwell/bigfoot-sightings</a>  
+
+16. <a id="endnote-16"></a>
+   Source: kaggle.com  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/unlocking-mysteries-of-bigfoot-through-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/unlocking-mysteries-of-bigfoot-through-sightings</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot SightingsThis dataset contains various reports of bigfoot and sasquatch sightings in different parts of the world, providing us a...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: reddit.com  
+   Title: New to Bigfoot. Help me out  
+   Link: <a href="https://www.reddit.com/r/bigfoot/comments/1et2dta/new_to_bigfoot_help_me_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1et2dta/new_to_bigfoot_help_me_out/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New to Bigfoot. Help me out.August 15, 2024 — 1) The Bigfoot Field Researchers Organization (BFRO) [https://bfro.net/](https://bfro.net/) -You&#x27;ll quickl...</p></details>
+   Published: August 15, 2024  
+
+18. <a id="endnote-18"></a>
+   Source: reddit.com  
+   Link: <a href="https://www.reddit.com/r/bigfoot/comments/1cltj6f/reminder_that_the_bfro_has_a_map_feature_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1cltj6f/reminder_that_the_bfro_has_a_map_feature_that/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>igfoot was to watch, they did a terrible job at advertising...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/GDB/upgrade.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/upgrade.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent Bigfoot SightingsOver the past several weeks the BFRO has been receiving an unusually high number of reports. Many of these report...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/GDB/state_listing.asp?state=oh" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/state_listing.asp?state=oh</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports for OhioBigfoot Field Researchers... Note: There are many more Ohio reports known to Ohio BFRO investigators than appear in this...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: bfro.net  
+   Link: <a href="https://www.bfro.net/GDB/state_listing.asp?state=co" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/state_listing.asp?state=co</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports for ColoradoColorado. 131 total listings; State map of individual report locations (requires Adobe SVG Viewer plug-in for your b...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: bfro.net  
+   Link: <a href="https://bfro.net/gdb/newadd.asp?Show=B" target="_blank" rel="noopener noreferrer nofollow">https://bfro.net/gdb/newadd.asp?Show=B</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting Reports Recently AddedSeptember 2024; Arkansas, Union County (Class B) - Nighttime sighting of a possible bigfoot by motorists j...</p></details>
+   Published: September 2024  
+
+23. <a id="endnote-23"></a>
+   Source: bfro.net  
+   Title: show FAQ.asp  
+   Link: <a href="https://www.bfro.net/gdb/show_FAQ.asp?id=415" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/show_FAQ.asp?id=415</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many bigfoots are there?The informed estimates range from roughly 2000 - 6000 individuals for all of North America (which includes al...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: bfro.net  
+   Title: state listing.asp  
+   Link: <a href="https://www.bfro.net/GDB/state_listing.asp?state=mi" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/GDB/state_listing.asp?state=mi</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports for MichiganBigfoot Field Researchers... Report, Last Posted. Alcona, 5, 6-2018, 4-2019. Alger, 2, 6-2007, 12-2015. Allegan, 1...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: reddit.com  
+   Link: <a href="https://www.reddit.com/r/bigfoot/comments/zmlobt/bfro_what_are_your_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/zmlobt/bfro_what_are_your_thoughts/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BFRO? What are your thoughts?: r/bigfootThe BFRO suppresses a LOT of sightings to keep the best locations to “themselves”. I know this d...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: reddit.com  
+   Link: <a href="https://www.reddit.com/r/bigfoot/comments/1dnsvkh/where_to_find_updated_sightings_and_hotspotsbfro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1dnsvkh/where_to_find_updated_sightings_and_hotspotsbfro/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where to find updated sightings and Hotspots?BFRO is...BFRO does the most vetting for Bigfoot reports, so its data is most reliable, and...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: journals.sagepub.com  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17499755241264879" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17499755241264879</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Shape of Bigfoot: Transmuting Absences into Credible...Today, the BFRO hosts an accessible (inter)national database inc...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: cfholbert.com  
+   Title: bigfoot sightings  
+   Link: <a href="https://www.cfholbert.com/blog/bigfoot-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfholbert.com/blog/bigfoot-sightings/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All reports posted into the BFRO&#x27;s online database are...Read more...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: isu.edu  
+   Link: <a href="https://www.isu.edu/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.isu.edu/[media</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+
+### Additional References
+
+30. <a id="endnote-30"></a>
+   Source: facebook.com  
+   Link: <a href="https://www.facebook.com/groups/expeditionbigfoot/posts/9521979747891887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/expeditionbigfoot/posts/9521979747891887/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot Sightings and Credibility of ReportsNone of the modern reports in the BFRO&#x27;s online database are made public without some kind of...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: facebook.com  
+   Title: BFR O (Bigfoot Field Researchers Organization)  
+   Link: <a href="https://www.facebook.com/groups/BFRO.group/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BFRO.group/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1995The BFRO organizes and reports observations and directs expeditions to places where the observations have occured. Through this proce...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: facebook.com  
+   Link: <a href="https://www.facebook.com/groups/BFRO.group/posts/10162106503030169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BFRO.group/posts/10162106503030169/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>I have a friend in Ohio that was...Read more...</p></details>
+
+33. <a id="endnote-33"></a>
+   Source: experience.arcgis.com  
+   Title: Officially Report a Sighting  
+   Link: <a href="https://experience.arcgis.com/experience/fa5eb3123a5c4fe5931b5ec6c1af0726/page/Officially-Report-a-Sighting" target="_blank" rel="noopener noreferrer nofollow">https://experience.arcgis.com/experience/fa5eb3123a5c4fe5931b5ec6c1af0726/page/Officially-Report-a-Sighting</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>They will not be added to the database. What was seen, heard or found? Please tell your whole...Read more...</p></details>
+
+34. <a id="endnote-34"></a>
+   Source: foxtopus.ink  
+   Link: <a href="https://www.foxtopus.ink/blog/bigfoot-sightings-and-seeker-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.foxtopus.ink/blog/bigfoot-sightings-and-seeker-insights</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot Sightings and Seeker InsightsJan 12, 2026 — There have been over 5,600 reported Sasquatch sightings in the USA, in places you mig...</p></details>
+
+35. <a id="endnote-35"></a>
+   Source: youtube.com  
+   Title: Finding Bigfoot with Redis + Redi Search by Guy Royse  
+   Link: <a href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kKiddG1QCRk</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus...</p></details>
+
+36. <a id="endnote-36"></a>
+   Source: apps.apple.com  
+   Link: <a href="https://apps.apple.com/au/app/bfro-official-bigfoot-field-researchers-organization-app/id826168573" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/au/app/bfro-official-bigfoot-field-researchers-organization-app/id826168573</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read and search through thousands of compelling eye-witness accounts and first hand reports that...Read more...</p></details>
+
+37. <a id="endnote-37"></a>
+   Source: apps.apple.com  
+   Link: <a href="https://apps.apple.com/us/app/bfro-official-bigfoot-field-researchers-organization-app/id826168573" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/bfro-official-bigfoot-field-researchers-organization-app/id826168573</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read and search through thousands of compelling eye-witness accounts and first hand reports.Read more...</p></details>
+
+38. <a id="endnote-38"></a>
+   Source: bigfootmap.com  
+   Link: <a href="https://www.bigfootmap.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigfootmap.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search by location, terrain, weather, and season. Includes analysis tools, mission planner...</p></details>
+
+39. <a id="endnote-39"></a>
+   Source: youtube.com  
+   Title: The Legend of Bigfoot  
+   Link: <a href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=--4_28E3vWQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch Attacks Man&#x27;s Campsite | Finding Bigfoot | Animal Planet...</p></details>

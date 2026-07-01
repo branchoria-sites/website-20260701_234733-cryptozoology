@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-01T22:42:23.786031Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1519,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 7.2,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "cryptozoology_99365b",
+        "title": "Cryptids, Evidence, and the Animals We Imagine",
+        "permalink": "/cryptozoology/",
+        "inline_inbound_count": 165
+      },
+      {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81_weather_light_mistak_190150",
+        "title": "Conditions",
+        "permalink": "/conditions/",
+        "inline_inbound_count": 75
+      },
+      {
+        "basename": "cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec",
+        "title": "Specimens",
+        "permalink": "/specimens/",
+        "inline_inbound_count": 75
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "title": "Folklore",
+        "permalink": "/folklore/",
+        "inline_inbound_count": 73
+      },
+      {
+        "basename": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "title": "Proof",
+        "permalink": "/proof/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "title": "Populations",
+        "permalink": "/populations/",
+        "inline_inbound_count": 57
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "title": "Tracks",
+        "permalink": "/tracks/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81_witness_first_accoun_472c3e",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 52
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_samples_280506",
+        "title": "Samples",
+        "permalink": "/samples/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_footprint_ca_1bf447",
+        "title": "Footprints",
+        "permalink": "/footprints/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_media_7385ef",
+        "title": "Media",
+        "permalink": "/media/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "title": "New Species",
+        "permalink": "/new-species/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81_gps_location_checks_07c103",
+        "title": "Location",
+        "permalink": "/location/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_breeding_population_e5ae69",
+        "title": "Missing traces",
+        "permalink": "/missing-traces-2ce98c/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "title": "Misidentification",
+        "permalink": "/misidentification/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "title": "Meaning",
+        "permalink": "/meaning/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "title": "Hoaxes",
+        "permalink": "/hoaxes/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tracks_4e254c_cryptid_track_docume_bb05b0",
+        "title": "Documentation",
+        "permalink": "/documentation/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d",
+        "title": "Nessie",
+        "permalink": "/nessie/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec",
+        "title": "Hidden Animals",
+        "permalink": "/hidden-animals/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328",
+        "title": "Contamination",
+        "permalink": "/contamination/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "title": "Tourism",
+        "permalink": "/tourism/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "title": "Sea Serpents",
+        "permalink": "/sea-serpents/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f",
+        "title": "Collapse",
+        "permalink": "/collapse/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "cryptozoology_99365b_okapi_discovery_990550_local_congo_okapi_kn_7bf6a4",
+        "title": "Local Knowledge",
+        "permalink": "/local-knowledge/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "title": "Heuvelmans",
+        "permalink": "/heuvelmans/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cryptozoology_99365b_okapi_discovery_990550",
+        "title": "Okapi",
+        "permalink": "/okapi/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e",
+        "title": "Silhouettes",
+        "permalink": "/silhouettes/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37",
+        "title": "Mothman",
+        "permalink": "/mothman/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_photos_f13bdf_cryptid_image_proven_787ad1",
+        "title": "Provenance",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103_cryptid_souvenirs_un_4a6b6e",
+        "title": "Souvenirs",
+        "permalink": "/souvenirs/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81",
+        "title": "Field Basics",
+        "permalink": "/field-basics/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8",
+        "title": "DNA Survey",
+        "permalink": "/dna-survey/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59",
+        "title": "Brown bears",
+        "permalink": "/brown-bears/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_loch_ness_wakes_bird_761903",
+        "title": "Wakes",
+        "permalink": "/wakes/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "title": "Bigfoot",
+        "permalink": "/bigfoot/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309",
+        "title": "Sturgeon",
+        "permalink": "/sturgeon/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_patterson_gimlin_deb_dbf361",
+        "title": "Patty Film",
+        "permalink": "/patty-film/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079",
+        "title": "The Society",
+        "permalink": "/the-society/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d",
+        "title": "Latimer s Role",
+        "permalink": "/latimer-s-role/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_hidden_mammals_33084e",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_index",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_isc_professionalisat_d80f14",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_ivan_sanderson_17ff64",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_okapi_discovery_990550",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_pseudoscience_claims_4480da",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b",
+        "to": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b",
+        "type": "parent"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_hidden_mammals_33084e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_isc_professionalisat_d80f14",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_ivan_sanderson_17ff64",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_okapi_discovery_990550",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_pseudoscience_claims_4480da",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_index",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_local_testimony_unkn_011cb7",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_okapi_analogy_limits_f145a7",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_on_track_founding_te_31b061",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca_sanderson_naming_fie_d8d899",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "to": "cryptozoology_99365b",
+        "type": "ancestor"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b",
+        "type": "parent"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_hidden_mammals_33084e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_isc_professionalisat_d80f14",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_ivan_sanderson_17ff64",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_okapi_discovery_990550",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_pseudoscience_claims_4480da",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_cahow_recovery_ce257f",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_coelacanth_myth_fdf452",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_extinction_standards_f1e0a9",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_hidden_refuges_d9aa67",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_index",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_stick_insect_dna_9a7778",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778_takahe_refuge_080f7b",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "to": "cryptozoology_99365b",
+        "type": "ancestor"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b",
+        "type": "parent"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_hidden_mammals_33084e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_isc_professionalisat_d80f14",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_ivan_sanderson_17ff64",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_okapi_discovery_990550",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_pseudoscience_claims_4480da",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_index",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_monsterquest_inconcl_440030",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_paranormal_tv_credib_2233d7",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_cryptid_media_7385ef",
+        "to": "cryptozoology_99365b",
+        "type": "ancestor"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b",
+        "type": "parent"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_hidden_mammals_33084e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_isc_professionalisat_d80f14",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_ivan_sanderson_17ff64",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_lazarus_taxa_e4a778",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_okapi_discovery_990550",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_prehistoric_cryptids_55e4ac",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_pseudoscience_claims_4480da",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_index",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_ecology_li_5e0774",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_eel_statis_12f999",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_nessie_plesiosaur_bi_9488af",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b_loch_ness_dna_39c301_operation_deepscan_s_b3968e",
+        "type": "child"
+      },
+      {
+        "from": "cryptozoology_99365b_loch_ness_dna_39c301",
+        "to": "cryptozoology_99365b",
+        "type": "ancestor"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b",
+        "type": "parent"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_bigfoot_evidence_195744",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_coelacanth_lesson_51d02e",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_media_7385ef",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_museums_71b4f6",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_photos_f13bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_samples_280506",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_deep_sea_unknowns_7769bf",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_edna_lake_monsters_c31a50",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_eyewitness_sightings_76b10a",
+        "type": "sibling"
+      },
+      {
+        "from": "cryptozoology_99365b_yeti_bear_dna_3a5a98",
+        "to": "cryptozoology_99365b_field_investigation_7e6e81",
+        "type": "sibling"
+      }
+    ]
+  }
+}
