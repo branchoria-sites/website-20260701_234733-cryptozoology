@@ -281,7 +281,15 @@ The 1938 coelacanth forced scientists to reconsider what they thought they knew 
 
 After identifying the 1938 fish, South African ichthyologist J. L. B. Smith launched an extensive effort to locate another specimen. Reward notices were distributed across fishing communities in the western Indian Ocean. For years, however, no confirmed second example reached scientific hands. The absence of further evidence did not disprove the first discovery, but it prevented scientists from confidently describing a living population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterSmith began to search for a second specimen but had to wai...</span></span></span>
 
-This period illustrates a recurring problem in cryptozoological investigations. A single body, photograph, trackway or witness report may be intriguing, yet science generally requires independent confirmation before treating a claim as securely established.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJ3yLh_CYg4" title="Animated Life: The Living Fossil Fish | HHMI BioInteractive Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer">Animated Life: The Living Fossil Fish | HHMI BioInteractive Video</a></p><p class="youtube-embed-meta">Channel: biointeractive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJ3yLh_CYg4">Open on YouTube</a></p></div></div></div>
+This period illustrates a recurring problem in cryptozoological investigations. A single body, photograph, trackway or witness report may be intriguing, yet science generally requires independent confirmation before treating a claim as securely established.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJ3yLh_CYg4" title="Animated Life: The Living Fossil Fish | HHMI BioInteractive Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer">Animated Life: The Living Fossil Fish | HHMI BioInteractive Video</a></p><p class="youtube-embed-meta">Channel: biointeractive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJ3yLh_CYg4">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How the Comoros Find Confirmed a Living Population
 
@@ -301,6 +309,12 @@ An interesting complication briefly arose because the specimen appeared damaged 
 ## From Second Fish to Established Population
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J7-E7YAYwUk" title="NOVA: Ancient Creature of the Deep (2003) 🦴🐟 | The Coelacanth Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J7-E7YAYwUk" target="_blank" rel="noopener noreferrer">NOVA: Ancient Creature of the Deep (2003) 🦴🐟 | The Coelacanth Discovery</a></p><p class="youtube-embed-meta">Channel: Digitalized Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J7-E7YAYwUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J7-E7YAYwUk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Repeated Evidence Means for Cryptid Claims
 

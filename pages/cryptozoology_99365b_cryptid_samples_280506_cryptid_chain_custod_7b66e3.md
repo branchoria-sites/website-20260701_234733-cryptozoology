@@ -301,7 +301,15 @@ In forensic practice, every transfer should be documented because unexplained ga
 
 Many alleged cryptid specimens are accompanied by stories rather than documentation. A label such as “found near a remote mountain trail” is far weaker than a record containing exact location data, collection date, environmental conditions and collector identity.
 
-A sample without a precise collection context may still yield a DNA result, but that result cannot be firmly tied to a specific event or encounter. The biological material effectively becomes detached from the claim it is supposed to support.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vimQuaC3RYM" title="🚔 Understanding Chain of Custody in Digital Forensics 🔍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer">🚔 Understanding Chain of Custody in Digital Forensics 🔍</a></p><p class="youtube-embed-meta">Channel: Cybersecurity &amp; AI Insights &middot; Views: 4.8K &middot; Uploaded: February 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vimQuaC3RYM">Open on YouTube</a></p></div></div></div>
+A sample without a precise collection context may still yield a DNA result, but that result cannot be firmly tied to a specific event or encounter. The biological material effectively becomes detached from the claim it is supposed to support.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vimQuaC3RYM" title="🚔 Understanding Chain of Custody in Digital Forensics 🔍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer">🚔 Understanding Chain of Custody in Digital Forensics 🔍</a></p><p class="youtube-embed-meta">Channel: Cybersecurity &amp; AI Insights &middot; Views: 4.8K &middot; Uploaded: February 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vimQuaC3RYM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Mixing Samples from Different Sources
 
@@ -324,7 +332,15 @@ Modern DNA methods are sensitive enough to detect extremely small quantities of 
 
 A common misunderstanding is that advanced DNA testing can compensate for weak provenance. In reality, testing can identify material only after it arrives at the laboratory. It cannot reconstruct an undocumented history.
 
-Suppose a tissue sample submitted as evidence of an unknown primate is identified as bear tissue. The result may be accurate, but without reliable custody records it remains unclear whether the analysed tissue was genuinely connected to the original claim. Conversely, even if a sequence appeared unusual, weak provenance would make alternative explanations—contamination, mislabelling or sample substitution—difficult to rule out.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KfBdcUpL2bA" title="The DNA Results Are Finally In" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KfBdcUpL2bA" target="_blank" rel="noopener noreferrer">The DNA Results Are Finally In</a></p><p class="youtube-embed-meta">Channel: Astrum Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KfBdcUpL2bA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KfBdcUpL2bA">Open on YouTube</a></p></div></div></div>
+Suppose a tissue sample submitted as evidence of an unknown primate is identified as bear tissue. The result may be accurate, but without reliable custody records it remains unclear whether the analysed tissue was genuinely connected to the original claim. Conversely, even if a sequence appeared unusual, weak provenance would make alternative explanations—contamination, mislabelling or sample substitution—difficult to rule out.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KfBdcUpL2bA" title="The DNA Results Are Finally In" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KfBdcUpL2bA" target="_blank" rel="noopener noreferrer">The DNA Results Are Finally In</a></p><p class="youtube-embed-meta">Channel: Astrum Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KfBdcUpL2bA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KfBdcUpL2bA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Lessons from High-Profile Cryptid DNA Studies
 
@@ -332,7 +348,15 @@ Several prominent investigations of alleged yeti and related specimens illustrat
 
 These projects were valuable not because they confirmed cryptids but because they applied documented collection histories, laboratory protocols and genetic methods to available material. Even then, researchers had to address questions about sample origins, preservation and authenticity. Debate surrounding some specimens often focused not only on genetic results but also on how reliably the samples could be connected to their claimed histories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/269695589_Himalayan_%27yeti%27_DNA_Polar_bear_or_DNA_degradation_A_comment_on_%27Genetic_analysis_of_hair_samples_attributed_to_Yeti%27_by_Sykes_et_al_2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Himalayan &#x27;yeti&#x27; DNA: Polar bear or DNA degradation?</span><span class="citation-popover-snippet">7, 2015 — We isolated DNA and assembled a complete mitogenome from a hair sample (collected in Ladakh, India, and named &#x27;YH...</span><span class="citation-popover-meta">Published: February 7, 2015</span></span></span>
 
-The broader lesson is that biological testing works best when provenance is established before analysis begins. A remarkable result attached to a poorly documented specimen remains weak evidence; a mundane result attached to a well-documented specimen is scientifically more informative.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A299AAfUTNI" title="The Lies and the Loot: Exposing the Multi-Million Dollar Bigfoot Hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A299AAfUTNI" target="_blank" rel="noopener noreferrer">The Lies and the Loot: Exposing the Multi-Million Dollar Bigfoot Hoax</a></p><p class="youtube-embed-meta">Channel: J. Horton Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A299AAfUTNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A299AAfUTNI">Open on YouTube</a></p></div></div></div>
+The broader lesson is that biological testing works best when provenance is established before analysis begins. A remarkable result attached to a poorly documented specimen remains weak evidence; a mundane result attached to a well-documented specimen is scientifically more informative.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A299AAfUTNI" title="The Lies and the Loot: Exposing the Multi-Million Dollar Bigfoot Hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A299AAfUTNI" target="_blank" rel="noopener noreferrer">The Lies and the Loot: Exposing the Multi-Million Dollar Bigfoot Hoax</a></p><p class="youtube-embed-meta">Channel: J. Horton Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A299AAfUTNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A299AAfUTNI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What a Credible Transfer Record Includes
 

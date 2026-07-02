@@ -278,13 +278,23 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_mothman_museum_archi_e84f45-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/le6DN5wvWsk" title="Mothman Museum - Point Pleasant West Virginia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=le6DN5wvWsk" target="_blank" rel="noopener noreferrer">Mothman Museum - Point Pleasant West Virginia</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=le6DN5wvWsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=le6DN5wvWsk">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/le6DN5wvWsk" title="Mothman Museum - Point Pleasant West Virginia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=le6DN5wvWsk" target="_blank" rel="noopener noreferrer">Mothman Museum - Point Pleasant West Virginia</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=le6DN5wvWsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=le6DN5wvWsk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Documents and Clippings as Exhibits
 
-The museum's core collection is built around primary-source material. Visitors can view rare historical documents connected to the original 1966–1967 reports, including eyewitness accounts, police records and newspaper coverage from the period when Point Pleasant residents reported encounters with a winged humanoid. The museum specifically highlights original documents produced by [witnesses]({{'witnesses/' | relative_url }}) themselves, allowing tourists to encounter the story through records created at the time rather than through later retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wvtourism.com/company/mothman-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvtourism.com">[Almost Heaven - West Virginia+2Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvtourism.com</span><span class="citation-popover-title">Almost Heaven</span><span class="citation-popover-snippet">West VirginiaMothman Museum in Point Pleasant, WV - Almost HeavenSee the largest collection of props and memorabilia from the movie &quot;The...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XoVIEzrRzq0" title="Exploring The Mothman Museum: A Glimpse into the Paranormal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XoVIEzrRzq0" target="_blank" rel="noopener noreferrer">Exploring The Mothman Museum: A Glimpse into the Paranormal</a></p><p class="youtube-embed-meta">Channel: WV History with Mrs. B.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XoVIEzrRzq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XoVIEzrRzq0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Film Props and Replica Encounters
 
@@ -298,6 +308,12 @@ From a tourism perspective, these replicas are important because they convert an
 ## Local Panic Turned Tourist Memory
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LwZugcEFHD0" title="Inside the Mothman Museum | Point Pleasant, WV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LwZugcEFHD0" target="_blank" rel="noopener noreferrer">Inside the Mothman Museum | Point Pleasant, WV</a></p><p class="youtube-embed-meta">Channel: Travel with Trey</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LwZugcEFHD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LwZugcEFHD0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the Archive Matters More Than the Creature
 

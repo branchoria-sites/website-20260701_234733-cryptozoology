@@ -298,7 +298,15 @@ Cryptid reports often follow this pattern:<div class="content-enhancement conten
 * Multiple explanations remain possible.
 * Discussion continues long after the event itself.</div>
 
-The social benefit is that communities can discuss mystery without demanding consensus. Participation matters more than agreement.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2B83bb7wFdA" title="&quot;International Folkloristics in the Twenty First Century&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2B83bb7wFdA" target="_blank" rel="noopener noreferrer">&quot;International Folkloristics in the Twenty First Century&quot;</a></p><p class="youtube-embed-meta">Channel: American Folklore Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2B83bb7wFdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2B83bb7wFdA">Open on YouTube</a></p></div></div></div>
+The social benefit is that communities can discuss mystery without demanding consensus. Participation matters more than agreement.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2B83bb7wFdA" title="&quot;International Folkloristics in the Twenty First Century&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2B83bb7wFdA" target="_blank" rel="noopener noreferrer">&quot;International Folkloristics in the Twenty First Century&quot;</a></p><p class="youtube-embed-meta">Channel: American Folklore Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2B83bb7wFdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2B83bb7wFdA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Ambiguous Evidence Keeps Stories Alive
 
@@ -327,7 +335,15 @@ This middle ground serves several social purposes.
 
 **It creates shared identity.** Residents of a region can enjoy a cryptid tradition regardless of whether they believe the creature exists.
 
-The result is a social environment where uncertainty becomes productive rather than paralysing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SelRlneqDDs" title="Mysterious Bedtime Stories: The Legends of Cryptids (2-Hour Sleep Story)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SelRlneqDDs" target="_blank" rel="noopener noreferrer">Mysterious Bedtime Stories: The Legends of Cryptids (2-Hour Sleep Story)</a></p><p class="youtube-embed-meta">Channel: Sleep With Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SelRlneqDDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SelRlneqDDs">Open on YouTube</a></p></div></div></div>
+The result is a social environment where uncertainty becomes productive rather than paralysing.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SelRlneqDDs" title="Mysterious Bedtime Stories: The Legends of Cryptids (2-Hour Sleep Story)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SelRlneqDDs" target="_blank" rel="noopener noreferrer">Mysterious Bedtime Stories: The Legends of Cryptids (2-Hour Sleep Story)</a></p><p class="youtube-embed-meta">Channel: Sleep With Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SelRlneqDDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SelRlneqDDs">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Cryptids as Safe Debates About Knowledge
 
@@ -354,7 +370,15 @@ Because the legends are not fully resolved, they support multiple forms of parti
 
 Researchers of folklore frequently emphasise that stories are social practices as much as factual claims. Their importance often lies in what people do with them: telling them, debating them, adapting them and using them to express identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whatisfolklore.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatisfolklore.org">[What is Folklore?+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatisfolklore.org</span><span class="citation-popover-title">What is Folklore?What is Folklore?</span><span class="citation-popover-snippet">A project of the American Folklore SocietyFolklore is our cultural DNA. It includes the art, stories, knowledge, and practices of a peo...</span></span></span>
 
-Cryptid legends demonstrate this principle clearly. The creature may never be found, yet the conversations, traditions and relationships created around the mystery remain real.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C8d3Dw9qAGs" title="10 Bizarre Folklore Creatures That People Swore Were Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C8d3Dw9qAGs" target="_blank" rel="noopener noreferrer">10 Bizarre Folklore Creatures That People Swore Were Real</a></p><p class="youtube-embed-meta">Channel: The Resurrectionists</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C8d3Dw9qAGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C8d3Dw9qAGs">Open on YouTube</a></p></div></div></div>
+Cryptid legends demonstrate this principle clearly. The creature may never be found, yet the conversations, traditions and relationships created around the mystery remain real.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C8d3Dw9qAGs" title="10 Bizarre Folklore Creatures That People Swore Were Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C8d3Dw9qAGs" target="_blank" rel="noopener noreferrer">10 Bizarre Folklore Creatures That People Swore Were Real</a></p><p class="youtube-embed-meta">Channel: The Resurrectionists</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C8d3Dw9qAGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C8d3Dw9qAGs">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Cryptids Live in the Maybe
 

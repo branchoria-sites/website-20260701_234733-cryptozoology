@@ -293,7 +293,15 @@ The results were revealing:<div class="content-enhancement content-enhancement--
 * Based on estimated fish stocks in Loch Ness, an eel of that size could plausibly exist somewhere in the loch.
 * The probability falls dramatically as length increases beyond normal biological limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://xbio.jmir.org/2023/1/e49063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xbio.jmir.org">[JMIRx Bio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xbio.jmir.org</span><span class="citation-popover-snippet">x BioThe Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?by F Foxon · 2023 · Cited by 6 — While the chance of finding a large eel...</span></span></span></div>
 
-This approach transformed the discussion. Instead of debating anecdotes, researchers could compare reported monster sizes with the sizes expected from actual eel [populations]({{'populations/' | relative_url }}).<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+This approach transformed the discussion. Instead of debating anecdotes, researchers could compare reported monster sizes with the sizes expected from actual eel [populations]({{'populations/' | relative_url }}).
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Difference Between Large and Monster-Sized
 
@@ -311,6 +319,12 @@ The distinction is crucial. A one-metre eel and a six-metre eel are not separate
 Before statistical modelling entered the discussion, the giant eel theory often relied on a simple observation: eels are present in Loch Ness, and some animals occasionally grow larger than average. That argument leaves open almost any size.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Eel Theory After the Numbers
 

@@ -272,7 +272,15 @@ header:
 image: /assets/images/cryptozoology_99365b_deep_sea_unknowns_7769bf_ocean_census_unknown_126f33-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/un4Ht3PD334" title="Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer">Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais</a></p><p class="youtube-embed-meta">Channel: Jornalismo TV Cultura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=un4Ht3PD334">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/un4Ht3PD334" title="Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer">Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais</a></p><p class="youtube-embed-meta">Channel: Jornalismo TV Cultura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=un4Ht3PD334">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Recent Surveys Are Finding
 
@@ -282,7 +290,15 @@ The most striking aspect of the dataset is its diversity. New finds include:
 
 * Deep-sea ghost sharks (chimaeras), relatives of sharks and rays that diverged from other cartilaginous fishes hundreds of millions of years ago.
 * Symbiotic worms living inside intricate glass sponge structures.
-* New corals, shrimps, crabs, sea urchins and anemones from remote seafloor habitats.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xww4tmquic0" title="New discoveries: Ocean census project reveals over 800 new species of ocean life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer">New discoveries: Ocean census project reveals over 800 new species of ocean life</a></p><p class="youtube-embed-meta">Channel: africanews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xww4tmquic0">Open on YouTube</a></p></div></div></div>
+* New corals, shrimps, crabs, sea urchins and anemones from remote seafloor habitats.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xww4tmquic0" title="New discoveries: Ocean census project reveals over 800 new species of ocean life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer">New discoveries: Ocean census project reveals over 800 new species of ocean life</a></p><p class="youtube-embed-meta">Channel: africanews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xww4tmquic0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### The Ghost Shark Example
 
@@ -295,7 +311,15 @@ The lesson is important: even an animal as unusual as a ghost shark becomes acce
 
 Another Ocean Census highlight involved a tiny symbiotic bristle worm living within the complex skeleton of a deep-sea glass sponge. Researchers nicknamed the habitat a “glass castle” because of its elaborate silica architecture. The discovery illustrates how entire ecosystems can remain hidden within specialised structures on the deep seafloor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2026-05-20/ocean-census-marine-scientists-discover-thousands-of-new-species/106700356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ocean census marine scientists discover thousands of new species</span><span class="citation-popover-snippet">ABC NewsOcean Census project discovers 1121 new species of...20 May 2026 — 2025 to 2026 was a bumper year for the organisation, which la...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-This type of finding is easy to overlook compared with dramatic monster stories, yet it reveals a richer scientific reality: unknown species often depend on equally obscure habitats. Scientists may need to discover the habitat before they can even recognise the organism living inside it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PK7JhVoA2Sk" title="Ocean Census aims to discover 100,000 new marine species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PK7JhVoA2Sk" target="_blank" rel="noopener noreferrer">Ocean Census aims to discover 100,000 new marine species</a></p><p class="youtube-embed-meta">Channel: Star City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PK7JhVoA2Sk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PK7JhVoA2Sk">Open on YouTube</a></p></div></div></div>
+This type of finding is easy to overlook compared with dramatic monster stories, yet it reveals a richer scientific reality: unknown species often depend on equally obscure habitats. Scientists may need to discover the habitat before they can even recognise the organism living inside it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PK7JhVoA2Sk" title="Ocean Census aims to discover 100,000 new marine species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PK7JhVoA2Sk" target="_blank" rel="noopener noreferrer">Ocean Census aims to discover 100,000 new marine species</a></p><p class="youtube-embed-meta">Channel: Star City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PK7JhVoA2Sk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PK7JhVoA2Sk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Discovery Is Often Slow Taxonomy
 

@@ -283,7 +283,15 @@ What made the case unusual was not merely the description but the existence of p
 
 The specimen was preserved briefly and transported for examination. According to contemporary accounts, museum director Francis Kermode tentatively regarded the remains as those of a fetal baleen whale. After that assessment, the material appears to have been discarded or otherwise lost. The photographs survived; the specimen did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cadborosaurus.ca/Naden_Harbour_Carcass.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadborosaurus.ca">[Cadborosaurus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadborosaurus.ca</span><span class="citation-popover-title">Naden Harbour Carcass</span><span class="citation-popover-snippet">Naden Harbour Carcass - CadborosaurusThe discovery and journey of the Naden Harbor carcass in 1937. The 10 foot creature fou...</span></span></span>
 
-This distinction is crucial. A photograph can suggest possibilities, but a biological specimen can be measured, dissected and genetically tested. The Naden Harbour carcass crossed the threshold from sighting to physical evidence, then immediately fell back below it when the body disappeared.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v7l0rLkX6m0" title="Cadborosaurus: The Pacific&#x27;s Most Elusive Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v7l0rLkX6m0" target="_blank" rel="noopener noreferrer">Cadborosaurus: The Pacific&#x27;s Most Elusive Sea Serpent</a></p><p class="youtube-embed-meta">Channel: The Curious Emporium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v7l0rLkX6m0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v7l0rLkX6m0">Open on YouTube</a></p></div></div></div>
+This distinction is crucial. A photograph can suggest possibilities, but a biological specimen can be measured, dissected and genetically tested. The Naden Harbour carcass crossed the threshold from sighting to physical evidence, then immediately fell back below it when the body disappeared.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v7l0rLkX6m0" title="Cadborosaurus: The Pacific&#x27;s Most Elusive Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v7l0rLkX6m0" target="_blank" rel="noopener noreferrer">Cadborosaurus: The Pacific&#x27;s Most Elusive Sea Serpent</a></p><p class="youtube-embed-meta">Channel: The Curious Emporium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v7l0rLkX6m0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v7l0rLkX6m0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How basking shark decay complicates the photos
 
@@ -311,7 +319,15 @@ This creates a classic evidential asymmetry:<div class="content-enhancement cont
 
 * Supporters can argue that the photographs depict something unusual.
 * Critics can propose known-animal explanations.
-* Neither side can test its position against the original biological evidence.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FZG4FJi8mRI" title="Is This North American Sea Serpent Real or a Hoax? | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer">Is This North American Sea Serpent Real or a Hoax? | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FZG4FJi8mRI">Open on YouTube</a></p></div></div></div>
+* Neither side can test its position against the original biological evidence.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FZG4FJi8mRI" title="Is This North American Sea Serpent Real or a Hoax? | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer">Is This North American Sea Serpent Real or a Hoax? | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FZG4FJi8mRI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the case still matters in cryptozoology
 

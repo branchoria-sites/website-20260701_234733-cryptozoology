@@ -285,6 +285,12 @@ Attenborough’s long-beaked echidna is one of the clearest modern examples of h
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GE8mkdJaxQs" title="#TheMoment a rare egg-laying mammal was rediscovered in Indonesia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GE8mkdJaxQs" target="_blank" rel="noopener noreferrer">#TheMoment a rare egg-laying mammal was rediscovered in Indonesia</a></p><p class="youtube-embed-meta">Channel: CBC News: The National</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GE8mkdJaxQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GE8mkdJaxQs">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## How local surveys shaped the search
 
 The eventual rediscovery was not the result of researchers randomly placing cameras across the mountains. Before large-scale camera-trapping began, scientists and local partners conducted participatory mapping exercises and Indigenous and local knowledge surveys in 2017 and 2018. These efforts sought to identify where people believed echidnas still occurred, what habitats they preferred and what signs they left behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44185-025-00086-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Attenborough&#x27;s echidna rediscovered by combining...by G Morib · 2025 · Cited by 3 — In 2022 and 2023, we deployed camera-traps in...</span></span></span>
@@ -309,7 +315,15 @@ The recordings changed several things at once:<div class="content-enhancement co
 
 * They confirmed that the species had survived more than six decades without scientific documentation.
 * They transformed local reports from plausible but unverified claims into evidence-supported observations.
-* They demonstrated that targeted camera-trapping informed by local expertise could succeed where broader surveys had failed.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUZiGFncA8I" title="Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer">Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea</a></p><p class="youtube-embed-meta">Channel: Royal Geographical Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUZiGFncA8I">Open on YouTube</a></p></div></div></div>
+* They demonstrated that targeted camera-trapping informed by local expertise could succeed where broader surveys had failed.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUZiGFncA8I" title="Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer">Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea</a></p><p class="youtube-embed-meta">Channel: Royal Geographical Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUZiGFncA8I">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the echidna case means for cryptozoology
 

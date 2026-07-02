@@ -281,13 +281,23 @@ image: /assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_isc_finan
 ## Introduction
 
 The collapse of the International Society of [Cryptozoology]({{'cryptozoology/' | relative_url }}) (ISC) was not simply the result of scepticism from mainstream science. It was also an organisational failure. [The society]({{'the-society/' | relative_url }}) had been created in 1982 to provide cryptozoology with the institutions associated with a professional field: a membership body, a governing structure, a newsletter, a peer-reviewed journal, and recognised researchers. Yet by the late 1990s the organisation had ceased operations, with contemporary accounts and later histories consistently pointing to financial difficulties, declining organisational capacity, and internal tensions as major causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">International Society of Cryptozoology</span><span class="citation-popover-snippet">International Society of Cryptozoology</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f-Illustration-1-dark.svg" | relative_url }}" alt="Collapse illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For a movement that sought scientific legitimacy, the ISC's fate revealed a practical reality. Credibility depended not only on publishing journals and recruiting respected academics. It also required stable funding, administrative continuity, leadership succession, and enough internal trust to keep the organisation functioning over time. Those foundations proved difficult to maintain.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+For a movement that sought scientific legitimacy, the ISC's fate revealed a practical reality. Credibility depended not only on publishing journals and recruiting respected academics. It also required stable funding, administrative continuity, leadership succession, and enough internal trust to keep the organisation functioning over time. Those foundations proved difficult to maintain.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Financial Strain Revealed
 
-From its beginning, the ISC operated in a narrow financial niche. Unlike established scientific societies, it had no university department, government agency, major foundation, or professional discipline providing long-term institutional support. Its activities depended heavily on membership fees, subscriptions, volunteer labour, and the personal commitment of a small number of organisers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">International Society of Cryptozoology</span><span class="citation-popover-snippet">International Society of Cryptozoology</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qv2BmglYUlg" title="What If Cryptids Were Realistic Animals?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qv2BmglYUlg" target="_blank" rel="noopener noreferrer">What If Cryptids Were Realistic Animals?</a></p><p class="youtube-embed-meta">Channel: Curious Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qv2BmglYUlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qv2BmglYUlg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Internal Dispute Weakened the Society
 
@@ -305,6 +315,12 @@ The end of the journal illustrates this process. A scholarly publication is ofte
 The ISC's collapse had consequences beyond the organisation itself. It removed the most visible attempt to establish standards and gatekeeping within cryptozoology.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R06S0fnOEd0" title="The ENTIRE Cryptid Timeline EXPLAINED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R06S0fnOEd0" target="_blank" rel="noopener noreferrer">The ENTIRE Cryptid Timeline EXPLAINED</a></p><p class="youtube-embed-meta">Channel: CreepyDemon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R06S0fnOEd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R06S0fnOEd0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the ISC Could Not Last
 

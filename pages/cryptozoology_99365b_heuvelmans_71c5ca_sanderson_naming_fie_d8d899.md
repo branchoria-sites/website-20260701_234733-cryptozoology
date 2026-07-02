@@ -287,6 +287,12 @@ Understanding Sanderson's contribution matters because names shape disciplines. 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b1dF91A_GDw" title="Animal Planet - Lost Monster Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b1dF91A_GDw" target="_blank" rel="noopener noreferrer">Animal Planet - Lost Monster Files</a></p><p class="youtube-embed-meta">Channel: First Media World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b1dF91A_GDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b1dF91A_GDw">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## The Tangled Origin of the Word Cryptozoology
 
 For decades, many accounts stated that Heuvelmans coined “cryptozoology” while developing his theory of [hidden animals]({{'hidden-animals/' | relative_url }}). He certainly popularised the term and was largely responsible for giving it international visibility. Some of his own writings describe the moment when he felt a new branch of zoology required a distinctive name and therefore adopted “cryptozoology,” [meaning]({{'meaning/' | relative_url }}) the study of hidden animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bernard_Heuvelmans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bernard Heuvelmans</span><span class="citation-popover-snippet">Bernard Heuvelmans</span></span></span>
@@ -299,6 +305,12 @@ A further complication is the distinction between inventing a word and popularis
 ## How the Later Term Cryptid Changed Public Language
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HSsIpDQ2Lbk" title="Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer">Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HSsIpDQ2Lbk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Sanderson's Role Still Matters
 

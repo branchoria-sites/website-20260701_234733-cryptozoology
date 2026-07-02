@@ -298,7 +298,15 @@ Instead of asking, “Did someone see a monster?”, investigators increasingly 
 
 This shift moves eyewitness evidence from the centre of the argument to part of a larger evidential framework. A dramatic report can still inspire investigation, but it no longer stands alone against biological surveys.
 
-The distinction is important because many classic lake-monster reports describe shapes, movements and impressions rather than clear anatomical details. eDNA encourages researchers to interpret those descriptions alongside ecological evidence rather than treating them as direct zoological observations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+The distinction is important because many classic lake-monster reports describe shapes, movements and impressions rather than clear anatomical details. eDNA encourages researchers to interpret those descriptions alongside ecological evidence rather than treating them as direct zoological observations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Which Explanations Survive Biological Testing?
 
@@ -327,7 +335,15 @@ eDNA alters that balance. Once a survey provides a reasonably detailed inventory
 
 This does not mean witnesses are dismissed. Instead, their observations are reclassified. A report may be treated as evidence that something unusual was seen, while the biological explanation is sought among organisms already known to inhabit the environment.
 
-The debate therefore shifts from “monster versus no monster” to “which known phenomenon best fits the observation?”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rpupi80OsNQ" title="Using DNA to track down the Loch Ness monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rpupi80OsNQ" target="_blank" rel="noopener noreferrer">Using DNA to track down the Loch Ness monster</a></p><p class="youtube-embed-meta">Channel: CBS Mornings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rpupi80OsNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rpupi80OsNQ">Open on YouTube</a></p></div></div></div>
+The debate therefore shifts from “monster versus no monster” to “which known phenomenon best fits the observation?”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rpupi80OsNQ" title="Using DNA to track down the Loch Ness monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rpupi80OsNQ" target="_blank" rel="noopener noreferrer">Using DNA to track down the Loch Ness monster</a></p><p class="youtube-embed-meta">Channel: CBS Mornings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rpupi80OsNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rpupi80OsNQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Folklore Adapts to Scientific Limits
 
@@ -335,7 +351,15 @@ Lake-monster traditions have proved remarkably resilient. eDNA has changed scien
 
 Legends are not maintained solely by zoological claims. They are also sustained by local identity, tourism, storytelling and the human attraction to mystery. Even after the Loch Ness survey reduced support for several biological theories, public interest in Nessie remained strong and new sightings continued to be reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The “monster-factor” has provided Professor Gemme...</span></span></span>
 
-What tends to change is the content of the legend. Older versions often imagined a prehistoric survivor hidden in deep water. More recent discussions increasingly incorporate eels, unusual fish, optical illusions and environmental conditions alongside traditional monster imagery. The folklore adapts rather than disappears.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
+What tends to change is the content of the legend. Older versions often imagined a prehistoric survivor hidden in deep water. More recent discussions increasingly incorporate eels, unusual fish, optical illusions and environmental conditions alongside traditional monster imagery. The folklore adapts rather than disappears.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A New Relationship Between Sightings and Science
 

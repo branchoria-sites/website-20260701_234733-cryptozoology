@@ -473,6 +473,12 @@ Several patterns appear again and again:<div class="content-enhancement content-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Why “unknown animals exist” is not enough
 
 Cryptozoology gains much of its rhetorical power from real zoological discovery. The argument is simple: scientists are still finding new animals; therefore scientists should not dismiss cryptids. The first sentence is true. The conclusion does not automatically follow.
@@ -500,7 +506,15 @@ One reason cryptozoology persists is that cryptids do cultural work even when th
 
 This cultural role does not make cryptids “fake” in the trivial sense. Folklore can be meaningful without being zoologically literal. A story can preserve local identity, encode encounters with real animals, dramatise danger, attract tourists, entertain children, create art and give communities a shared mystery. That is why folklorists and cultural historians may study cryptids seriously while biologists reject the animal claim.
 
-The risk comes when cultural seriousness is mistaken for biological evidence. A creature can be important to a community and still not exist as a species. A sighting tradition can be old and still include misidentifications, embellishments and changing imagery. A museum display can preserve fascinating material culture without proving the animal at the centre of the display. Cryptozoology often blurs those categories, which is another reason it sits uneasily between folklore, entertainment and science.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nscc9AG_RQg" title="Loch Ness Outdone: Rediscovery of the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nscc9AG_RQg" target="_blank" rel="noopener noreferrer">Loch Ness Outdone: Rediscovery of the Coelacanth</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nscc9AG_RQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nscc9AG_RQg">Open on YouTube</a></p></div></div></div>
+The risk comes when cultural seriousness is mistaken for biological evidence. A creature can be important to a community and still not exist as a species. A sighting tradition can be old and still include misidentifications, embellishments and changing imagery. A museum display can preserve fascinating material culture without proving the animal at the centre of the display. Cryptozoology often blurs those categories, which is another reason it sits uneasily between folklore, entertainment and science.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nscc9AG_RQg" title="Loch Ness Outdone: Rediscovery of the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nscc9AG_RQg" target="_blank" rel="noopener noreferrer">Loch Ness Outdone: Rediscovery of the Coelacanth</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nscc9AG_RQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nscc9AG_RQg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why belief survives failed tests
 
@@ -510,7 +524,15 @@ This is visible in DNA cases. When alleged Yeti or Bigfoot hairs test as bear, d
 
 Loch Ness shows a softer form of survival. The eDNA results made a prehistoric reptile explanation highly implausible on the available data, yet they left enough room for a more ordinary possibility: unusually large eels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span> That shift allows the legend to adapt. The monster need not remain a plesiosaur; it can become a large eel, a misidentified bird, a wave pattern, a seal, a fish, a log, a hoax or a mystery that science has not fully closed. Cryptozoological belief often survives by becoming less specific.
 
-There is also a psychological asymmetry. A believer may treat one unexplained case as more important than a hundred explained ones, while a sceptic sees the explained cases as evidence of a general pattern. Both sides may accuse the other of cherry-picking. The scientific question is not whether every report has been individually explained, but whether the evidence as a whole justifies the proposed animal. For famous cryptids, mainstream science generally says it does not.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oE8ki5q6O20" title="Cryptozoology: The Science of Unknown Creatures | SLICE SCIENCE | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oE8ki5q6O20" target="_blank" rel="noopener noreferrer">Cryptozoology: The Science of Unknown Creatures | SLICE SCIENCE | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oE8ki5q6O20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oE8ki5q6O20">Open on YouTube</a></p></div></div></div>
+There is also a psychological asymmetry. A believer may treat one unexplained case as more important than a hundred explained ones, while a sceptic sees the explained cases as evidence of a general pattern. Both sides may accuse the other of cherry-picking. The scientific question is not whether every report has been individually explained, but whether the evidence as a whole justifies the proposed animal. For famous cryptids, mainstream science generally says it does not.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oE8ki5q6O20" title="Cryptozoology: The Science of Unknown Creatures | SLICE SCIENCE | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oE8ki5q6O20" target="_blank" rel="noopener noreferrer">Cryptozoology: The Science of Unknown Creatures | SLICE SCIENCE | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oE8ki5q6O20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oE8ki5q6O20">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## When cryptozoology can still be useful
 

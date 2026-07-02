@@ -304,7 +304,15 @@ The result is not fabrication. It is a predictable consequence of how attention 
 
 Another consequence of fear is that the brain tends to favour quick interpretation over careful analysis.
 
-From a survival perspective, assuming that an ambiguous shape might be dangerous is often safer than ignoring a genuine threat. Psychologists sometimes describe this as a bias toward threat detection under uncertainty. In practical terms, a witness who sees an unclear moving figure may rapidly classify it as a large unknown creature before gathering enough information for a more accurate identification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fERbGDuPvWo" title="How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer">How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories</a></p><p class="youtube-embed-meta">Channel: UCI CNLM &middot; Views: 52.8K &middot; Uploaded: February 2017 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fERbGDuPvWo">Open on YouTube</a></p></div></div></div>
+From a survival perspective, assuming that an ambiguous shape might be dangerous is often safer than ignoring a genuine threat. Psychologists sometimes describe this as a bias toward threat detection under uncertainty. In practical terms, a witness who sees an unclear moving figure may rapidly classify it as a large unknown creature before gathering enough information for a more accurate identification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fERbGDuPvWo" title="How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer">How Reliable Is Your Memory? Dr. Elizabeth (Beth) Loftus - TED Talk on False Memories</a></p><p class="youtube-embed-meta">Channel: UCI CNLM &middot; Views: 52.8K &middot; Uploaded: February 2017 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fERbGDuPvWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fERbGDuPvWo">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Eyewitness Research Says About Stress
 
@@ -348,7 +356,15 @@ In cryptid cases, this can occur in several ways.
 
 A witness may initially report only a large dark shape. Later conversations introduce questions about height, posture or unusual features. News stories, books, documentaries or online discussions provide imagery that helps the witness make sense of the event. Over time, the memory can become more detailed and coherent than it was immediately after the sighting.
 
-This process does not require dishonesty. It emerges from normal memory mechanisms.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
+This process does not require dishonesty. It emerges from normal memory mechanisms.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Estimating Size and Distance Under Fear
 
@@ -356,7 +372,15 @@ One recurring pattern in unusual-animal reports is uncertainty about scale.
 
 Fear can distort judgments of size, speed and distance because these judgments depend heavily on context. When visibility is poor and emotional arousal is high, observers often have limited reference points. A figure briefly seen at night may appear much larger than it actually was. An animal crossing a road may seem closer, faster or more imposing than later measurements would suggest.
 
-Because many cryptid descriptions depend on extraordinary size, these distortions are especially important. An ordinary animal that is overestimated in height or bulk can begin to resemble something unknown.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PFamAXEFpdw" title="To Remember or Not to Remember | Brain Games" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PFamAXEFpdw" target="_blank" rel="noopener noreferrer">To Remember or Not to Remember | Brain Games</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PFamAXEFpdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PFamAXEFpdw">Open on YouTube</a></p></div></div></div>
+Because many cryptid descriptions depend on extraordinary size, these distortions are especially important. An ordinary animal that is overestimated in height or bulk can begin to resemble something unknown.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PFamAXEFpdw" title="To Remember or Not to Remember | Brain Games" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PFamAXEFpdw" target="_blank" rel="noopener noreferrer">To Remember or Not to Remember | Brain Games</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PFamAXEFpdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PFamAXEFpdw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### The Story Becomes Cleaner Than the Experience
 

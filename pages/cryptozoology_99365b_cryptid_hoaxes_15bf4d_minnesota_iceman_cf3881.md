@@ -278,13 +278,23 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_minnesota_iceman_cf3881-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bwJTjprghR8" title="A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer">A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2</a></p><p class="youtube-embed-meta">Channel: Ben G Thomas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bwJTjprghR8">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bwJTjprghR8" title="A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer">A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2</a></p><p class="youtube-embed-meta">Channel: Ben G Thomas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bwJTjprghR8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Frank Hansen's Travelling Ice Exhibit
 
-The Minnesota Iceman emerged on the North American fair and exhibition circuit in the late 1960s. Hansen displayed a roughly six-foot-tall hairy figure encased in ice and promoted it as something extraordinary—sometimes a prehistoric survivor, sometimes a “missing link”, and sometimes simply a mysterious creature of unknown origin. The exhibit appeared in shopping malls, livestock expositions, fairs and carnival settings where visitors paid to view it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Minnesota_Iceman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Minnesota Iceman</span><span class="citation-popover-snippet">Minnesota Iceman</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U5vWYxVNaME" title="The Minnesota Iceman, PROOF of the Terrifying ‘Rock Ape’ | In Search of Monsters | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U5vWYxVNaME" target="_blank" rel="noopener noreferrer">The Minnesota Iceman, PROOF of the Terrifying ‘Rock Ape’ | In Search of Monsters | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U5vWYxVNaME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U5vWYxVNaME">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Changing Origins and Scientific Doubts
 
@@ -306,9 +316,11 @@ The block of ice served several functions at once:<div class="content-enhancemen
 * It made the figure appear preserved and corpse-like.
 * It obscured fine details that might reveal artificial construction.
 * It limited physical examination.
-* It provided a ready explanation whenever observers could not see something clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/blog/tetrapod-zoology/the-strange-case-of-the-minnesota-iceman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the strange case of the minnesota iceman</span><span class="citation-popover-snippet">Both became...Read more...</span></span></span></div>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iGDDgTymXh8" title="A Strange Prehistoric Creature Found Frozen In Ice? | The Minnesota Iceman Story Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iGDDgTymXh8" target="_blank" rel="noopener noreferrer">A Strange Prehistoric Creature Found Frozen In Ice? | The Minnesota Iceman Story Part 1</a></p><p class="youtube-embed-meta">Channel: Ben G Thomas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iGDDgTymXh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iGDDgTymXh8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the Case Endures
 

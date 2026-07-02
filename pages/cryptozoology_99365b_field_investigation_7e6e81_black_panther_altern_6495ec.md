@@ -293,7 +293,15 @@ Several features are more informative than a witness simply reporting “a large
 * **Shoulder movement:** Cats often display a rolling shoulder motion when walking. Dogs generally appear more rigid through the back.
 * **Head position:** Felines tend to move with the head lower than many dogs.
 * **Gait pattern:** Cats usually place their hind feet close to where the front feet landed, creating a smooth, deliberate stride.
-* **Behaviour:** A cat crossing a field purposefully differs from a dog stopping frequently to investigate scents.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sg__hwo947o" title="British Big Cats: Fact or Fiction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer">British Big Cats: Fact or Fiction?</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sg__hwo947o">Open on YouTube</a></p></div></div></div>
+* **Behaviour:** A cat crossing a field purposefully differs from a dog stopping frequently to investigate scents.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sg__hwo947o" title="British Big Cats: Fact or Fiction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer">British Big Cats: Fact or Fiction?</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sg__hwo947o">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why dogs are the most common alternative
 
@@ -308,7 +316,15 @@ Several factors contribute to confusion:<div class="content-enhancement content-
 
 At dusk, a Labrador, lurcher or other medium-to-large dog moving across uneven terrain may appear lower to the ground than it really is. Once the observer interprets the animal as a cat, memory can reinforce that interpretation afterwards.
 
-When photographs exist, investigators compare leg length, shoulder height, tail carriage and ear shape. Many supposed panther images lose much of their mystery when these features are examined carefully.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MIvU0BZwwE0" title="The Mystery Behind North America&#x27;s Black Panther" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MIvU0BZwwE0" target="_blank" rel="noopener noreferrer">The Mystery Behind North America&#x27;s Black Panther</a></p><p class="youtube-embed-meta">Channel: mintz</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MIvU0BZwwE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MIvU0BZwwE0">Open on YouTube</a></p></div></div></div>
+When photographs exist, investigators compare leg length, shoulder height, tail carriage and ear shape. Many supposed panther images lose much of their mystery when these features are examined carefully.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MIvU0BZwwE0" title="The Mystery Behind North America&#x27;s Black Panther" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MIvU0BZwwE0" target="_blank" rel="noopener noreferrer">The Mystery Behind North America&#x27;s Black Panther</a></p><p class="youtube-embed-meta">Channel: mintz</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MIvU0BZwwE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MIvU0BZwwE0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Deer, livestock and unexpected silhouettes
 
@@ -350,7 +366,15 @@ When evaluating a report, investigators examine:<div class="content-enhancement 
 
 Recent investigations into alleged panther sightings have sometimes focused on escaped servals, Savannah cats or other exotic pets rather than unknown wildlife. Authorities frequently consider these possibilities before invoking more extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/39553252/big-cat-roams-uk-rspca-probe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">The animal, captured on camera by 27-year-old Tom Baker while walking his dog, is suspected by wildlife experts to be either a serval or...</span></span></span>
 
-The distinction matters. An escaped exotic animal is unusual, but it is still a known-animal explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ww4iiewXmU4" title="Big Cats on Dartmoor? - The Dartmoor Podcast Episode Twenty Six" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ww4iiewXmU4" target="_blank" rel="noopener noreferrer">Big Cats on Dartmoor? - The Dartmoor Podcast Episode Twenty Six</a></p><p class="youtube-embed-meta">Channel: The Dartmoor Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ww4iiewXmU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ww4iiewXmU4">Open on YouTube</a></p></div></div></div>
+The distinction matters. An escaped exotic animal is unusual, but it is still a known-animal explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ww4iiewXmU4" title="Big Cats on Dartmoor? - The Dartmoor Podcast Episode Twenty Six" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ww4iiewXmU4" target="_blank" rel="noopener noreferrer">Big Cats on Dartmoor? - The Dartmoor Podcast Episode Twenty Six</a></p><p class="youtube-embed-meta">Channel: The Dartmoor Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ww4iiewXmU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ww4iiewXmU4">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## When the evidence deserves escalation
 

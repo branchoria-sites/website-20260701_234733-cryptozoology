@@ -279,6 +279,12 @@ The setting of the [Mothman]({{'mothman/' | relative_url }}) story was not an un
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SspRarjqLkY" title="Mothman: the Legend, the Museum, the TNT Area" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer">Mothman: the Legend, the Museum, the TNT Area</a></p><p class="youtube-embed-meta">Channel: Slone&#x27;s Wilderness Expeditions &middot; Views: 2.0K &middot; Uploaded: April 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SspRarjqLkY">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Industrial Ruins as Modern Wilderness
 
 The TNT area demonstrates that cryptid legends do not require pristine wilderness. What matters is uncertainty.
@@ -300,6 +306,12 @@ The first widely reported Mothman encounter occurred on 15 November 1966 when tw
 The environment helped define the creature in several ways.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/loa2gff48GE" title="Exploring the TNT Area Where The Mothman Was First Seen in 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=loa2gff48GE" target="_blank" rel="noopener noreferrer">Exploring the TNT Area Where The Mothman Was First Seen in 1966</a></p><p class="youtube-embed-meta">Channel: 3W Outdoors &middot; Views: 109 &middot; Uploaded: February 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=loa2gff48GE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=loa2gff48GE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A Landscape of Distrust and Unfinished History
 

@@ -468,6 +468,12 @@ Footprints are among the most powerful cryptid props because they look like trac
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ### Photographs Compress the Whole Story into One Image
 
 Photographs are especially durable because they can be detached from their original context. A cropped image can hide scale, distance, exposure, the photographer’s motive, and alternative frames. In cryptid history, a picture can become the public’s memory of a monster long after the case file around it has collapsed.
@@ -504,7 +510,15 @@ Several features make cryptid hoaxes particularly contagious:<span class="citati
 * **Ambiguity:** Poor images and partial evidence leave room for interpretation. A clear fake may die quickly; a blurred shape can be argued over for years.
 * **Authority laundering:** A doctor, “expedition”, museum, newspaper, local expert or scientific-sounding label can make weak evidence feel stronger than it is.
 * **Community identity:** Believer groups may treat a famous case as part of shared culture. Debunking can then feel less like a correction and more like an attack on the community’s judgement.
-* **Tourism and entertainment value:** Even sceptical attention can keep a monster profitable. A debunked image may still sell tickets, documentaries, merchandise and local legend.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g4kP6pa25ag" title="The Proof Is Out There: Exposing 4 Famous Bigfoot Hoaxes | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g4kP6pa25ag" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Exposing 4 Famous Bigfoot Hoaxes | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g4kP6pa25ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g4kP6pa25ag">Open on YouTube</a></p></div></div></div>
+* **Tourism and entertainment value:** Even sceptical attention can keep a monster profitable. A debunked image may still sell tickets, documentaries, merchandise and local legend.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g4kP6pa25ag" title="The Proof Is Out There: Exposing 4 Famous Bigfoot Hoaxes | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g4kP6pa25ag" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Exposing 4 Famous Bigfoot Hoaxes | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g4kP6pa25ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g4kP6pa25ag">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Debunking Changes the Story
 
@@ -525,7 +539,15 @@ A useful first question is provenance: who found the evidence, who handled it, w
 
 The second question is proportionality. Extraordinary claims need evidence that scales with them. A single footprint may justify local investigation, but not the conclusion that a large breeding population exists. A photograph may show an anomaly, but not necessarily a [new species]({{'new-species/' | relative_url }}). A carcass or tissue sample would matter far more, but only if it had a transparent chain of custody and could be tested independently.
 
-The third question is whether the claim improves under scrutiny. Good evidence becomes clearer as more data is gathered. Hoax-prone evidence often becomes more complicated: missing originals, changing stories, unavailable witnesses, restricted access, cropped images, vague locations, or explanations that depend on conspiracy rather than biology.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NO8TSYfLr_A" title="Wildlife Expert Investigates 5 Infamous Cryptid Animals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NO8TSYfLr_A" target="_blank" rel="noopener noreferrer">Wildlife Expert Investigates 5 Infamous Cryptid Animals</a></p><p class="youtube-embed-meta">Channel: Forrest Galante</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NO8TSYfLr_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NO8TSYfLr_A">Open on YouTube</a></p></div></div></div>
+The third question is whether the claim improves under scrutiny. Good evidence becomes clearer as more data is gathered. Hoax-prone evidence often becomes more complicated: missing originals, changing stories, unavailable witnesses, restricted access, cropped images, vague locations, or explanations that depend on conspiracy rather than biology.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NO8TSYfLr_A" title="Wildlife Expert Investigates 5 Infamous Cryptid Animals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NO8TSYfLr_A" target="_blank" rel="noopener noreferrer">Wildlife Expert Investigates 5 Infamous Cryptid Animals</a></p><p class="youtube-embed-meta">Channel: Forrest Galante</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NO8TSYfLr_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NO8TSYfLr_A">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the Hoaxes Still Matter
 

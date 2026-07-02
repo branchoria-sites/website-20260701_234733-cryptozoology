@@ -272,13 +272,23 @@ header:
 image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3S28eRxEdLA" title="7 Of The Most Amazing Discoveries Made By Camera Traps - Animal Rediscoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3S28eRxEdLA" target="_blank" rel="noopener noreferrer">7 Of The Most Amazing Discoveries Made By Camera Traps - Animal Rediscoveries</a></p><p class="youtube-embed-meta">Channel: Tsuki</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3S28eRxEdLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3S28eRxEdLA">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3S28eRxEdLA" title="7 Of The Most Amazing Discoveries Made By Camera Traps - Animal Rediscoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3S28eRxEdLA" target="_blank" rel="noopener noreferrer">7 Of The Most Amazing Discoveries Made By Camera Traps - Animal Rediscoveries</a></p><p class="youtube-embed-meta">Channel: Tsuki</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3S28eRxEdLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3S28eRxEdLA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why passive cameras matter
 
-A camera trap combines a digital camera with a passive infrared sensor that automatically records images or video when an animal passes. Unlike human observers, these devices do not sleep, become distracted, or avoid difficult terrain. They can remain in place for months, creating a continuous record of wildlife activity in locations where direct observation is rare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wwf.org.uk/sites/default/files/2019-04/CameraTraps-WWF-guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.org.uk">[WWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.org.uk</span><span class="citation-popover-title">WWFCAMERA-TRAPPING PAGE 1</span><span class="citation-popover-snippet">UKThe modern digital camera trap is simply a digital compact camera sensor wired up to a passive infrared sensor which is able to “se...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aZZ53GWzPE0" title="Camera Traps - Documenting Wildlife in a Non-Invasive Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aZZ53GWzPE0" target="_blank" rel="noopener noreferrer">Camera Traps - Documenting Wildlife in a Non-Invasive Way</a></p><p class="youtube-embed-meta">Channel: Pacific Wild</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aZZ53GWzPE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aZZ53GWzPE0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What camera-days reveal and miss
 
@@ -297,9 +307,11 @@ However, camera traps are not magic. Their limitations explain why some genuinel
 These limitations help explain why rediscoveries continue to occur. The existence of camera traps does not mean every elusive mammal has already been documented. Instead, it means that claims can increasingly be evaluated against known survey effort. A species surviving in a small, remote mountain range remains plausible; a large [breeding population]({{'missing-traces-2ce98c/' | relative_url }}) occupying extensively monitored forests without producing consistent photographic evidence becomes harder to defend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44185-025-00086-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Attenborough&#x27;s echidna rediscovered by combining...by G Morib · 2025 · Cited by 3 — In 2022 and 2023, we deployed camera-traps in...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087-Illustration-2-dark.svg" | relative_url }}" alt="Camera traps illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How big cryptids face a higher burden
 
-The shrinking mystery zone has important consequences for cryptozoology. Camera traps repeatedly detect elusive but real mammals, including species once thought lost. Yet these rediscoveries generally involve animals that are small, rare, geographically restricted, or behaviourally secretive. The technology has shown that hidden mammals exist, but it has also clarified what hidden mammals usually look like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Camera-trap evidence that the silver-backed chevrotain...by A Nguyen · 2019 · Cited by 38 — Here, we provide evidence that the sil...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wICK62SH-cM" title="We Left Cameras In The Amazon: This Happened" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wICK62SH-cM" target="_blank" rel="noopener noreferrer">We Left Cameras In The Amazon: This Happened</a></p><p class="youtube-embed-meta">Channel: Dr. Rosa Vásquez Espinoza</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wICK62SH-cM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wICK62SH-cM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The lasting change in forest mysteries
 

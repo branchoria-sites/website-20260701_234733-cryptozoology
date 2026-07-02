@@ -278,13 +278,27 @@ header:
 image: /assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_okapi_emblem_limits_e05391-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gKYHGKQiCvQ" title="Is Cryptozoology Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gKYHGKQiCvQ" target="_blank" rel="noopener noreferrer">Is Cryptozoology Science?</a></p><p class="youtube-embed-meta">Channel: tyrantslayer24</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gKYHGKQiCvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gKYHGKQiCvQ">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gKYHGKQiCvQ" title="Is Cryptozoology Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gKYHGKQiCvQ" target="_blank" rel="noopener noreferrer">Is Cryptozoology Science?</a></p><p class="youtube-embed-meta">Channel: tyrantslayer24</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gKYHGKQiCvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gKYHGKQiCvQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Animal That Helped and Hurt
 
 ### Why the ISC chose the okapi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aHaF0RqvWRk" title="Real Cryptids: OKAPI! | Lindsay Nikole" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aHaF0RqvWRk" target="_blank" rel="noopener noreferrer">Real Cryptids: OKAPI! | Lindsay Nikole</a></p><p class="youtube-embed-meta">Channel: Lindsay Nikole</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aHaF0RqvWRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aHaF0RqvWRk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### What the okapi proved about local knowledge
 
@@ -299,9 +313,11 @@ For the ISC, this was the most persuasive argument available. The discovery did 
 
 The problem emerged when the okapi was used as a general defence of cryptid claims. The reasoning often took the form: the okapi was once doubted and later confirmed, therefore present-day disputed creatures might also be real. Historically, however, the similarities were often weaker than supporters implied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencenorway.no/biological-diversity-biology-forskningno/animals-that-might-exist/1449908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenorway.no">[ScienceNorway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenorway.no</span><span class="citation-popover-title">animals that might exist</span><span class="citation-popover-snippet">Animals that might exist2 Feb 2012 — Cryptozoology&#x27;s most renowned discovery, and proof that fantastic creatures can exist...</span></span></span>
 
-The okapi was never supported solely by folklore. Reports were geographically concentrated, referred to a plausible mammal living in a specific habitat, and eventually produced physical evidence in the form of skins, skulls, tracks, and specimens. The animal fit comfortably within known zoological patterns once material evidence became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Creation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MD0zY_6F4bo" title="Origins of Cryptozoology | Tales of Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer">Origins of Cryptozoology | Tales of Earth</a></p><p class="youtube-embed-meta">Channel: Tales of Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MD0zY_6F4bo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A Symbol of Cryptozoology's Dilemma
 

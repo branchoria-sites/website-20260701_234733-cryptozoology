@@ -287,6 +287,12 @@ For [cryptozoology]({{'cryptozoology/' | relative_url }}), the lesson is not tha
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUy8gVG_FRc" title="Weird and Wonderful: This spectacular deep-sea siphonophore is a sight to see" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUy8gVG_FRc" target="_blank" rel="noopener noreferrer">Weird and Wonderful: This spectacular deep-sea siphonophore is a sight to see</a></p><p class="youtube-embed-meta">Channel: MBARI (Monterey Bay Aquarium Research Institute)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUy8gVG_FRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUy8gVG_FRc">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Animals That Distort Surface Sightings
 
 ### Siphonophores: Colonies That Resemble Sea Serpents
@@ -320,11 +326,25 @@ Several mechanisms contribute:<div class="content-enhancement content-enhancemen
 * **Colony structure:** Multiple connected units can resemble body segments or humps.
 * **Bioluminescence:** Light-producing tissues may create the illusion of eyes, markings or articulated parts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Siphonophore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span></div>
 
-The result is a recurring pattern in which real animals generate observations that are accurate in some details but misleading in overall interpretation. An observer may genuinely report a long, moving shape while misunderstanding the biological structure responsible for it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GGb_VAWUrGw" title="Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer">Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature</a></p><p class="youtube-embed-meta">Channel: GEDEON EXPLORATION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GGb_VAWUrGw">Open on YouTube</a></p></div></div></div>
+The result is a recurring pattern in which real animals generate observations that are accurate in some details but misleading in overall interpretation. An observer may genuinely report a long, moving shape while misunderstanding the biological structure responsible for it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GGb_VAWUrGw" title="Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer">Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature</a></p><p class="youtube-embed-meta">Channel: GEDEON EXPLORATION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GGb_VAWUrGw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Data Turns Mystery into Identification
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aqyk30L3E1A" title="World Ocean Day | The remarkable animals of the deep midwater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aqyk30L3E1A" target="_blank" rel="noopener noreferrer">World Ocean Day | The remarkable animals of the deep midwater</a></p><p class="youtube-embed-meta">Channel: MBARI (Monterey Bay Aquarium Research Institute)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aqyk30L3E1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aqyk30L3E1A">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Midwater Teaches About Sea Monsters
 

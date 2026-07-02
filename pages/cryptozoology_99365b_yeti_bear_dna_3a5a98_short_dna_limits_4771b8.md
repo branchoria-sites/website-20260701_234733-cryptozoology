@@ -280,11 +280,25 @@ image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits
 
 ## Introduction
 
-The debate over [Yeti DNA]({{'yeti-dna/' | relative_url }}) did not hinge on a complete genome or a well-preserved specimen. It hinged on a tiny stretch of genetic code. That detail matters because one of the most important lessons from the Yeti evidence is that DNA can be powerful while still being easy to over-interpret when only a small fragment survives.<img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" alt="DNA limits illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
+The debate over [Yeti DNA]({{'yeti-dna/' | relative_url }}) did not hinge on a complete genome or a well-preserved specimen. It hinged on a tiny stretch of genetic code. That detail matters because one of the most important lessons from the Yeti evidence is that DNA can be powerful while still being easy to over-interpret when only a small fragment survives.<img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" alt="DNA limits illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why short mitochondrial sequences are useful but limited
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uZKgCZRqnwk" title="British Geneticist Says He Has Proof of Yeti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uZKgCZRqnwk" target="_blank" rel="noopener noreferrer">British Geneticist Says He Has Proof of Yeti</a></p><p class="youtube-embed-meta">Channel: Newsy Weird Stuff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uZKgCZRqnwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uZKgCZRqnwk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How degraded samples can blur close bear relationships
 
@@ -303,7 +317,15 @@ Subsequent reanalysis challenged that interpretation on several grounds. Edwards
 
 Other researchers went further, arguing that ordinary Himalayan brown bears were already a sufficient explanation and that there was no need to invoke an unusual hybrid or undiscovered lineage. The criticism was not that the DNA was useless, but that the biological story attached to it had become larger than the data could support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zookeys.pensoft.net/article/4885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zookeys.pensoft.net">[Zookeys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zookeys.pensoft.net</span><span class="citation-popover-title">Zookeys No need to replace an “anomalous” primate</span><span class="citation-popover-snippet">by EE Gutiérrez · 2015 · Cited by 9 — By means of mitochondrial 12S rRNA sequencing of putative “yeti”, “bigfoot”, and other “anom...</span></span></span>
 
-This distinction is crucial. The debate was never really about whether the samples contained DNA. They did. The disagreement concerned what level of certainty could legitimately be extracted from such limited genetic evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzYLGWudaLI" title="Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer">Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzYLGWudaLI">Open on YouTube</a></p></div></div></div>
+This distinction is crucial. The debate was never really about whether the samples contained DNA. They did. The disagreement concerned what level of certainty could legitimately be extracted from such limited genetic evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzYLGWudaLI" title="Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer">Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzYLGWudaLI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The broader misidentification lesson for Yeti evidence
 

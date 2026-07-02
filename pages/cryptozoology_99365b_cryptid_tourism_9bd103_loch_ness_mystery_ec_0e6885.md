@@ -293,6 +293,12 @@ Over time, Nessie evolved from a cryptozoological claim into a destination brand
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q-PLaP4rH4Q" title="Tune into Tourism | Sustainable Tourism - Case Study | Loch Ness Hub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q-PLaP4rH4Q" target="_blank" rel="noopener noreferrer">Tune into Tourism | Sustainable Tourism - Case Study | Loch Ness Hub</a></p><p class="youtube-embed-meta">Channel: Highlands and Islands Enterprise</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q-PLaP4rH4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q-PLaP4rH4Q">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ### Selling the search rather than the answer
 
 An interesting feature of Loch Ness cruises is that they market uncertainty itself. Operators do not promise [proof]({{'proof/' | relative_url }}) of a monster. Instead, they invite guests to participate in a search.
@@ -309,6 +315,12 @@ The result is a tourism model in which the possibility of discovery is often mor
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M3u0m7mGbPU" title="Scotland is keeping a secret from all of us." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M3u0m7mGbPU" target="_blank" rel="noopener noreferrer">Scotland is keeping a secret from all of us.</a></p><p class="youtube-embed-meta">Channel: The Marketing Millennials</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M3u0m7mGbPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M3u0m7mGbPU">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Why mystery has measurable economic value
 
 The frequently cited estimate that Nessie contributes roughly £41 million annually to the Scottish economy should be treated as a tourism-impact estimate rather than a precise accounting exercise. Not every visitor comes solely because of the monster. Many travel to experience the Highlands more broadly. Nevertheless, the estimate reflects a widely recognised reality: the legend functions as a powerful demand generator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pressandjournal.co.uk/fp/news/highlands-islands/1562103/loch-ness-monster-worth-nearly-41m-a-year-to-scottish-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressandjournal.co.uk">[Press and Journal+2Mental Floss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressandjournal.co.uk</span><span class="citation-popover-title">loch ness monster worth nearly 41m a year to scottish economy</span><span class="citation-popover-snippet">Press and JournalLoch Ness Monster worth nearly £41m a year to Scottish...14 Sept 2018 — The Loch Ness Monster is worth nearly £41 milli...</span></span></span>
@@ -323,7 +335,15 @@ Mystery creates economic value in several ways:
 
 **Global recognition.** The monster serves as a simple, memorable symbol that helps market the wider Loch Ness area internationally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[Visit Inverness Loch Ness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Visit Inverness Loch NessVisit Inverness Loch Ness: Plan Your Holiday, Break or Day TripInverness and Loch Ness is a destination perfect...</span></span></span>
 
-Unlike many tourism assets, the legend is also difficult for competitors to replicate. Other regions can build museums or launch marketing campaigns, but they cannot easily create a century of worldwide recognition linked to a specific place.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9y4SVIVPQBY" title="The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer">The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures</a></p><p class="youtube-embed-meta">Channel: Terra Glitch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9y4SVIVPQBY">Open on YouTube</a></p></div></div></div>
+Unlike many tourism assets, the legend is also difficult for competitors to replicate. Other regions can build museums or launch marketing campaigns, but they cannot easily create a century of worldwide recognition linked to a specific place.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9y4SVIVPQBY" title="The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer">The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures</a></p><p class="youtube-embed-meta">Channel: Terra Glitch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9y4SVIVPQBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Nessie works alongside wider Highland tourism
 

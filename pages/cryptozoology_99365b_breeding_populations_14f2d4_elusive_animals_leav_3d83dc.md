@@ -287,7 +287,15 @@ These examples demonstrate an important distinction. Being difficult to observe 
 
 A single type of evidence can be ambiguous. A footprint may be misidentified, a photograph may be unclear, and scat can be mistaken for that of another species. What makes wildlife detection reliable is the convergence of multiple independent traces.
 
-### Tracks Reveal Presence and Movement<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5vQDZXlXaAI" title="Searching for the Snow Leopard | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer">Searching for the Snow Leopard | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5vQDZXlXaAI">Open on YouTube</a></p></div></div></div>
+### Tracks Reveal Presence and Movement
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5vQDZXlXaAI" title="Searching for the Snow Leopard | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer">Searching for the Snow Leopard | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5vQDZXlXaAI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Scat Contains More Information Than Sightings
 
@@ -306,11 +314,27 @@ Populations also leave evidence through death. Animals die from disease, predati
 
 Wolverines, for example, leave distinctive feeding sign at carcasses, including heavily fragmented bones and excavation marks where food has been cached or recovered. These traces help researchers distinguish their activity from that of other scavengers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://conservationnw.org/wp-content/uploads/2017/06/Wolverine-Remote-Camera-Trap-Guidelines-2019.docx.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conservationnw.org">[conservationnw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conservationnw.org</span><span class="citation-popover-title">Figure 14 Wolverine scat. Photo by David Moskowitz</span><span class="citation-popover-snippet">Wolverine Remote Camera and DNA TrapsApril 5, 2019 — Wolverine scats can appear very similar to other similar sized carnivores such as co...</span><span class="citation-popover-meta">Published: April 5, 2019</span></span></span>
 
-Over decades and centuries, breeding populations generate an accumulating physical record. Even when carcasses are rapidly scavenged, some remains persist and become part of museum collections, fossil deposits or documented wildlife records. This accumulation is one reason why known rare species eventually become supported by multiple forms of evidence rather than isolated reports.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bdwU_ZPk1cY" title="How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bdwU_ZPk1cY" target="_blank" rel="noopener noreferrer">How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bdwU_ZPk1cY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bdwU_ZPk1cY">Open on YouTube</a></p></div></div></div>
+Over decades and centuries, breeding populations generate an accumulating physical record. Even when carcasses are rapidly scavenged, some remains persist and become part of museum collections, fossil deposits or documented wildlife records. This accumulation is one reason why known rare species eventually become supported by multiple forms of evidence rather than isolated reports.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bdwU_ZPk1cY" title="How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bdwU_ZPk1cY" target="_blank" rel="noopener noreferrer">How we can detect pretty much anything - Hélène Morlon and Anna Papadopoulou</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bdwU_ZPk1cY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bdwU_ZPk1cY">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Camera Traps Turn Invisible Animals Into Data
 
-One of the strongest lessons from modern wildlife biology is how quickly evidence accumulates once systematic monitoring begins.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rKWVvMaml_8" title="The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer">The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth</a></p><p class="youtube-embed-meta">Channel: BBC Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rKWVvMaml_8">Open on YouTube</a></p></div></div></div>
+One of the strongest lessons from modern wildlife biology is how quickly evidence accumulates once systematic monitoring begins.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rKWVvMaml_8" title="The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer">The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth</a></p><p class="youtube-embed-meta">Channel: BBC Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rKWVvMaml_8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Cryptid Claims Should Produce If Populations Exist
 

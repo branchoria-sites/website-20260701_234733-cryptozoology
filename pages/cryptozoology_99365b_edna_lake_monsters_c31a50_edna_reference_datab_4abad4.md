@@ -285,9 +285,11 @@ For a lake-monster investigation, this distinction is crucial. Detecting DNA fro
 
 ## Why Database Gaps Matter
 
-A common misunderstanding is that eDNA can identify every organism present in a sample. In reality, the method depends on the quality and completeness of reference databases. Researchers repeatedly identify incomplete coverage as one of the major limitations of metabarcoding studies. Missing species, incorrect labels, poor-quality sequences, and uneven taxonomic representation can all affect identification accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/36478393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">These are: (i) mislabelling, (ii) sequencing...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QLcmEqBayr0" title="How to Use the NCBI’s Bioinformatics Tools and Databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QLcmEqBayr0" target="_blank" rel="noopener noreferrer">How to Use the NCBI’s Bioinformatics Tools and Databases</a></p><p class="youtube-embed-meta">Channel: Science Buddies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QLcmEqBayr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QLcmEqBayr0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Would a Truly Unknown Animal Look Like in the Data?
 
@@ -314,9 +316,25 @@ This is one of the reasons eDNA remains valuable for lake-monster research despi
 
 * Whether detected DNA resembles fish, amphibians, reptiles, mammals, or another major group.
 * Whether unusual sequences recur across locations and sampling periods.
-* Whether unexplained signals cluster around a known evolutionary lineage.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/neIQ3KNBXN8" title="Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer">Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)</a></p><p class="youtube-embed-meta">Channel: EPPO European &amp; Mediterranean Plant Protection Org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=neIQ3KNBXN8">Open on YouTube</a></p></div></div></div>
+* Whether unexplained signals cluster around a known evolutionary lineage.
 
-## The Loch Ness Example and Its Limits<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Negf-s719A" title="DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer">DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)</a></p><p class="youtube-embed-meta">Channel: Danny Arends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Negf-s719A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/neIQ3KNBXN8" title="Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer">Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)</a></p><p class="youtube-embed-meta">Channel: EPPO European &amp; Mediterranean Plant Protection Org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=neIQ3KNBXN8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
+
+## The Loch Ness Example and Its Limits
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Negf-s719A" title="DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer">DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)</a></p><p class="youtube-embed-meta">Channel: Danny Arends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Negf-s719A">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Real Challenge for Future Lake-Monster Searches
 

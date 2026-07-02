@@ -288,7 +288,15 @@ For a cryptid claim, a voucher specimen does not necessarily have to be an intac
 * A museum specimen collected previously but not recognised as distinct.
 * In some specialised situations, a specimen represented through formal type procedures recognised by zoological nomenclature rules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bokulich.org/wp-content/uploads/2020/09/understanding-scientific-types-accepted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokulich.org">[Alisa N. Bokulich+2code.iczn.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokulich.org</span><span class="citation-popover-title">Alisa N</span><span class="citation-popover-snippet">Holotypes, Stratotypes, and Measurement Prototypesby A Bokulich · Cited by 20 — The specimen that is designated a holotype need n...</span></span></span>
 
-The key requirement is that the material can be examined by other qualified researchers rather than remaining in private possession or existing only as a claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N0LNjIFEOkM" title="Preparing and Submitting Voucher Specimens and Why it Matters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N0LNjIFEOkM" target="_blank" rel="noopener noreferrer">Preparing and Submitting Voucher Specimens and Why it Matters</a></p><p class="youtube-embed-meta">Channel: Florida Invasive Species Partnership</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N0LNjIFEOkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N0LNjIFEOkM">Open on YouTube</a></p></div></div></div>
+The key requirement is that the material can be examined by other qualified researchers rather than remaining in private possession or existing only as a claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N0LNjIFEOkM" title="Preparing and Submitting Voucher Specimens and Why it Matters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N0LNjIFEOkM" target="_blank" rel="noopener noreferrer">Preparing and Submitting Voucher Specimens and Why it Matters</a></p><p class="youtube-embed-meta">Channel: Florida Invasive Species Partnership</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N0LNjIFEOkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N0LNjIFEOkM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Photos and Sightings Cannot Anchor a Species Name
 
@@ -324,7 +332,15 @@ When a specimen is deposited in a recognised collection, researchers can revisit
 
 This re-examination function is one of the most important reasons voucher specimens exist. Museums and natural history collections preserve material specifically so future scientists can verify earlier conclusions. The specimen remains available even if the original discoverer retires, dies or changes their interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mbd.osu.edu/collections/acarology/about/depositions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbd.osu.edu">[mbd.osu.edu+2lacmip.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbd.osu.edu</span><span class="citation-popover-snippet">Museum of Biological DiversityA &quot;voucher&quot; is a representative of the taxon dealt with in a biological study. Voucher specimens deposited...</span></span></span>
 
-Without preserved material, later researchers must rely on descriptions, photographs or recollections. Those secondary records may be informative, but they cannot substitute for direct access to the organism itself.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BTi27YckvSA" title="Holotype Specimens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BTi27YckvSA" target="_blank" rel="noopener noreferrer">Holotype Specimens</a></p><p class="youtube-embed-meta">Channel: Royal Tyrrell Museum of Palaeontology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BTi27YckvSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BTi27YckvSA">Open on YouTube</a></p></div></div></div>
+Without preserved material, later researchers must rely on descriptions, photographs or recollections. Those secondary records may be informative, but they cannot substitute for direct access to the organism itself.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BTi27YckvSA" title="Holotype Specimens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BTi27YckvSA" target="_blank" rel="noopener noreferrer">Holotype Specimens</a></p><p class="youtube-embed-meta">Channel: Royal Tyrrell Museum of Palaeontology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BTi27YckvSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BTi27YckvSA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Link Between Voucher Specimens and Species Names
 
@@ -332,7 +348,15 @@ Modern zoological nomenclature is built around the concept of a name-bearing typ
 
 The International Code of Zoological Nomenclature permits some exceptional circumstances, but it explicitly discourages establishing new species-group taxa without preserved type material unless special reasons justify doing so. The general expectation remains that species descriptions should be anchored to preserved specimens whenever feasible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iczn.org/the-code/declaration-45-addition-of-recommendations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iczn.org">[iczn.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iczn.org</span><span class="citation-popover-snippet">al is permissible under the Code, but is discouraged unless justified by special...Read more...</span></span></span>
 
-This principle has direct implications for cryptozoology. Even if researchers became convinced that a cryptid represented an unknown animal, the path to formal scientific recognition would still require reference material that could serve as the species' objective point of comparison.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wuEHNA2JIoE" title="Type Specimens - Objectivity 150" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wuEHNA2JIoE" target="_blank" rel="noopener noreferrer">Type Specimens - Objectivity 150</a></p><p class="youtube-embed-meta">Channel: Objectivity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wuEHNA2JIoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wuEHNA2JIoE">Open on YouTube</a></p></div></div></div>
+This principle has direct implications for cryptozoology. Even if researchers became convinced that a cryptid represented an unknown animal, the path to formal scientific recognition would still require reference material that could serve as the species' objective point of comparison.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wuEHNA2JIoE" title="Type Specimens - Objectivity 150" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wuEHNA2JIoE" target="_blank" rel="noopener noreferrer">Type Specimens - Objectivity 150</a></p><p class="youtube-embed-meta">Channel: Objectivity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wuEHNA2JIoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wuEHNA2JIoE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the Standard Exists
 

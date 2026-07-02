@@ -302,7 +302,15 @@ Paranormal television often places sophisticated-looking equipment at the centre
 
 The presence of technology can create what communication researchers have called the “trappings of science”: visible markers that resemble scientific practice and increase perceptions of credibility. Experimental research has found that presenting paranormal investigators alongside technology and scientific-sounding terminology can make them appear more scientific and trustworthy to audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/258186590_The_Trappings_of_Science_Media_Messages_Scientific_Authority_and_Beliefs_About_Paranormal_Investigators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Trappings of Science Media Messages, Scientific</span><span class="citation-popover-snippet">The Trappings of Science Media Messages, Scientific...June 1, 2013 — This study examines the influence of media messages abo...</span><span class="citation-popover-meta">Published: June 1, 2013</span></span></span>
 
-Importantly, viewers often evaluate the appearance of a procedure before evaluating its scientific validity. A thermal camera scanning a forest at night looks investigative, even though a heat signature alone cannot identify an unknown species.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/duYqYol6F8o" title="The History Channel&#x27;s Biggest Mistake - MonsterQuest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=duYqYol6F8o" target="_blank" rel="noopener noreferrer">The History Channel&#x27;s Biggest Mistake - MonsterQuest</a></p><p class="youtube-embed-meta">Channel: BuzzKill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=duYqYol6F8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=duYqYol6F8o">Open on YouTube</a></p></div></div></div>
+Importantly, viewers often evaluate the appearance of a procedure before evaluating its scientific validity. A thermal camera scanning a forest at night looks investigative, even though a heat signature alone cannot identify an unknown species.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/duYqYol6F8o" title="The History Channel&#x27;s Biggest Mistake - MonsterQuest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=duYqYol6F8o" target="_blank" rel="noopener noreferrer">The History Channel&#x27;s Biggest Mistake - MonsterQuest</a></p><p class="youtube-embed-meta">Channel: BuzzKill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=duYqYol6F8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=duYqYol6F8o">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### The Power of Technical Language
 
@@ -334,7 +342,15 @@ Several psychological effects work together:<div class="content-enhancement cont
 
 Low-light imaging also introduces technical limitations. Scientific imaging research shows that darkness increases image noise, reduces clarity and makes accurate object identification more difficult. Yet television often presents these limitations as part of the excitement rather than as obstacles to reliable interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.06269" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Dark Vision: A Benchmark for Low-light Image/Video Perception</span><span class="citation-popover-snippet">DarkVision: A Benchmark for Low-light Image/Video PerceptionJanuary 16, 2023...</span><span class="citation-popover-meta">Published: January 16, 2023</span></span></span>
 
-A distant animal, tree branch or shadow may become dramatically more mysterious when viewed through a noisy night-vision camera than it would appear in daylight.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YCzFENe1xGE" title="Finding Bigfoot&#x27;s Best Unseen Footage | Finding Bigfoot | Animal Planet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YCzFENe1xGE" target="_blank" rel="noopener noreferrer">Finding Bigfoot&#x27;s Best Unseen Footage | Finding Bigfoot | Animal Planet</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YCzFENe1xGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YCzFENe1xGE">Open on YouTube</a></p></div></div></div>
+A distant animal, tree branch or shadow may become dramatically more mysterious when viewed through a noisy night-vision camera than it would appear in daylight.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YCzFENe1xGE" title="Finding Bigfoot&#x27;s Best Unseen Footage | Finding Bigfoot | Animal Planet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YCzFENe1xGE" target="_blank" rel="noopener noreferrer">Finding Bigfoot&#x27;s Best Unseen Footage | Finding Bigfoot | Animal Planet</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YCzFENe1xGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YCzFENe1xGE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Witness Testimony and the Authority of Personal Experience
 
@@ -367,7 +383,15 @@ Editing techniques contribute further:<div class="content-enhancement content-en
 
 These methods do not necessarily fabricate evidence. Instead, they influence how viewers interpret uncertainty. An unexplained sound becomes more significant when accompanied by alarmed reactions and suspenseful music.
 
-The result is a narrative environment in which ambiguity feels like evidence waiting to be confirmed.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZOIRWFNvzCU" title="&quot;Scientific&quot; Paranormal Investigators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZOIRWFNvzCU" target="_blank" rel="noopener noreferrer">&quot;Scientific&quot; Paranormal Investigators</a></p><p class="youtube-embed-meta">Channel: University of Delaware</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZOIRWFNvzCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZOIRWFNvzCU">Open on YouTube</a></p></div></div></div>
+The result is a narrative environment in which ambiguity feels like evidence waiting to be confirmed.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZOIRWFNvzCU" title="&quot;Scientific&quot; Paranormal Investigators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZOIRWFNvzCU" target="_blank" rel="noopener noreferrer">&quot;Scientific&quot; Paranormal Investigators</a></p><p class="youtube-embed-meta">Channel: University of Delaware</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZOIRWFNvzCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZOIRWFNvzCU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Where Entertainment Blurs Into Belief
 

@@ -279,6 +279,12 @@ In [cryptozoology]({{'cryptozoology/' | relative_url }}), the 1938 coelacanth is
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJ3yLh_CYg4" title="Animated Life: The Living Fossil Fish | HHMI BioInteractive Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer">Animated Life: The Living Fossil Fish | HHMI BioInteractive Video</a></p><p class="youtube-embed-meta">Channel: biointeractive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJ3yLh_CYg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJ3yLh_CYg4">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Why a Specimen Beat Sightings and Stories
 
 The importance of the Chalumna fish lies in the type of evidence it provided. Cryptozoological claims frequently depend on witness testimony, [folklore]({{'folklore/' | relative_url }}), fleeting observations or ambiguous photographs. Such evidence can suggest possibilities, but it rarely settles disputes because independent researchers cannot fully examine the original observation. The coelacanth case was different from the beginning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterSmith named the fish Latimeria chalumnae after Courtenay-L...</span></span></span>
@@ -296,6 +302,12 @@ This is the aspect of the discovery most relevant to cryptozoology. The coelacan
 ## What Smith Could Verify from the Preserved Fish
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n7VQQmu9748" title="Marjorie Courtenay-Latimer and the Coelacanth | STUFF YOU MISSED IN HISTORY CLASS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n7VQQmu9748" target="_blank" rel="noopener noreferrer">Marjorie Courtenay-Latimer and the Coelacanth | STUFF YOU MISSED IN HISTORY CLASS</a></p><p class="youtube-embed-meta">Channel: Stuff You Missed in History Class</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n7VQQmu9748" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n7VQQmu9748">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why One Fish Changed the Evidence Standard
 

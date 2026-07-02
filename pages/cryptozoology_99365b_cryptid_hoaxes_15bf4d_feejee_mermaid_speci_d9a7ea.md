@@ -272,11 +272,25 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d-CbURZh1I" title="The Feejee Mermaid : An American Tradition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer">The Feejee Mermaid : An American Tradition</a></p><p class="youtube-embed-meta">Channel: Doctor Drake&#x27;s Exhibition of the Bizarre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d-CbURZh1I">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d-CbURZh1I" title="The Feejee Mermaid : An American Tradition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer">The Feejee Mermaid : An American Tradition</a></p><p class="youtube-embed-meta">Channel: Doctor Drake&#x27;s Exhibition of the Bizarre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d-CbURZh1I">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Barnum's Specimen-Style Exhibition
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qQL5pJgM-XM" title="Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer">Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!</a></p><p class="youtube-embed-meta">Channel: BarnumMuseum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qQL5pJgM-XM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Composite Bodies and What Modern Scans Revealed
 
@@ -292,6 +306,12 @@ Modern scanning has also demonstrated how difficult it can be to identify the ex
 The Feejee Mermaid highlights an enduring feature of specimen-based hoaxes: they gain credibility from being visible but not fully accessible.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1g7QbP4rM4" title="FeeJee Mermaid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer">FeeJee Mermaid</a></p><p class="youtube-embed-meta">Channel: Peabody Museum of Archaeology &amp; Ethnology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1g7QbP4rM4">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Feejee Mermaid Teaches About Cryptid Evidence
 

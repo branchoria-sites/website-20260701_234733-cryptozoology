@@ -278,13 +278,27 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/camXhM9usPk" title="International Cryptozoology Museum - Portland Maine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland Maine</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=camXhM9usPk">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/camXhM9usPk" title="International Cryptozoology Museum - Portland Maine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland Maine</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=camXhM9usPk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Alleged Traces Beside Replicas
 
 The museum's exhibition design rests on a simple challenge: most cryptids do not come with a body that can be displayed. To address that absence, the museum combines claimed physical evidence with visual reconstructions and models.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gXZuNFNeDss" title="The International Cryptozoology Museum: Bigfoot, Sea Monsters, and More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gXZuNFNeDss" target="_blank" rel="noopener noreferrer">The International Cryptozoology Museum: Bigfoot, Sea Monsters, and More!</a></p><p class="youtube-embed-meta">Channel: New England Escapades</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gXZuNFNeDss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gXZuNFNeDss">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Pop Culture Becomes Museum Material
 
@@ -298,6 +312,12 @@ The FeeJee Mermaid is especially revealing. It belongs to a long history of fabr
 ## Why the Museum Includes Successful Discoveries
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RSWOb0oY5A4" title="International Cryptozoology Museum - Portland, ME - Hunting For Dambo Trolls!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RSWOb0oY5A4" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland, ME - Hunting For Dambo Trolls!</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RSWOb0oY5A4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RSWOb0oY5A4">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Hybrid Displays Ask Visitors to Decide
 

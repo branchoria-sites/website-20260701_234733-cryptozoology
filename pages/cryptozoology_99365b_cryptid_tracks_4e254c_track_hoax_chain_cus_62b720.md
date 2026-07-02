@@ -305,7 +305,15 @@ A footprint found in a remote location with immediate photographs, GPS coordinat
 
 The problem is that footprint evidence is unusually vulnerable to manipulation. Unlike bones, tissue or DNA samples, tracks are temporary surface impressions. A hoaxer does not need sophisticated equipment. A carved foot, modified footwear, or even selective photography can create misleading evidence. The track itself may disappear within hours due to weather, leaving only photographs and casts behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crime-scene-investigator.net/footwear.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crime-scene-investigator.net">[crime-scene-investigator.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crime-scene-investigator.net</span><span class="citation-popover-snippet">Footwear, The Missed EvidenceFootwear evidence that is located out of doors should first be photographed and if three dimensional, cast...</span></span></span>
 
-For that reason, modern investigators often regard documentation as part of the evidence rather than merely a record of it. Missing documentation does not automatically prove fraud, but it reduces confidence because independent verification becomes difficult or impossible.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FPGKrqFQXmU" title="Bigfoot in the News - www.NBCUniversalArchives.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FPGKrqFQXmU" target="_blank" rel="noopener noreferrer">Bigfoot in the News - www.NBCUniversalArchives.com</a></p><p class="youtube-embed-meta">Channel: NBCUniversal Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FPGKrqFQXmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FPGKrqFQXmU">Open on YouTube</a></p></div></div></div>
+For that reason, modern investigators often regard documentation as part of the evidence rather than merely a record of it. Missing documentation does not automatically prove fraud, but it reduces confidence because independent verification becomes difficult or impossible.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FPGKrqFQXmU" title="Bigfoot in the News - www.NBCUniversalArchives.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FPGKrqFQXmU" target="_blank" rel="noopener noreferrer">Bigfoot in the News - www.NBCUniversalArchives.com</a></p><p class="youtube-embed-meta">Channel: NBCUniversal Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FPGKrqFQXmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FPGKrqFQXmU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Discovery Records and Scene Control
 
@@ -343,7 +351,15 @@ A cast has little evidential value if investigators cannot answer basic question
 * Contradictory accounts of discovery.
 * Casts appearing long after the alleged event.</div>
 
-Without [provenance]({{'provenance/' | relative_url }})—the documented origin and handling history of an object—it becomes difficult to know whether the cast accurately represents a real track at all.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/46D76i-LQ04" title="We Finally Know The Bizarre And True Story Behind Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=46D76i-LQ04" target="_blank" rel="noopener noreferrer">We Finally Know The Bizarre And True Story Behind Bigfoot</a></p><p class="youtube-embed-meta">Channel: Grunge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=46D76i-LQ04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=46D76i-LQ04">Open on YouTube</a></p></div></div></div>
+Without [provenance]({{'provenance/' | relative_url }})—the documented origin and handling history of an object—it becomes difficult to know whether the cast accurately represents a real track at all.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/46D76i-LQ04" title="We Finally Know The Bizarre And True Story Behind Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=46D76i-LQ04" target="_blank" rel="noopener noreferrer">We Finally Know The Bizarre And True Story Behind Bigfoot</a></p><p class="youtube-embed-meta">Channel: Grunge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=46D76i-LQ04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=46D76i-LQ04">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Selective photography
 
@@ -354,7 +370,15 @@ Common problems include:<div class="content-enhancement content-enhancement--met
 * Close-up images that exclude surrounding context.
 * Lack of measurement scales.
 * Extreme camera angles that exaggerate depth or size.
-* Images showing only a few impressive prints rather than an entire trail.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJJQQ4wN47E" title="A Timeline of Ridiculous Bigfoot Hoaxes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJJQQ4wN47E" target="_blank" rel="noopener noreferrer">A Timeline of Ridiculous Bigfoot Hoaxes</a></p><p class="youtube-embed-meta">Channel: A Grain of Salt</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJJQQ4wN47E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJJQQ4wN47E">Open on YouTube</a></p></div></div></div>
+* Images showing only a few impressive prints rather than an entire trail.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJJQQ4wN47E" title="A Timeline of Ridiculous Bigfoot Hoaxes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJJQQ4wN47E" target="_blank" rel="noopener noreferrer">A Timeline of Ridiculous Bigfoot Hoaxes</a></p><p class="youtube-embed-meta">Channel: A Grain of Salt</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJJQQ4wN47E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJJQQ4wN47E">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Anatomical details that appear too late
 

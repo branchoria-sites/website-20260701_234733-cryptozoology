@@ -279,9 +279,11 @@ The mechanism matters because many celebrated cryptozoological cases were not ba
 
 ## What changes as a basking shark decomposes
 
-The basking shark is the world's second-largest fish and has an unusual anatomy that makes it especially prone to creating misleading remains. Unlike bony fishes, sharks possess skeletons made primarily of cartilage. When a basking shark dies, decomposition does not affect all parts equally. Certain tissues disappear quickly, while tougher structures persist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elasmo-research.org/education/topics/p_sea_monster.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elasmo-research.org">[WDBOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elasmo-research.org</span><span class="citation-popover-snippet">WDBOSSea Monsters: Two Cases of Mistaken IdentityBasking Sharks particularly notorious among cryptozoologists, as their rotting carcasses...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/834aZQ9pycg" title="Photos of a Plesiosaur? The Zuiyo Maru Carcass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=834aZQ9pycg" target="_blank" rel="noopener noreferrer">Photos of a Plesiosaur? The Zuiyo Maru Carcass</a></p><p class="youtube-embed-meta">Channel: TesseractHeart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=834aZQ9pycg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=834aZQ9pycg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why carcasses can look long-necked
 
@@ -305,7 +307,21 @@ Importantly, the illusion becomes strongest after substantial decomposition. A f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sDKZgc1Hez8" title="Did the Japanese Trawler REALLY Catch a Plesiosaur?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sDKZgc1Hez8" target="_blank" rel="noopener noreferrer">Did the Japanese Trawler REALLY Catch a Plesiosaur?</a></p><p class="youtube-embed-meta">Channel: Brothers Mellema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sDKZgc1Hez8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sDKZgc1Hez8">Open on YouTube</a></p></div></div></div>
 
-### Earlier and later “sea monster” carcasses<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0i1ABz7f1PI" title="Why Did They Throw The Zuiyō-maru Monster Back?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0i1ABz7f1PI" target="_blank" rel="noopener noreferrer">Why Did They Throw The Zuiyō-maru Monster Back?</a></p><p class="youtube-embed-meta">Channel: Water Cold Cases</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0i1ABz7f1PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0i1ABz7f1PI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
+### Earlier and later “sea monster” carcasses
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0i1ABz7f1PI" title="Why Did They Throw The Zuiyō-maru Monster Back?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0i1ABz7f1PI" target="_blank" rel="noopener noreferrer">Why Did They Throw The Zuiyō-maru Monster Back?</a></p><p class="youtube-embed-meta">Channel: Water Cold Cases</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0i1ABz7f1PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0i1ABz7f1PI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the pseudo-plesiosaur effect matters in cryptozoology
 

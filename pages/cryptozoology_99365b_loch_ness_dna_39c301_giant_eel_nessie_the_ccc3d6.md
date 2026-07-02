@@ -278,11 +278,25 @@ header:
 image: /assets/images/cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why eel DNA changed the debate
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vHGUbLhCyQs" title="Loch Ness monster might just be a giant eel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer">Loch Ness monster might just be a giant eel</a></p><p class="youtube-embed-meta">Channel: KiniTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vHGUbLhCyQs">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What eel size can and cannot explain
 
@@ -301,9 +315,11 @@ This distinction is important. The phrase “giant eel” can mean very differen
 * Multi-metre monsters comparable to classic Nessie depictions would require sizes far beyond what evidence for European eels currently supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://divernet.com/scuba-news/marine-biology/rise-fall-of-the-loch-ness-monster-eel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: divernet.com">[Divernet+2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">divernet.com</span><span class="citation-popover-title">rise fall of the loch ness monster eel</span><span class="citation-popover-snippet">Rise &amp; fall of the Loch Ness Monster eel27 Jul 2023 — The maximum length recorded for a European eel was 0.932m, Foxon found, lea...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6-Illustration-2-dark.svg" | relative_url }}" alt="Giant Eels illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the biggest monster reports remain a problem
 
-Many famous Nessie reports describe creatures far larger than any known eel. Witnesses have reported multiple humps, long necks protruding above the water, large bodies moving across substantial distances and estimated lengths of many metres. These accounts are difficult to reconcile with the biology of European eels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A modest explanation rather than a monster
 

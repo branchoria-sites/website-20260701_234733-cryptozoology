@@ -500,7 +500,15 @@ For cryptozoology, this means a credible evidence package would not rely on a si
 * **Biological plausibility:** habitat, food sources and population size that make survival possible.
 * **Negative controls:** checks against known animals, hoaxes, contamination and sampling error.</div>
 
-This is not bureaucratic fussiness. It is how a claim becomes portable. A good record lets someone else ask, “Can I test this?” A weak record asks them to trust the original observer.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B5fT_ohCl68" title="Why Most New Species Are Discovered By Amateurs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B5fT_ohCl68" target="_blank" rel="noopener noreferrer">Why Most New Species Are Discovered By Amateurs</a></p><p class="youtube-embed-meta">Channel: MinuteEarth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B5fT_ohCl68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B5fT_ohCl68">Open on YouTube</a></p></div></div></div>
+This is not bureaucratic fussiness. It is how a claim becomes portable. A good record lets someone else ask, “Can I test this?” A weak record asks them to trust the original observer.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B5fT_ohCl68" title="Why Most New Species Are Discovered By Amateurs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B5fT_ohCl68" target="_blank" rel="noopener noreferrer">Why Most New Species Are Discovered By Amateurs</a></p><p class="youtube-embed-meta">Channel: MinuteEarth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B5fT_ohCl68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B5fT_ohCl68">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## From specimen to formal species description
 
@@ -531,7 +539,15 @@ The controversy became vivid in debates over “typeless” or photograph-based 
 
 This matters for cryptids because “no specimen because it is too rare” can easily become a shield against testing. Conservation ethics can justify non-lethal sampling, camera traps, eDNA, biopsy darts, naturally shed hair, faeces, carcass recovery or temporary capture. They do not justify lowering the standard to rumours alone. A rare species may require gentler proof methods, but it still needs proof.
 
-The most persuasive non-lethal route would combine high-resolution images, repeated independent observations, diagnostic DNA from non-invasive samples, ecological data and, ideally, a naturally dead specimen or recoverable tissue. For a large cryptid, that is a high bar, but not an unfair one.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8nWoJoVjfI" title="How to Describe a New Species In 3 Easy Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8nWoJoVjfI" target="_blank" rel="noopener noreferrer">How to Describe a New Species In 3 Easy Steps</a></p><p class="youtube-embed-meta">Channel: Canadian Museum of Nature</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8nWoJoVjfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8nWoJoVjfI">Open on YouTube</a></p></div></div></div>
+The most persuasive non-lethal route would combine high-resolution images, repeated independent observations, diagnostic DNA from non-invasive samples, ecological data and, ideally, a naturally dead specimen or recoverable tissue. For a large cryptid, that is a high bar, but not an unfair one.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8nWoJoVjfI" title="How to Describe a New Species In 3 Easy Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8nWoJoVjfI" target="_blank" rel="noopener noreferrer">How to Describe a New Species In 3 Easy Steps</a></p><p class="youtube-embed-meta">Channel: Canadian Museum of Nature</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8nWoJoVjfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8nWoJoVjfI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why famous “once hidden” animals do not rescue weak cryptid evidence
 
@@ -541,7 +557,15 @@ The okapi was known to local people before European scientific recognition, and 
 
 The coelacanth is even more famous. Coelacanths were known from fossils and were thought to have died out millions of years ago until a specimen was found in 1938. The Natural History Museum’s account emphasises the specimen: an actual fish, recovered from a trawler catch, preserved and studied. The American Museum of Natural History similarly describes the 1938 specimen discovered by Marjorie Courtenay-Latimer as the object that brought coelacanths into modern zoology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Open source on nhm.ac.uk.</span></span></span>
 
-These cases show that surprising discoveries happen. They do not show that any famous cryptid is likely to be real. In both examples, the claim became scientific when physical evidence appeared and could be examined. The lesson is not “legends are often true”; it is “even astonishing animals become accepted through ordinary evidence.”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kU4InrwtrjA" title="Why 4 Million People Are Hiding In California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kU4InrwtrjA" target="_blank" rel="noopener noreferrer">Why 4 Million People Are Hiding In California</a></p><p class="youtube-embed-meta">Channel: Geography By Geoff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kU4InrwtrjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kU4InrwtrjA">Open on YouTube</a></p></div></div></div>
+These cases show that surprising discoveries happen. They do not show that any famous cryptid is likely to be real. In both examples, the claim became scientific when physical evidence appeared and could be examined. The lesson is not “legends are often true”; it is “even astonishing animals become accepted through ordinary evidence.”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kU4InrwtrjA" title="Why 4 Million People Are Hiding In California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kU4InrwtrjA" target="_blank" rel="noopener noreferrer">Why 4 Million People Are Hiding In California</a></p><p class="youtube-embed-meta">Channel: Geography By Geoff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kU4InrwtrjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kU4InrwtrjA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A practical proof standard for cryptid claims
 

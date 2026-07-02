@@ -279,6 +279,12 @@ The 1934 “Surgeon’s Photograph” is arguably the most influential image in 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS9Kju5FAJM" title="From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer">From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson</a></p><p class="youtube-embed-meta">Channel: A Thousand Words</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS9Kju5FAJM">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## How Scale Changed the Interpretation
 
 The power of the photograph changed dramatically when researchers revisited uncropped versions and analysed the original image more closely. The wider frame showed that the alleged monster occupied only a small part of the scene. Once more of the loch became visible, the object looked far less imposing than it did in the tightly cropped image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
@@ -299,7 +305,15 @@ The significance of the hoax extends beyond Loch Ness. The image became a warnin
 * **Authority bias:** a claim may seem stronger because of who presents it rather than what the evidence shows.
 * **Loss of context:** cropped or selectively reproduced images can hide critical information.
 * **Scale illusions:** objects on water are particularly difficult to size accurately.
-* **Narrative reinforcement:** once a photograph becomes famous, later audiences often encounter the story before they examine the image itself.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmiBt5VdMgQ" title="We Finally Solved The Loch Ness Monster Mystery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer">We Finally Solved The Loch Ness Monster Mystery!</a></p><p class="youtube-embed-meta">Channel: Origins Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmiBt5VdMgQ">Open on YouTube</a></p></div></div></div>
+* **Narrative reinforcement:** once a photograph becomes famous, later audiences often encounter the story before they examine the image itself.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmiBt5VdMgQ" title="We Finally Solved The Loch Ness Monster Mystery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer">We Finally Solved The Loch Ness Monster Mystery!</a></p><p class="youtube-embed-meta">Channel: Origins Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmiBt5VdMgQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Lasting Lesson for Cryptid Photography
 

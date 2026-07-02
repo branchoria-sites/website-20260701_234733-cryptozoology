@@ -277,9 +277,11 @@ image: /assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_p
 The okapi is often cited in [cryptozoology]({{'cryptozoology/' | relative_url }}) discussions as proof that a large animal can remain unknown to outside science for a surprisingly long time. The strongest reason this example works is not that the animal was magical or invisible, but that it lived in one of the most difficult environments on Earth for nineteenth-century zoological exploration: the Ituri rainforest of north-eastern Congo. Dense vegetation, limited transport routes, sparse colonial infrastructure, and the okapi’s own behaviour combined to make delayed scientific recognition plausible. At the same time, the okapi case demonstrates an important limit. The forest [conditions]({{'conditions/' | relative_url }}) explain why European institutions lacked specimens before 1900, but they do not reduce the standard of evidence required for scientific acceptance. Once specimens became available, the animal was rapidly incorporated into zoology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/718/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkapi Wildlife ReserveThe Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-ea...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-1-dark.svg" | relative_url }}" alt="Forest Plausibility illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Habitat Conditions That Mattered
 
-The Ituri Forest forms part of the vast Congo Basin, one of the largest continuous tropical forest regions in the world. Large areas consist of dense evergreen and semi-evergreen forest, interspersed with swampy zones, river systems, and thick understorey vegetation that severely restrict visibility and movement. Even today, the [Okapi]({{'okapi/' | relative_url }}) Wildlife Reserve protects roughly one-fifth of the Ituri Forest, illustrating the immense scale of the habitat involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/718/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkapi Wildlife ReserveThe Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-ea...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Gn4KYQjxCY" title="Okapi: The Extraordinary Fusion of Zebra and Giraffe!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Gn4KYQjxCY" target="_blank" rel="noopener noreferrer">Okapi: The Extraordinary Fusion of Zebra and Giraffe!</a></p><p class="youtube-embed-meta">Channel: The Story of Animals</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Gn4KYQjxCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Gn4KYQjxCY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why European Science Lacked a Specimen
 
@@ -296,6 +298,12 @@ When specimens finally reached zoologists, acceptance followed quickly. In other
 ## Why Modern Surveys Are Still Difficult
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GDFKH42Sseg" title="Okapi :The Secret Giraffe of the Congo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer">Okapi :The Secret Giraffe of the Congo</a></p><p class="youtube-embed-meta">Channel: The Shoebill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GDFKH42Sseg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Where the Analogy Stops Working
 

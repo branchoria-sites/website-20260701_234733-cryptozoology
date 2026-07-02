@@ -272,7 +272,15 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPYlVm44xks" title="Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer">Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPYlVm44xks">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPYlVm44xks" title="Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer">Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPYlVm44xks">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How the report archive model works
 
@@ -282,7 +290,14 @@ A key feature of the system is classification. Published reports are generally a
 
 * **Class A**: direct visual observations.
 * **Class B**: indirect experiences, including sounds, [tracks]({{'tracks/' | relative_url }}) or brief observations under poorer [conditions]({{'conditions/' | relative_url }}).
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--4_28E3vWQ" title="The Legend of Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer">The Legend of Bigfoot</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--4_28E3vWQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why accumulation can look persuasive
 
@@ -311,7 +326,15 @@ Second, reports are not independent in the same way that physical samples are. A
 
 Third, publication standards are not equivalent to scientific verification. The BFRO presents its review process as a credibility filter, but the organisation itself is part of the Bigfoot research community rather than a conventional scientific institution. Critics therefore question whether credibility assessments can reliably separate unknown-animal encounters from misidentifications and folklore-influenced interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
 
-Finally, large datasets can create an illusion of evidential strength. Hundreds or thousands of entries look impressive, yet if each entry remains uncertain, adding more entries does not necessarily resolve the uncertainty. A thousand unresolved sightings are still sightings rather than physical proof.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kKiddG1QCRk" title="Finding Bigfoot with Redis + RediSearch by Guy Royse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer">Finding Bigfoot with Redis + RediSearch by Guy Royse</a></p><p class="youtube-embed-meta">Channel: Devoxx UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kKiddG1QCRk">Open on YouTube</a></p></div></div></div>
+Finally, large datasets can create an illusion of evidential strength. Hundreds or thousands of entries look impressive, yet if each entry remains uncertain, adding more entries does not necessarily resolve the uncertainty. A thousand unresolved sightings are still sightings rather than physical proof.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kKiddG1QCRk" title="Finding Bigfoot with Redis + RediSearch by Guy Royse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer">Finding Bigfoot with Redis + RediSearch by Guy Royse</a></p><p class="youtube-embed-meta">Channel: Devoxx UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kKiddG1QCRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kKiddG1QCRk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The database's real significance
 

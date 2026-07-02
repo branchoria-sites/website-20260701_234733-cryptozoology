@@ -286,7 +286,14 @@ Under this framework, a cryptid was expected to be:<div class="content-enhanceme
 * A biological organism rather than a supernatural being.
 * Potentially discoverable through evidence such as tracks, remains, photographs or specimens.
 * Compatible with natural laws and zoological explanation.
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKScbbwuivw" title="Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer">Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell</a></p><p class="youtube-embed-meta">Channel: University of Oregon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKScbbwuivw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Paranormal Material Threatened Credibility
 
@@ -311,9 +318,25 @@ The ISC could define a hidden animal on paper, but many famous cryptids did not 
 
 Creatures such as the Loch Ness Monster, Bigfoot and the Yeti were often presented by cryptozoologists as undiscovered biological species. Yet the same figures appeared in folklore, religious traditions, supernatural stories and later paranormal interpretations. Different audiences could understand the same creature as an animal, a spirit, a relic species or something entirely unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-This ambiguity made enforcement difficult. The society could insist that it was studying hypothetical animals, but public interest frequently centred on the mysterious and extraordinary aspects of the stories.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+This ambiguity made enforcement difficult. The society could insist that it was studying hypothetical animals, but public interest frequently centred on the mysterious and extraordinary aspects of the stories.
 
-### Folklore Was Both a Resource and a Liability<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7vBEJt6cq9c" title="Cryptozoology: The Science of Myths and Legends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7vBEJt6cq9c" target="_blank" rel="noopener noreferrer">Cryptozoology: The Science of Myths and Legends</a></p><p class="youtube-embed-meta">Channel: Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7vBEJt6cq9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7vBEJt6cq9c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
+
+### Folklore Was Both a Resource and a Liability
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7vBEJt6cq9c" title="Cryptozoology: The Science of Myths and Legends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7vBEJt6cq9c" target="_blank" rel="noopener noreferrer">Cryptozoology: The Science of Myths and Legends</a></p><p class="youtube-embed-meta">Channel: Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7vBEJt6cq9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7vBEJt6cq9c">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### No Stable Gatekeeping System Emerged
 

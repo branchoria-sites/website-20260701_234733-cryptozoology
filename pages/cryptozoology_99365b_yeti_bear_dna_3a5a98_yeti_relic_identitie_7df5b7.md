@@ -289,9 +289,11 @@ Several examples illustrate how varied these relics were:
 
 **A cave femur.** One specimen was a thigh bone reportedly found in a cave by a spiritual healer. DNA analysis identified it as coming from a Tibetan brown bear rather than an unknown creature. The object had travelled from a local discovery context into the wider Yeti narrative before scientific testing reclassified it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theatlantic.com/science/archive/2017/11/yeti-dna-sequencing/546806/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">These include: a thigh bone found by a spiritual healer in a cave ...Read more</span><span class="citation-popover-snippet">The AtlanticDNA Reveals the Yeti Is Actually a Bunch of BearsNovember 29, 2017 — 28 Nov 2017 — Lindqvist and her colleagues used DNA to i...</span></span></span>
 
-**A monastery skin relic.** Researchers analysed a piece of skin associated with a supposed Yeti hand or paw preserved as a religious relic. Genetic evidence linked the sample to a bear, not an unknown primate. The case demonstrated how a sacred object could simultaneously hold cultural importance and possess a conventional zoological origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/science/article/yeti-legends-real-animals-dna-bears-himalaya-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">yeti legends real animals dna bears himalaya science</span><span class="citation-popover-snippet">National GeographicYeti Legends Are Based on These Real Animals, DNA...29 Nov 2017 — DNA analysis of multiple supposed Yeti samples—incl...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VbhnlRBWJl4" title="News-Dna tests revealed the yeti left in the Museum are actually from the bear and a dog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VbhnlRBWJl4" target="_blank" rel="noopener noreferrer">News-Dna tests revealed the yeti left in the Museum are actually from the bear and a dog</a></p><p class="youtube-embed-meta">Channel: News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VbhnlRBWJl4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VbhnlRBWJl4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How monastery relics acquired a Yeti identity
 
@@ -313,7 +315,15 @@ Several factors help explain how this could happen without fraud:
 * Bears can leave [tracks]({{'tracks/' | relative_url }}) that appear surprisingly human-like in snow, especially when hind feet overlap front footprints.<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Himalayan brown bears are large, uncommon and often encountered only briefly in difficult terrain.
-* Isolated body parts are much harder to identify than complete animals.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o1qFrD1EX48" title="Dna tests reveal yeti remains in museums are actually from bears and a dog| NEWS TODAY TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o1qFrD1EX48" target="_blank" rel="noopener noreferrer">Dna tests reveal yeti remains in museums are actually from bears and a dog| NEWS TODAY TV</a></p><p class="youtube-embed-meta">Channel: Breaking News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o1qFrD1EX48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o1qFrD1EX48">Open on YouTube</a></p></div></div></div>
+* Isolated body parts are much harder to identify than complete animals.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o1qFrD1EX48" title="Dna tests reveal yeti remains in museums are actually from bears and a dog| NEWS TODAY TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o1qFrD1EX48" target="_blank" rel="noopener noreferrer">Dna tests reveal yeti remains in museums are actually from bears and a dog| NEWS TODAY TV</a></p><p class="youtube-embed-meta">Channel: Breaking News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o1qFrD1EX48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o1qFrD1EX48">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What DNA can and cannot say about local tradition
 

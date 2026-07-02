@@ -285,6 +285,12 @@ The most striking feature of the chupacabra is not its alleged attacks on livest
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hh-G14e4GGo" title="Chupacabra–Coyote Connection? The Mystery of the Blue Dogs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hh-G14e4GGo" target="_blank" rel="noopener noreferrer">Chupacabra–Coyote Connection? The Mystery of the Blue Dogs</a></p><p class="youtube-embed-meta">Channel: Chester Moore (Wildlife Journalist &amp; Investigator)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hh-G14e4GGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hh-G14e4GGo">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## From Reptilian Creature to Hairless Canid
 
 The most dramatic cross-border change occurred when the legend spread into Mexico and the southern United States. Reports increasingly focused on strange hairless animals resembling dogs, coyotes or other canids. These accounts differed so much from the original Puerto Rican descriptions that some observers treated them as entirely different creatures sharing the same name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chupacabra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">April 19, 2026 — The chupacabra or chupacabras is a legendary creature, or cryptid, in the folklore of parts of the Americas. The name co...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
@@ -297,6 +303,12 @@ The result was a feedback loop. The name"chupacabra" travelled faster than the o
 ## Livestock Loss, Rural Fear and Media Spread
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OCwIK7XL1IQ" title="THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster | Paskvan Podcasts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer">THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster | Paskvan Podcasts</a></p><p class="youtube-embed-meta">Channel: Paskvan Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OCwIK7XL1IQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the Chupacabra Keeps Changing Shape
 

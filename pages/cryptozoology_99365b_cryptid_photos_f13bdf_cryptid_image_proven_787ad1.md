@@ -299,7 +299,15 @@ Several practical checks are especially valuable:<div class="content-enhancement
 * Compare creation dates with the witness timeline.
 * Examine camera model and image dimensions.
 * Look for signs of editing software in metadata records.
-* Check whether multiple files from the same event share consistent timestamps and settings.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rv6B7hjcTSk" title="Introduction to analyzing images for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer">Introduction to analyzing images for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rv6B7hjcTSk">Open on YouTube</a></p></div></div></div>
+* Check whether multiple files from the same event share consistent timestamps and settings.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rv6B7hjcTSk" title="Introduction to analyzing images for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer">Introduction to analyzing images for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rv6B7hjcTSk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Why continuous footage often matters more than a single frame
 
@@ -341,7 +349,15 @@ A reposted image is often:<div class="content-enhancement content-enhancement--c
 
 This process can transform an image from primary evidence into a digital rumour. Provenance researchers describe online images as following complex chains of copying, modification and redistribution. As those chains grow longer, determining what the original file looked like becomes increasingly difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1807.03376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span><span class="citation-popover-snippet">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span></span></span>
 
-Cryptozoology provides many examples of images whose reputations exceeded their documented origins. Once an image becomes famous, later audiences may encounter only the cropped or enhanced version rather than the original material. Important context can disappear along the way.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mez2aT6Vsgo" title="How to Extract Metadata from an Image | Photo Forensics for Incident Response | Image Analysis Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mez2aT6Vsgo" target="_blank" rel="noopener noreferrer">How to Extract Metadata from an Image | Photo Forensics for Incident Response | Image Analysis Tool</a></p><p class="youtube-embed-meta">Channel: BlackPerl</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mez2aT6Vsgo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mez2aT6Vsgo">Open on YouTube</a></p></div></div></div>
+Cryptozoology provides many examples of images whose reputations exceeded their documented origins. Once an image becomes famous, later audiences may encounter only the cropped or enhanced version rather than the original material. Important context can disappear along the way.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mez2aT6Vsgo" title="How to Extract Metadata from an Image | Photo Forensics for Incident Response | Image Analysis Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mez2aT6Vsgo" target="_blank" rel="noopener noreferrer">How to Extract Metadata from an Image | Photo Forensics for Incident Response | Image Analysis Tool</a></p><p class="youtube-embed-meta">Channel: BlackPerl</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mez2aT6Vsgo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mez2aT6Vsgo">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Lessons from Famous Cryptid Photographs
 
@@ -351,7 +367,15 @@ The famous 1934"surgeon's photograph" became one of the most influential cryptid
 
 Other Loch Ness photographs have faced similar issues. Researchers examining older claims frequently encountered lost negatives, altered reproductions, retouched images and uncertainty about what happened between capture and publication. In some cases, questions about provenance proved more significant than the visual content itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-The lesson for modern cryptid uploads is straightforward: an unclear creature in a well-documented original file is usually stronger evidence than a sharper-looking image whose origin cannot be established.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SO2a-jmxCW0" title="Wazuh SIEM Part 1 – How to Install on a Single Node (Standalone Setup)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SO2a-jmxCW0" target="_blank" rel="noopener noreferrer">Wazuh SIEM Part 1 – How to Install on a Single Node (Standalone Setup)</a></p><p class="youtube-embed-meta">Channel: The Xpert Trio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SO2a-jmxCW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SO2a-jmxCW0">Open on YouTube</a></p></div></div></div>
+The lesson for modern cryptid uploads is straightforward: an unclear creature in a well-documented original file is usually stronger evidence than a sharper-looking image whose origin cannot be established.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SO2a-jmxCW0" title="Wazuh SIEM Part 1 – How to Install on a Single Node (Standalone Setup)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SO2a-jmxCW0" target="_blank" rel="noopener noreferrer">Wazuh SIEM Part 1 – How to Install on a Single Node (Standalone Setup)</a></p><p class="youtube-embed-meta">Channel: The Xpert Trio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SO2a-jmxCW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SO2a-jmxCW0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A Practical Provenance Standard for Cryptid Uploads
 

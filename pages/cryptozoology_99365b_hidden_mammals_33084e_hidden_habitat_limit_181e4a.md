@@ -287,6 +287,12 @@ A common assumption in [cryptozoology]({{'cryptozoology/' | relative_url }}) is 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-7y66FBZR2M" title="Why Finding Bigfoot Fell Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-7y66FBZR2M" target="_blank" rel="noopener noreferrer">Why Finding Bigfoot Fell Off</a></p><p class="youtube-embed-meta">Channel: BuzzKill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-7y66FBZR2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-7y66FBZR2M">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Breeding populations leave traces
 
 The key ecological question is not whether a single unknown animal could avoid observation. It is whether an entire [breeding population]({{'missing-traces-2ce98c/' | relative_url }}) could do so.
@@ -321,7 +327,15 @@ Habitat suitability modelling combines information about vegetation, elevation, 
 
 When applied to known elusive species, habitat mapping often produces surprisingly limited results. Suitable environments may exist only in fragmented patches, isolated mountain blocks or narrow ecological corridors. These constraints help explain why some species remain rare and difficult to detect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wwf.at/wp-content/cms_documents/saola_4da69fbde63df.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.at">[WWF Österreich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.at</span><span class="citation-popover-title">Österreich Introducing the saola (Pseudoryx nghetinhensis</span><span class="citation-popover-snippet">WWF ÖsterreichIntroducing the saola (Pseudoryx nghetinhensis)...June 3, 2005 — It is believed that the saola is a relic species that, alo...</span><span class="citation-popover-meta">Published: June 3, 2005</span></span></span>
 
-The same logic can be applied to cryptid claims. If a proposed giant mammal requires substantial food resources, breeding populations and long-term persistence, then suitable habitat should be identifiable. Researchers can estimate how much land would be required and whether that habitat remains intact today.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+The same logic can be applied to cryptid claims. If a proposed giant mammal requires substantial food resources, breeding populations and long-term persistence, then suitable habitat should be identifiable. Researchers can estimate how much land would be required and whether that habitat remains intact today.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtrlMJeBv_Q" title="What Is Cryptozoology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer">What Is Cryptozoology?</a></p><p class="youtube-embed-meta">Channel: I Am Your Target Demographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtrlMJeBv_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtrlMJeBv_Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Modern detection technologies reduce the hiding space
 

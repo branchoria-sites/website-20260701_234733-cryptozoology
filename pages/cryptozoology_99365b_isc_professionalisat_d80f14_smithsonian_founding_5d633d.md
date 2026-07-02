@@ -285,6 +285,12 @@ When the International Society of [Cryptozoology]({{'cryptozoology/' | relative_
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/usGcM7zDf04" title="Bernard Heuvelmans Talks About the Yeti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=usGcM7zDf04" target="_blank" rel="noopener noreferrer">Bernard Heuvelmans Talks About the Yeti</a></p><p class="youtube-embed-meta">Channel: Cryptid Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=usGcM7zDf04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=usGcM7zDf04">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Why the Museum Setting Carried Authority
 
 The Smithsonian was not just any meeting venue. The National Museum of Natural History is one of the world's most prominent centres for zoological collections, taxonomy and biodiversity research. Holding the founding meeting within that environment immediately distinguished the ISC from many earlier cryptid-focused groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Museum_of_Natural_History" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Museum of Natural History</span><span class="citation-popover-snippet">National Museum of Natural History</span></span></span>
@@ -301,6 +307,12 @@ This symbolism was especially important because cryptozoology faced a reputation
 The Smithsonian connection has sometimes been interpreted by enthusiasts as evidence that cryptozoology enjoyed institutional backing. The historical record suggests a more limited reality.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MD0zY_6F4bo" title="Origins of Cryptozoology | Tales of Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer">Origins of Cryptozoology | Tales of Earth</a></p><p class="youtube-embed-meta">Channel: Tales of Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MD0zY_6F4bo">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Smithsonian Meeting as a Case Study in Professionalisation
 

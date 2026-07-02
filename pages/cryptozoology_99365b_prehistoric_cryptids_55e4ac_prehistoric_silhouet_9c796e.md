@@ -281,7 +281,15 @@ Humans are exceptionally good at recognising patterns, even when information is 
 
 In cryptozoology, fossil animals provide some of the most memorable mental images available. A long-necked plesiosaur, a giant sauropod, or a dragon-like reptile has a simple and distinctive outline. Once those forms become culturally familiar, [witnesses]({{'witnesses/' | relative_url }}) may unconsciously organise unclear observations around them.
 
-This helps explain why descriptions of alleged prehistoric survivors often converge on a small number of recognisable body plans. The witness is rarely reporting a detailed anatomical assessment. Instead, they are describing a fleeting impression that resembles a known prehistoric image. The resemblance can feel compelling because the fossil template is already stored in memory.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wW6eKLLViK8" title="Unlocking the Mystery of Loch Ness | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer">Unlocking the Mystery of Loch Ness | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wW6eKLLViK8">Open on YouTube</a></p></div></div></div>
+This helps explain why descriptions of alleged prehistoric survivors often converge on a small number of recognisable body plans. The witness is rarely reporting a detailed anatomical assessment. Instead, they are describing a fleeting impression that resembles a known prehistoric image. The resemblance can feel compelling because the fossil template is already stored in memory.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wW6eKLLViK8" title="Unlocking the Mystery of Loch Ness | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer">Unlocking the Mystery of Loch Ness | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wW6eKLLViK8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How the Plesiosaur Became the Default Monster Shape
 
@@ -298,9 +306,11 @@ Many reported prehistoric-looking creatures emerge from ordinary objects or anim
 
 **Waterbirds.** Swans, cormorants and other waterbirds can create convincing long-necked silhouettes. When distance is difficult to judge, a bird occupying a small part of the visual field may appear much larger than it really is. Investigators of Loch Ness reports have repeatedly pointed to waterbirds as a source of apparent neck-and-head sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Is this the &#x27;answer&#x27; to the Loch Ness Monster mystery?</span><span class="citation-popover-snippet">Scientist reveals simple explanation for Nessie sightingsAdrian Shine, a Scottish naturalist and long-time investigator, suggests a simpl...</span></span></span>
 
-**Boat [wakes]({{'wakes/' | relative_url }}) and wave trains.** A series of waves moving across a lake can appear as multiple humps belonging to a single animal. Observers viewing the wake from an unusual angle may not immediately recognise its source. Several analyses of Loch Ness reports have identified wakes as a major contributor to monster interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NQ-UrmwAsg0" title="Beyond Pareidolia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer">Beyond Pareidolia</a></p><p class="youtube-embed-meta">Channel: Bradshaw Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NQ-UrmwAsg0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Fossil Resemblance Is Not Identification
 
@@ -315,7 +325,15 @@ Cryptozoological reports frequently involve precisely these conditions: low visi
 
 When evaluating a reported prehistoric-looking creature, several questions help distinguish a visual similarity from genuine evidence:
 
-1. **How much detail was actually observed?** A silhouette alone provides far less information than a clear view of anatomy.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0L6DU5YT7U" title="New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer">New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0L6DU5YT7U">Open on YouTube</a></p></div></div></div>
+1. **How much detail was actually observed?** A silhouette alone provides far less information than a clear view of anatomy.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0L6DU5YT7U" title="New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer">New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0L6DU5YT7U">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 2. **Could scale have been misjudged?** Distance over water is notoriously difficult to estimate. [New York Post](https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/)
 

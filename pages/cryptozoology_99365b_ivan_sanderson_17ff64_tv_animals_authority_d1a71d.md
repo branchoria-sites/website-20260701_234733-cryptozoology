@@ -283,7 +283,15 @@ Television was still a novelty, and wildlife broadcasting was far less common th
 
 His involvement went beyond occasional appearances. Sanderson hosted natural-history programmes, participated in some of the earliest television experiments, and later developed what he called his"animal business", maintaining collections of animals that could be used for broadcasting, exhibitions and public demonstrations. He eventually operated a roadside zoo in New Jersey and toured exhibits of rare animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivan T. Sanderson</span><span class="citation-popover-snippet">Ivan T. Sanderson</span></span></span>
 
-The result was a public image grounded in direct contact with living creatures. Audiences did not primarily encounter him as a theorist. They encountered him as someone who physically handled animals and appeared to know them intimately.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6tRUvtyAMOg" title="Flatwoods Monster Solved!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer">Flatwoods Monster Solved!</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 287.8K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6tRUvtyAMOg">Open on YouTube</a></p></div></div></div>
+The result was a public image grounded in direct contact with living creatures. Audiences did not primarily encounter him as a theorist. They encountered him as someone who physically handled animals and appeared to know them intimately.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6tRUvtyAMOg" title="Flatwoods Monster Solved!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer">Flatwoods Monster Solved!</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 287.8K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6tRUvtyAMOg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Television Made Strange Creatures Feel Immediate
 
@@ -301,6 +309,12 @@ Television therefore functioned as a credibility transfer mechanism. Familiarity
 Sanderson's broadcasts sat at an intersection of science communication and entertainment. Television rewarded vivid demonstrations, unexpected behaviour and unusual specimens. A presenter who arrived with an exotic animal naturally attracted attention.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/omkf-eh9FAc" title="Brittnet Barbieri Experts investigate cryptozoologist Ivan Sanderson&#x27;s unexplained cases." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=omkf-eh9FAc" target="_blank" rel="noopener noreferrer">Brittnet Barbieri Experts investigate cryptozoologist Ivan Sanderson&#x27;s unexplained cases.</a></p><p class="youtube-embed-meta">Channel: Sarah&#x27;s Playlist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=omkf-eh9FAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=omkf-eh9FAc">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Television Strengthened Sanderson's Monster Authority
 

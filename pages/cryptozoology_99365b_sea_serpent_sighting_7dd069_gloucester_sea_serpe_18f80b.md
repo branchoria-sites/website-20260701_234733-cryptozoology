@@ -278,11 +278,25 @@ header:
 image: /assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fye8GjUZDg0" title="The Gloucester Sea Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer">The Gloucester Sea Monster</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fye8GjUZDg0">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fye8GjUZDg0" title="The Gloucester Sea Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer">The Gloucester Sea Monster</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fye8GjUZDg0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Witnesses Reported at Cape Ann
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GLc6rIV1CnU" title="The Gloucester Sea Serpent of 1817 | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GLc6rIV1CnU" target="_blank" rel="noopener noreferrer">The Gloucester Sea Serpent of 1817 | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GLc6rIV1CnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GLc6rIV1CnU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why *Scoliophis atlanticus* Was a Scientific Mistake
 
@@ -303,6 +317,12 @@ Once the supposed juvenile specimen was reinterpreted, much of the foundation fo
 ## How Credible Witnesses Can Still Produce Unreliable Zoology
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_JICwEGHviY" title="The Folklorist: The Gloucester Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_JICwEGHviY" target="_blank" rel="noopener noreferrer">The Folklorist: The Gloucester Sea Serpent</a></p><p class="youtube-embed-meta">Channel: The Folklorist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_JICwEGHviY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_JICwEGHviY">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Known-Animal Explanations and Remaining Uncertainty
 

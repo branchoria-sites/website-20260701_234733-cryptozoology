@@ -317,7 +317,15 @@ One reason cryptid debates become confused is that several different forms of kn
 
 These activities overlap but are not interchangeable. A region may be unmapped yet biologically sampled. It may be mapped but biologically unknown. It may even contain photographed organisms that still lack formal scientific description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oceanexplorer.noaa.gov/ocean-fact/explored/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceanexplorer.noaa.gov">[NOAA Ocean Exploration+2NOAA Ocean Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceanexplorer.noaa.gov</span><span class="citation-popover-snippet">NOAA Ocean ExplorationHow much of the ocean has been explored?We can&#x27;t say we&#x27;ve explored the seafloor until we&#x27;ve seen it, and explorers...</span></span></span>
 
-This distinction matters because cryptid claims frequently rely on mapping statistics that do not directly address whether large animals could remain undiscovered. A missing bathymetric survey does not imply the presence of unknown megafauna; it merely indicates incomplete knowledge of seafloor shape.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QU8GonJwxiI" title="Seascape Alaska - 2023 Expedition Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QU8GonJwxiI" target="_blank" rel="noopener noreferrer">Seascape Alaska - 2023 Expedition Discoveries</a></p><p class="youtube-embed-meta">Channel: NOAA Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QU8GonJwxiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QU8GonJwxiI">Open on YouTube</a></p></div></div></div>
+This distinction matters because cryptid claims frequently rely on mapping statistics that do not directly address whether large animals could remain undiscovered. A missing bathymetric survey does not imply the presence of unknown megafauna; it merely indicates incomplete knowledge of seafloor shape.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QU8GonJwxiI" title="Seascape Alaska - 2023 Expedition Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QU8GonJwxiI" target="_blank" rel="noopener noreferrer">Seascape Alaska - 2023 Expedition Discoveries</a></p><p class="youtube-embed-meta">Channel: NOAA Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QU8GonJwxiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QU8GonJwxiI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Unseen Habitat Can and Cannot Imply
 
@@ -361,7 +369,15 @@ The first claim is highly plausible because similar discoveries occur regularly.
 
 The second is plausible but requires more evidence because large vertebrates are harder to overlook.
 
-The third faces a much higher evidential burden. A widespread population of large animals would likely generate multiple independent lines of evidence beyond eyewitness reports alone.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvUhmCwQeGA" title="Illuminating the Abyss: The Unknown Ocean | World Science Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvUhmCwQeGA" target="_blank" rel="noopener noreferrer">Illuminating the Abyss: The Unknown Ocean | World Science Festival</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvUhmCwQeGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvUhmCwQeGA">Open on YouTube</a></p></div></div></div>
+The third faces a much higher evidential burden. A widespread population of large animals would likely generate multiple independent lines of evidence beyond eyewitness reports alone.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvUhmCwQeGA" title="Illuminating the Abyss: The Unknown Ocean | World Science Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvUhmCwQeGA" target="_blank" rel="noopener noreferrer">Illuminating the Abyss: The Unknown Ocean | World Science Festival</a></p><p class="youtube-embed-meta">Channel: World Science Festival</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvUhmCwQeGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvUhmCwQeGA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Governance Question Behind the Unknown Ocean
 
@@ -369,7 +385,15 @@ The significance of mapping gaps extends beyond curiosity. Governments and inter
 
 From a cryptozoological perspective, this creates a useful lesson. The unknown ocean is real, measurable and important. Programmes such as Seabed 2030 exist precisely because humanity lacks complete information about the seafloor. Yet these initiatives treat uncertainty as something to be investigated through data collection rather than as evidence for specific creatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seabed2030.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seabed2030.org">[Seabed 2030]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seabed2030.org</span><span class="citation-popover-snippet">Seabed 2030Home — Seabed 2030Seabed 2030 is a pioneering initiative accelerating ocean mapping efforts. We are a global community working...</span></span></span>
 
-That approach provides the most reliable framework for evaluating marine cryptids. Mapping gaps justify scientific openness. They do not, by themselves, validate particular monster traditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KoOxTV3QIrM" title="How Close Are We to Completely Mapping the Ocean?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KoOxTV3QIrM" target="_blank" rel="noopener noreferrer">How Close Are We to Completely Mapping the Ocean?</a></p><p class="youtube-embed-meta">Channel: Seeker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KoOxTV3QIrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KoOxTV3QIrM">Open on YouTube</a></p></div></div></div>
+That approach provides the most reliable framework for evaluating marine cryptids. Mapping gaps justify scientific openness. They do not, by themselves, validate particular monster traditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KoOxTV3QIrM" title="How Close Are We to Completely Mapping the Ocean?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KoOxTV3QIrM" target="_blank" rel="noopener noreferrer">How Close Are We to Completely Mapping the Ocean?</a></p><p class="youtube-embed-meta">Channel: Seeker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KoOxTV3QIrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KoOxTV3QIrM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Mapping Gaps Really Tell Us
 

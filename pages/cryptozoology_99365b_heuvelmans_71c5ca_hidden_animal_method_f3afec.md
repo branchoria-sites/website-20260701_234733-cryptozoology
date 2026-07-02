@@ -278,7 +278,15 @@ header:
 image: /assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wGcf6Q8-XD0" title="The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer">The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wGcf6Q8-XD0">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wGcf6Q8-XD0" title="The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer">The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wGcf6Q8-XD0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Reports, Tracks and Testimony as Clues
 
@@ -291,7 +299,14 @@ His method therefore treated several kinds of indirect evidence as potentially m
 * Historical records and travellers’ accounts.
 * Indigenous and local knowledge.
 * Photographs, sketches and alleged remains.
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--CbC6XP9jE" title="Was the Minnesota Iceman Real?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--CbC6XP9jE" target="_blank" rel="noopener noreferrer">Was the Minnesota Iceman Real?</a></p><p class="youtube-embed-meta">Channel: Thorn’s Jungle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--CbC6XP9jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--CbC6XP9jE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Comparative Clustering Built Possible Species Cases
 
@@ -299,7 +314,11 @@ The distinctive feature of Heuvelmans’ method was comparative clustering. He d
 
 If dozens of [witnesses]({{'witnesses/' | relative_url }}) from different times and places described a creature with similar features, Heuvelmans regarded that repetition as potentially significant. He believed that random errors would produce inconsistent stories, whereas a real animal might generate a recognisable pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptozoologicalreferencelibrary.wordpress.com/wp-content/uploads/2020/08/heuvelmans-1988.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordpress.com">[Cryptozoological Reference Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordpress.com</span><span class="citation-popover-title">Cryptozoological Reference Library Heuvelmans, B</span><span class="citation-popover-snippet">1988). The sources and method of ...by B HEUVELMANS · Cited by 26 — The animal forms within which some of these &quot;hidden&quot; animals can be...</span></span></span>
 
-His books often followed the same process:<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VMgwBeOC5lY" title="On the Track of Unknown Animals | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer">On the Track of Unknown Animals | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VMgwBeOC5lY">Open on YouTube</a></p></div></div></div><img src="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Animals illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><div class="content-enhancement content-enhancement--step-flow" markdown="1">
+His books often followed the same process:
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VMgwBeOC5lY" title="On the Track of Unknown Animals | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer">On the Track of Unknown Animals | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VMgwBeOC5lY">Open on YouTube</a></p></div></div></div>
+
+<img src="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Animals illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Collect reports from many sources.
 2. Compare descriptions for common features.

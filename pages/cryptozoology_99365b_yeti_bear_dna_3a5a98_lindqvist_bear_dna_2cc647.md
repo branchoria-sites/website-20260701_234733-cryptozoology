@@ -272,11 +272,25 @@ header:
 image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the 2017 team sampled
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ymwVDxoGc34" title="Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ymwVDxoGc34" target="_blank" rel="noopener noreferrer">Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears</a></p><p class="youtube-embed-meta">Channel: WKBW TV | Buffalo, NY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ymwVDxoGc34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ymwVDxoGc34">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Which animals the alleged Yeti relics matched
 
@@ -295,6 +309,12 @@ Crucially, none of the analysed material produced genetic evidence for an unknow
 ## How the study addressed the earlier polar-bear controversy
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwKR_vF-WZM" title="Is the Yeti just...a bear?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwKR_vF-WZM" target="_blank" rel="noopener noreferrer">Is the Yeti just...a bear?</a></p><p class="youtube-embed-meta">Channel: 11Alive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwKR_vF-WZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwKR_vF-WZM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the result mattered beyond monster hunting
 

@@ -278,13 +278,23 @@ header:
 image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rd2ZGh9uNlg" title="Innovation in Research on the Road to Success for the Large-antlered Muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer">Innovation in Research on the Road to Success for the Large-antlered Muntjac</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rd2ZGh9uNlg">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rd2ZGh9uNlg" title="Innovation in Research on the Road to Success for the Large-antlered Muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer">Innovation in Research on the Road to Success for the Large-antlered Muntjac</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rd2ZGh9uNlg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Skulls, antlers and camera records
 
-The large-antlered muntjac entered science through physical evidence rather than through a dramatic encounter in the forest. Researchers investigating wildlife in the Annamite Mountains encountered distinctive antlers and skulls obtained from hunters. These remains were sufficiently different from known muntjac species to support the description of a [new species]({{'new-species/' | relative_url }}) in 1994.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.izw-berlin.de/en/press-release/first-record-of-large-antlered-muntjac-in-quang-nam-vietnam-in-the-wild-provides-new-hope-for-the-survival-of-this-species.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: izw-berlin.de">[izw-berlin.de+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">izw-berlin.de</span><span class="citation-popover-snippet">In addition to large-antlered muntjac, other camera trap surveys...Read more...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwsRkTbSg8s" title="Camera-trap footage of the Critically Endangered large-antlered muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer">Camera-trap footage of the Critically Endangered large-antlered muntjac</a></p><p class="youtube-embed-meta">Channel: CLPawards</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwsRkTbSg8s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the Annamites constrain the range
 
@@ -299,9 +309,11 @@ Research in protected landscapes such as Nakai-Nam Theun has shown that the spec
 
 The most important shift in understanding the large-antlered muntjac is that the mystery today is increasingly shaped by hunting rather than by biological obscurity.
 
-Across the Annamites, industrial-scale wire snaring has become one of the defining conservation threats. Unlike traditional hunting aimed at particular animals, wire snares are indiscriminate. They continue trapping wildlife day and night and can remove animals from forests even when people are absent. Conservation organisations working in the region have documented enormous numbers of snares being removed from protected areas, yet the pressure remains intense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.izw-berlin.de/en/press-release/first-record-of-large-antlered-muntjac-in-quang-nam-vietnam-in-the-wild-provides-new-hope-for-the-survival-of-this-species.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: izw-berlin.de">[izw-berlin.de+2WWF Panda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">izw-berlin.de</span><span class="citation-popover-snippet">In addition to large-antlered muntjac, other camera trap surveys...Read more...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwsRkTbSg8s" title="One of the Rarest Most Endangered Animals in the World Caught on Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer">One of the Rarest Most Endangered Animals in the World Caught on Camera</a></p><p class="youtube-embed-meta">Channel: The More We Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwsRkTbSg8s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Rare is not the same as magically hidden
 

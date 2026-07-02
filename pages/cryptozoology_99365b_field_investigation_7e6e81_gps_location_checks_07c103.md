@@ -315,7 +315,15 @@ Useful notes include:<div class="content-enhancement content-enhancement--compar
 * Parking areas and campsites.
 * Distances from settlements or buildings.</div>
 
-These details matter because they help assess whether ordinary human activity could explain observations. A mysterious vocalisation reported half a kilometre from a campsite is different from one reported many kilometres from regular human use.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R5LqgVyTQ7g" title="Geolocate Fieldwork Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R5LqgVyTQ7g" target="_blank" rel="noopener noreferrer">Geolocate Fieldwork Data</a></p><p class="youtube-embed-meta">Channel: Lee Hancock</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R5LqgVyTQ7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R5LqgVyTQ7g">Open on YouTube</a></p></div></div></div>
+These details matter because they help assess whether ordinary human activity could explain observations. A mysterious vocalisation reported half a kilometre from a campsite is different from one reported many kilometres from regular human use.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R5LqgVyTQ7g" title="Geolocate Fieldwork Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R5LqgVyTQ7g" target="_blank" rel="noopener noreferrer">Geolocate Fieldwork Data</a></p><p class="youtube-embed-meta">Channel: Lee Hancock</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R5LqgVyTQ7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R5LqgVyTQ7g">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What maps reveal that witnesses often miss
 
@@ -348,7 +356,15 @@ A practical review often begins with a simple overlay of the sighting coordinate
 
 **Human infrastructure.** Cabins, communication towers, pipelines and recreational facilities may affect both animal behaviour and witness interpretation.
 
-The goal is not to dismiss reports automatically but to identify testable alternatives before extraordinary explanations are considered.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoyYhM3gW4A" title="Room to Roam: How Tracking Data Guides Conservation Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoyYhM3gW4A" target="_blank" rel="noopener noreferrer">Room to Roam: How Tracking Data Guides Conservation Action</a></p><p class="youtube-embed-meta">Channel: Movebank</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoyYhM3gW4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoyYhM3gW4A">Open on YouTube</a></p></div></div></div>
+The goal is not to dismiss reports automatically but to identify testable alternatives before extraordinary explanations are considered.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoyYhM3gW4A" title="Room to Roam: How Tracking Data Guides Conservation Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoyYhM3gW4A" target="_blank" rel="noopener noreferrer">Room to Roam: How Tracking Data Guides Conservation Action</a></p><p class="youtube-embed-meta">Channel: Movebank</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoyYhM3gW4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoyYhM3gW4A">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Testing the claim against local ecology
 
@@ -390,7 +406,15 @@ For cryptid investigations, a useful compromise is often:<div class="content-enh
 * Record the uncertainty explicitly.
 * Allow trusted investigators access to the precise data if verification is required.</div>
 
-This approach protects locations while maintaining the possibility of independent examination.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THGhNrfbK_M" title="GPS WILDLIFE TRACKING - Earth Science Education Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THGhNrfbK_M" target="_blank" rel="noopener noreferrer">GPS WILDLIFE TRACKING - Earth Science Education Video</a></p><p class="youtube-embed-meta">Channel: Dynamic Earth Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THGhNrfbK_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THGhNrfbK_M">Open on YouTube</a></p></div></div></div>
+This approach protects locations while maintaining the possibility of independent examination.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THGhNrfbK_M" title="GPS WILDLIFE TRACKING - Earth Science Education Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THGhNrfbK_M" target="_blank" rel="noopener noreferrer">GPS WILDLIFE TRACKING - Earth Science Education Video</a></p><p class="youtube-embed-meta">Channel: Dynamic Earth Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THGhNrfbK_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THGhNrfbK_M">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What GPS location checks can and cannot prove
 

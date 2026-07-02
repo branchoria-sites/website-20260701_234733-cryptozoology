@@ -285,6 +285,12 @@ Among all the examples used by Bernard [Heuvelmans]({{'heuvelmans/' | relative_u
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3qHl3nsyqmw" title="10 “Cryptids” That Turned Out to be “Real” | EDGE&#x27;s Top 10s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3qHl3nsyqmw" target="_blank" rel="noopener noreferrer">10 “Cryptids” That Turned Out to be “Real” | EDGE&#x27;s Top 10s</a></p><p class="youtube-embed-meta">Channel: EDGE Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3qHl3nsyqmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3qHl3nsyqmw">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## How the Okapi Supported Local-Knowledge Arguments
 
 One reason the okapi became so important is that its discovery involved information supplied by people who already knew the animal existed. Long before zoologists classified *Okapia johnstoni*, communities in the Congo Basin were familiar with it and had names for it. Explorers such as Henry Morton Stanley recorded descriptions from local people during the late nineteenth century, and these accounts later guided further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
@@ -297,6 +303,12 @@ At the same time, the okapi story is often misunderstood. It was not a legendary
 ## Why Specimens Changed the Okapi's Scientific Status
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pc6S7gGKWIw" title="Who &quot;Discovered&quot; the Okapi?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer">Who &quot;Discovered&quot; the Okapi?</a></p><p class="youtube-embed-meta">Channel: Bizarre Beasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pc6S7gGKWIw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Real Lesson of the Okapi Analogy
 

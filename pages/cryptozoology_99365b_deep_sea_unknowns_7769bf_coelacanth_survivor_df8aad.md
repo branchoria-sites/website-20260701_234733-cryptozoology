@@ -279,9 +279,11 @@ Yet the coelacanth is also one of the most misused examples in [cryptozoology]({
 
 ## What the 1938 Specimen Proved
 
-On 22 December 1938, museum curator Marjorie [Courtenay-Latimer]({{'latimer-s-role/' | relative_url }}) examined an unusual fish landed by a trawler near South Africa's east coast. Recognising that it was unlike known local species, she contacted ichthyologist J. L. B. Smith, who eventually confirmed that the specimen belonged to a lineage previously known only from fossils. The fish was later named *Latimeria chalumnae* in her honour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean+2History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLDqIfyaJJ4" title="Extinct for 66 Million Years, Rediscovered Alive in 1938" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLDqIfyaJJ4" target="_blank" rel="noopener noreferrer">Extinct for 66 Million Years, Rediscovered Alive in 1938</a></p><p class="youtube-embed-meta">Channel: GeologyHub</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLDqIfyaJJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLDqIfyaJJ4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Ecology Made Survival Plausible
 
@@ -303,6 +305,12 @@ Popular accounts often portray the coelacanth as a frozen relic identical to its
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Where Prehistoric-Survivor Claims Overreach
 
 The most common misuse of the coelacanth is a simple argument: “Scientists thought coelacanths were extinct and were wrong; therefore reports of surviving dinosaurs, marine reptiles, or giant prehistoric predators could also be true.”
@@ -320,7 +328,15 @@ Claims involving surviving plesiosaurs or other Mesozoic marine reptiles face ec
 
 Claims that non-avian dinosaurs survive in remote forests encounter similar difficulties. Large terrestrial vertebrates interact extensively with ecosystems, leave [tracks]({{'tracks/' | relative_url }}), carcasses, genetic material, and observable impacts. The evidential burden is dramatically higher than for a deep-water fish inhabiting sparsely studied habitats.
 
-### Megalodon scenarios<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BsDooIWg2To" title="The 400-Million Year Old Fish That Refused To Die" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BsDooIWg2To" target="_blank" rel="noopener noreferrer">The 400-Million Year Old Fish That Refused To Die</a></p><p class="youtube-embed-meta">Channel: Evolution Exposed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BsDooIWg2To" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BsDooIWg2To">Open on YouTube</a></p></div></div></div>
+### Megalodon scenarios
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BsDooIWg2To" title="The 400-Million Year Old Fish That Refused To Die" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BsDooIWg2To" target="_blank" rel="noopener noreferrer">The 400-Million Year Old Fish That Refused To Die</a></p><p class="youtube-embed-meta">Channel: Evolution Exposed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BsDooIWg2To" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BsDooIWg2To">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Real Lesson for Cryptozoology
 

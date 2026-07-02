@@ -279,15 +279,23 @@ The importance of the book lies less in any individual creature it discussed tha
 
 ## What the 1955 Book Tried to Do
 
-The opening argument of *On the Track of Unknown Animals* was deliberately ambitious. Heuvelmans challenged the idea that the age of zoological discovery had ended. He assembled numerous examples of animals that had once been doubted, overlooked or unknown to Western science before eventually being recognised. Among the examples he highlighted were the okapi, giant panda, Komodo dragon, mountain gorilla, coelacanth and other species whose existence had at one time been disputed or poorly understood by outside observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">On the Track of Unknown Animals</span><span class="citation-popover-snippet">On the Track of Unknown Animals</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bwJTjprghR8" title="A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer">A Neanderthal Body Found Frozen in Ice? | The Minnesota Iceman Story Part 2</a></p><p class="youtube-embed-meta">Channel: Ben G Thomas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bwJTjprghR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bwJTjprghR8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Turning Monster Stories into Zoological Categories
 
 One of the book’s most influential innovations was its method of classification. Rather than treating every mystery creature as an isolated curiosity, Heuvelmans grouped reports into broader zoological types.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VMgwBeOC5lY" title="On the Track of Unknown Animals | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer">On the Track of Unknown Animals | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VMgwBeOC5lY">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How the Book Grouped Yeti, Sea-Serpent and Prehistoric-Survival Reports
 
@@ -304,7 +312,15 @@ His discussions often combined expedition accounts, local traditions, physical d
 
 He collected descriptions from sailors, explorers and coastal witnesses, then attempted to identify recurring forms. Instead of asking whether every report was true, he asked whether repeated descriptions might indicate undiscovered marine species. This analytical move became a hallmark of cryptozoological methodology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">On the Track of Unknown Animals</span><span class="citation-popover-snippet">On the Track of Unknown Animals</span></span></span>
 
-### Living Fossils and Prehistoric Survivors<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xdYkdrUY-54" title="Hunters of unknown animals ! | SLICE EXPERTS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer">Hunters of unknown animals ! | SLICE EXPERTS</a></p><p class="youtube-embed-meta">Channel: SLICE Wild</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xdYkdrUY-54">Open on YouTube</a></p></div></div></div>
+### Living Fossils and Prehistoric Survivors
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xdYkdrUY-54" title="Hunters of unknown animals ! | SLICE EXPERTS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer">Hunters of unknown animals ! | SLICE EXPERTS</a></p><p class="youtube-embed-meta">Channel: SLICE Wild</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xdYkdrUY-54">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Book’s Research Style
 

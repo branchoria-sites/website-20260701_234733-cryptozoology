@@ -291,7 +291,15 @@ In cryptid investigations, replication serves several purposes at once:<div clas
 
 * It checks whether the original result can be reproduced using the same material.
 * It tests whether a different laboratory reaches the same conclusion.
-* It helps distinguish a genuine biological signal from contamination introduced during collection or analysis.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzYLGWudaLI" title="Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer">Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzYLGWudaLI">Open on YouTube</a></p></div></div></div>
+* It helps distinguish a genuine biological signal from contamination introduced during collection or analysis.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzYLGWudaLI" title="Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer">Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzYLGWudaLI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Reserve Material Should Preserve
 
@@ -314,7 +322,15 @@ For a cryptid sample, an ideal reserve package would preserve:<div class="conten
 * Storage conditions and handling logs.
 * Photographs and measurements linking the reserve material to the original sample.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NYC Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Handbook on Biological Evidence Preservation</span><span class="citation-popover-snippet">To ensure the integrity of recordkeeping and to satisfy chain-of-custody requirements for all biological...</span></span></span></div>
 
-Without those records, later testing may confirm the identity of the retained material but not necessarily its connection to the original claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ok8Fc4UoW0M" title="Does the Sasquatch Genome Project have Bogus DNA? - SLP#30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ok8Fc4UoW0M" target="_blank" rel="noopener noreferrer">Does the Sasquatch Genome Project have Bogus DNA? - SLP#30</a></p><p class="youtube-embed-meta">Channel: Jeffrey Kelley</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ok8Fc4UoW0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ok8Fc4UoW0M">Open on YouTube</a></p></div></div></div>
+Without those records, later testing may confirm the identity of the retained material but not necessarily its connection to the original claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ok8Fc4UoW0M" title="Does the Sasquatch Genome Project have Bogus DNA? - SLP#30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ok8Fc4UoW0M" target="_blank" rel="noopener noreferrer">Does the Sasquatch Genome Project have Bogus DNA? - SLP#30</a></p><p class="youtube-embed-meta">Channel: Jeffrey Kelley</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ok8Fc4UoW0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ok8Fc4UoW0M">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Lessons from High-Profile Cryptid DNA Studies
 
@@ -329,7 +345,15 @@ The broader lesson is not merely that the samples turned out to be ordinary anim
 
 Cryptid investigations often begin with a claim: a witness reports an encounter, a collector acquires unusual hair, or a tissue sample is said to originate from an unknown creature. DNA testing may then produce a result. The critical mistake is treating that first result as a conclusion.
 
-Retesting creates a structured process for moving from assertion to evidence. A claim that survives independent examination becomes more credible because multiple opportunities for error have been addressed. A claim that fails replication may still be historically interesting, but it loses evidential strength.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THD4HsBE-lA" title="They Spent $400,000 Testing Bigfoot DNA. The Results Were IMPOSSIBLE | Joe Rogan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THD4HsBE-lA" target="_blank" rel="noopener noreferrer">They Spent $400,000 Testing Bigfoot DNA. The Results Were IMPOSSIBLE | Joe Rogan</a></p><p class="youtube-embed-meta">Channel: The Cyber Dialogue</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THD4HsBE-lA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THD4HsBE-lA">Open on YouTube</a></p></div></div></div>
+Retesting creates a structured process for moving from assertion to evidence. A claim that survives independent examination becomes more credible because multiple opportunities for error have been addressed. A claim that fails replication may still be historically interesting, but it loses evidential strength.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THD4HsBE-lA" title="They Spent $400,000 Testing Bigfoot DNA. The Results Were IMPOSSIBLE | Joe Rogan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THD4HsBE-lA" target="_blank" rel="noopener noreferrer">They Spent $400,000 Testing Bigfoot DNA. The Results Were IMPOSSIBLE | Joe Rogan</a></p><p class="youtube-embed-meta">Channel: The Cyber Dialogue</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THD4HsBE-lA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THD4HsBE-lA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Practical Standard for Credible Cryptid DNA Evidence
 

@@ -296,7 +296,15 @@ After that, evidence continued to accumulate:
 * Beaks and squid remains were found in sperm whales, indicating the existence of sizeable deep-sea prey.
 * Preserved specimens entered museum collections where scientists could compare anatomy across different finds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-title">Smithsonian Ocean How Big is the Giant Squid?</span><span class="citation-popover-snippet">Smithsonian OceanHow Big is the Giant Squid? - Smithsonian OceanThe largest giant squid ever recorded by scientists was almost 43 feet (1...</span></span></span>
 
-No single specimen proved everything. What mattered was repetition. Independent discoveries from different places and times produced a consistent picture of the same type of animal.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MGujKdzNrQc" title="Giant Squid Encounter | Deep Sea Creatures &amp; Ocean Mysteries Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MGujKdzNrQc" target="_blank" rel="noopener noreferrer">Giant Squid Encounter | Deep Sea Creatures &amp; Ocean Mysteries Documentary</a></p><p class="youtube-embed-meta">Channel: Deep Ocean Enigma Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MGujKdzNrQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MGujKdzNrQc">Open on YouTube</a></p></div></div></div>
+No single specimen proved everything. What mattered was repetition. Independent discoveries from different places and times produced a consistent picture of the same type of animal.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MGujKdzNrQc" title="Giant Squid Encounter | Deep Sea Creatures &amp; Ocean Mysteries Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MGujKdzNrQc" target="_blank" rel="noopener noreferrer">Giant Squid Encounter | Deep Sea Creatures &amp; Ocean Mysteries Documentary</a></p><p class="youtube-embed-meta">Channel: Deep Ocean Enigma Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MGujKdzNrQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MGujKdzNrQc">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Live Footage Took So Long
 
@@ -322,7 +330,15 @@ The giant squid became accepted because several independent forms of evidence re
 
 The strongest foundation came from tangible specimens. Scientists could measure them, dissect them, compare anatomy, preserve tissues, and place the results in museum collections. Physical remains transformed rumours into testable biological evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-title">Smithsonian Ocean How Big is the Giant Squid?</span><span class="citation-popover-snippet">Smithsonian OceanHow Big is the Giant Squid? - Smithsonian OceanThe largest giant squid ever recorded by scientists was almost 43 feet (1...</span></span></span>
 
-### Ecological Evidence<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/akBLhiRgLpM" title="Giant Squid vs. Kraken: Which One Is Real? (Deep Sea Mysteries)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=akBLhiRgLpM" target="_blank" rel="noopener noreferrer">Giant Squid vs. Kraken: Which One Is Real? (Deep Sea Mysteries)</a></p><p class="youtube-embed-meta">Channel: Enigma Myths</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=akBLhiRgLpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=akBLhiRgLpM">Open on YouTube</a></p></div></div></div>
+### Ecological Evidence
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/akBLhiRgLpM" title="Giant Squid vs. Kraken: Which One Is Real? (Deep Sea Mysteries)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=akBLhiRgLpM" target="_blank" rel="noopener noreferrer">Giant Squid vs. Kraken: Which One Is Real? (Deep Sea Mysteries)</a></p><p class="youtube-embed-meta">Channel: Enigma Myths</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=akBLhiRgLpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=akBLhiRgLpM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Repeated Records
 
@@ -332,7 +348,15 @@ The giant squid was not supported by one dramatic encounter. It was supported by
 
 Photographs and later video strengthened an already substantial evidence base. They answered questions about behaviour, appearance and movement, but they arrived after zoologists had already accepted the species as real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1559985/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFirst-ever observations of a live giant squid in the wild</span><span class="citation-popover-snippet">by T Kubodera · 2005 · Cited by 103 — Architeuthis remains have been found floating at the surface and have been recovered from commer...</span></span></span>
 
-Together, these evidence streams created a much stronger case than any single photograph, witness account or stranded carcass could provide alone.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuM0NBnr_Uc" title="Colossal Sea Monster | The Kraken&#x27;s Documented Attacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuM0NBnr_Uc" target="_blank" rel="noopener noreferrer">Colossal Sea Monster | The Kraken&#x27;s Documented Attacks</a></p><p class="youtube-embed-meta">Channel: Mythical Beast Realm</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuM0NBnr_Uc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuM0NBnr_Uc">Open on YouTube</a></p></div></div></div>
+Together, these evidence streams created a much stronger case than any single photograph, witness account or stranded carcass could provide alone.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuM0NBnr_Uc" title="Colossal Sea Monster | The Kraken&#x27;s Documented Attacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuM0NBnr_Uc" target="_blank" rel="noopener noreferrer">Colossal Sea Monster | The Kraken&#x27;s Documented Attacks</a></p><p class="youtube-embed-meta">Channel: Mythical Beast Realm</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuM0NBnr_Uc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuM0NBnr_Uc">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Kraken Lesson for Cryptozoology
 

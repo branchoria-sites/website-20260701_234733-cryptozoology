@@ -446,7 +446,15 @@ header:
 image: /assets/images/cryptozoology_99365b_loch_ness_dna_39c301-overview-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The classic Nessie claim
 
@@ -461,9 +469,11 @@ That still leaves room for sightings to be sincere. A witness can honestly repor
 
 Environmental DNA, or eDNA, is genetic material shed by living things into their surroundings. Animals leave traces through skin, mucus, scales, feathers, faeces and other biological material. In water, scientists can filter samples, extract DNA and compare sequences with reference databases to build a picture of what organisms are present. Gemmell described the method in plain terms before the Loch Ness fieldwork: life is messy, and those traces can provide a biological census of a place at a given time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/opinion-from-otago-to-loch-ness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">Open source on otago.ac.nz.</span></span></span>
 
-The Loch Ness project was deliberately framed as both science and public engagement. Gemmell wrote that the plan was essentially a biodiversity survey using eDNA tools, with the monster story acting as a way to draw people into the scientific process. The team involved researchers from Otago, the Loch Ness Project, the University of Copenhagen, the University of Hull and the University of the Highlands and Islands, and collected hundreds of samples from around the loch, including deep water down to about 200 metres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/opinion-from-otago-to-loch-ness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">Open source on otago.ac.nz.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CcOEijIqiAM" title="The Loch Ness DNA Test Results That Terrified Scientists!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CcOEijIqiAM" target="_blank" rel="noopener noreferrer">The Loch Ness DNA Test Results That Terrified Scientists!</a></p><p class="youtube-embed-meta">Channel: Did You Know?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CcOEijIqiAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CcOEijIqiAM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why giant eel theories persist
 
@@ -484,7 +494,15 @@ For cryptozoology, the lesson is not that eDNA can instantly settle every monste
 
 The survey also shows why negative evidence can be valuable. A failed monster hunt is not useless if it improves the map of what lives in the loch, tests specific claims and clarifies what kinds of evidence would be needed next. Gemmell argued before the results that the project was a biodiversity survey with a science-communication hook, not simply a monster chase. That framing is important: the scientific success of the work did not depend on finding Nessie.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/opinion-from-otago-to-loch-ness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">Open source on otago.ac.nz.</span></span></span>
 
-The popular mystery remains because sightings are human events as well as biological claims. People still watch the water, submit photographs, join searches and debate ambiguous shapes. But after the eDNA work, the most defensible lake monster theories are smaller, more ordinary and more fragmented: occasional large eels, misidentified known animals, wakes, optical effects and cultural expectation. That is less dramatic than a prehistoric survivor, but it fits the evidence better.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9y4SVIVPQBY" title="The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer">The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures</a></p><p class="youtube-embed-meta">Channel: Terra Glitch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9y4SVIVPQBY">Open on YouTube</a></p></div></div></div>
+The popular mystery remains because sightings are human events as well as biological claims. People still watch the water, submit photographs, join searches and debate ambiguous shapes. But after the eDNA work, the most defensible lake monster theories are smaller, more ordinary and more fragmented: occasional large eels, misidentified known animals, wakes, optical effects and cultural expectation. That is less dramatic than a prehistoric survivor, but it fits the evidence better.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9y4SVIVPQBY" title="The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer">The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures</a></p><p class="youtube-embed-meta">Channel: Terra Glitch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9y4SVIVPQBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The evidence-based bottom line
 

@@ -292,7 +292,15 @@ The silhouette also solved a problem for Nessie believers: it provided a standar
 * A long neck emerging from the water.
 * A small reptile-like head.
 * A creature resembling popular depictions of plesiosaurs.
-* A mostly hidden body beneath the surface.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CGzHkFvDGFA" title="Loch Ness Monster - The Surgeon&#x27;s Photo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CGzHkFvDGFA" target="_blank" rel="noopener noreferrer">Loch Ness Monster - The Surgeon&#x27;s Photo</a></p><p class="youtube-embed-meta">Channel: Naked Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CGzHkFvDGFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CGzHkFvDGFA">Open on YouTube</a></p></div></div></div>
+* A mostly hidden body beneath the surface.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CGzHkFvDGFA" title="Loch Ness Monster - The Surgeon&#x27;s Photo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CGzHkFvDGFA" target="_blank" rel="noopener noreferrer">Loch Ness Monster - The Surgeon&#x27;s Photo</a></p><p class="youtube-embed-meta">Channel: Naked Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CGzHkFvDGFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CGzHkFvDGFA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Toy Submarine and Model-Neck Account
 
@@ -310,9 +318,11 @@ Several elements helped the deception succeed:<div class="content-enhancement co
 * Newspapers preferred a striking image to a technical investigation of how it had been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Kenneth Wilson</span><span class="citation-popover-snippet">Robert Kenneth Wilson</span></span></span></div><img src="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_nessie_surgeons_phot_e14764-Illustration-2-dark.svg" | relative_url }}" alt="Nessie Photo illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_nessie_surgeons_phot_e14764-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_nessie_surgeons_phot_e14764-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Exposure Did Not Erase the Silhouette
 
-The exposure of the hoax did not erase the photograph from popular culture. Instead, the image underwent a transformation from evidence into icon. Even people who know the story is false often recognise the photograph instantly. The silhouette became more important than the original claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe Loch Ness monster, 1934 - a picture from the past23 Oct 2013 — One of the most famous photographic hoaxes, allegedly take...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Af6pSSk2F4" title="Loch Ness Monster Conspiracy EXPOSED | History&#x27;s Greatest Mysteries (Season 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Af6pSSk2F4" target="_blank" rel="noopener noreferrer">Loch Ness Monster Conspiracy EXPOSED | History&#x27;s Greatest Mysteries (Season 4)</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Af6pSSk2F4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Af6pSSk2F4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Photograph Reveals About Cryptid Hoaxes
 

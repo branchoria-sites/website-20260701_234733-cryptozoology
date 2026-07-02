@@ -285,6 +285,12 @@ The story of Marmaduke Wetherell’s Loch Ness [footprints]({{'footprints/' | re
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mFhG6GsZt_o" title="The Surgeon&#x27;s Photo: The 60-Year Hoax That Built a Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mFhG6GsZt_o" target="_blank" rel="noopener noreferrer">The Surgeon&#x27;s Photo: The 60-Year Hoax That Built a Monster</a></p><p class="youtube-embed-meta">Channel: Real or Fake</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mFhG6GsZt_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mFhG6GsZt_o">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## How the Footprints Were Identified
 
 The footprint episode is important because it illustrates how apparently persuasive evidence can unravel under relatively simple scrutiny. Wetherell had produced plaster casts and measurements that seemed to support the existence of a large animal. Yet the key question was not whether the prints looked unusual, but whether they matched any known source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://destinationhistorypod.com/episodes/lochnessmonster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destinationhistorypod.com">[Destination: History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destinationhistorypod.com</span><span class="citation-popover-snippet">Destination: HistoryLoch Ness Monster19 May 2024 — Marmaduke Wetherell came onto the scene. it&#x27;s thought that the prints were made by an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
@@ -295,6 +301,12 @@ The case highlights a recurring weakness in cryptid investigations. Tracks can a
 ## Why Motive Matters in Hoax Reconstruction
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9cZ8SQBnYDk" title="After 90 Years, The Loch Ness Monster Debate Is Over" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9cZ8SQBnYDk" target="_blank" rel="noopener noreferrer">After 90 Years, The Loch Ness Monster Debate Is Over</a></p><p class="youtube-embed-meta">Channel: Today I Learned Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9cZ8SQBnYDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9cZ8SQBnYDk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Hippo Tracks Reveal About Cryptid Hoaxes
 

@@ -493,7 +493,15 @@ For a track or ground sign, take:<div class="content-enhancement content-enhance
 
 Wildlife track guides stress that track identification depends on features such as size, shape, toe pattern, pads, claw marks and variation between individuals. They also warn, implicitly or explicitly, that tracks are not fixed signatures: substrate, gait, age, sex, speed and partial impressions can change appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.nmsu.edu/_circulars/CR561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.nmsu.edu">[NMSU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.nmsu.edu</span><span class="citation-popover-title">Publications Identifying and Preserving Wildlife Tracks</span><span class="citation-popover-snippet">Publications Identifying and Preserving Wildlife Tracks</span></span></span> For cryptid claims, that means a single “perfect” print is less persuasive than a documented trackway with stride, direction, substrate and surrounding context.
 
-Photographs of animals need the same discipline. Keep the original image. Do not digitally sharpen, enlarge, draw outlines or change contrast before saving an untouched copy. Record the camera or phone model, lens setting if known, zoom level if available, and whether the image is a still photo, frame from video, trail-camera capture or screenshot. If video exists, preserve the full clip, including the seconds before and after the apparent animal appears. Short clips cut at the most exciting moment often remove the context that would identify a known animal.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7DFBUVnJvDE" title="Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer">Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7DFBUVnJvDE">Open on YouTube</a></p></div></div></div>
+Photographs of animals need the same discipline. Keep the original image. Do not digitally sharpen, enlarge, draw outlines or change contrast before saving an untouched copy. Record the camera or phone model, lens setting if known, zoom level if available, and whether the image is a still photo, frame from video, trail-camera capture or screenshot. If video exists, preserve the full clip, including the seconds before and after the apparent animal appears. Short clips cut at the most exciting moment often remove the context that would identify a known animal.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7DFBUVnJvDE" title="Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer">Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7DFBUVnJvDE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Handle samples as if contamination is the main suspect
 
@@ -546,7 +554,15 @@ For responsible cryptid claims, a camera deployment log should include:
 * dates and times of checks;
 * whether bait, scent lure or food was used.</div>
 
-Bait and lures deserve special caution. They can attract known wildlife, alter behaviour, create misleading concentration of tracks, and complicate interpretation. If bait is used, it should be recorded openly. Hidden baiting or undocumented food sources can make a site look more mysterious than it is.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HaLMQ2H6_PE" title="How to take pictures of animal tracks - Tips from a Wildlife Biologist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer">How to take pictures of animal tracks - Tips from a Wildlife Biologist</a></p><p class="youtube-embed-meta">Channel: Texas Parks and Wildlife</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HaLMQ2H6_PE">Open on YouTube</a></p></div></div></div>
+Bait and lures deserve special caution. They can attract known wildlife, alter behaviour, create misleading concentration of tracks, and complicate interpretation. If bait is used, it should be recorded openly. Hidden baiting or undocumented food sources can make a site look more mysterious than it is.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HaLMQ2H6_PE" title="How to take pictures of animal tracks - Tips from a Wildlife Biologist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer">How to take pictures of animal tracks - Tips from a Wildlife Biologist</a></p><p class="youtube-embed-meta">Channel: Texas Parks and Wildlife</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HaLMQ2H6_PE">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Separate witness testimony from physical evidence
 
@@ -579,7 +595,15 @@ The practical standard is therefore a decision cluster, not a single dramatic te
 * **Can a neutral specialist review the material?**
 * **Is the conclusion phrased in proportion to the evidence?**</div>
 
-That last point is the heart of responsible cryptid investigation. A blurry image should not become “proof”. A track should not become a species. A hair should not become a hominid before testing. A sincere witness should not be mocked, but neither should sincerity be confused with verification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_ksi4Ih_wU" title="How to Make Your Own Animal Track Cast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer">How to Make Your Own Animal Track Cast</a></p><p class="youtube-embed-meta">Channel: PA Game Commission</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_ksi4Ih_wU">Open on YouTube</a></p></div></div></div>
+That last point is the heart of responsible cryptid investigation. A blurry image should not become “proof”. A track should not become a species. A hair should not become a hominid before testing. A sincere witness should not be mocked, but neither should sincerity be confused with verification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_ksi4Ih_wU" title="How to Make Your Own Animal Track Cast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer">How to Make Your Own Animal Track Cast</a></p><p class="youtube-embed-meta">Channel: PA Game Commission</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_ksi4Ih_wU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A field-ready standard for responsible claims
 

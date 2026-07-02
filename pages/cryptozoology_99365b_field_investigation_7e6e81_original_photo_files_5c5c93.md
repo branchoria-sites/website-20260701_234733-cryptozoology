@@ -297,7 +297,15 @@ For cryptid claims, this creates several problems:
 * Compression artefacts may be introduced.
 * Image-editing history becomes harder to reconstruct.</div>
 
-A screenshot also breaks the chain between the visible image and the original recording device. If an investigator receives only a screenshot of a supposed unknown animal, there may be no reliable way to determine whether the image originated from a trail camera, a mobile phone, an older photograph or an edited composite.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BBEHcmetfB0" title="REAL Unknown Animals Recorded by Wildlife Cameras - Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BBEHcmetfB0" target="_blank" rel="noopener noreferrer">REAL Unknown Animals Recorded by Wildlife Cameras - Part 2</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BBEHcmetfB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BBEHcmetfB0">Open on YouTube</a></p></div></div></div>
+A screenshot also breaks the chain between the visible image and the original recording device. If an investigator receives only a screenshot of a supposed unknown animal, there may be no reliable way to determine whether the image originated from a trail camera, a mobile phone, an older photograph or an edited composite.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BBEHcmetfB0" title="REAL Unknown Animals Recorded by Wildlife Cameras - Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BBEHcmetfB0" target="_blank" rel="noopener noreferrer">REAL Unknown Animals Recorded by Wildlife Cameras - Part 2</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BBEHcmetfB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BBEHcmetfB0">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What metadata can and cannot show
 
@@ -333,7 +341,15 @@ For cryptid investigators, this means a viral image may no longer resemble the o
 
 **Difficulty detecting manipulation.** Digital-forensics tools frequently compare metadata and image characteristics to identify editing or compositing. When metadata disappears, fewer verification avenues remain available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.ampedsoftware.com/2020/02/11/using-exif-metadata-and-jpeg-qts-for-image-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">using exif metadata and jpeg qts for image analysis</span><span class="citation-popover-snippet">Amped BlogUsing Exif Metadata and JPEG QTs for Image Analysis11 Feb 2020 — Discover how to leverage Exif metadata and JPEG Quantization T...</span></span></span>
 
-These problems explain why experienced investigators generally request original files before attempting detailed analysis.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HIyObPWM6BM" title="Imago Forensics - Image Forensics Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HIyObPWM6BM" target="_blank" rel="noopener noreferrer">Imago Forensics - Image Forensics Tutorial</a></p><p class="youtube-embed-meta">Channel: HackerSploit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HIyObPWM6BM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HIyObPWM6BM">Open on YouTube</a></p></div></div></div>
+These problems explain why experienced investigators generally request original files before attempting detailed analysis.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HIyObPWM6BM" title="Imago Forensics - Image Forensics Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HIyObPWM6BM" target="_blank" rel="noopener noreferrer">Imago Forensics - Image Forensics Tutorial</a></p><p class="youtube-embed-meta">Channel: HackerSploit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HIyObPWM6BM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HIyObPWM6BM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Original files are often more valuable than the image itself
 
@@ -343,7 +359,15 @@ Consider a hypothetical trail-camera image showing a dark upright figure. Public
 
 Wildlife researchers routinely rely on complete image sequences rather than isolated frames because animal behaviour is easier to interpret when viewed in context. The same principle applies to cryptid claims. A single dramatic frame can mislead; a complete dataset often reduces ambiguity.
 
-The history of [cryptozoology]({{'cryptozoology/' | relative_url }}) contains numerous disputed photographs whose evidential value suffered because original files were unavailable, incomplete or released only after extensive copying. In many cases, debate eventually centred less on the creature depicted and more on the inability to examine the original evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DI_himkZShQ" title="Working with Image Metadata for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DI_himkZShQ" target="_blank" rel="noopener noreferrer">Working with Image Metadata for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DI_himkZShQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DI_himkZShQ">Open on YouTube</a></p></div></div></div>
+The history of [cryptozoology]({{'cryptozoology/' | relative_url }}) contains numerous disputed photographs whose evidential value suffered because original files were unavailable, incomplete or released only after extensive copying. In many cases, debate eventually centred less on the creature depicted and more on the inability to examine the original evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DI_himkZShQ" title="Working with Image Metadata for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DI_himkZShQ" target="_blank" rel="noopener noreferrer">Working with Image Metadata for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DI_himkZShQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DI_himkZShQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Keeping untouched files and full video
 

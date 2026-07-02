@@ -274,13 +274,23 @@ image: /assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bea
 
 ## Introduction
 
-One of the most testable explanations for Bigfoot reports is not an unknown ape but a known animal: the American black bear. The idea is straightforward. If many [Bigfoot sightings]({{'sightings-cffe00/' | relative_url }}) are actually misidentified bears, then regions with more bears should produce more Bigfoot reports. Rather than relying on anecdotal comparisons, researchers have begun testing this prediction using population and sighting datasets.<img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-dark.svg" | relative_url }}" alt="Bear Patterns illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QKhRW-spL4k" title="Bigfoot Exposed: Why Math Says It&#x27;s Probably a Bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QKhRW-spL4k" target="_blank" rel="noopener noreferrer">Bigfoot Exposed: Why Math Says It&#x27;s Probably a Bear</a></p><p class="youtube-embed-meta">Channel: MM314</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QKhRW-spL4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QKhRW-spL4k">Open on YouTube</a></p></div></div></div>
+One of the most testable explanations for Bigfoot reports is not an unknown ape but a known animal: the American black bear. The idea is straightforward. If many [Bigfoot sightings]({{'sightings-cffe00/' | relative_url }}) are actually misidentified bears, then regions with more bears should produce more Bigfoot reports. Rather than relying on anecdotal comparisons, researchers have begun testing this prediction using population and sighting datasets.<img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-dark.svg" | relative_url }}" alt="Bear Patterns illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55_black_bear_bigfoot_p_239699-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QKhRW-spL4k" title="Bigfoot Exposed: Why Math Says It&#x27;s Probably a Bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QKhRW-spL4k" target="_blank" rel="noopener noreferrer">Bigfoot Exposed: Why Math Says It&#x27;s Probably a Bear</a></p><p class="youtube-embed-meta">Channel: MM314</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QKhRW-spL4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QKhRW-spL4k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the bear-correlation study tested
 
-The most widely discussed dataset study on this question was published in the *Journal of Zoology* in 2024 by researcher Floe Foxon. The analysis examined reported Sasquatch sightings across the United States and Canada and compared them with estimated black bear populations. Importantly, the model also adjusted for human population and forest area, because places with more people and more woodland naturally create more opportunities for unusual wildlife encounters and reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications - Wiley13 Jan 2024 — Sasquatch sightings were statistically significantly associated with bear populations such that, on...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MuHw8RlZPTc" title="This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer">This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker</a></p><p class="youtube-embed-meta">Channel: JRE Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MuHw8RlZPTc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why upright bears can look human
 
@@ -302,6 +312,12 @@ The conditions under which many Bigfoot reports occur—distance, poor lighting,
 The bear-population study is often misunderstood in both directions. Supporters of the bear explanation sometimes treat it as [proof]({{'proof/' | relative_url }}) that Bigfoot sightings are solved, while Bigfoot advocates sometimes dismiss it because it does not explain every report.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sHZ26uqT_KM" title="Was Bigfoot A Bear? DNA Raises Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sHZ26uqT_KM" target="_blank" rel="noopener noreferrer">Was Bigfoot A Bear? DNA Raises Questions</a></p><p class="youtube-embed-meta">Channel: Newsy Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sHZ26uqT_KM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sHZ26uqT_KM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the pattern matters in cryptozoology
 

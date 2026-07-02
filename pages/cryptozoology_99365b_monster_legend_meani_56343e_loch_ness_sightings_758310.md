@@ -278,13 +278,23 @@ header:
 image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZahHsR7YVCg" title="Loch Ness Monster Hunters Make Incredible New Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer">Loch Ness Monster Hunters Make Incredible New Discovery</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZahHsR7YVCg">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZahHsR7YVCg" title="Loch Ness Monster Hunters Make Incredible New Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer">Loch Ness Monster Hunters Make Incredible New Discovery</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZahHsR7YVCg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Sightings Lists as Public Folklore Infrastructure
 
-The register describes itself as the place that lists every [Nessie]({{'nessie/' | relative_url }}) sighting and maintains a running total of recorded reports. By 2026, the total exceeded 1,170 entries, with additional categories for webcam observations and other modern forms of reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnesssightings.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnesssightings.com">[lochnesssightings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnesssightings.com</span><span class="citation-popover-snippet">· 1171 · Have a look here at the details of the latest reports...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GYbq4NtaOkI" title="Mystery of the Loch Ness Monster grows after latest sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GYbq4NtaOkI" target="_blank" rel="noopener noreferrer">Mystery of the Loch Ness Monster grows after latest sighting</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GYbq4NtaOkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GYbq4NtaOkI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Repeated Entries Sustain Uncertainty
 
@@ -312,7 +322,15 @@ Loch Ness is large, deep, visually deceptive and frequently affected by changing
 
 Importantly, the register does not depend on trust in a single witness or a single photograph. Its authority comes from accumulation. Hundreds of people across decades contribute observations, even though many reports differ in quality and interpretation. This collective record allows believers and curious observers to argue that official explanations have not closed every question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnesssightings.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnesssightings.com">[lochnesssightings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnesssightings.com</span><span class="citation-popover-snippet">· 1171 · Have a look here at the details of the latest reports...</span></span></span>
 
-In that sense, the register turns uncertainty itself into a cultural resource. The loch remains a place where observation is portrayed as ongoing rather than complete.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-VgktRKKeIw" title="How to Pronounce Loch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-VgktRKKeIw" target="_blank" rel="noopener noreferrer">How to Pronounce Loch</a></p><p class="youtube-embed-meta">Channel: Julien Miquel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-VgktRKKeIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-VgktRKKeIw">Open on YouTube</a></p></div></div></div>
+In that sense, the register turns uncertainty itself into a cultural resource. The loch remains a place where observation is portrayed as ongoing rather than complete.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-VgktRKKeIw" title="How to Pronounce Loch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-VgktRKKeIw" target="_blank" rel="noopener noreferrer">How to Pronounce Loch</a></p><p class="youtube-embed-meta">Channel: Julien Miquel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-VgktRKKeIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-VgktRKKeIw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What a Register Can and Cannot Prove
 

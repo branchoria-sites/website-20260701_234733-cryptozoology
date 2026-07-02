@@ -285,6 +285,12 @@ The Oxford–Lausanne hair study is one of the most important laboratory investi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzYLGWudaLI" title="Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer">Yeti Is Real, DNA Proves It, Claims Scientist Bryan Sykes</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzYLGWudaLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzYLGWudaLI">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## What the 30 tested hairs matched
 
 The headline finding was straightforward: none of the analysed samples provided evidence for an unknown primate species. Instead, the specimens matched a range of familiar mammals already known to inhabit the regions where they were collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot and...by BC Sykes · 2014 · Cited by 49 — We have used rigorous decontami...</span></span></span>
@@ -308,9 +314,11 @@ Several samples submitted as possible Bigfoot or sasquatch evidence turned out t
 For [cryptozoology]({{'cryptozoology/' | relative_url }}), this outcome was important even though it was not dramatic. The study transformed many long-circulating claims into specific species identifications. Instead of remaining mysterious artefacts, the samples became evidence of [misidentification]({{'misidentification/' | relative_url }}), contamination, folklore attribution or simple uncertainty about an animal's origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot and...by BC Sykes · 2014 · Cited by 49 — We have used rigorous decontami...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506_oxford_lausanne_hair_c6de12-Illustration-2-dark.svg" | relative_url }}" alt="Oxford Study illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506_oxford_lausanne_hair_c6de12-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506_oxford_lausanne_hair_c6de12-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the polar bear result became controversial
 
-Two samples stood apart from all the others. One came from Ladakh in northern India and the other from Bhutan. Both had been associated with local yeti traditions. When the researchers compared the DNA sequences with available databases, they found a close match not to modern brown bears but to DNA from a fossil polar bear jawbone dating to the Pleistocene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot and...by BC Sykes · 2014 · Cited by 49 — We have used rigorous decontami...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VC5oJk2Z2qc" title="Mystery of the Yeti put to rest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VC5oJk2Z2qc" target="_blank" rel="noopener noreferrer">Mystery of the Yeti put to rest</a></p><p class="youtube-embed-meta">Channel: KENS 5: Your San Antonio News Source</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VC5oJk2Z2qc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VC5oJk2Z2qc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the study changed in cryptid testing
 

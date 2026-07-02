@@ -287,11 +287,23 @@ However, the findings are often misunderstood. The survey did not discover a gia
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## Which monster theories lost support
 
 The most important outcome of the survey was not the eel finding itself but the theories it weakened.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why eel DNA attracted attention
 
@@ -314,6 +326,12 @@ Another challenge is biological scaling. Even if unusually large eels occur occa
 ## How later research assessed the giant eel idea
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EraB4J49aRg" title="DNA Sequencing Exposed Loch Ness’ Secret — Nessie Was Never What We Thought" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer">DNA Sequencing Exposed Loch Ness’ Secret — Nessie Was Never What We Thought</a></p><p class="youtube-embed-meta">Channel: Galaxy Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EraB4J49aRg">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Loch Ness case means for future monster searches
 

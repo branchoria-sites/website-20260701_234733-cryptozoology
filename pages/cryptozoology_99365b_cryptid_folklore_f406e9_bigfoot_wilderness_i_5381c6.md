@@ -272,11 +272,25 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_folklore_f406e9_bigfoot_wilderness_i_5381c6-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/521bI-MgWfk" title="The Elusive Legend of the SOUTHERN SASQUATCH: Accounts and History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=521bI-MgWfk" target="_blank" rel="noopener noreferrer">The Elusive Legend of the SOUTHERN SASQUATCH: Accounts and History</a></p><p class="youtube-embed-meta">Channel: J. Horton Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=521bI-MgWfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=521bI-MgWfk">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/521bI-MgWfk" title="The Elusive Legend of the SOUTHERN SASQUATCH: Accounts and History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=521bI-MgWfk" target="_blank" rel="noopener noreferrer">The Elusive Legend of the SOUTHERN SASQUATCH: Accounts and History</a></p><p class="youtube-embed-meta">Channel: J. Horton Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=521bI-MgWfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=521bI-MgWfk">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## From Sasquatch traditions to modern Bigfoot
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ApbXUAAeAWw" title="Call it Bigfoot, Sasquatch or Istiyehe: Indigenous peoples know it as Protector | Oregon Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ApbXUAAeAWw" target="_blank" rel="noopener noreferrer">Call it Bigfoot, Sasquatch or Istiyehe: Indigenous peoples know it as Protector | Oregon Experience</a></p><p class="youtube-embed-meta">Channel: Oregon Public Broadcasting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ApbXUAAeAWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ApbXUAAeAWw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Forests, danger and the feeling of unmapped land
 
@@ -291,9 +305,11 @@ For residents of heavily wooded regions, this can become a source of local pride
 
 The strongest evidence that Bigfoot shapes local identity comes from the way communities actively adopt the legend. Few places illustrate this better than Willow Creek, California, which promotes itself as the “Bigfoot Capital of the World”. Annual celebrations such as Bigfoot Daze, running for decades, use the creature as a community symbol that attracts visitors, supports local businesses and reinforces a shared regional image. Willow Creek Chamber of Commerce+2Lost Coast Outpost<span class="citation-link-wrap"><a class="citation-inline-link" href="https://willowcreekchamber.com/bigfootdaze2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: willowcreekchamber.com">[willowcreekchamber.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">willowcreekchamber.com</span><span class="citation-popover-snippet">Willow Creek Chamber of CommerceBigfoot Daze 2026Bigfoot Daze 2026 is a full day community celebration at Veterans Park in Willow Creek f...</span></span></span>
 
-The economic dimension is important. Businesses, museums, festivals and [tourism]({{'tourism/' | relative_url }}) campaigns frequently use Bigfoot branding because it distinguishes one forest town from countless others. As observers noted decades ago, local shops sold Bigfoot-themed products and sighting maps, turning an uncertain creature into a marketable identity rooted in the surrounding woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1989-02-19-me-224-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1989 02 19 me 224 story</span><span class="citation-popover-snippet">Los Angeles TimesSasquatch Puts Willow Creek on Map: The Bigfoot Burger...19 Feb 1989 — Willow Creek businessmen name their shops after...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YxXhp-xjZ28" title="Sasquatch: Unraveling the Sightings | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YxXhp-xjZ28" target="_blank" rel="noopener noreferrer">Sasquatch: Unraveling the Sightings | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YxXhp-xjZ28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YxXhp-xjZ28">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Bigfoot remains tied to the woods
 

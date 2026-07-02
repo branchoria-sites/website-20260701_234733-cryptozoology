@@ -291,7 +291,15 @@ For example, a large [breeding population]({{'missing-traces-2ce98c/' | relative
 
 This does not mean that one failed expedition disproves a claim. Remote environments are difficult to survey completely. However, the cumulative effect of many unsuccessful searches matters. Science generally treats repeated negative results as information rather than as irrelevant failures.
 
-The key issue is whether a belief has a genuine failure condition. If no conceivable result would significantly lower confidence, then the belief is no longer functioning like a normal scientific hypothesis.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HobFiY4SUnU" title="Bigfoot or Impaired Judgement? | Finding Bigfoot: Rejected Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HobFiY4SUnU" target="_blank" rel="noopener noreferrer">Bigfoot or Impaired Judgement? | Finding Bigfoot: Rejected Evidence</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HobFiY4SUnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HobFiY4SUnU">Open on YouTube</a></p></div></div></div>
+The key issue is whether a belief has a genuine failure condition. If no conceivable result would significantly lower confidence, then the belief is no longer functioning like a normal scientific hypothesis.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HobFiY4SUnU" title="Bigfoot or Impaired Judgement? | Finding Bigfoot: Rejected Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HobFiY4SUnU" target="_blank" rel="noopener noreferrer">Bigfoot or Impaired Judgement? | Finding Bigfoot: Rejected Evidence</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HobFiY4SUnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HobFiY4SUnU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Negative Results Often Get Reinterpreted
 
@@ -317,7 +325,15 @@ Early claims often describe a physical animal living in a specific place. As sea
 
 This transformation changes the nature of the claim. A biological animal can be investigated through zoology and ecology. A creature whose defining feature is that it evades every method of detection becomes much harder to evaluate. The mystery itself starts to replace the original animal hypothesis.
 
-The result is a moving target. Every improvement in search technology can be met with a corresponding expansion of the creature's supposed abilities.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suI-MYNoA5M" title="Episode 46 - Cryptozoology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suI-MYNoA5M" target="_blank" rel="noopener noreferrer">Episode 46 - Cryptozoology</a></p><p class="youtube-embed-meta">Channel: Common Descent</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suI-MYNoA5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suI-MYNoA5M">Open on YouTube</a></p></div></div></div>
+The result is a moving target. Every improvement in search technology can be met with a corresponding expansion of the creature's supposed abilities.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suI-MYNoA5M" title="Episode 46 - Cryptozoology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suI-MYNoA5M" target="_blank" rel="noopener noreferrer">Episode 46 - Cryptozoology</a></p><p class="youtube-embed-meta">Channel: Common Descent</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suI-MYNoA5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suI-MYNoA5M">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Power of Anecdotes Over Absence
 
@@ -336,7 +352,15 @@ Many alleged sightings have later been attributed to [hoaxes]({{'hoaxes/' | rela
 
 Yet belief has not disappeared. One reason is that every unresolved observation can be treated as a surviving clue. Another is that Nessie functions as more than a zoological claim. It has become a cultural symbol, a tourist attraction and a continuing mystery. Researchers and commentators have noted that the creature's appeal extends beyond evidence for its existence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/history/article/loch-ness-monster-legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">loch ness monster legend</span><span class="citation-popover-snippet">National GeographicIs there any truth behind the legend of the Loch Ness...24 Oct 2024 — The Loch Ness monster has become a focus for th...</span></span></span>
 
-This means that failed searches do not merely compete with a biological hypothesis. They compete with a story that many people enjoy preserving.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKScbbwuivw" title="Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer">Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell</a></p><p class="youtube-embed-meta">Channel: University of Oregon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKScbbwuivw">Open on YouTube</a></p></div></div></div>
+This means that failed searches do not merely compete with a biological hypothesis. They compete with a story that many people enjoy preserving.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKScbbwuivw" title="Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer">Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell</a></p><p class="youtube-embed-meta">Channel: University of Oregon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKScbbwuivw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## When Persistence Becomes Advocacy Instead of Inquiry
 

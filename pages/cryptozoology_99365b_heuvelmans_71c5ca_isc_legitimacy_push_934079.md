@@ -272,11 +272,25 @@ header:
 image: /assets/images/cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ViuUkk6C88E" title="1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer">1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)...</a></p><p class="youtube-embed-meta">Channel: Chesna&#x27;s Footage Room</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ViuUkk6C88E">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ViuUkk6C88E" title="1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer">1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)...</a></p><p class="youtube-embed-meta">Channel: Chesna&#x27;s Footage Room</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ViuUkk6C88E">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why the Society Was Founded in 1982
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwuZqa3B3Nw" title="Why do People Still Believe in the Loch Ness Monster?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwuZqa3B3Nw" target="_blank" rel="noopener noreferrer">Why do People Still Believe in the Loch Ness Monster?</a></p><p class="youtube-embed-meta">Channel: Wild World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwuZqa3B3Nw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwuZqa3B3Nw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What Its Journal and Officers Signalled
 
@@ -298,9 +312,11 @@ In practical terms, the society was trying to build the infrastructure that ofte
 These features gave cryptozoology an appearance of disciplinary maturity that earlier generations of monster investigation had lacked.<img src="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079-Illustration-2-dark.svg" | relative_url }}" alt="The Society illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Organisation Did Not Settle the Scientific Dispute
 
-The ISC's existence highlighted an important distinction between scientific institutions and scientific acceptance. A field can create journals, societies and committees, yet still fail to convince the wider scientific community if its evidence remains weak or inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s13194-025-00672-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">On the value of pseudoscience and its philosophical studyby AT Tuboly · 2025 · Cited by 2 — Cryptozoologists often publish papers...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_rTFf9Nxq0" title="Living Dinosaurs in the Congo: Mokele Mbembe Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer">Living Dinosaurs in the Congo: Mokele Mbembe Part 2</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_rTFf9Nxq0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Society's Decline and Legacy
 

@@ -301,7 +301,15 @@ These factors explain why eyewitness testimony alone is considered a starting po
 
 ## The Evidence Needed for a Real Population
 
-A single dramatic encounter would rarely be enough to establish a new large marine animal. Scientists would look for multiple lines of evidence that converge on the same conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lzPoG9H8Hlo" title="Colossal Squid, 1st Live Observation | Searching for New Species in the South Sandwich Islands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lzPoG9H8Hlo" target="_blank" rel="noopener noreferrer">Colossal Squid, 1st Live Observation | Searching for New Species in the South Sandwich Islands</a></p><p class="youtube-embed-meta">Channel: Schmidt Ocean Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lzPoG9H8Hlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lzPoG9H8Hlo">Open on YouTube</a></p></div></div></div>
+A single dramatic encounter would rarely be enough to establish a new large marine animal. Scientists would look for multiple lines of evidence that converge on the same conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lzPoG9H8Hlo" title="Colossal Squid, 1st Live Observation | Searching for New Species in the South Sandwich Islands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lzPoG9H8Hlo" target="_blank" rel="noopener noreferrer">Colossal Squid, 1st Live Observation | Searching for New Species in the South Sandwich Islands</a></p><p class="youtube-embed-meta">Channel: Schmidt Ocean Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lzPoG9H8Hlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lzPoG9H8Hlo">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Physical Specimens Remain the Strongest Standard
 
@@ -341,7 +349,15 @@ Scientists would ask:<div class="content-enhancement content-enhancement--cautio
 * How does it avoid detection?
 * What ecological niche does it occupy?</div>
 
-A convincing case becomes stronger when evidence appears repeatedly across time and [location]({{'location/' | relative_url }}) rather than as a single unexplained event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iXUr4lbogCw" title="Giant squid DNA detected in deep ocean canyons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iXUr4lbogCw" target="_blank" rel="noopener noreferrer">Giant squid DNA detected in deep ocean canyons</a></p><p class="youtube-embed-meta">Channel: USA TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iXUr4lbogCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iXUr4lbogCw">Open on YouTube</a></p></div></div></div>
+A convincing case becomes stronger when evidence appears repeatedly across time and [location]({{'location/' | relative_url }}) rather than as a single unexplained event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iXUr4lbogCw" title="Giant squid DNA detected in deep ocean canyons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iXUr4lbogCw" target="_blank" rel="noopener noreferrer">Giant squid DNA detected in deep ocean canyons</a></p><p class="youtube-embed-meta">Channel: USA TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iXUr4lbogCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iXUr4lbogCw">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Eyewitness Reports Usually Fall Short
 
@@ -349,7 +365,15 @@ Many historical sea-serpent cases involved numerous witnesses, sometimes includi
 
 Witnesses generally report what they perceived, not necessarily what was physically present. Human observers often fill gaps in incomplete information. In marine settings, a line of surfacing animals, floating debris, unusual wave patterns, or an unfamiliar fish can be interpreted as a single giant creature.
 
-Scientific acceptance therefore depends less on the number of reports and more on whether the reports generate testable evidence. A hundred descriptions without specimens or diagnostic imagery still leave the underlying animal unidentified.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kApzlhDB-28" title="The Origin of the Kraken" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kApzlhDB-28" target="_blank" rel="noopener noreferrer">The Origin of the Kraken</a></p><p class="youtube-embed-meta">Channel: Animalogic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kApzlhDB-28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kApzlhDB-28">Open on YouTube</a></p></div></div></div>
+Scientific acceptance therefore depends less on the number of reports and more on whether the reports generate testable evidence. A hundred descriptions without specimens or diagnostic imagery still leave the underlying animal unidentified.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kApzlhDB-28" title="The Origin of the Kraken" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kApzlhDB-28" target="_blank" rel="noopener noreferrer">The Origin of the Kraken</a></p><p class="youtube-embed-meta">Channel: Animalogic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kApzlhDB-28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kApzlhDB-28">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How Giant Squid Set the Modern Comparison<span class="citation-chip-wrap"><a class="citation-chip" href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[giant squid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanThe species was first recorded live in 2006, after researchers suspended bait beneath a research vessel off the Ogasawa...</span></span></span> quid provides the clearest modern benchmark for evaluating sea-monster claims.
 

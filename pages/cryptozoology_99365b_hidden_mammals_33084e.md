@@ -476,7 +476,15 @@ These cases point to a practical distinction:
 * **Species known from local hunting evidence, remains or repeat camera records** can move from rumour to zoology.
 * **Large, widespread, frequently reported cryptids** should leave proportionately more evidence: carcasses, bones, hair with usable DNA, feeding signs, nests, [tracks]({{'tracks/' | relative_url }}), roadkill, camera images, ecological impacts and a viable breeding population.
 
-The existence of hidden mammals therefore raises the standard for cryptid claims rather than lowering it. It shows what successful confirmation looks like.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SeZaNariZ30" title="The Saola Asia’s Rarest and Most Mysterious Animal | The Asian Unicorn of Laos." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SeZaNariZ30" target="_blank" rel="noopener noreferrer">The Saola Asia’s Rarest and Most Mysterious Animal | The Asian Unicorn of Laos.</a></p><p class="youtube-embed-meta">Channel: Forest Wildlife Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SeZaNariZ30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SeZaNariZ30">Open on YouTube</a></p></div></div></div>
+The existence of hidden mammals therefore raises the standard for cryptid claims rather than lowering it. It shows what successful confirmation looks like.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SeZaNariZ30" title="The Saola Asia’s Rarest and Most Mysterious Animal | The Asian Unicorn of Laos." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SeZaNariZ30" target="_blank" rel="noopener noreferrer">The Saola Asia’s Rarest and Most Mysterious Animal | The Asian Unicorn of Laos.</a></p><p class="youtube-embed-meta">Channel: Forest Wildlife Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SeZaNariZ30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SeZaNariZ30">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Camera traps changed the boundary between rumour and record
 
@@ -505,7 +513,15 @@ Several real mammal rediscoveries began with local knowledge. Hunters, forest co
 
 For cryptozoology, this cuts both ways. It supports taking local reports seriously enough to investigate them. It does not support treating all local stories as zoological facts. Local ecological knowledge is strongest when it can be connected to tracks, remains, photographs, habitat, repeat observations and testable predictions.
 
-The best cases are collaborative rather than extractive. Researchers benefit from people who know the forest; local communities benefit when confirmation leads to conservation attention, legal protection, anti-snaring work or alternative livelihoods. The danger is that cryptozoological interest can turn local knowledge into myth-hunting theatre, stripping away the practical conservation context.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5BQrM8lXdg8" title="Attenborough&#x27;s long-beaked echidna caught on camera trap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5BQrM8lXdg8" target="_blank" rel="noopener noreferrer">Attenborough&#x27;s long-beaked echidna caught on camera trap</a></p><p class="youtube-embed-meta">Channel: Oxford Biology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5BQrM8lXdg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5BQrM8lXdg8">Open on YouTube</a></p></div></div></div>
+The best cases are collaborative rather than extractive. Researchers benefit from people who know the forest; local communities benefit when confirmation leads to conservation attention, legal protection, anti-snaring work or alternative livelihoods. The danger is that cryptozoological interest can turn local knowledge into myth-hunting theatre, stripping away the practical conservation context.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5BQrM8lXdg8" title="Attenborough&#x27;s long-beaked echidna caught on camera trap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5BQrM8lXdg8" target="_blank" rel="noopener noreferrer">Attenborough&#x27;s long-beaked echidna caught on camera trap</a></p><p class="youtube-embed-meta">Channel: Oxford Biology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5BQrM8lXdg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5BQrM8lXdg8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Bili ape shows how a “cryptid” can become ordinary science
 
@@ -513,7 +529,15 @@ The Bili or Bondo ape is a useful cautionary case because it sits close to crypt
 
 That does not make the investigation worthless. Quite the opposite: it shifted attention from “unknown monster ape” to a real, conservation-relevant chimpanzee population in a remote region. Max Planck researchers reported an unknown population of eastern chimpanzees in northern Congo, while later work on ground nesting found that chimpanzee nesting height can be shaped by ecology, vegetation and hunting pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpg.de/7896302/chimpanzee_population_congo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpg.de">[MPG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpg.de</span><span class="citation-popover-title">chimpanzee population congo</span><span class="citation-popover-snippet">chimpanzee population congo</span></span></span>
 
-This is one of the most important lessons hidden mammals offer cryptozoology. A claim can be exaggerated in folklore or media and still contain a real biological signal. The right outcome is not always “[new species]({{'new-species/' | relative_url }})” or “hoax”. Sometimes it is a known species in an unexpected place, a rare behaviour, a surviving population, or a better map of habitat.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6qU4JrL_Y-Y" title="Rare Species Rediscovered, Expanding Their Ranges, and Making a Comeback" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6qU4JrL_Y-Y" target="_blank" rel="noopener noreferrer">Rare Species Rediscovered, Expanding Their Ranges, and Making a Comeback</a></p><p class="youtube-embed-meta">Channel: All.About.Nature</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6qU4JrL_Y-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6qU4JrL_Y-Y">Open on YouTube</a></p></div></div></div>
+This is one of the most important lessons hidden mammals offer cryptozoology. A claim can be exaggerated in folklore or media and still contain a real biological signal. The right outcome is not always “[new species]({{'new-species/' | relative_url }})” or “hoax”. Sometimes it is a known species in an unexpected place, a rare behaviour, a surviving population, or a better map of habitat.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6qU4JrL_Y-Y" title="Rare Species Rediscovered, Expanding Their Ranges, and Making a Comeback" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6qU4JrL_Y-Y" target="_blank" rel="noopener noreferrer">Rare Species Rediscovered, Expanding Their Ranges, and Making a Comeback</a></p><p class="youtube-embed-meta">Channel: All.About.Nature</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6qU4JrL_Y-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6qU4JrL_Y-Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What hidden mammals teach evidence-based cryptozoology
 

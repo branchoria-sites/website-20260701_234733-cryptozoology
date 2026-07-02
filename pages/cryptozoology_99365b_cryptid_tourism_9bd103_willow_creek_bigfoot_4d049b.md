@@ -272,11 +272,25 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_tourism_9bd103_willow_creek_bigfoot_4d049b-Illustration-1-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHvWyWlT0_A" title="Bigfoot Museum in Willow Creek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHvWyWlT0_A" target="_blank" rel="noopener noreferrer">Bigfoot Museum in Willow Creek</a></p><p class="youtube-embed-meta">Channel: Visit Redwoods</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHvWyWlT0_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHvWyWlT0_A">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHvWyWlT0_A" title="Bigfoot Museum in Willow Creek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHvWyWlT0_A" target="_blank" rel="noopener noreferrer">Bigfoot Museum in Willow Creek</a></p><p class="youtube-embed-meta">Channel: Visit Redwoods</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHvWyWlT0_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHvWyWlT0_A">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Forest Landscapes Suit Bigfoot Tourism
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/koZdX_sK5RU" title="WILLOW CREEK - A Short Bigfoot Documentary with Eric Nelson, Tod Samples, and Trevor Miller" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=koZdX_sK5RU" target="_blank" rel="noopener noreferrer">WILLOW CREEK - A Short Bigfoot Documentary with Eric Nelson, Tod Samples, and Trevor Miller</a></p><p class="youtube-embed-meta">Channel: Lexington Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=koZdX_sK5RU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=koZdX_sK5RU">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Footprints, Museums and Roadside Symbols
 
@@ -290,6 +304,12 @@ Annual celebrations extend this visual identity into a shared public performance
 ## How One Town Claims a Wider Legend
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3QoPTQiX4WM" title="Bigfoot: How Willow Creek Became Tormented By Bigfoot Sightings | Boogeymen | Real History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3QoPTQiX4WM" target="_blank" rel="noopener noreferrer">Bigfoot: How Willow Creek Became Tormented By Bigfoot Sightings | Boogeymen | Real History</a></p><p class="youtube-embed-meta">Channel: Real History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3QoPTQiX4WM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3QoPTQiX4WM">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## A Place Identity Larger Than the Creature
 

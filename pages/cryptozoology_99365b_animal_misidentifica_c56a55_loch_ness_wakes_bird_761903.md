@@ -290,7 +290,15 @@ Several factors make wake-based misidentifications particularly persuasive:<div 
 * Individual crests can appear and disappear, creating the impression of a living body surfacing.
 * Observers often lack scale references when viewing dark water over several kilometres.</div>
 
-The result is a moving pattern that can appear biological even when it is entirely physical.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Xurrp2v3_k" title="1960: The LOCH NESS MONSTER is REAL? | Panorama | Weird &amp; Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Xurrp2v3_k" target="_blank" rel="noopener noreferrer">1960: The LOCH NESS MONSTER is REAL? | Panorama | Weird &amp; Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Xurrp2v3_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Xurrp2v3_k">Open on YouTube</a></p></div></div></div>
+The result is a moving pattern that can appear biological even when it is entirely physical.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Xurrp2v3_k" title="1960: The LOCH NESS MONSTER is REAL? | Panorama | Weird &amp; Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Xurrp2v3_k" target="_blank" rel="noopener noreferrer">1960: The LOCH NESS MONSTER is REAL? | Panorama | Weird &amp; Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Xurrp2v3_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Xurrp2v3_k">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Diving Birds Can Mimic Long Necks
 
@@ -313,12 +321,24 @@ Former Loch Ness Phenomena Investigation Bureau member Ronald Binns argued that 
 
 This does not imply dishonesty. Rather, it demonstrates a well-known limitation of human perception. An observer may accurately report seeing a hump, a neck-like shape or movement across the water while being mistaken about what produced it. Surface-watch records are valuable precisely because they compare initial impressions with later identification.
 
-Repeated observations revealed a recurring pattern:<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sKZ3dgJXIGQ" title="Scientists Finally Explain The Loch Ness Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sKZ3dgJXIGQ" target="_blank" rel="noopener noreferrer">Scientists Finally Explain The Loch Ness Monster</a></p><p class="youtube-embed-meta">Channel: Today I Learned Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sKZ3dgJXIGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sKZ3dgJXIGQ">Open on YouTube</a></p></div></div></div><div class="content-enhancement content-enhancement--step-flow" markdown="1">
+Repeated observations revealed a recurring pattern:
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sKZ3dgJXIGQ" title="Scientists Finally Explain The Loch Ness Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sKZ3dgJXIGQ" target="_blank" rel="noopener noreferrer">Scientists Finally Explain The Loch Ness Monster</a></p><p class="youtube-embed-meta">Channel: Today I Learned Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sKZ3dgJXIGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sKZ3dgJXIGQ">Open on YouTube</a></p></div></div></div>
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A distant shape appears unusual.
 2. The observer interprets it as potentially biological.
 3. Continued watching provides more information.
-4. The object resolves into wakes, birds or another ordinary feature.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f6lpnTGGwrI" title="Scotland&#x27;s Sea Monster | Drain the Oceans: Secrets of Loch Ness | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f6lpnTGGwrI" target="_blank" rel="noopener noreferrer">Scotland&#x27;s Sea Monster | Drain the Oceans: Secrets of Loch Ness | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f6lpnTGGwrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f6lpnTGGwrI">Open on YouTube</a></p></div></div></div>
+4. The object resolves into wakes, birds or another ordinary feature.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f6lpnTGGwrI" title="Scotland&#x27;s Sea Monster | Drain the Oceans: Secrets of Loch Ness | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f6lpnTGGwrI" target="_blank" rel="noopener noreferrer">Scotland&#x27;s Sea Monster | Drain the Oceans: Secrets of Loch Ness | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f6lpnTGGwrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f6lpnTGGwrI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why These Findings Matter for Loch Ness Reports
 

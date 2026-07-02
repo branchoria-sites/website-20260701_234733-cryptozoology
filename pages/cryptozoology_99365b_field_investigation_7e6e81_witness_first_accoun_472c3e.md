@@ -294,7 +294,15 @@ Useful first statements typically include:
 * Whether photographs, videos or binoculars were used.
 * Whether the witness heard another person's comments before writing the account.</div>
 
-Importantly, uncertainty should be recorded rather than edited out. A note such as “I think the animal was dark brown, but the light was poor” is often more useful than a polished description that presents every detail as certain. Early uncertainty can help later investigators understand which observations were clear and which were inferred afterwards.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
+Importantly, uncertainty should be recorded rather than edited out. A note such as “I think the animal was dark brown, but the light was poor” is often more useful than a polished description that presents every detail as certain. Early uncertainty can help later investigators understand which observations were clear and which were inferred afterwards.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## How group discussion changes memory
 
@@ -327,7 +335,15 @@ By contrast, separate written accounts preserve valuable differences. Those diff
 * Which details appeared only after discussion.
 * Whether a later consensus emerged from independent observations or social influence.</div>
 
-In cryptozoology, where many claims ultimately turn on a small number of descriptive details, preserving those distinctions can be more informative than obtaining immediate agreement.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
+In cryptozoology, where many claims ultimately turn on a small number of descriptive details, preserving those distinctions can be more informative than obtaining immediate agreement.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Comparing accounts without forcing agreement
 
@@ -348,7 +364,15 @@ A witness who reports a long tail while another does not may simply have had a d
 
 Forcing witnesses to reconcile disagreements risks replacing original observations with negotiated memories.
 
-### Later interviews<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q5m5GlFNSLI" title="THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer">THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher (1987)</a></p><p class="youtube-embed-meta">Channel: Psychology Unlocked &middot; Views: 11.4K &middot; Uploaded: March 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q5m5GlFNSLI">Open on YouTube</a></p></div></div></div>
+### Later interviews
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q5m5GlFNSLI" title="THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer">THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher (1987)</a></p><p class="youtube-embed-meta">Channel: Psychology Unlocked &middot; Views: 11.4K &middot; Uploaded: March 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q5m5GlFNSLI">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The practical takeaway
 

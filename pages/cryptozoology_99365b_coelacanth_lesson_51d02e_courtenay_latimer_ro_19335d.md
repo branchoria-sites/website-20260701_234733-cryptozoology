@@ -285,6 +285,12 @@ The discovery of the coelacanth is often told as a story about a fish that shoul
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NVbdhwUgwmQ" title="marjorie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NVbdhwUgwmQ" target="_blank" rel="noopener noreferrer">marjorie</a></p><p class="youtube-embed-meta">Channel: Taylor Swift - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NVbdhwUgwmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NVbdhwUgwmQ">Open on YouTube</a></p></div></div></div>
 
+
+
+
+
+
+
 ## How Museum Judgement Preserved the Evidence
 
 Recognising that a specimen is unusual is only the first step. Preserving it long enough for experts to examine it is often the harder challenge.
@@ -304,7 +310,15 @@ Her contribution was different and, in many ways, more fundamental. She performe
 
 1. **Detection** – noticing that the specimen was exceptional.
 2. **Preservation** – ensuring it survived long enough to be studied.
-3. **Escalation** – bringing it to the attention of someone with the relevant expertise.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZI3rJpDNw4" title="From the Cache: Marjorie Courtenay-Latimer and the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer">From the Cache: Marjorie Courtenay-Latimer and the Coelacanth</a></p><p class="youtube-embed-meta">Channel: History Cache</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZI3rJpDNw4">Open on YouTube</a></p></div></div></div>
+3. **Escalation** – bringing it to the attention of someone with the relevant expertise.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZI3rJpDNw4" title="From the Cache: Marjorie Courtenay-Latimer and the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer">From the Cache: Marjorie Courtenay-Latimer and the Coelacanth</a></p><p class="youtube-embed-meta">Channel: History Cache</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZI3rJpDNw4">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## What the Case Says About Expertise and Chance
 

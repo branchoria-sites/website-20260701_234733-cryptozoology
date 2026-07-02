@@ -292,7 +292,15 @@ In a cryptid context, the initial experience may consist of observations such as
 * A large dark figure crossing a road.
 * An unusual silhouette near a lake.
 * Strange sounds in woodland.
-* Brief movement seen in poor light.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9CRBvIAsQ" title="Elizabeth Loftus | The Memory Factory || Radcliffe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer">Elizabeth Loftus | The Memory Factory || Radcliffe Institute</a></p><p class="youtube-embed-meta">Channel: Harvard University &middot; Views: 52.2K &middot; Uploaded: May 2015 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9CRBvIAsQ">Open on YouTube</a></p></div></div></div>
+* Brief movement seen in poor light.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9CRBvIAsQ" title="Elizabeth Loftus | The Memory Factory || Radcliffe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer">Elizabeth Loftus | The Memory Factory || Radcliffe Institute</a></p><p class="youtube-embed-meta">Channel: Harvard University &middot; Views: 52.2K &middot; Uploaded: May 2015 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9CRBvIAsQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Suggestion, Retelling and Contaminated Recall
 
@@ -314,7 +322,21 @@ A witness who originally remembered only a dark shape may later encounter descri
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
-### Folklore as a Source of Memory Contamination<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
+### Folklore as a Source of Memory Contamination
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why Consistent Testimony Is Not Always Stronger Evidence
 

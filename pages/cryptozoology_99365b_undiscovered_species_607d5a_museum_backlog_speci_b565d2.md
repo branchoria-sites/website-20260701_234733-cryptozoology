@@ -294,7 +294,15 @@ The existence of unnamed specimens is not evidence of neglect so much as a conse
 
 The result is a form of scientific delay: an organism may have been physically collected decades ago, yet remain scientifically invisible until a specialist undertakes the necessary taxonomic work.
 
-## How Re-examination Turns Old Samples into New Species<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWBcYHmM1Ko" title="What new species have been discovered this year? | Natural History Museum (Audio Described)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWBcYHmM1Ko" target="_blank" rel="noopener noreferrer">What new species have been discovered this year? | Natural History Museum (Audio Described)</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWBcYHmM1Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWBcYHmM1Ko">Open on YouTube</a></p></div></div></div>
+## How Re-examination Turns Old Samples into New Species
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWBcYHmM1Ko" title="What new species have been discovered this year? | Natural History Museum (Audio Described)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWBcYHmM1Ko" target="_blank" rel="noopener noreferrer">What new species have been discovered this year? | Natural History Museum (Audio Described)</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWBcYHmM1Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWBcYHmM1Ko">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ### Better Comparisons Reveal Hidden Differences
 
@@ -319,11 +327,27 @@ The Natural History Museum in London has repeatedly reported discoveries arising
 
 Recent examples continue to appear. A parasitic wasp collected in Chile in 1983 remained unnoticed in a museum drawer until detailed examination revealed characteristics distinct enough to justify a new genus and species. Likewise, a coelacanth fossil collected roughly 150 years ago was recently re-evaluated with modern imaging techniques and recognised as a previously unknown species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/may/07/tiny-parasitic-wasp-named-after-david-attenborough-100th-birthday-attenboroughnculus-tau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The wasp, Attenboroughnculus tau, measures just 3.5mm in length and is notable for a distinctive T-shaped mark on its abdomen. Though col...</span></span></span>
 
-These discoveries are noteworthy precisely because they involve physical specimens that can be examined, compared and re-examined by other researchers.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dfTxZBUTzU8" title="What new species were discovered in 2025? | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dfTxZBUTzU8" target="_blank" rel="noopener noreferrer">What new species were discovered in 2025? | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dfTxZBUTzU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dfTxZBUTzU8">Open on YouTube</a></p></div></div></div>
+These discoveries are noteworthy precisely because they involve physical specimens that can be examined, compared and re-examined by other researchers.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dfTxZBUTzU8" title="What new species were discovered in 2025? | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dfTxZBUTzU8" target="_blank" rel="noopener noreferrer">What new species were discovered in 2025? | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dfTxZBUTzU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dfTxZBUTzU8">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## The Conservation Twist: Some Species Are Found Too Late
 
-An unexpected consequence of the museum backlog is that species may be formally recognised only after they have become rare, endangered or even extinct.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Eide_FMmEA" title="Five new species of dinosaur discovered in 2021 | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer">Five new species of dinosaur discovered in 2021 | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Eide_FMmEA">Open on YouTube</a></p></div></div></div>
+An unexpected consequence of the museum backlog is that species may be formally recognised only after they have become rare, endangered or even extinct.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Eide_FMmEA" title="Five new species of dinosaur discovered in 2021 | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer">Five new species of dinosaur discovered in 2021 | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Eide_FMmEA">Open on YouTube</a></p></div></div></div>
+
+
+
+
+
+
 
 ## Why This Does Not Rescue Weak Cryptid Claims
 
