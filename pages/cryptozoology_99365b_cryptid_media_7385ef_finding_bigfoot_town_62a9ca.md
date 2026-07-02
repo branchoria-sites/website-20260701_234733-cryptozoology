@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:12'
+date: '2026-07-01 20:53:12'
 parent_title: How Media Keeps Cryptids Alive
 parent_permalink: /media/
 parent_nav_short_title: Media
@@ -285,8 +285,6 @@ One of the most distinctive features of *Finding Bigfoot* was not its night-visi
 
 The programme followed a remarkably consistent structure. Episodes typically began with a photograph, video, sound recording or eyewitness account that attracted the investigators' attention. The team would meet the original witness, revisit the [location]({{'location/' | relative_url }}) and attempt to reconstruct the reported event. After this initial investigation, attention shifted to the wider community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/2828168/finding-bigfoot-animal-planet-show/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">finding bigfoot animal planet show</span><span class="citation-popover-snippet">Finding Bigfoot: The Animal Planet Show&#x27;s Secret Magic6 Jun 2014 — For the most part, each episode of the show plays out in a set for...</span></span></span>
 
-The town hall functioned as the bridge between an individual claim and a broader search effort. Public attendees were invited to describe their own encounters, often in front of neighbours, researchers and cameras. According to descriptions of the show's format, witnesses were then asked to mark sighting locations on maps, allowing the team to identify apparent clusters and patterns that would guide later [field investigations]({{'field-basics/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Finding_Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Finding Bigfoot</span><span class="citation-popover-snippet">Finding Bigfoot</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhg8IgEeZN8" title="Bigfoot or Big Hoax? - Town Hall - November 1992 | KATU In The Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhg8IgEeZN8" target="_blank" rel="noopener noreferrer">Bigfoot or Big Hoax? - Town Hall - November 1992 | KATU In The Archives</a></p><p class="youtube-embed-meta">Channel: KATU News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhg8IgEeZN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhg8IgEeZN8">Open on YouTube</a></p></div></div></div>
 
 ## Why Town Halls Made Sightings Feel Social
@@ -325,8 +323,6 @@ Witnesses themselves became performers in this process. Many appeared nervous, e
 
 Because these encounters were framed as personal experiences rather than scientific findings, the emotional dimension became central. A witness who sincerely believed they had encountered Bigfoot could contribute to the programme's narrative even if no physical evidence followed.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca-Illustration-3-dark.svg" | relative_url }}" alt="Town Halls illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Influence of the Town Hall Format
-
-The influence of *Finding Bigfoot* extended beyond individual episodes. The programme popularised a model in which cryptid investigation became participatory and community driven. Public meetings, witness-sharing events and crowd-sourced sighting maps became familiar features of Bigfoot culture, both on television and in related research communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/news/townhall_faq.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Town Hall Meetings Frequently Asked QuestionsA: The TV series &quot;Finding Bigfoot&quot; gives you some idea: Local people describe their enc...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKPSbLP7DPE" title="What&#x27;s Big, Can Throw Rocks, and Moves Like Nobody&#x27;s Business?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKPSbLP7DPE" target="_blank" rel="noopener noreferrer">What&#x27;s Big, Can Throw Rocks, and Moves Like Nobody&#x27;s Business?</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKPSbLP7DPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKPSbLP7DPE">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Field Guide to Bigfoot and Other Mystery Primates on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dQDhsgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Field Guide to Bigfoot and Other Mystery Primates" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Field Guide to Bigfoot and Other Mystery Primates">The Field Guide to Bigfoot and Other Mystery Primates</a></h4><p class="fr-book-author">By Loren Coleman, Patrick Huyghe</p><p class="fr-book-desc">Reflects the witness-report tradition featured in the show.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Field+Guide+to+Bigfoot+and+Other+Mystery+Primates+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

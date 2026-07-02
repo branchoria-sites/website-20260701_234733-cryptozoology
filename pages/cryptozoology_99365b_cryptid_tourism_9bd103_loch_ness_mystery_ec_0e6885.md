@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:48'
+date: '2026-07-01 19:54:48'
 parent_title: How Local Monsters Become Tourist Icons
 parent_permalink: /tourism/
 parent_nav_short_title: Tourism
@@ -291,8 +291,6 @@ Over time, Nessie evolved from a cryptozoological claim into a destination brand
 
 ## Cruises turn a legend into an experience
 
-The most direct commercial expression of the mystery is the Loch Ness cruise industry. Boat operators do more than transport passengers across the water. Their product is the experience of entering the setting where sightings are said to occur. Marketing often combines natural scenery, historical interpretation and references to Nessie, allowing visitors to feel involved in the search regardless of whether they expect to see anything unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jacobite.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jacobite.co.uk">[Jacobite Loch Ness Cruises]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jacobite.co.uk</span><span class="citation-popover-snippet">Immerse yourself in Scotland&#x27;s most famous legend and book today...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q-PLaP4rH4Q" title="Tune into Tourism | Sustainable Tourism - Case Study | Loch Ness Hub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q-PLaP4rH4Q" target="_blank" rel="noopener noreferrer">Tune into Tourism | Sustainable Tourism - Case Study | Loch Ness Hub</a></p><p class="youtube-embed-meta">Channel: Highlands and Islands Enterprise</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q-PLaP4rH4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q-PLaP4rH4Q">Open on YouTube</a></p></div></div></div>
 
 ### Selling the search rather than the answer
@@ -308,8 +306,6 @@ This approach has several advantages:<div class="content-enhancement content-enh
 
 The result is a tourism model in which the possibility of discovery is often more commercially valuable than actual discovery would be.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_tourism_9bd103_loch_ness_mystery_ec_0e6885-Illustration-2-dark.svg" | relative_url }}" alt="Loch Ness illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_tourism_9bd103_loch_ness_mystery_ec_0e6885-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_tourism_9bd103_loch_ness_mystery_ec_0e6885-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Exhibitions, visitor centres and the business of curiosity
-
-Cruises are only one part of the Nessie economy. Visitor centres and exhibitions provide another mechanism for turning curiosity into spending. Rather than presenting the monster simply as a creature story, modern attractions increasingly frame Loch Ness as a blend of folklore, science, exploration and media history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: continuumattractions.com">[continuumattractions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">continuumattractions.com</span><span class="citation-popover-snippet">The Loch Ness Centre Case StudyContinuum Attractions has a new long- term lease on the iconic Highland tourism site, The Loch Ness Centre...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M3u0m7mGbPU" title="Scotland is keeping a secret from all of us." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M3u0m7mGbPU" target="_blank" rel="noopener noreferrer">Scotland is keeping a secret from all of us.</a></p><p class="youtube-embed-meta">Channel: The Marketing Millennials</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M3u0m7mGbPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M3u0m7mGbPU">Open on YouTube</a></p></div></div></div>
 

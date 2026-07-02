@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:29'
+date: '2026-07-01 19:54:29'
 parent_title: Can e DNA Solve Lake Monster Mysteries?
 parent_permalink: /e-dna/
 parent_nav_short_title: e DNA
@@ -285,15 +285,11 @@ However, the findings are often misunderstood. The survey did not discover a gia
 
 ## What the Loch Ness survey sampled
 
-The eDNA project was led by geneticist Neil Gemmell and involved extensive water sampling throughout Loch Ness. Researchers collected roughly 250 water [samples]({{'samples/' | relative_url }}) from different locations and depths, including surface waters and deeper parts of the loch. DNA fragments suspended in the water were extracted, sequenced, and compared with reference databases to identify the organisms that had recently been present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">otago scientist reveals loch ness monster could be a giant eel</span><span class="citation-popover-snippet">University of OtagoOtago scientist reveals Loch Ness Monster could be...6 Sept 2019 — An Otago scientist has cast major doubt on the exi...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
 
 ## Which monster theories lost support
 
 The most important outcome of the survey was not the eel finding itself but the theories it weakened.
-
-Researchers reported no evidence of reptilian DNA in the samples. This was especially damaging to the long-standing plesiosaur hypothesis, which imagined Nessie as a surviving marine reptile from the age of dinosaurs. Gemmell stated that the data provided no support for a reptilian creature inhabiting the loch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">loch ness monster could be a giant eel say scientists</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — Loch Ness monster could be a giant eel, say scientists ·...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
 
@@ -316,8 +312,6 @@ This point is often lost in popular retellings. Headlines sometimes implied that
 
 Another challenge is biological scaling. Even if unusually large eels occur occasionally, many famous Nessie reports describe creatures considerably larger than known European eels. The eDNA data alone cannot bridge that gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2023-07-unraveling-loch-ness-monster-eel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2023 07 unraveling loch ness monster eel</span><span class="citation-popover-snippet">Unraveling the Loch Ness Monster&#x27;s eel connection24 Jul 2023 — The study found that giant eels could not account for sightings of larger...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50_loch_ness_edna_eels_8c4c99-Illustration-3-dark.svg" | relative_url }}" alt="Loch Ness e DNA illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50_loch_ness_edna_eels_8c4c99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50_loch_ness_edna_eels_8c4c99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later research assessed the giant eel idea
-
-Subsequent analysis attempted to evaluate whether [giant eels]({{'giant-eels/' | relative_url }}) could realistically account for Loch Ness reports. A 2023 study by Floe Foxon examined the probability of unusually large eels occurring in the loch using available fish-stock and size-distribution data. The study concluded that eels around one metre long are plausible and may account for some reports of large animals at the surface. However, the probability of eels reaching the sizes required for many classic monster descriptions was extremely low.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://xbio.jmir.org/2023/1/e49063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xbio.jmir.org">[JMIRx Bio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xbio.jmir.org</span><span class="citation-popover-snippet">x BioThe Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?by F Foxon · 2023 · Cited by 6 — The findings of this study suggest that...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EraB4J49aRg" title="DNA Sequencing Exposed Loch Ness’ Secret — Nessie Was Never What We Thought" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer">DNA Sequencing Exposed Loch Ness’ Secret — Nessie Was Never What We Thought</a></p><p class="youtube-embed-meta">Channel: Galaxy Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EraB4J49aRg">Open on YouTube</a></p></div></div></div>
 

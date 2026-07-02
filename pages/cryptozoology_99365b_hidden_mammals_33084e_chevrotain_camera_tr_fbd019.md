@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /echidna-search/
   short_title: Echidna search
   heading_title: The echidna rediscovery built on local knowledge
-date:'2026-07-01 23:39:57'
+date: '2026-07-01 23:39:57'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019-Illustration-1.webp
@@ -289,8 +289,7 @@ The lack of records did not necessarily mean extinction. Several factors made th
 
 * It is small and secretive.
 * It inhabits dense tropical forest.
-* It is easily overlooked during conventional wildlife surveys.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mmju3lhRORg" title="Mouse deer spotted in Vietnam for first time in 30 years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mmju3lhRORg" target="_blank" rel="noopener noreferrer">Mouse deer spotted in Vietnam for first time in 30 years</a></p><p class="youtube-embed-meta">Channel: Guardian News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mmju3lhRORg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mmju3lhRORg">Open on YouTube</a></p></div></div></div>
+* It is easily overlooked during conventional wildlife surveys.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mmju3lhRORg" title="Mouse deer spotted in Vietnam for first time in 30 years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mmju3lhRORg" target="_blank" rel="noopener noreferrer">Mouse deer spotted in Vietnam for first time in 30 years</a></p><p class="youtube-embed-meta">Channel: Guardian News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mmju3lhRORg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mmju3lhRORg">Open on YouTube</a></p></div></div></div>
 
 ## How local interviews guided cameras
 
@@ -319,9 +318,7 @@ The result was a dramatic increase in detection probability for an animal that h
 
 ## What the photos proved and did not prove
 
-### What they proved
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tmm3Xvy_IwA" title="This rare species was just spotted in Vietnam for the first time in 30 years | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tmm3Xvy_IwA" target="_blank" rel="noopener noreferrer">This rare species was just spotted in Vietnam for the first time in 30 years | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tmm3Xvy_IwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tmm3Xvy_IwA">Open on YouTube</a></p></div></div></div>
+### What they proved<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tmm3Xvy_IwA" title="This rare species was just spotted in Vietnam for the first time in 30 years | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tmm3Xvy_IwA" target="_blank" rel="noopener noreferrer">This rare species was just spotted in Vietnam for the first time in 30 years | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tmm3Xvy_IwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tmm3Xvy_IwA">Open on YouTube</a></p></div></div></div>
 
 ### What they did not prove
 
@@ -337,8 +334,6 @@ Researchers could not determine from the initial images alone:
 
 In other words, rediscovery answered the question “Does it still survive?” but left many conservation questions unresolved. The species moved from “possibly lost” to “confirmed extant,” not from “lost” to “safe.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Mongabay News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Camera-trap evidence that the silver-backed chevrotain...by A Nguyen · 2019 · Cited by 41 — Here, we provide evidence that the sil...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019-Illustration-3-dark.svg" | relative_url }}" alt="Chevrotain illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this case matters in cryptozoology
-
-Within discussions of cryptozoology, the silver-backed chevrotain is often cited because it demonstrates that scientific knowledge can contain genuine gaps. A real mammal survived for decades without modern confirmation and was eventually documented through [field investigation]({{'field-basics/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Camera-trap evidence that the silver-backed chevrotain...by A Nguyen · 2019 · Cited by 41 — Here, we provide evidence that the sil...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0u5IIAcl3bw" title="Rare Deer-Like Animal Rediscovered After 15 Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0u5IIAcl3bw" target="_blank" rel="noopener noreferrer">Rare Deer-Like Animal Rediscovered After 15 Years</a></p><p class="youtube-embed-meta">Channel: CBS Boston</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0u5IIAcl3bw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0u5IIAcl3bw">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Camera+Traps+in+Animal+Ecology+by+Allan+F.+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Camera Traps in Animal Ecology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=onO2967GdPwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Camera Traps in Animal Ecology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Camera+Traps+in+Animal+Ecology+by+Allan+F.+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camera Traps in Animal Ecology">Camera Traps in Animal Ecology</a></h4><p class="fr-book-author">By Allan F. O&#x27;Connell, James D. Nichols et al.</p><p class="fr-book-desc">Directly explains the methods used to document elusive mammals.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Camera+Traps+in+Animal+Ecology+by+Allan+F.+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

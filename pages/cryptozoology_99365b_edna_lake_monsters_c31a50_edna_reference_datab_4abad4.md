@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:32'
+date: '2026-07-01 19:54:32'
 parent_title: Can e DNA Solve Lake Monster Mysteries?
 parent_permalink: /e-dna/
 parent_nav_short_title: e DNA
@@ -287,8 +287,6 @@ For a lake-monster investigation, this distinction is crucial. Detecting DNA fro
 
 A common misunderstanding is that eDNA can identify every organism present in a sample. In reality, the method depends on the quality and completeness of reference databases. Researchers repeatedly identify incomplete coverage as one of the major limitations of metabarcoding studies. Missing species, incorrect labels, poor-quality sequences, and uneven taxonomic representation can all affect identification accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/36478393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">These are: (i) mislabelling, (ii) sequencing...</span></span></span>
 
-Gap analyses of barcode libraries regularly find substantial numbers of species lacking reference sequences. One study of aquatic macroinvertebrates found that 42% of examined species lacked representative DNA barcodes in major international databases. Similar assessments across multiple groups and regions continue to report significant coverage gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2077-1312/8/7/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Gap Analysis for DNA Barcode Reference Libraries...by V Specchia · 2020 · Cited by 27 — In this study, a gap analysis of available D...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QLcmEqBayr0" title="How to Use the NCBI’s Bioinformatics Tools and Databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QLcmEqBayr0" target="_blank" rel="noopener noreferrer">How to Use the NCBI’s Bioinformatics Tools and Databases</a></p><p class="youtube-embed-meta">Channel: Science Buddies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QLcmEqBayr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QLcmEqBayr0">Open on YouTube</a></p></div></div></div>
 
 ## What Would a Truly Unknown Animal Look Like in the Data?
@@ -316,12 +314,9 @@ This is one of the reasons eDNA remains valuable for lake-monster research despi
 
 * Whether detected DNA resembles fish, amphibians, reptiles, mammals, or another major group.
 * Whether unusual sequences recur across locations and sampling periods.
-* Whether unexplained signals cluster around a known evolutionary lineage.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/neIQ3KNBXN8" title="Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer">Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)</a></p><p class="youtube-embed-meta">Channel: EPPO European &amp; Mediterranean Plant Protection Org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=neIQ3KNBXN8">Open on YouTube</a></p></div></div></div>
+* Whether unexplained signals cluster around a known evolutionary lineage.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/neIQ3KNBXN8" title="Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer">Euphresco Practibar Workshop: Barcode of Life Data Systems (BOLD)</a></p><p class="youtube-embed-meta">Channel: EPPO European &amp; Mediterranean Plant Protection Org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=neIQ3KNBXN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=neIQ3KNBXN8">Open on YouTube</a></p></div></div></div>
 
-## The Loch Ness Example and Its Limits
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Negf-s719A" title="DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer">DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)</a></p><p class="youtube-embed-meta">Channel: Danny Arends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Negf-s719A">Open on YouTube</a></p></div></div></div>
+## The Loch Ness Example and Its Limits<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Negf-s719A" title="DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer">DNA Metabarcoding of eDNA/eRNA (Bioinformatics S14E1)</a></p><p class="youtube-embed-meta">Channel: Danny Arends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Negf-s719A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Negf-s719A">Open on YouTube</a></p></div></div></div>
 
 ## The Real Challenge for Future Lake-Monster Searches
 

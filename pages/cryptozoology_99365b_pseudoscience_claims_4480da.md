@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:35'
+date: '2026-07-01 19:55:35'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -470,8 +470,6 @@ Several patterns appear again and again:<div class="content-enhancement content-
 * **Images often arrive after belief is already primed.** Blurry photographs and shaky videos invite interpretation. A viewer who expects Bigfoot sees a large biped; another sees a person, a bear, a shadow or a hoax.
 * **Trace evidence is rarely decisive.** Footprints, hair, sounds and tree breaks may be suggestive to believers, but they often lack secure collection, chain of custody, independent verification or species-level diagnostic value.
 * **Negative tests do not settle the community debate.** When samples are identified as known animals, supporters may argue that only the wrong samples were tested, that the real evidence remains elsewhere, or that one unexplained case is enough to keep the claim alive.</div>
-
-Bigfoot shows the pattern clearly. The Bigfoot Field Researchers Organization presents itself as “the only scientific research organisation exploring the bigfoot/sasquatch mystery” and maintains a sightings database, sound recordings, regional reports and guidance for reporting encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[BFRO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-title">Bigfoot Field Researchers Organization</span><span class="citation-popover-snippet">Bigfoot Field Researchers Organization</span></span></span> That infrastructure gives the subject the appearance of a research programme. Yet a database of reports is not the same as a verified population. Without a body, bones, accepted DNA, repeatable field observations or ecological confirmation, the evidence remains a record of belief, testimony and investigation rather than proof of an animal.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
 

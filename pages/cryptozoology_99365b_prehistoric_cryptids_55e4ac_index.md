@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-prehistoric/
 description: Focused pages that expand on Prehistoric Claims.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_prehistoric_cryptids_55e4ac
 parent_title: Prehistoric Claims

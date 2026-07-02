@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:46'
+date: '2026-07-01 12:55:46'
 parent_title: What the Coelacanth Really Proves
 parent_permalink: /coelacanth/
 parent_nav_short_title: Coelacanth
@@ -299,8 +299,6 @@ The second fish accomplished several things at once:
 
 An interesting complication briefly arose because the specimen appeared damaged and lacked features expected from the first known coelacanth. Smith initially considered whether it might represent a different species. Later study showed that the apparent differences resulted from injury and preservation issues rather than a fundamentally distinct animal. The fish was ultimately recognised as another example of *Latimeria chalumnae*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.knysnamuseums.co.za/pages/the-coelacanth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knysnamuseums.co.za">[Knysna Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knysnamuseums.co.za</span><span class="citation-popover-title">Knysna Museums The coelacanth story, Marjorie Courtenay-Latimer, JLB Smith</span><span class="citation-popover-snippet">1952. The second specimen seemed different to the first - it didn&#x27;t have two dorsal fins, as did Latimeria - so Prof. Smith named it Mala...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_comoros_confirmation_cf5958-Illustration-2-dark.svg" | relative_url }}" alt="Second Fish illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_comoros_confirmation_cf5958-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_comoros_confirmation_cf5958-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Second Fish to Established Population
-
-The scientific importance of the 1952 specimen became even clearer in the following decades. Once attention focused on the Comoros, additional [specimens]({{'specimens/' | relative_url }}) were documented. By 1975, dozens of captures had been recorded, and the existence of a living coelacanth population was no longer in doubt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J7-E7YAYwUk" title="NOVA: Ancient Creature of the Deep (2003) 🦴🐟 | The Coelacanth Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J7-E7YAYwUk" target="_blank" rel="noopener noreferrer">NOVA: Ancient Creature of the Deep (2003) 🦴🐟 | The Coelacanth Discovery</a></p><p class="youtube-embed-meta">Channel: Digitalized Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J7-E7YAYwUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J7-E7YAYwUk">Open on YouTube</a></p></div></div></div>
 

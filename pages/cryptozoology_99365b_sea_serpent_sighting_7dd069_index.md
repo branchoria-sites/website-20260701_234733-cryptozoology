@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-sea-serpent/
 description: Focused pages that expand on Sea Serpents.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_sea_serpent_sighting_7dd069
 parent_title: Sea Serpents

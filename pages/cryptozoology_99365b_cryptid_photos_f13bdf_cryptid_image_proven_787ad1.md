@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:12'
+date: '2026-07-01 14:59:12'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -299,8 +299,7 @@ Several practical checks are especially valuable:<div class="content-enhancement
 * Compare creation dates with the witness timeline.
 * Examine camera model and image dimensions.
 * Look for signs of editing software in metadata records.
-* Check whether multiple files from the same event share consistent timestamps and settings.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rv6B7hjcTSk" title="Introduction to analyzing images for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer">Introduction to analyzing images for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rv6B7hjcTSk">Open on YouTube</a></p></div></div></div>
+* Check whether multiple files from the same event share consistent timestamps and settings.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rv6B7hjcTSk" title="Introduction to analyzing images for OSINT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer">Introduction to analyzing images for OSINT</a></p><p class="youtube-embed-meta">Channel: Mossé Cyber Security Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rv6B7hjcTSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rv6B7hjcTSk">Open on YouTube</a></p></div></div></div>
 
 ### Why continuous footage often matters more than a single frame
 

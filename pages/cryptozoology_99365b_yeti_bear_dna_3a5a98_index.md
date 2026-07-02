@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-yeti-bear-dna/
 description: Focused pages that expand on Yeti DNA.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_yeti_bear_dna_3a5a98
 parent_title: Yeti DNA

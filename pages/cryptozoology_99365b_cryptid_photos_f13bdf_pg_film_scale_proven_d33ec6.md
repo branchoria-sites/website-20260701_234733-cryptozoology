@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:11'
+date: '2026-07-01 14:59:11'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -313,15 +313,11 @@ The broader lesson for cryptid imagery is that motion can appear persuasive whil
 
 ## Provenance Questions After Later Claims
 
-The second major controversy concerns the film's [provenance]({{'provenance/' | relative_url }}): where the original material went, how copies were made and whether later testimony changes the interpretation of the footage.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsU8ul9X2eg" title="THE Question NO ONE is willing to Answer | Patterson-Gimlin BIGFOOT | Bluff Creek, California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsU8ul9X2eg" target="_blank" rel="noopener noreferrer">THE Question NO ONE is willing to Answer | Patterson-Gimlin BIGFOOT | Bluff Creek, California</a></p><p class="youtube-embed-meta">Channel: Humboldt Axe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsU8ul9X2eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsU8ul9X2eg">Open on YouTube</a></p></div></div></div>
+The second major controversy concerns the film's [provenance]({{'provenance/' | relative_url }}): where the original material went, how copies were made and whether later testimony changes the interpretation of the footage.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsU8ul9X2eg" title="THE Question NO ONE is willing to Answer | Patterson-Gimlin BIGFOOT | Bluff Creek, California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsU8ul9X2eg" target="_blank" rel="noopener noreferrer">THE Question NO ONE is willing to Answer | Patterson-Gimlin BIGFOOT | Bluff Creek, California</a></p><p class="youtube-embed-meta">Channel: Humboldt Axe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsU8ul9X2eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsU8ul9X2eg">Open on YouTube</a></p></div></div></div>
 
 ### Costume and participant claims
 
-The provenance debate intensified when individuals came forward claiming knowledge of a hoax.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUwrLSGNeoc" title="Episode 7: Bigfoot: Costume or Creature with special effect expert Bill Munns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUwrLSGNeoc" target="_blank" rel="noopener noreferrer">Episode 7: Bigfoot: Costume or Creature with special effect expert Bill Munns</a></p><p class="youtube-embed-meta">Channel: Dave Wants to Know with Dave Wylie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUwrLSGNeoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUwrLSGNeoc">Open on YouTube</a></p></div></div></div>
+The provenance debate intensified when individuals came forward claiming knowledge of a hoax.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUwrLSGNeoc" title="Episode 7: Bigfoot: Costume or Creature with special effect expert Bill Munns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUwrLSGNeoc" target="_blank" rel="noopener noreferrer">Episode 7: Bigfoot: Costume or Creature with special effect expert Bill Munns</a></p><p class="youtube-embed-meta">Channel: Dave Wants to Know with Dave Wylie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUwrLSGNeoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUwrLSGNeoc">Open on YouTube</a></p></div></div></div>
 
 ### New claims and renewed controversy
 

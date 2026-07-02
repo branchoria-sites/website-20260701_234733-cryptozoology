@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:26'
+date: '2026-07-01 19:55:26'
 parent_title: How Monster Hunting Became Popular Media
 parent_permalink: /sanderson/
 parent_nav_short_title: Sanderson
@@ -323,8 +323,6 @@ This distinction remains important in modern cryptozoology. Collections of sight
 ## What Sanderson reveals about cryptozoology's credibility problem
 
 Sanderson's legacy highlights a recurring credibility challenge within cryptozoology. The field often adopts the vocabulary and outward appearance of science while relying on evidence that science would normally classify as preliminary, anecdotal or inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sk.sagepub.com/ency/edvol/time/chpt/cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-snippet">SAGE KnowledgeScience, Philosophy, Theology, &amp; Culture - CryptozoologyCryptozoology has acquired a bad reputation as a pseudoscience...</span></span></span>
-
-His career demonstrates both the strengths and weaknesses of that approach. On the positive side, he encouraged people to ask whether accepted scientific knowledge might be incomplete. He also treated [local testimony]({{'local-testimony/' | relative_url }}) and unusual reports as worthy of investigation rather than automatic dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amphilsoc.org</span><span class="citation-popover-title">new digital library ivan sanderson papers</span><span class="citation-popover-snippet">American Philosophical SocietyNew to the Digital Library: Ivan Sanderson papers21 Nov 2022 — The Ivan Sanderson Papers hold an amazing ar...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Uv59Uze3V8" title="How One Scientist Made the World Believe in Monsters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Uv59Uze3V8" target="_blank" rel="noopener noreferrer">How One Scientist Made the World Believe in Monsters</a></p><p class="youtube-embed-meta">Channel: LoreWire</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Uv59Uze3V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Uv59Uze3V8">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OYudQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On the Track of Unknown Animals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a></h4><p class="fr-book-author">By Bernard Heuvelmans</p><p class="fr-book-desc">Demonstrates how cryptid reports were framed as zoological investigations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

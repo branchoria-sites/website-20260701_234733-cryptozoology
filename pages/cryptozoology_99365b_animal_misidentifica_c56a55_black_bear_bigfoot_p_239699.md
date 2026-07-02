@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:46'
+date: '2026-07-01 19:55:46'
 parent_title: When Monsters Are Ordinary Animals
 parent_permalink: /misidentification/
 parent_nav_short_title: Misidentification
@@ -280,8 +280,6 @@ One of the most testable explanations for Bigfoot reports is not an unknown ape 
 
 The most widely discussed dataset study on this question was published in the *Journal of Zoology* in 2024 by researcher Floe Foxon. The analysis examined reported Sasquatch sightings across the United States and Canada and compared them with estimated black bear populations. Importantly, the model also adjusted for human population and forest area, because places with more people and more woodland naturally create more opportunities for unusual wildlife encounters and reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications - Wiley13 Jan 2024 — Sasquatch sightings were statistically significantly associated with bear populations such that, on...</span></span></span>
 
-The key finding was a statistically significant association between bear numbers and Bigfoot reports. On average, every additional 1,000 black bears in a state or province was associated with roughly a 4% increase in reported Sasquatch sightings. The study further estimated that, across North America, there was approximately one Sasquatch sighting for every 5,000 black bears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications+2ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications - Wiley13 Jan 2024 — Sasquatch sightings were statistically significantly associated with bear populations such that, on...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MuHw8RlZPTc" title="This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer">This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker</a></p><p class="youtube-embed-meta">Channel: JRE Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MuHw8RlZPTc">Open on YouTube</a></p></div></div></div>
 
 ## Why upright bears can look human
@@ -302,8 +300,6 @@ The conditions under which many Bigfoot reports occur—distance, poor lighting,
 ## What correlation can and cannot prove
 
 The bear-population study is often misunderstood in both directions. Supporters of the bear explanation sometimes treat it as [proof]({{'proof/' | relative_url }}) that Bigfoot sightings are solved, while Bigfoot advocates sometimes dismiss it because it does not explain every report.
-
-In reality, the study demonstrates correlation, not direct identification. A statistical relationship shows that two variables move together; it does not establish the exact mechanism behind every individual case. Areas with many bears may generate more bear misidentifications, but they may also share environmental characteristics that increase the likelihood of wildlife reports generally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications - Wiley13 Jan 2024 — Sasquatch sightings were statistically significantly associated with bear populations such that, on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sHZ26uqT_KM" title="Was Bigfoot A Bear? DNA Raises Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sHZ26uqT_KM" target="_blank" rel="noopener noreferrer">Was Bigfoot A Bear? DNA Raises Questions</a></p><p class="youtube-embed-meta">Channel: Newsy Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sHZ26uqT_KM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sHZ26uqT_KM">Open on YouTube</a></p></div></div></div>
 

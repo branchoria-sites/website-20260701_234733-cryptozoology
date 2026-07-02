@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-animal/
 description: Focused pages that expand on Misidentification.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_animal_misidentifica_c56a55
 parent_title: Misidentification

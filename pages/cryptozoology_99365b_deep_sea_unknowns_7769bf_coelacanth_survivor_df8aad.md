@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 22:28:52'
+date: '2026-07-01 22:28:52'
 parent_title: The Real Unknown Animals of the Deep Sea
 parent_permalink: /deep-sea/
 parent_nav_short_title: Deep Sea
@@ -281,8 +281,6 @@ Yet the coelacanth is also one of the most misused examples in [cryptozoology]({
 
 On 22 December 1938, museum curator Marjorie [Courtenay-Latimer]({{'latimer-s-role/' | relative_url }}) examined an unusual fish landed by a trawler near South Africa's east coast. Recognising that it was unlike known local species, she contacted ichthyologist J. L. B. Smith, who eventually confirmed that the specimen belonged to a lineage previously known only from fossils. The fish was later named *Latimeria chalumnae* in her honour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean+2History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
 
-The discovery overturned a widely accepted assumption. Fossil coelacanths were known from rocks dating back hundreds of millions of years, but none had been identified from younger deposits after the end of the Cretaceous. Scientists therefore concluded that the group had become extinct. The living specimen showed that the lineage had survived despite leaving no recognised fossil record for tens of millions of years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum+2NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">coelacanths the fish that outdid the loch ness monster</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLDqIfyaJJ4" title="Extinct for 66 Million Years, Rediscovered Alive in 1938" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLDqIfyaJJ4" target="_blank" rel="noopener noreferrer">Extinct for 66 Million Years, Rediscovered Alive in 1938</a></p><p class="youtube-embed-meta">Channel: GeologyHub</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLDqIfyaJJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLDqIfyaJJ4">Open on YouTube</a></p></div></div></div>
 
 ## Why Ecology Made Survival Plausible
@@ -302,8 +300,6 @@ This combination of factors makes the coelacanth a credible Lazarus taxon. The f
 ## Why “Living Fossil” Does Not Mean Unchanged
 
 Popular accounts often portray the coelacanth as a frozen relic identical to its ancient ancestors. The reality is more complicated.
-
-Modern coelacanths retain many features that make them recognisably related to fossil coelacanths, including their distinctive lobed fins. However, researchers have increasingly emphasised that coelacanth evolution did not stop. Genetic studies show continued evolutionary change, albeit at a relatively slow rate, while fossil discoveries reveal that ancient coelacanths were more diverse in form and ecology than once believed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/130418-coelacanth-genome-evolution-oceans-animals-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">130418 coelacanth genome evolution oceans animals science</span><span class="citation-popover-snippet">National GeographicCoelacanth Genes Mapped, &quot;Living Fossil&quot; Evolved Slowly19 Apr 2013 — Scientists have mapped the coelacanth genome and...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
 

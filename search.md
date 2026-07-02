@@ -1,6 +1,6 @@
 ---
 layout: default
-title:"Search"
+title: "Search"
 permalink: /search/
 search_page: true
 description: Search all pages on this site.

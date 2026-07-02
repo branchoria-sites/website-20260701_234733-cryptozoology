@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:07'
+date: '2026-07-01 19:55:07'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -466,8 +466,6 @@ The timing of Heuvelmans’ work was crucial. *Sur la piste des bêtes ignorées
 
 Heuvelmans was not working alone in creating this mood. Ivan T. Sanderson, another influential figure, helped shape the same emerging field, and Heuvelmans himself credited Sanderson’s writing with stimulating his interest in unknown animals. Earlier writers also mattered, especially Anthonie Cornelis Oudemans, whose work on sea-serpent reports anticipated later attempts to sort monster traditions into zoological hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bernard_Heuvelmans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bernard Heuvelmans</span><span class="citation-popover-snippet">Bernard Heuvelmans</span></span></span>
 
-Still, Heuvelmans became the central name because his books made the scattered material feel like a discipline. *On the Track of Unknown Animals* offered not just a parade of mysteries but a method of reading them: compare reports, sift exaggeration, ask whether local names and repeated descriptions might contain zoological information, and look for patterns across time and geography. Later summaries of the field repeatedly identify the book as a founding or landmark text for modern cryptozoology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptidarchives.fandom.com/wiki/Bernard_Heuvelmans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[Cryptid Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-title">Cryptid Archives Bernard Heuvelmans</span><span class="citation-popover-snippet">Cryptid Archives Bernard Heuvelmans</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VMgwBeOC5lY" title="On the Track of Unknown Animals | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer">On the Track of Unknown Animals | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VMgwBeOC5lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VMgwBeOC5lY">Open on YouTube</a></p></div></div></div>
 
 ## How his method changed the meaning of “monster”
@@ -482,8 +480,6 @@ Yet the same emblem also reveals the weakness of the comparison. The okapi becam
 ## The push to professionalise cryptozoology
 
 Heuvelmans’ influence did not stop with books. In 1982, the International Society of Cryptozoology was founded in Washington, D.C., with Heuvelmans as president, Roy P. Mackal as vice-president and J. Richard Greenwell as secretary. Its aim was to provide a focal point for the investigation, analysis, publication and discussion of reported animals of unexpected form, size, time or place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">International Society of Cryptozoology</span><span class="citation-popover-snippet">International Society of Cryptozoology</span></span></span>
-
-This was the clearest attempt to turn cryptozoology from a popular literature into an organised field. The society published *Cryptozoology: Interdisciplinary Journal of the International Society of Cryptozoology*, which began in 1982 and ran until 1996. Library records list it as an annual periodical, with subject headings including animals, folklore and monsters, a revealing combination of zoological ambition and folkloric material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://siris-libraries.si.edu/ipac20/ipac.jsp?profile=liball&amp;source=~%21silibraries&amp;uri=full%3D3100001~%21308002~%210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siris-libraries.si.edu">[siris-libraries.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siris-libraries.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xdYkdrUY-54" title="Hunters of unknown animals ! | SLICE EXPERTS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer">Hunters of unknown animals ! | SLICE EXPERTS</a></p><p class="youtube-embed-meta">Channel: SLICE Wild</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xdYkdrUY-54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xdYkdrUY-54">Open on YouTube</a></p></div></div></div>
 

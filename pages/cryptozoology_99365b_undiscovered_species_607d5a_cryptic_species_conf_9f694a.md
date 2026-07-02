@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 13:58:43'
+date: '2026-07-01 13:58:43'
 parent_title: Why New Species Are Not All Cryptids
 parent_permalink: /new-species/
 parent_nav_short_title: New Species
@@ -279,8 +279,6 @@ This distinction matters because discoveries of cryptic species are sometimes ci
 
 ## What Cryptic Species Means in Biology
 
-Biologists use the term *cryptic species* for [populations]({{'populations/' | relative_url }}) that appear so similar that they were historically classified as a single species, even though they are actually separate evolutionary lineages. The similarity can be so strong that experienced researchers cannot reliably distinguish them by appearance alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/cryptic-species-diversity-and-taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cryptic Species Diversity and TaxonomyCryptic species are genetically distinct lineages that exhibit minimal or no diagnosable morp...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M_qzYHfeDac" title="TEDxAdelaide - Andrew Lowe - DNA Barcoding for Biodiversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M_qzYHfeDac" target="_blank" rel="noopener noreferrer">TEDxAdelaide - Andrew Lowe - DNA Barcoding for Biodiversity</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M_qzYHfeDac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M_qzYHfeDac">Open on YouTube</a></p></div></div></div>
 
 ## How DNA and Anatomy Reveal Hidden Lookalikes
@@ -318,8 +316,6 @@ Many newly recognised species are cryptic species uncovered through laboratory a
 
 Another source of confusion is the similarity of the words *cryptic* and *cryptid*. In biology, *cryptic* refers to hidden identity. In cryptozoology, *cryptid* refers to an animal whose existence remains disputed. The terms sound related, but they describe different concepts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/cryptic-species-diversity-and-taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cryptic Species Diversity and TaxonomyCryptic species are genetically distinct lineages that exhibit minimal or no diagnosable morp...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a-Illustration-3-dark.svg" | relative_url }}" alt="Cryptic Species illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Cryptic Species Actually Tell Us About Unknown Animals
-
-Cryptic species discoveries reveal an important reality: biodiversity is more complex than it appears. Many organisms that look identical are not identical in evolutionary terms. Hidden diversity can affect conservation, ecology and our understanding of how species form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-017-02938-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The importance of naming cryptic species and...by T Delić · 2017 · Cited by 247 — Molecular taxonomy often uncovers cryptic specie...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9YGM6L8bzxg" title="DNA Barcoding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9YGM6L8bzxg" target="_blank" rel="noopener noreferrer">DNA Barcoding</a></p><p class="youtube-embed-meta">Channel: Agriculture and Agri-Food Canada</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9YGM6L8bzxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9YGM6L8bzxg">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Helps distinguish cryptic species research from cryptid claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

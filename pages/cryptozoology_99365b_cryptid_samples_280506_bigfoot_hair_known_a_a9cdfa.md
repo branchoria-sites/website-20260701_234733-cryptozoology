@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:19'
+date: '2026-07-01 19:54:19'
 parent_title: When Cryptid Samples Count as Evidence
 parent_permalink: /samples/
 parent_nav_short_title: Samples
@@ -340,8 +340,6 @@ The Oxford–Lausanne survey illustrated this problem indirectly. Samples arrive
 For this reason, modern wildlife forensics places considerable emphasis on documenting where a sample was found, who handled it, how it was stored and whether contamination controls were used. Without that information, even a technically accurate DNA result may have limited evidential value.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4t6Dug9dflU" title="Bigfoot Hair Sample From Eyewitness Leads Investigation | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4t6Dug9dflU" target="_blank" rel="noopener noreferrer">Bigfoot Hair Sample From Eyewitness Leads Investigation | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: DMAX UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4t6Dug9dflU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4t6Dug9dflU">Open on YouTube</a></p></div></div></div>
 
 ## Why Hair Evidence Has Not Established Bigfoot
-
-After decades of collection efforts and several notable testing programmes, no widely accepted genetic study of alleged Bigfoot hair has produced evidence for an unknown North American primate. Published analyses have overwhelmingly identified familiar animals or yielded inconclusive material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot and...by BC Sykes · 2014 · Cited by 49 — Genetic analysis of hair sample...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xL5OnqKXX7k" title="Expedition Bigfoot | S4 E2 | DNA Test Results From White Hairs Found At Bigfoot Location [HD] [2023]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xL5OnqKXX7k" target="_blank" rel="noopener noreferrer">Expedition Bigfoot | S4 E2 | DNA Test Results From White Hairs Found At Bigfoot Location [HD] [2023]</a></p><p class="youtube-embed-meta">Channel: WotNot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xL5OnqKXX7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xL5OnqKXX7k">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a></h4><p class="fr-book-author">By Joshua Blu Buhs</p><p class="fr-book-desc">Provides context for decades of hair and trace-evidence claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

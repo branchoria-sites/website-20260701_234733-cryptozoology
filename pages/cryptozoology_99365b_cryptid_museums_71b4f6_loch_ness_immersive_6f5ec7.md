@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:02'
+date: '2026-07-01 19:55:02'
 parent_title: Inside the World of Cryptid Museums
 parent_permalink: /museums/
 parent_nav_short_title: Museums
@@ -284,8 +284,6 @@ Among [cryptozoology]({{'cryptozoology/' | relative_url }}) attractions, the Loc
 The modern attraction in Drumnadrochit has been extensively reimagined in recent years, with major investment and refurbishment aimed at creating a cinematic, immersive journey through the history, mythology and investigation of Loch Ness. Rather than functioning as a conventional museum, it uses themed environments, storytelling, archive material and interactive elements to recreate the experience of searching for an elusive phenomenon. The Loch Ness Experience+2http://www.attractionsmanagement.com/<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lochness.com/news/the-loch-ness-centre-gets-a-new-lease-of-life-with-15-million-investment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochness.com">[lochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochness.com</span><span class="citation-popover-title">Discover the transformation</span><span class="citation-popover-snippet">The Loch Ness ExperienceThe Loch Ness Centre gets a new lease of life with £1.5...8 Feb 2023 — Continuum Attractions invests £1.5 millio...</span></span></span>
 
 ## Why Nessie Museums Feel Like a Quest
-
-Most cryptozoology museums display evidence that visitors evaluate from a distance. The Loch Ness Experience goes further by structuring the entire visit around a narrative of discovery. Official descriptions emphasise a multi-room immersive journey that explores myths, sightings, scientific searches and competing explanations. Guests move through a sequence of environments rather than a traditional gallery, mirroring the progression of an investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lochness.com/the-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochness.com">[The Loch Ness Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochness.com</span><span class="citation-popover-snippet">The Loch Ness ExperienceThe Immersive TourThis one-hour cinematic and immersive experience takes you on a captivating journey through eig...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wQSQQl9aLd0" title="Hunting for Nessie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wQSQQl9aLd0" target="_blank" rel="noopener noreferrer">Hunting for Nessie</a></p><p class="youtube-embed-meta">Channel: Historic Environment Scotland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wQSQQl9aLd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wQSQQl9aLd0">Open on YouTube</a></p></div></div></div>
 

@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:28'
+date: '2026-07-01 19:54:28'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -463,8 +463,6 @@ That sensitivity is why eDNA has become so attractive to scientifically minded c
 ## What the Loch Ness survey actually found
 
 The Loch Ness eDNA project was not just a “monster test”. It was also a biodiversity survey of one of Britain’s most famous bodies of freshwater. According to the University of Otago, the team took 250 samples “around, through the centre, and into the very depths” of Loch Ness, captured and sequenced DNA from each sample, and compared the results with global databases to build a picture of life in the loch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
-
-The headline finding was negative for several popular monster theories. The survey did not find genetic evidence of large reptiles, including anything that would support the common plesiosaur-style image of [Nessie]({{'nessie/' | relative_url }}). Reporting from the announcement noted that reptilian DNA should have appeared somewhere near known reptile lineages if such animals were present, yet the sequences did not contain that signal. The survey also failed to support giant catfish, sturgeon or shark explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">loch ness monster dna study reveals plausible explanation for sightings</span><span class="citation-popover-snippet">Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
 

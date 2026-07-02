@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /sightings-register/
   short_title: Sightings Register
   heading_title: Why Nessie Still Gets Counted
-date:'2026-07-01 23:41:31'
+date: '2026-07-01 23:41:31'
 header:
   og_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_remote_cryptid_lands_e7870d-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_remote_cryptid_lands_e7870d-Illustration-1.webp

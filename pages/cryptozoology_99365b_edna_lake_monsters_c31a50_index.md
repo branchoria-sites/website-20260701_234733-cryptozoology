@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-edna-lake/
 description: Focused pages that expand on e DNA.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_edna_lake_monsters_c31a50
 parent_title: e DNA

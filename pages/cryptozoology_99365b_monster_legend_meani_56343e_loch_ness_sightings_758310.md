@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,22 +271,18 @@ next_link:
   permalink: /tnt-area/
   short_title: TNT Area
   heading_title: The Abandoned Place That Made Mothman Possible
-date:'2026-07-01 23:41:07'
+date: '2026-07-01 23:41:07'
 header:
   og_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310-Illustration-1.webp
 image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZahHsR7YVCg" title="Loch Ness Monster Hunters Make Incredible New Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer">Loch Ness Monster Hunters Make Incredible New Discovery</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZahHsR7YVCg">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZahHsR7YVCg" title="Loch Ness Monster Hunters Make Incredible New Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer">Loch Ness Monster Hunters Make Incredible New Discovery</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZahHsR7YVCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZahHsR7YVCg">Open on YouTube</a></p></div></div></div>
 
 ## Sightings Lists as Public Folklore Infrastructure
 
 The register describes itself as the place that lists every [Nessie]({{'nessie/' | relative_url }}) sighting and maintains a running total of recorded reports. By 2026, the total exceeded 1,170 entries, with additional categories for webcam observations and other modern forms of reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnesssightings.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnesssightings.com">[lochnesssightings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnesssightings.com</span><span class="citation-popover-snippet">· 1171 · Have a look here at the details of the latest reports...</span></span></span>
-
-What makes the register important is not simply the number of reports. It functions as a piece of public [folklore]({{'folklore/' | relative_url }}) infrastructure. Folklore normally spreads through stories, newspapers, books and conversation. The sightings register adds a database layer. Reports are collected, dated, archived and made searchable, creating the impression of an ongoing observational project rather than a closed legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnesssightings.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnesssightings.com">[lochnesssightings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnesssightings.com</span><span class="citation-popover-snippet">· 1171 · Have a look here at the details of the latest reports...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GYbq4NtaOkI" title="Mystery of the Loch Ness Monster grows after latest sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GYbq4NtaOkI" target="_blank" rel="noopener noreferrer">Mystery of the Loch Ness Monster grows after latest sighting</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GYbq4NtaOkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GYbq4NtaOkI">Open on YouTube</a></p></div></div></div>
 

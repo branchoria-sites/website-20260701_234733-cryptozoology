@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,22 +271,18 @@ next_link:
   permalink: /habitat-limits/
   short_title: Habitat limits
   heading_title: Remote forest is not an unlimited hiding place
-date:'2026-07-01 23:39:59'
+date: '2026-07-01 23:39:59'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2-Illustration-1.webp
 image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rd2ZGh9uNlg" title="Innovation in Research on the Road to Success for the Large-antlered Muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer">Innovation in Research on the Road to Success for the Large-antlered Muntjac</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rd2ZGh9uNlg">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rd2ZGh9uNlg" title="Innovation in Research on the Road to Success for the Large-antlered Muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer">Innovation in Research on the Road to Success for the Large-antlered Muntjac</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rd2ZGh9uNlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rd2ZGh9uNlg">Open on YouTube</a></p></div></div></div>
 
 ## Skulls, antlers and camera records
 
 The large-antlered muntjac entered science through physical evidence rather than through a dramatic encounter in the forest. Researchers investigating wildlife in the Annamite Mountains encountered distinctive antlers and skulls obtained from hunters. These remains were sufficiently different from known muntjac species to support the description of a [new species]({{'new-species/' | relative_url }}) in 1994.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.izw-berlin.de/en/press-release/first-record-of-large-antlered-muntjac-in-quang-nam-vietnam-in-the-wild-provides-new-hope-for-the-survival-of-this-species.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: izw-berlin.de">[izw-berlin.de+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">izw-berlin.de</span><span class="citation-popover-snippet">In addition to large-antlered muntjac, other camera trap surveys...Read more...</span></span></span>
-
-This origin story is important because it highlights a recurring pattern in genuine zoological discoveries. Local hunters had encountered the animal long before formal recognition, but the species became scientifically accepted only when tangible [specimens]({{'specimens/' | relative_url }}) could be examined and compared with known deer. The discovery was not based on [folklore]({{'folklore/' | relative_url }}) alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esabii.biodic.go.jp/database/mammal/cetartiodactyla/muntiacus_vuquangensis.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esabii.biodic.go.jp">[esabii.biodic.go.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esabii.biodic.go.jp</span><span class="citation-popover-snippet">Muntiacus vuquangensis/ ESABII Data PortalThe large-antlered muntjac is only known from the Annamite mountain chain and associated hill r...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwsRkTbSg8s" title="Camera-trap footage of the Critically Endangered large-antlered muntjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer">Camera-trap footage of the Critically Endangered large-antlered muntjac</a></p><p class="youtube-embed-meta">Channel: CLPawards</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwsRkTbSg8s">Open on YouTube</a></p></div></div></div>
 
@@ -304,8 +300,6 @@ Research in protected landscapes such as Nakai-Nam Theun has shown that the spec
 The most important shift in understanding the large-antlered muntjac is that the mystery today is increasingly shaped by hunting rather than by biological obscurity.
 
 Across the Annamites, industrial-scale wire snaring has become one of the defining conservation threats. Unlike traditional hunting aimed at particular animals, wire snares are indiscriminate. They continue trapping wildlife day and night and can remove animals from forests even when people are absent. Conservation organisations working in the region have documented enormous numbers of snares being removed from protected areas, yet the pressure remains intense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.izw-berlin.de/en/press-release/first-record-of-large-antlered-muntjac-in-quang-nam-vietnam-in-the-wild-provides-new-hope-for-the-survival-of-this-species.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: izw-berlin.de">[izw-berlin.de+2WWF Panda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">izw-berlin.de</span><span class="citation-popover-snippet">In addition to large-antlered muntjac, other camera trap surveys...Read more...</span></span></span>
-
-This changes how the species should be interpreted. A century ago, a lack of records might have implied inadequate exploration. Today, the same lack of records may indicate population collapse. Several conservation assessments identify widespread snaring as the principal driver of severe declines, with some studies reporting local extirpations and shrinking occupancy across parts of the range. Conservation Leadership Programme -+3ResearchGate+3International Research Journals<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/349454270_Camera-trap_records_of_muntjac_in_the_lowlands_of_Hue_Saola_Nature_Reserve_central_Vietnam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Camera-trap records of muntjac in the lowlands of Hue</span><span class="citation-popover-snippet">Camera-trap records of muntjac in the lowlands of Hue...February 1, 2021 — 20 Feb 2021 — Our failure to detect the large-ant...</span><span class="citation-popover-meta">Published: February 1, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwsRkTbSg8s" title="One of the Rarest Most Endangered Animals in the World Caught on Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer">One of the Rarest Most Endangered Animals in the World Caught on Camera</a></p><p class="youtube-embed-meta">Channel: The More We Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwsRkTbSg8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwsRkTbSg8s">Open on YouTube</a></p></div></div></div>
 

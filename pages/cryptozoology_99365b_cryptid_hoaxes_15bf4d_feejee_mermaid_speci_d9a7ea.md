@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:56:00'
+date: '2026-07-01 19:56:00'
 parent_title: How Cryptid Hoaxes Fool the Public
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
@@ -272,13 +272,9 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d-CbURZh1I" title="The Feejee Mermaid : An American Tradition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer">The Feejee Mermaid : An American Tradition</a></p><p class="youtube-embed-meta">Channel: Doctor Drake&#x27;s Exhibition of the Bizarre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d-CbURZh1I">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d-CbURZh1I" title="The Feejee Mermaid : An American Tradition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer">The Feejee Mermaid : An American Tradition</a></p><p class="youtube-embed-meta">Channel: Doctor Drake&#x27;s Exhibition of the Bizarre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d-CbURZh1I">Open on YouTube</a></p></div></div></div>
 
 ## Barnum's Specimen-Style Exhibition
-
-When Barnum acquired the Feejee Mermaid for exhibition in 1842, he did not simply place it on display and declare it genuine. Instead, he built a promotional campaign that borrowed the appearance of scientific legitimacy. Newspapers received stories about a supposedly distinguished naturalist, “Dr. Griffin”, who had obtained an extraordinary specimen from distant waters. Journalists were invited to view the object, and woodcut illustrations circulated before most people had seen the actual exhibit. The publicity created anticipation that a remarkable zoological discovery might be about to enter public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qQL5pJgM-XM" title="Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer">Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!</a></p><p class="youtube-embed-meta">Channel: BarnumMuseum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qQL5pJgM-XM">Open on YouTube</a></p></div></div></div>
 
@@ -294,8 +290,6 @@ Modern scanning has also demonstrated how difficult it can be to identify the ex
 ## Why Restricted Access Helps Specimen Hoaxes
 
 The Feejee Mermaid highlights an enduring feature of specimen-based hoaxes: they gain credibility from being visible but not fully accessible.
-
-Visitors to Barnum's exhibition could inspect the mermaid from outside its display setting, but they could not conduct anatomical dissection, material testing or systematic scientific analysis. The object therefore occupied a useful middle ground. It appeared testable because it was physical, yet meaningful testing remained unavailable to most observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1g7QbP4rM4" title="FeeJee Mermaid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer">FeeJee Mermaid</a></p><p class="youtube-embed-meta">Channel: Peabody Museum of Archaeology &amp; Ethnology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1g7QbP4rM4">Open on YouTube</a></p></div></div></div>
 

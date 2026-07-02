@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:10'
+date: '2026-07-01 12:55:10'
 parent_title: Why Bigfoot Evidence Still Falls Short
 parent_permalink: /bigfoot/
 parent_nav_short_title: Bigfoot
@@ -328,8 +328,6 @@ This does not mean every unusual print has a mundane explanation. It means that 
 ## Why Tracks Alone Cannot Confirm a Species
 
 The central scientific objection is not that every Bigfoot footprint is obviously fake. Rather, it is that footprints by themselves are insufficient evidence for recognising a new large mammal.
-
-In zoology, track evidence is normally used alongside other forms of confirmation: photographs, bodies, bones, hair, scat, genetic [samples]({{'samples/' | relative_url }}) or repeatable observations. Footprints can indicate that something passed through an area, but they rarely establish species identity on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">forensic expert says bigfoot is real</span><span class="citation-popover-snippet">Bigfoot encounters have turned out to come from elk, bears or cows. Many of the sightings and footprints, meanwhile, have proved to be ho...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5J4LTNb-8Hw" title="The Proof Is Out There: REMARKABLE EVIDENCE of Bigfoot&#x27;s Footprint (Season 2) | Exclusive | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5J4LTNb-8Hw" target="_blank" rel="noopener noreferrer">The Proof Is Out There: REMARKABLE EVIDENCE of Bigfoot&#x27;s Footprint (Season 2) | Exclusive | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5J4LTNb-8Hw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5J4LTNb-8Hw">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CsDBqy9oHHkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a></h4><p class="fr-book-author">By Loren Coleman</p><p class="fr-book-desc">Reviews major evidence categories including tracks.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bigfoot%21+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

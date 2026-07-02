@@ -19,8 +19,8 @@ keywords:
 - evidence-test
 affiliate_category: cryptozoology
 show_ads: true
-description:'The coelacanth case sets a practical test for cryptids: preserved evidence, plausible habitat, taxonomic fit, and independent confirmation.'
-hero_summary:'The coelacanth case sets a practical test for cryptids: preserved evidence, plausible habitat, taxonomic fit, and independent confirmation.'
+description: 'The coelacanth case sets a practical test for cryptids: preserved evidence, plausible habitat, taxonomic fit, and independent confirmation.'
+hero_summary: 'The coelacanth case sets a practical test for cryptids: preserved evidence, plausible habitat, taxonomic fit, and independent confirmation.'
 layout: default
 permalink: /evidence-test/
 sidebar_expanded_urls:
@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:47'
+date: '2026-07-01 12:55:47'
 parent_title: What the Coelacanth Really Proves
 parent_permalink: /coelacanth/
 parent_nav_short_title: Coelacanth

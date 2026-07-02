@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:11'
+date: '2026-07-01 19:55:11'
 parent_title: The Writer Who Named Modern Cryptozoology
 parent_permalink: /heuvelmans/
 parent_nav_short_title: Heuvelmans
@@ -278,9 +278,7 @@ header:
 image: /assets/images/cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wGcf6Q8-XD0" title="The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer">The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wGcf6Q8-XD0">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wGcf6Q8-XD0" title="The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer">The Search for Creatures We’ve Never Seen | SLICE EARTH | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wGcf6Q8-XD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wGcf6Q8-XD0">Open on YouTube</a></p></div></div></div>
 
 ## Reports, Tracks and Testimony as Clues
 
@@ -293,8 +291,6 @@ His method therefore treated several kinds of indirect evidence as potentially m
 * Historical records and travellers’ accounts.
 * Indigenous and local knowledge.
 * Photographs, sketches and alleged remains.
-* Geographical patterns in sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/20109683/A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Cryptozoological Reference Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">A Review of Cryptozoology: Towards a Scientific Approach</span><span class="citation-popover-snippet">A Review of Cryptozoology: Towards a Scientific Approach...January 1, 2015 — Heuvelmans defined cryptids as species with indirec...</span><span class="citation-popover-meta">Published: January 1, 2015</span></span></span></div>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--CbC6XP9jE" title="Was the Minnesota Iceman Real?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--CbC6XP9jE" target="_blank" rel="noopener noreferrer">Was the Minnesota Iceman Real?</a></p><p class="youtube-embed-meta">Channel: Thorn’s Jungle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--CbC6XP9jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--CbC6XP9jE">Open on YouTube</a></p></div></div></div>
 
 ## How Comparative Clustering Built Possible Species Cases

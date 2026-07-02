@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:03'
+date: '2026-07-01 14:59:03'
 parent_title: Why Honest Cryptid Sightings Can Mislead
 parent_permalink: /sightings/
 parent_nav_short_title: Sightings
@@ -285,8 +285,7 @@ Several factors increase the risk of confusion:
 
 * **Limited visibility.** Many sightings occur at dawn, dusk or in dense woodland where shape is easier to perceive than detailed anatomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/scotttravers/2024/10/26/bigfoot-sightings-are-almost-always-this-animal-in-disguise-a-biologist-explains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">bigfoot sightings are almost always this animal in disguise a biologist explains</span><span class="citation-popover-snippet">bear standing upright could be confused with the legendary Sasquatch. Another factor that contributes to this confusion is the black bear...</span></span></span>
 * **Partial obstruction.** Trees, brush and uneven terrain can hide a bear’s snout, ears or body proportions, leaving only the impression of a tall, dark figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigfootforums.com/topic/74696-black-bear-walking-upright-generates-false-bf-reports/?comment=1076267&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigfootforums.com">[Bigfootforums.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigfootforums.com</span><span class="citation-popover-title">74696 black bear walking upright generates false bf reports</span><span class="citation-popover-snippet">black bear in the region that generated a slew of Bigfoot sightings.... walking bear could mistake it for a sasquatch. That person has n...</span></span></span>
-* **Brief viewing time.** Eyewitness research consistently shows that short encounters reduce identification accuracy, particularly when the observer is surprised. In a cryptozoological context, a fleeting glimpse may leave observers filling gaps in memory after the event.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MuHw8RlZPTc" title="This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer">This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker</a></p><p class="youtube-embed-meta">Channel: JRE Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MuHw8RlZPTc">Open on YouTube</a></p></div></div></div>
+* **Brief viewing time.** Eyewitness research consistently shows that short encounters reduce identification accuracy, particularly when the observer is surprised. In a cryptozoological context, a fleeting glimpse may leave observers filling gaps in memory after the event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MuHw8RlZPTc" title="This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer">This is Why Bears Are Mistaken for Bigfoot | Joe Rogan and Travis Barker</a></p><p class="youtube-embed-meta">Channel: JRE Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MuHw8RlZPTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MuHw8RlZPTc">Open on YouTube</a></p></div></div></div>
 
 ## Where Bear Range and Bigfoot Reports Overlap
 

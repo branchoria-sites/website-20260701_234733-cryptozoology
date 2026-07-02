@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:12'
+date: '2026-07-01 14:59:12'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -283,8 +283,6 @@ image: /assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_
 The 1972 Loch Ness “flipper” photographs are one of the most revealing examples of how image enhancement can transform an ambiguous visual record into something that appears far more anatomically convincing than the original evidence warrants. Taken during a sonar-assisted search led by Robert Rines and the Academy of Applied Science, the images were initially presented as underwater photographs of a large creature with a distinctive flipper. Yet the famous versions reproduced in books, newspapers and documentaries were not simple photographs. They were heavily processed images derived from murky originals, and debate over exactly what the enhancement added has continued for decades. The case is important because it illustrates a recurring problem in cryptid photography: a clearer-looking image is not necessarily a more reliable one. What appears to be increased detail may instead be an interpretation imposed by the processing itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">loch ness monster flipper photos</span><span class="citation-popover-snippet">Tetrapod ZoologyThe 1972 Loch Ness Monster Flipper Photos18 Aug 2020 — On the night of 7th/8th August 1972, the two boats were 36m apart...</span><span class="citation-popover-meta">Published: August 1972</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491-Illustration-1-dark.svg" | relative_url }}" alt="Flipper Blur illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Original Images Showed
 
-The photographs were obtained during an underwater camera-and-sonar operation in Loch Ness in August 1972. A submerged camera equipped with a strobe light was deployed while sonar operators monitored moving underwater targets. Out of thousands of exposures, only a few frames were considered significant, and two became famous for appearing to show a diamond-shaped appendage interpreted as a flipper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2lochnessinvestigation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">loch ness monster flipper photos</span><span class="citation-popover-snippet">Tetrapod ZoologyThe 1972 Loch Ness Monster Flipper Photos18 Aug 2020 — On the night of 7th/8th August 1972, the two boats were 36m apart...</span><span class="citation-popover-meta">Published: August 1972</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3Kfq_7mnbA" title="SYND 4-11-72 US TEAM CLAIM EVIDENCE OF LOCH NESS MONSTER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3Kfq_7mnbA" target="_blank" rel="noopener noreferrer">SYND 4-11-72 US TEAM CLAIM EVIDENCE OF LOCH NESS MONSTER</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3Kfq_7mnbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3Kfq_7mnbA">Open on YouTube</a></p></div></div></div>
 
 ## How Enhancement Changed the Claim
@@ -303,9 +301,7 @@ When a low-quality image is processed, several things can happen:<div class="con
 * Contrast adjustments can make gradual tonal changes appear to be hard boundaries.
 * Noise can be mistaken for structure.
 * Edge-detection techniques can create cleaner outlines than the original image supports.
-* Viewers may interpret newly emphasised shapes as meaningful anatomy rather than processing artefacts.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aXvnOgOojXo" title="Parallax - Episode 35: Charles Wyckoff and A Drive Around the Loch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aXvnOgOojXo" target="_blank" rel="noopener noreferrer">Parallax - Episode 35: Charles Wyckoff and A Drive Around the Loch</a></p><p class="youtube-embed-meta">Channel: John Horrigan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aXvnOgOojXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aXvnOgOojXo">Open on YouTube</a></p></div></div></div>
+* Viewers may interpret newly emphasised shapes as meaningful anatomy rather than processing artefacts.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aXvnOgOojXo" title="Parallax - Episode 35: Charles Wyckoff and A Drive Around the Loch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aXvnOgOojXo" target="_blank" rel="noopener noreferrer">Parallax - Episode 35: Charles Wyckoff and A Drive Around the Loch</a></p><p class="youtube-embed-meta">Channel: John Horrigan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aXvnOgOojXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aXvnOgOojXo">Open on YouTube</a></p></div></div></div>
 
 ## The Continuing Dispute Over What Was Enhanced
 

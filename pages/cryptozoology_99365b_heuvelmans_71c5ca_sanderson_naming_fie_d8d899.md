@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:14'
+date: '2026-07-01 19:55:14'
 parent_title: The Writer Who Named Modern Cryptozoology
 parent_permalink: /heuvelmans/
 parent_nav_short_title: Heuvelmans
@@ -285,8 +285,6 @@ Understanding Sanderson's contribution matters because names shape disciplines. 
 
 ## Sanderson's Influence on Heuvelmans
 
-Before cryptozoology had a formal name, Sanderson and Heuvelmans were already exploring similar questions. Both were fascinated by reports of animals that appeared unknown to mainstream zoology. Sanderson became widely known through articles and books on mysterious creatures, while Heuvelmans developed a more systematic approach that culminated in *On the Track of Unknown Animals* (1955). Together they became the two figures most often identified as founders of the modern movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ivan T. SandersonAlong with Belgian-French biologist Bernard Heuvelmans, Sanderson was a founding figure of cryptozoology, or the study o...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b1dF91A_GDw" title="Animal Planet - Lost Monster Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b1dF91A_GDw" target="_blank" rel="noopener noreferrer">Animal Planet - Lost Monster Files</a></p><p class="youtube-embed-meta">Channel: First Media World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b1dF91A_GDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b1dF91A_GDw">Open on YouTube</a></p></div></div></div>
 
 ## The Tangled Origin of the Word Cryptozoology
@@ -299,8 +297,6 @@ The evidence remains imperfect. Researchers have noted that the relevant stateme
 
 A further complication is the distinction between inventing a word and popularising it. Even if Sanderson first conceived the term, Heuvelmans was the figure who attached it to a comprehensive programme of research and brought it to a broad readership through influential books. In practical terms, modern cryptozoology owes its vocabulary to both men: one may have supplied the earliest wording, while the other gave that wording institutional and cultural force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptozoologymuseum.com/what-is-cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptozoologymuseum.com">[Cryptozoology Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptozoologymuseum.com</span><span class="citation-popover-snippet">Open source on cryptozoologymuseum.com.</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_sanderson_naming_fie_d8d899-Illustration-2-dark.svg" | relative_url }}" alt="Sanderson illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_sanderson_naming_fie_d8d899-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_heuvelmans_71c5ca_sanderson_naming_fie_d8d899-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Later Term Cryptid Changed Public Language
-
-The evolution of cryptozoological language did not stop with the debate over “cryptozoology.” In 1983, cryptozoologist John E. Wall introduced the term “cryptid” as a label for the creatures themselves. The word was intended to describe animals whose existence remained unverified rather than relying on broader and often sensational terms such as “monster.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Modern Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The term dates from 1959 or before—Heuvelmans attributes the coinage of the term cryptozoology to Sanderson. Following cryptozoology, the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HSsIpDQ2Lbk" title="Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer">Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HSsIpDQ2Lbk">Open on YouTube</a></p></div></div></div>
 

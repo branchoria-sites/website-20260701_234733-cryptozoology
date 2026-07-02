@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 23:41:29'
+date: '2026-07-01 23:41:29'
 parent_title: What Monster Legends Say About US
 parent_permalink: /meaning/
 parent_nav_short_title: Meaning
@@ -286,9 +286,7 @@ image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_monster_h
 
 Many cryptid traditions are tied to places that are difficult to observe and navigate. Bigfoot reports cluster in dense forests, mountain valleys and sparsely populated regions of the Pacific Northwest. These are environments where visibility is limited, distances are deceptive and help may be far away.
 
-The search itself can increase exposure to risk. People looking for signs of a cryptid may leave established trails, stay outdoors after dark, travel in poor weather or focus more on locating evidence than on routine wilderness safety. In practical terms, a hunt for an unknown creature often becomes an expedition into terrain that search-and-rescue professionals already regard as hazardous.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ycF8rlczA1Y" title="2 Portland men found dead after going searching for Sasquatch in the forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ycF8rlczA1Y" target="_blank" rel="noopener noreferrer">2 Portland men found dead after going searching for Sasquatch in the forest</a></p><p class="youtube-embed-meta">Channel: KING 5 Seattle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ycF8rlczA1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ycF8rlczA1Y">Open on YouTube</a></p></div></div></div>
+The search itself can increase exposure to risk. People looking for signs of a cryptid may leave established trails, stay outdoors after dark, travel in poor weather or focus more on locating evidence than on routine wilderness safety. In practical terms, a hunt for an unknown creature often becomes an expedition into terrain that search-and-rescue professionals already regard as hazardous.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ycF8rlczA1Y" title="2 Portland men found dead after going searching for Sasquatch in the forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ycF8rlczA1Y" target="_blank" rel="noopener noreferrer">2 Portland men found dead after going searching for Sasquatch in the forest</a></p><p class="youtube-embed-meta">Channel: KING 5 Seattle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ycF8rlczA1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ycF8rlczA1Y">Open on YouTube</a></p></div></div></div>
 
 ## Exposure, Weather and Preparation in Forest Searches
 

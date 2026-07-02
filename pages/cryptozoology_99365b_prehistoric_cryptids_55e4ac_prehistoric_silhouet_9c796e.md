@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:41'
+date: '2026-07-01 12:55:41'
 parent_title: Could Prehistoric Monsters Still Be Alive?
 parent_permalink: /prehistoric-claims/
 parent_nav_short_title: Prehistoric Claims
@@ -299,8 +299,6 @@ Many reported prehistoric-looking creatures emerge from ordinary objects or anim
 **Waterbirds.** Swans, cormorants and other waterbirds can create convincing long-necked silhouettes. When distance is difficult to judge, a bird occupying a small part of the visual field may appear much larger than it really is. Investigators of Loch Ness reports have repeatedly pointed to waterbirds as a source of apparent neck-and-head sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Is this the &#x27;answer&#x27; to the Loch Ness Monster mystery?</span><span class="citation-popover-snippet">Scientist reveals simple explanation for Nessie sightingsAdrian Shine, a Scottish naturalist and long-time investigator, suggests a simpl...</span></span></span>
 
 **Boat [wakes]({{'wakes/' | relative_url }}) and wave trains.** A series of waves moving across a lake can appear as multiple humps belonging to a single animal. Observers viewing the wake from an unusual angle may not immediately recognise its source. Several analyses of Loch Ness reports have identified wakes as a major contributor to monster interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-**Floating logs and tree trunks.** Partially submerged timber can resemble a head, neck or humped back. In some cases, rising logs have been proposed as explanations for classic monster photographs and sightings. Branch stubs and irregular shapes can produce surprisingly animal-like outlines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NQ-UrmwAsg0" title="Beyond Pareidolia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer">Beyond Pareidolia</a></p><p class="youtube-embed-meta">Channel: Bradshaw Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NQ-UrmwAsg0">Open on YouTube</a></p></div></div></div>
 

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:14'
+date: '2026-07-01 12:55:14'
 parent_title: Why Bigfoot Evidence Still Falls Short
 parent_permalink: /bigfoot/
 parent_nav_short_title: Bigfoot
@@ -275,9 +275,7 @@ image: /assets/images/cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_t
 ## Introduction
 
 Modern DNA testing offers one of the clearest ways to evaluate Bigfoot claims. Unlike eyewitness reports, [footprints]({{'footprints/' | relative_url }}) or blurry photographs, hair, tissue, blood and other biological [samples]({{'samples/' | relative_url }}) can be analysed in laboratories and compared directly with known species. If Bigfoot were a real, undiscovered large primate, DNA evidence would provide a path to scientific confirmation. Instead, the most significant published investigations have repeatedly found that purported Bigfoot samples belong to ordinary animals already known to science. These results have become one of the strongest reasons why mainstream zoologists remain unconvinced by Bigfoot claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot and...by BC Sykes · 2014 · Cited by 49 — We have used rigorous decontami...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_tests_e6c8ee-Illustration-1-dark.svg" | relative_url }}" alt="DNA Tests illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_tests_e6c8ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_tests_e6c8ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-## Why Hair Samples Matter
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M_rijBw0A5U" title="Bigfoot and Loch Ness Monster DNA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer">Bigfoot and Loch Ness Monster DNA?</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M_rijBw0A5U">Open on YouTube</a></p></div></div></div>
+## Why Hair Samples Matter<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M_rijBw0A5U" title="Bigfoot and Loch Ness Monster DNA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer">Bigfoot and Loch Ness Monster DNA?</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M_rijBw0A5U">Open on YouTube</a></p></div></div></div>
 
 ## What Major DNA Studies Reported
 
@@ -295,12 +293,9 @@ Reports describing the sample identifications noted matches to a wide variety of
 * Sheep
 * Raccoons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/2014/7/2/20467935/tested-bigfoot-hair-samples-came-from-animals-like-bears-wolves-cows-raccoons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[deseret.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">tested bigfoot hair samples came from animals like bears wolves cows raccoons</span><span class="citation-popover-snippet">Sykes and colleagues tested 36 hair samples from Bhutan, India, Indonesia, Nepal, Russia and the U.S. using...</span></span></span>
 * Porcupines
-* Humans
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZxD9_8mJA0A" title="The Melba Ketchum Bigfoot DNA Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZxD9_8mJA0A" target="_blank" rel="noopener noreferrer">The Melba Ketchum Bigfoot DNA Study</a></p><p class="youtube-embed-meta">Channel: Remote Cabin Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZxD9_8mJA0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZxD9_8mJA0A">Open on YouTube</a></p></div></div></div>
+* Humans<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZxD9_8mJA0A" title="The Melba Ketchum Bigfoot DNA Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZxD9_8mJA0A" target="_blank" rel="noopener noreferrer">The Melba Ketchum Bigfoot DNA Study</a></p><p class="youtube-embed-meta">Channel: Remote Cabin Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZxD9_8mJA0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZxD9_8mJA0A">Open on YouTube</a></p></div></div></div>
 
-### The Melba Ketchum Controversy
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V5X-E62tGwY" title="Bigfoot DNA? - Science on the Web #33" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V5X-E62tGwY" target="_blank" rel="noopener noreferrer">Bigfoot DNA? - Science on the Web #33</a></p><p class="youtube-embed-meta">Channel: Stuff to Blow Your Mind</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V5X-E62tGwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V5X-E62tGwY">Open on YouTube</a></p></div></div></div>
+### The Melba Ketchum Controversy<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V5X-E62tGwY" title="Bigfoot DNA? - Science on the Web #33" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V5X-E62tGwY" target="_blank" rel="noopener noreferrer">Bigfoot DNA? - Science on the Web #33</a></p><p class="youtube-embed-meta">Channel: Stuff to Blow Your Mind</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V5X-E62tGwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V5X-E62tGwY">Open on YouTube</a></p></div></div></div>
 
 ## Why Known-Animal Matches Weaken the Claim
 

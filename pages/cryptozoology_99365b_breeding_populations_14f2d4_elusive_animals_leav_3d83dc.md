@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:08'
+date: '2026-07-01 20:53:08'
 parent_title: Why One Monster Would Never Be Enough
 parent_permalink: /populations/
 parent_nav_short_title: Populations
@@ -287,9 +287,7 @@ These examples demonstrate an important distinction. Being difficult to observe 
 
 A single type of evidence can be ambiguous. A footprint may be misidentified, a photograph may be unclear, and scat can be mistaken for that of another species. What makes wildlife detection reliable is the convergence of multiple independent traces.
 
-### Tracks Reveal Presence and Movement
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5vQDZXlXaAI" title="Searching for the Snow Leopard | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer">Searching for the Snow Leopard | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5vQDZXlXaAI">Open on YouTube</a></p></div></div></div>
+### Tracks Reveal Presence and Movement<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5vQDZXlXaAI" title="Searching for the Snow Leopard | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer">Searching for the Snow Leopard | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5vQDZXlXaAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5vQDZXlXaAI">Open on YouTube</a></p></div></div></div>
 
 ### Scat Contains More Information Than Sightings
 
@@ -312,9 +310,7 @@ Over decades and centuries, breeding populations generate an accumulating physic
 
 ## Camera Traps Turn Invisible Animals Into Data
 
-One of the strongest lessons from modern wildlife biology is how quickly evidence accumulates once systematic monitoring begins.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rKWVvMaml_8" title="The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer">The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth</a></p><p class="youtube-embed-meta">Channel: BBC Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rKWVvMaml_8">Open on YouTube</a></p></div></div></div>
+One of the strongest lessons from modern wildlife biology is how quickly evidence accumulates once systematic monitoring begins.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rKWVvMaml_8" title="The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer">The Race to Find the Mysterious Snow Leopard | Snow Leopard: Beyond the Myth | BBC Earth</a></p><p class="youtube-embed-meta">Channel: BBC Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rKWVvMaml_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rKWVvMaml_8">Open on YouTube</a></p></div></div></div>
 
 ## What Cryptid Claims Should Produce If Populations Exist
 

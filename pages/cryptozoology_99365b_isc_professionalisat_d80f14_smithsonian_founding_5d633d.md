@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:30'
+date: '2026-07-01 19:55:30'
 parent_title: Why Cryptozoology Did Not Become Zoology
 parent_permalink: /isc-professionalisat/
 parent_nav_short_title: Isc Professionalisat
@@ -283,8 +283,6 @@ image: /assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_smithsoni
 When the International Society of [Cryptozoology]({{'cryptozoology/' | relative_url }}) (ISC) was founded in Washington, DC, on 8–9 January 1982, its organisers deliberately chose a setting that conveyed scientific seriousness: the Department of Vertebrate Zoology at the Smithsonian Institution’s National Museum of Natural History. For a field usually associated with Bigfoot stories, lake monsters and popular media, the [location]({{'location/' | relative_url }}) mattered enormously. The meeting allowed cryptozoology's advocates to present their project as a branch of zoological inquiry rather than a fringe pursuit. Yet the history of the ISC also demonstrates an important distinction: institutional proximity is not the same as institutional endorsement. The Smithsonian venue gave the new organisation visibility and prestige, but it did not translate into lasting acceptance by mainstream zoology or by the Smithsonian itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/1982EOSTr..63R.825R/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Astrophysics Data SystemCryptozoology Society - ADSby BT Richman · 1982 — The International Society of Cryptozoology, formed at a January...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_smithsonian_founding_5d633d-Illustration-1-dark.svg" | relative_url }}" alt="Founding illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_smithsonian_founding_5d633d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_isc_professionalisat_d80f14_smithsonian_founding_5d633d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Happened in Washington in January 1982
 
-The ISC emerged from a two-day meeting held at the Smithsonian’s National Museum of Natural History in January 1982. Contemporary accounts describe the gathering as the formal creation of an international organisation devoted to investigating reports of animals whose existence had not yet been accepted by science. The meeting was hosted by Smithsonian zoologist George Zug, and it brought together several of the best-known figures associated with cryptozoological research. Bernard [Heuvelmans]({{'heuvelmans/' | relative_url }}), often called the founder of modern cryptozoology, became president; Roy P. Mackal became vice-president; and J. Richard Greenwell became secretary and a leading organiser of [the society]({{'the-society/' | relative_url }})’s activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptidarchives.fandom.com/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[Cryptid Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-snippet">Cryptid ArchivesInternational Society of CryptozoologyFounded in January 1982 at a Smithsonian meeting hosted by George Zug, the society...</span><span class="citation-popover-meta">Published: January 1982</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/usGcM7zDf04" title="Bernard Heuvelmans Talks About the Yeti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=usGcM7zDf04" target="_blank" rel="noopener noreferrer">Bernard Heuvelmans Talks About the Yeti</a></p><p class="youtube-embed-meta">Channel: Cryptid Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=usGcM7zDf04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=usGcM7zDf04">Open on YouTube</a></p></div></div></div>
 
 ## Why the Museum Setting Carried Authority
@@ -301,8 +299,6 @@ This symbolism was especially important because cryptozoology faced a reputation
 ## Why Proximity Did Not Equal Endorsement
 
 The Smithsonian connection has sometimes been interpreted by enthusiasts as evidence that cryptozoology enjoyed institutional backing. The historical record suggests a more limited reality.
-
-The Smithsonian hosted the meeting and one of its scientists facilitated the event, but there is no evidence that the institution formally endorsed cryptozoology as a recognised scientific discipline. The distinction is crucial. Museums and universities frequently provide meeting space for groups whose ideas are debated or unproven; doing so does not automatically signal acceptance of those ideas. The ISC gained a prestigious venue, not official validation of its central claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptidarchives.fandom.com/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidarchives.fandom.com">[Cryptid Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidarchives.fandom.com</span><span class="citation-popover-snippet">Cryptid ArchivesInternational Society of CryptozoologyFounded in January 1982 at a Smithsonian meeting hosted by George Zug, the society...</span><span class="citation-popover-meta">Published: January 1982</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MD0zY_6F4bo" title="Origins of Cryptozoology | Tales of Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer">Origins of Cryptozoology | Tales of Earth</a></p><p class="youtube-embed-meta">Channel: Tales of Earth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MD0zY_6F4bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MD0zY_6F4bo">Open on YouTube</a></p></div></div></div>
 

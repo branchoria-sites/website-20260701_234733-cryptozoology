@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-heuvelmans-71c5ca/
 description: Focused pages that expand on Heuvelmans.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_heuvelmans_71c5ca
 parent_title: Heuvelmans

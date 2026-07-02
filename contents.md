@@ -1,6 +1,6 @@
 ---
 layout: default
-title:"Contents"
+title: "Contents"
 permalink: /contents/
 home: true
 contents_page: true

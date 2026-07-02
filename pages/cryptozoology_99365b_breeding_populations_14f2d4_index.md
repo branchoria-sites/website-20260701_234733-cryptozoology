@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-breeding/
 description: Focused pages that expand on Populations.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_breeding_populations_14f2d4
 parent_title: Populations

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:27'
+date: '2026-07-01 12:55:27'
 parent_title: Did Yeti Samples Point to Bears?
 parent_permalink: /yeti-dna/
 parent_nav_short_title: Yeti DNA
@@ -278,13 +278,9 @@ header:
 image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ajsJ5lcuuY8" title="No Abominable Snowman? DNA Study Says Yetis Are Just Bears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer">No Abominable Snowman? DNA Study Says Yetis Are Just Bears</a></p><p class="youtube-embed-meta">Channel: CBS TEXAS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ajsJ5lcuuY8">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ajsJ5lcuuY8" title="No Abominable Snowman? DNA Study Says Yetis Are Just Bears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer">No Abominable Snowman? DNA Study Says Yetis Are Just Bears</a></p><p class="youtube-embed-meta">Channel: CBS TEXAS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ajsJ5lcuuY8">Open on YouTube</a></p></div></div></div>
 
 ## Where Himalayan and Tibetan brown bears fit the evidence
-
-The clearest connection between bears and the Yeti comes from genetic analysis of physical [specimens]({{'specimens/' | relative_url }}). In 2017, researchers led by Charlotte Lindqvist examined bones, hair, skin and faecal material that had been attributed to the Yeti. The results showed that the samples belonged to local bear species rather than an unknown hominid. Specimens from the western Himalayas matched Himalayan brown bears, while others from the Tibetan Plateau matched Tibetan brown bears. One supposed Yeti sample proved to be from a dog.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[CORDIS+3Royal Society+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XVkE6-L31To" title="Abominable Snowman (yeti) likely just bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer">Abominable Snowman (yeti) likely just bear</a></p><p class="youtube-embed-meta">Channel: Scripps News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XVkE6-L31To">Open on YouTube</a></p></div></div></div>
 
@@ -302,8 +298,6 @@ The bears' ecology further contributes to the mystery. They occupy high-altitude
 The bear explanation is sometimes presented as a straightforward debunking of the Yeti. The genetics tell a more nuanced story.
 
 Research on mitochondrial genomes has shown that Himalayan brown bears form one of the oldest surviving branches within the brown bear family tree. Estimates place their separation from other brown bear lineages at roughly 650,000 years ago, probably during major Pleistocene glaciations that isolated populations in mountain refuges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
-
-This means that witnesses who encountered these animals were not necessarily seeing an ordinary representative of a widespread species. They were encountering a rare, geographically isolated lineage with its own evolutionary history. The same studies found that Tibetan brown bears followed a different evolutionary path and are more closely related to other Eurasian and North American brown bears than to the Himalayan lineage living nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7X7fsM9i1So" title="Yeti: myth, man or bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer">Yeti: myth, man or bear</a></p><p class="youtube-embed-meta">Channel: NTUsg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7X7fsM9i1So">Open on YouTube</a></p></div></div></div>
 

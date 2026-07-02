@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:40'
+date: '2026-07-01 12:55:40'
 parent_title: Could Prehistoric Monsters Still Be Alive?
 parent_permalink: /prehistoric-claims/
 parent_nav_short_title: Prehistoric Claims
@@ -278,9 +278,7 @@ header:
 image: /assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFpwz_TZZZk" title="How Long Did The Dinosaurs Actually Survive After The Asteroid?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer">How Long Did The Dinosaurs Actually Survive After The Asteroid?</a></p><p class="youtube-embed-meta">Channel: ExtinctZoo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFpwz_TZZZk">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFpwz_TZZZk" title="How Long Did The Dinosaurs Actually Survive After The Asteroid?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer">How Long Did The Dinosaurs Actually Survive After The Asteroid?</a></p><p class="youtube-embed-meta">Channel: ExtinctZoo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFpwz_TZZZk">Open on YouTube</a></p></div></div></div>
 
 ## How Bones Can Move Between Sediments
 
@@ -290,8 +288,7 @@ Several mechanisms can produce reworked fossils:<span class="citation-chip-wrap"
 
 * **River erosion:** Streams can cut into older fossil-bearing rocks, carry fossil fragments downstream, and deposit them within younger sediments.
 * **Marine erosion:** Rising sea levels or shifting coastlines can erode older seabed deposits and redistribute fossils into younger marine layers.
-* **Storms and currents:** Powerful water movement can excavate older sediments and redeposit their contents elsewhere.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Z2a0B3CEYc" title="PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer">PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young</a></p><p class="youtube-embed-meta">Channel: Institute for Creation Research (ICR)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Z2a0B3CEYc">Open on YouTube</a></p></div></div></div>
+* **Storms and currents:** Powerful water movement can excavate older sediments and redeposit their contents elsewhere.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Z2a0B3CEYc" title="PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer">PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young</a></p><p class="youtube-embed-meta">Channel: Institute for Creation Research (ICR)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Z2a0B3CEYc">Open on YouTube</a></p></div></div></div>
 
 ## Why Geological Context Matters More Than the Fossil Alone
 
@@ -310,8 +307,6 @@ The broader geological setting often proves more informative than the specimen i
 ## The Dinosaur Survival Debate and Reworked Fossils
 
 One of the best-known examples involves claims that non-avian dinosaurs survived beyond the end-Cretaceous extinction event. Over the years, several dinosaur bones have been reported from rocks interpreted as Paleocene in age, theoretically placing them after the extinction boundary. Some researchers proposed that small [populations]({{'populations/' | relative_url }}) of dinosaurs persisted for a limited time after the mass extinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Evidence for Paleocene dinosaurs in the Ojo Alamo...January 1, 2002 — These findings indicate that the dinosaur bone from th...</span><span class="citation-popover-meta">Published: January 1, 2002</span></span></span>
-
-However, many subsequent analyses concluded that these fossils were more likely reworked Cretaceous [specimens]({{'specimens/' | relative_url }}) rather than evidence of living Paleocene dinosaurs. Reviews of the evidence from the San Juan Basin in New Mexico have argued that purported Paleocene dinosaur remains can be explained by redeposition or by earlier errors in assigning the age of the host rocks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-title">Paleocene non avian dinosaurs</span><span class="citation-popover-snippet">Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CunN7ARpsAQ" title="Geology: Relative Dating of Rocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer">Geology: Relative Dating of Rocks</a></p><p class="youtube-embed-meta">Channel: Earth Rocks!</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CunN7ARpsAQ">Open on YouTube</a></p></div></div></div>
 

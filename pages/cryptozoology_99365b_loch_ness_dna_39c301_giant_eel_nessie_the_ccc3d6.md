@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:20'
+date: '2026-07-01 12:55:20'
 parent_title: What DNA Says About the Loch Ness Monster
 parent_permalink: /loch-ness/
 parent_nav_short_title: Loch Ness
@@ -278,13 +278,9 @@ header:
 image: /assets/images/cryptozoology_99365b_loch_ness_dna_39c301_giant_eel_nessie_the_ccc3d6-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
 
 ## Why eel DNA changed the debate
-
-The modern eel theory owes much of its prominence to the 2018 Loch Ness eDNA project led by geneticist Neil Gemmell. Researchers analysed genetic traces left in the water and identified thousands of species. Eel DNA appeared in abundance across the loch, whereas no convincing evidence emerged for a large reptile or several other frequently proposed monster candidates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">loch ness monster could be a giant eel say scientists</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — Loch Ness monster could be a giant eel, say scientists ·...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vHGUbLhCyQs" title="Loch Ness monster might just be a giant eel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer">Loch Ness monster might just be a giant eel</a></p><p class="youtube-embed-meta">Channel: KiniTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vHGUbLhCyQs">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +302,6 @@ This distinction is important. The phrase “giant eel” can mean very differen
 ## Why the biggest monster reports remain a problem
 
 Many famous Nessie reports describe creatures far larger than any known eel. Witnesses have reported multiple humps, long necks protruding above the water, large bodies moving across substantial distances and estimated lengths of many metres. These accounts are difficult to reconcile with the biology of European eels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</span></span></span>
-
-The issue is not simply maximum size. Some reports describe body plans that do not resemble an eel at all. A long neck held above the water, large flipper-like appendages or a bulky body would require observers to have substantially misinterpreted what they saw. While such misperceptions are possible, the explanation becomes less convincing as the reported animal becomes larger and more detailed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
 

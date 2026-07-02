@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:53'
+date: '2026-07-01 12:55:53'
 parent_title: Why the Okapi Became Real Science
 parent_permalink: /okapi/
 parent_nav_short_title: Okapi
@@ -288,7 +288,6 @@ The decisive evidence came from the skull. Early descriptions based on skins and
 Several anatomical features pointed away from equids and towards giraffids:
 
 * The skull carried ossicones, skin-covered bony structures characteristic of giraffes and their relatives rather than horses. Male okapis possess these structures, which are fundamentally different from horns or antlers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2IELC LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* The animal possessed the cloven-hoof anatomy expected of an even-toed ungulate rather than the single-toed foot structure of horses. Johnston himself realised this when [tracks]({{'tracks/' | relative_url }}) revealed an artiodactyl, not an equid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Okapia_johnstoni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Okapia johnstoni</span><span class="citation-popover-snippet">Okapia johnstoni</span></span></span>
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTui14SrjC8" title="The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer">The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTui14SrjC8">Open on YouTube</a></p></div></div></div>
 
 ## Why Giraffid Placement Mattered
@@ -301,13 +300,10 @@ Several characteristics made sense once the giraffid relationship was recognised
 
 * The long, prehensile tongue resembles the browsing adaptations seen in giraffes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 * Ossicones fit a giraffid pattern rather than any horse-like anatomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* Shared locomotor features and aspects of skull structure linked the species with giraffes despite its much shorter neck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GDFKH42Sseg" title="Okapi :The Secret Giraffe of the Congo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer">Okapi :The Secret Giraffe of the Congo</a></p><p class="youtube-embed-meta">Channel: The Shoebill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GDFKH42Sseg">Open on YouTube</a></p></div></div></div>
 ## Taxonomic Fit as a Cryptid Reality Check
 
 For [cryptozoology]({{'cryptozoology/' | relative_url }}), the okapi is often cited as [proof]({{'proof/' | relative_url }}) that mysterious animals can be real. The giraffid correction reveals a more precise lesson.
-
-The okapi did not enter science because reports of a strange forest creature persisted. It entered science because anatomical evidence allowed the animal to be fitted into an existing biological framework. Physical remains generated predictions about anatomy, relationships, behaviour, and evolution that could be tested against additional [specimens]({{'specimens/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bzgfNMXdOfc" title="“Okapi: The Forest Giraffe of the Congo”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer">“Okapi: The Forest Giraffe of the Congo”</a></p><p class="youtube-embed-meta">Channel: Rewilding the future</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bzgfNMXdOfc">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mammals of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_07noCPc4kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mammals of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mammals of Africa">Mammals of Africa</a></h4><p class="fr-book-author">By Jonathan Kingdon, David Happold et al.</p><p class="fr-book-desc">Details the anatomical evidence that resolved classification.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

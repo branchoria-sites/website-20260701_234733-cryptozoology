@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 22:28:54'
+date: '2026-07-01 22:28:54'
 parent_title: The Real Unknown Animals of the Deep Sea
 parent_permalink: /deep-sea/
 parent_nav_short_title: Deep Sea
@@ -285,8 +285,6 @@ For [cryptozoology]({{'cryptozoology/' | relative_url }}), the lesson is not tha
 
 ## Why the Midwater Is Hard to Sample
 
-The midwater, often called the pelagic water column, is difficult to study because it is neither surface ocean nor seafloor. For much of scientific history, researchers relied on nets, sonar and occasional [specimens]({{'specimens/' | relative_url }}) hauled to the surface. Those methods worked reasonably well for robust fish and crustaceans but frequently destroyed gelatinous animals before they could be identified. As a result, some of the most abundant and visually striking midwater creatures remained poorly documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbari.org/team/midwater-ecology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbari.org">[MBARI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbari.org</span><span class="citation-popover-title">Midwater Ecology</span><span class="citation-popover-snippet">Midwater EcologyJune 22, 2022 — At MBARI, we study midwater animals directly, using undersea vehicles to carry our cameras, instrume...</span><span class="citation-popover-meta">Published: June 22, 2022</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUy8gVG_FRc" title="Weird and Wonderful: This spectacular deep-sea siphonophore is a sight to see" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUy8gVG_FRc" target="_blank" rel="noopener noreferrer">Weird and Wonderful: This spectacular deep-sea siphonophore is a sight to see</a></p><p class="youtube-embed-meta">Channel: MBARI (Monterey Bay Aquarium Research Institute)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUy8gVG_FRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUy8gVG_FRc">Open on YouTube</a></p></div></div></div>
 
 ## Animals That Distort Surface Sightings
@@ -325,8 +323,6 @@ Several mechanisms contribute:<div class="content-enhancement content-enhancemen
 The result is a recurring pattern in which real animals generate observations that are accurate in some details but misleading in overall interpretation. An observer may genuinely report a long, moving shape while misunderstanding the biological structure responsible for it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GGb_VAWUrGw" title="Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer">Le Régalec : l’énigme du serpent de mer géant | Documentaire Science &amp; Nature</a></p><p class="youtube-embed-meta">Channel: GEDEON EXPLORATION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GGb_VAWUrGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GGb_VAWUrGw">Open on YouTube</a></p></div></div></div>
 
 ## How Data Turns Mystery into Identification
-
-The most important change in recent decades has been the ability to observe delicate midwater life without destroying it. Remotely operated vehicles, high-definition imaging systems, laser-based measurement tools and specialised microscopes now allow researchers to document gelatinous animals in [situ]({{'situ/' | relative_url }}), preserving shape and behaviour that earlier sampling methods lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/06/17/science/31-otherwordly-sea-creatures-discovered-in-south-atlantic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Dozens of otherworldly new deep-sea critters discovered</span><span class="citation-popover-snippet">Karen Osborn from the Smithsonian National Museum of Natural History, has discovered 31 new deep-sea species in the midwater region off B...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aqyk30L3E1A" title="World Ocean Day | The remarkable animals of the deep midwater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aqyk30L3E1A" target="_blank" rel="noopener noreferrer">World Ocean Day | The remarkable animals of the deep midwater</a></p><p class="youtube-embed-meta">Channel: MBARI (Monterey Bay Aquarium Research Institute)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aqyk30L3E1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aqyk30L3E1A">Open on YouTube</a></p></div></div></div>
 

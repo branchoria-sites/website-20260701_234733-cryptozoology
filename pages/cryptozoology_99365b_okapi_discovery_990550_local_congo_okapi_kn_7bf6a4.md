@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:49'
+date: '2026-07-01 12:55:49'
 parent_title: Why the Okapi Became Real Science
 parent_permalink: /okapi/
 parent_nav_short_title: Okapi
@@ -284,8 +284,6 @@ The question “Who discovered the okapi?” has a deceptively simple answer. Eu
 ## Forest Knowledge and Outsider Reports
 
 European awareness of the [okapi]({{'okapi/' | relative_url }}) emerged through encounters with local knowledge rather than through direct observation. By the late nineteenth century, explorers and colonial officials had heard reports of a large forest animal from people living in the Congo Basin. These accounts circulated in fragmentary form and were often misunderstood by outsiders, who struggled to fit the animal into familiar European categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — In 1899/1900, Harry Johnston was tasked with returning a...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
-
-One of the most important moments came when Sir Harry Johnston met Mbuti forest people in the region of the Ituri Forest around 1899–1900. Through interpreters, Johnston asked about a horse-like forest animal that Europeans had heard rumours about. The people he spoke with did not present it as a mystery creature. They already knew the animal and supplied names, descriptions, and information about where it lived. Johnston learned terms that Europeans rendered as “o’api” or similar variants, from which the scientific name ultimately developed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — In 1899/1900, Harry Johnston was tasked with returning a...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pc6S7gGKWIw" title="Who &quot;Discovered&quot; the Okapi?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer">Who &quot;Discovered&quot; the Okapi?</a></p><p class="youtube-embed-meta">Channel: Bizarre Beasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pc6S7gGKWIw">Open on YouTube</a></p></div></div></div>
 

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,20 +265,16 @@ prev_link:
   permalink: /habitat-limits/
   short_title: Habitat limits
   heading_title: Remote forest is not an unlimited hiding place
-date:'2026-07-01 23:40:00'
+date: '2026-07-01 23:40:00'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1.webp
 image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGXr2J2VEQ0" title="One of the Rarest Most Endangered Animals in the World Caught on Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer">One of the Rarest Most Endangered Animals in the World Caught on Camera</a></p><p class="youtube-embed-meta">Channel: The More We Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGXr2J2VEQ0">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGXr2J2VEQ0" title="One of the Rarest Most Endangered Animals in the World Caught on Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer">One of the Rarest Most Endangered Animals in the World Caught on Camera</a></p><p class="youtube-embed-meta">Channel: The More We Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGXr2J2VEQ0">Open on YouTube</a></p></div></div></div>
 
 ## The 1992 skull evidence
-
-The breakthrough did not begin with a dramatic encounter in the forest. During a joint biodiversity survey conducted by Vietnam’s Ministry of Forestry and WWF in the Vu Quang region, researchers found an unusual skull with long, nearly parallel horns in a hunter’s home. The morphology did not match any known local bovid, the group that includes cattle, buffalo and antelopes. Additional horn sets and remains were located shortly afterwards, strengthening the case that the specimen represented a previously undocumented animal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2WWFジャパン]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xYCQRfSII_k" title="Saola and Serow in the Wild | Rare and Endangered Species of Asia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer">Saola and Serow in the Wild | Rare and Endangered Species of Asia</a></p><p class="youtube-embed-meta">Channel: Animal Earth Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xYCQRfSII_k">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +297,7 @@ However, the same discovery also highlighted what successful evidence actually l
 * Multiple specimens rather than a single anecdote.
 * A plausible and restricted habitat.
 * Follow-up field surveys.
-* Formal scientific description and peer review.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F4WPzXDchYI" title="Peoples of the Annamites: Multiple Versions of the Same Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer">Peoples of the Annamites: Multiple Versions of the Same Place</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F4WPzXDchYI">Open on YouTube</a></p></div></div></div>
+* Formal scientific description and peer review.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F4WPzXDchYI" title="Peoples of the Annamites: Multiple Versions of the Same Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer">Peoples of the Annamites: Multiple Versions of the Same Place</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F4WPzXDchYI">Open on YouTube</a></p></div></div></div>
 
 ## Why discovery is not proof of every cryptid
 

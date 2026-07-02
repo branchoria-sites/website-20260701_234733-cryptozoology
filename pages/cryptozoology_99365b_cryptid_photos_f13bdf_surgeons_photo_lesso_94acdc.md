@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:10'
+date: '2026-07-01 14:59:10'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -276,8 +276,6 @@ image: /assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_
 
 The 1934 “Surgeon’s Photograph” is arguably the most influential image in the history of [cryptozoology]({{'cryptozoology/' | relative_url }}). For decades it appeared to show a long-necked creature rising from the waters of Loch Ness, and it became the visual template for [Nessie]({{'nessie/' | relative_url }}) in books, newspapers and documentaries. Yet the photograph’s lasting fame reveals less about unknown animals than about how images are presented. The picture gained much of its persuasive power through cropping, reproduction and the authority attached to the man who supposedly took it. When later investigations uncovered evidence of a small-scale hoax, the photograph became a case study in how weak visual evidence can survive for generations if context is removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Cropped Image Seemed to Show
-
-When most people think of the Surgeon’s Photograph, they picture a dark neck and head emerging from open water. The familiar version isolates the object and the surrounding ripples, encouraging viewers to imagine a substantial animal at some distance from the camera. Reproduced in newspapers, magazines and later television programmes, the image appeared simple and compelling: a clear shape with a recognisable neck-like outline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS9Kju5FAJM" title="From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer">From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson</a></p><p class="youtube-embed-meta">Channel: A Thousand Words</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS9Kju5FAJM">Open on YouTube</a></p></div></div></div>
 

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ prev_link:
   permalink: /sightings-register/
   short_title: Sightings Register
   heading_title: Why Nessie Still Gets Counted
-date:'2026-07-01 23:40:46'
+date: '2026-07-01 23:40:46'
 header:
   og_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b-Illustration-1.webp
@@ -276,8 +276,6 @@ image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_t
 
 The setting of the [Mothman]({{'mothman/' | relative_url }}) story was not an untouched forest but a landscape that sat awkwardly between nature and industry. North of Point Pleasant, West Virginia, the area locals called the “TNT area” had been built during the Second World War as a vast explosives-production complex. After the war, much of the site was abandoned, leaving behind concrete storage bunkers, roads, ponds, chemical remnants and stretches of regrowing woodland. By the 1960s, it had become a place that felt neither fully wild nor fully controlled. That unusual environment mattered. The earliest Mothman reports emerged from this neglected former military landscape, and the area's physical character helped make the creature seem plausible, memorable and unsettling. Rather than being a backdrop to the legend, the TNT area was one of the [conditions]({{'conditions/' | relative_url }}) that allowed the legend to take shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0303066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumulis.epa.gov">[cumulis.epa.gov+2NCPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumulis.epa.gov</span><span class="citation-popover-snippet">WEST VIRGINIA ORDNANCE (USARMY) &#124; Superfund Site...It is a 8,320-acre site used by the Department of Defense from 1942 to 1945 to produc...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b-Illustration-1-dark.svg" | relative_url }}" alt="TNT Area illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the TNT Area Felt Outside Ordinary Town Life
-
-The TNT area originated as the West Virginia Ordnance Works, a wartime facility covering more than 8,000 acres and devoted to the production and storage of TNT. Thousands worked there during the war, but the complex rapidly lost its original purpose after 1945. Large sections were abandoned, leaving a landscape filled with infrastructure that no longer had a clear function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0303066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cumulis.epa.gov">[cumulis.epa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cumulis.epa.gov</span><span class="citation-popover-snippet">WEST VIRGINIA ORDNANCE (USARMY) &#124; Superfund Site...It is a 8,320-acre site used by the Department of Defense from 1942 to 1945 to produc...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SspRarjqLkY" title="Mothman: the Legend, the Museum, the TNT Area" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer">Mothman: the Legend, the Museum, the TNT Area</a></p><p class="youtube-embed-meta">Channel: Slone&#x27;s Wilderness Expeditions &middot; Views: 2.0K &middot; Uploaded: April 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SspRarjqLkY">Open on YouTube</a></p></div></div></div>
 
@@ -300,8 +298,6 @@ In folklore terms, the TNT area functioned much like older haunted forests or re
 The first widely reported Mothman encounter occurred on 15 November 1966 when two young couples told authorities they had seen a large winged figure near the TNT area. Newspaper coverage quickly connected the creature to the [location]({{'location/' | relative_url }}), and subsequent reports repeatedly returned to the same landscape. Before later writers linked Mothman to prophecies, disasters or broader paranormal theories, the creature was primarily a local presence associated with this former military zone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The environment helped define the creature in several ways.
-
-First, the setting supplied believable concealment. A large unknown animal or figure seemed easier to imagine in a maze of ponds, woods and abandoned facilities than in the centre of town. [Witnesses]({{'witnesses/' | relative_url }}) often described fleeting glimpses, movement in darkness and encounters along isolated roads, experiences that matched the physical characteristics of the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/loa2gff48GE" title="Exploring the TNT Area Where The Mothman Was First Seen in 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=loa2gff48GE" target="_blank" rel="noopener noreferrer">Exploring the TNT Area Where The Mothman Was First Seen in 1966</a></p><p class="youtube-embed-meta">Channel: 3W Outdoors &middot; Views: 109 &middot; Uploaded: February 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=loa2gff48GE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=loa2gff48GE">Open on YouTube</a></p></div></div></div>
 

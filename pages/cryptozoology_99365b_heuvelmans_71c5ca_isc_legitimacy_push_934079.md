@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:15'
+date: '2026-07-01 19:55:15'
 parent_title: The Writer Who Named Modern Cryptozoology
 parent_permalink: /heuvelmans/
 parent_nav_short_title: Heuvelmans
@@ -272,13 +272,9 @@ header:
 image: /assets/images/cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ViuUkk6C88E" title="1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer">1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)...</a></p><p class="youtube-embed-meta">Channel: Chesna&#x27;s Footage Room</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ViuUkk6C88E">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ViuUkk6C88E" title="1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer">1990&#x27;s Cryptozoology Clip - Bigfoot, Thylacine, Vu Quang ox (Saola)...</a></p><p class="youtube-embed-meta">Channel: Chesna&#x27;s Footage Room</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ViuUkk6C88E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ViuUkk6C88E">Open on YouTube</a></p></div></div></div>
 
 ## Why the Society Was Founded in 1982
-
-By the early 1980s, cryptozoology had already accumulated several decades of books, investigations and public interest. Heuvelmans had provided the intellectual framework, arguing that reports of unknown animals should be treated as zoological questions rather than dismissed as [folklore]({{'folklore/' | relative_url }}). What was missing was an institutional structure capable of presenting that programme as a legitimate field of inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/03080188241233107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Heuvelmans the Heretic and Hidden Animals</span><span class="citation-popover-snippet">Sage JournalsHeuvelmans the Heretic and Hidden Animals - Floe Foxon...21 Mar 2024 — Variously described as a science, pseudoscience, or...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwuZqa3B3Nw" title="Why do People Still Believe in the Loch Ness Monster?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwuZqa3B3Nw" target="_blank" rel="noopener noreferrer">Why do People Still Believe in the Loch Ness Monster?</a></p><p class="youtube-embed-meta">Channel: Wild World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwuZqa3B3Nw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwuZqa3B3Nw">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +299,6 @@ These features gave cryptozoology an appearance of disciplinary maturity that ea
 ## Why Organisation Did Not Settle the Scientific Dispute
 
 The ISC's existence highlighted an important distinction between scientific institutions and scientific acceptance. A field can create journals, societies and committees, yet still fail to convince the wider scientific community if its evidence remains weak or inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s13194-025-00672-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">On the value of pseudoscience and its philosophical studyby AT Tuboly · 2025 · Cited by 2 — Cryptozoologists often publish papers...</span></span></span>
-
-Critics argued that cryptozoology's core problem was never organisational. The issue was evidential. Most cryptozoological claims depended on eyewitness testimony, folklore, ambiguous photographs, footprints, sounds, historical reports or other indirect forms of evidence. Mainstream zoology generally requires stronger forms of confirmation, such as specimens, genetic material, repeatable observations or demonstrable [populations]({{'populations/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/03080188241233107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2University of Guelph Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Heuvelmans the Heretic and Hidden Animals</span><span class="citation-popover-snippet">Sage JournalsHeuvelmans the Heretic and Hidden Animals - Floe Foxon...21 Mar 2024 — Variously described as a science, pseudoscience, or...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_rTFf9Nxq0" title="Living Dinosaurs in the Congo: Mokele Mbembe Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer">Living Dinosaurs in the Congo: Mokele Mbembe Part 2</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_rTFf9Nxq0">Open on YouTube</a></p></div></div></div>
 

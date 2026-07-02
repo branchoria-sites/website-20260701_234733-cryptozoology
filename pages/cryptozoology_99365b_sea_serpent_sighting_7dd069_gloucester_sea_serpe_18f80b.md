@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:30'
+date: '2026-07-01 12:55:30'
 parent_title: Why Sea Serpent Stories Keep Returning
 parent_permalink: /sea-serpents/
 parent_nav_short_title: Sea Serpents
@@ -278,13 +278,9 @@ header:
 image: /assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fye8GjUZDg0" title="The Gloucester Sea Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer">The Gloucester Sea Monster</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fye8GjUZDg0">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fye8GjUZDg0" title="The Gloucester Sea Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer">The Gloucester Sea Monster</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fye8GjUZDg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fye8GjUZDg0">Open on YouTube</a></p></div></div></div>
 
 ## What Witnesses Reported at Cape Ann
-
-The sighting wave began in August 1817 around Gloucester and Cape Ann, Massachusetts. Reports accumulated rapidly. Some observers claimed the creature was between 60 and 100 feet long. Others described a dark body rising and falling through the water in a series of humps, often compared to a line of barrels. Several [witnesses]({{'witnesses/' | relative_url }}) reported a head held above the surface, sometimes likened to that of a horse, turtle, or serpent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress+2Tumblr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">great american sea serpent</span><span class="citation-popover-snippet">The Library of CongressThe Great American Sea Serpent &#124; Folklife Today8 Aug 2016 — They proposed that it was a new species, Scoliophis at...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GLc6rIV1CnU" title="The Gloucester Sea Serpent of 1817 | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GLc6rIV1CnU" target="_blank" rel="noopener noreferrer">The Gloucester Sea Serpent of 1817 | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GLc6rIV1CnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GLc6rIV1CnU">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +301,6 @@ This reversal exposed a central weakness in the investigation. The classificatio
 
 Once the supposed juvenile specimen was reinterpreted, much of the foundation for *Scoliophis atlanticus* collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Linnaean_Society_of_New_England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Linnaean Society of New England</span><span class="citation-popover-snippet">Linnaean Society of New England</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b-Illustration-2-dark.svg" | relative_url }}" alt="Gloucester illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_gloucester_sea_serpe_18f80b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Credible Witnesses Can Still Produce Unreliable Zoology
-
-One reason the Gloucester case remains influential is that it cannot be dismissed simply as a hoax. Many witnesses were experienced seafarers accustomed to observing marine life. The lesson is therefore subtler than “people imagined a monster.” It illustrates how reliable observers can still produce unreliable biological conclusions when [conditions]({{'conditions/' | relative_url }}) are poor and evidence is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.knowol.com/information/massachusetts/gloucester-sea-serpent-1817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowol.com">[knowol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowol.com</span><span class="citation-popover-snippet">The Gloucester, Massachusetts sea serpent sightings of 1817Here are a few excerpts of their depositions from the Linnaean Society&#x27;s repor...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_JICwEGHviY" title="The Folklorist: The Gloucester Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_JICwEGHviY" target="_blank" rel="noopener noreferrer">The Folklorist: The Gloucester Sea Serpent</a></p><p class="youtube-embed-meta">Channel: The Folklorist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_JICwEGHviY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_JICwEGHviY">Open on YouTube</a></p></div></div></div>
 

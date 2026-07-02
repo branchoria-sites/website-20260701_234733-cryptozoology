@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:59'
+date: '2026-07-01 19:54:59'
 parent_title: Inside the World of Cryptid Museums
 parent_permalink: /museums/
 parent_nav_short_title: Museums
@@ -278,15 +278,11 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/camXhM9usPk" title="International Cryptozoology Museum - Portland Maine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland Maine</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=camXhM9usPk">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/camXhM9usPk" title="International Cryptozoology Museum - Portland Maine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland Maine</a></p><p class="youtube-embed-meta">Channel: Kool Buildings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=camXhM9usPk">Open on YouTube</a></p></div></div></div>
 
 ## Alleged Traces Beside Replicas
 
 The museum's exhibition design rests on a simple challenge: most cryptids do not come with a body that can be displayed. To address that absence, the museum combines claimed physical evidence with visual reconstructions and models.
-
-Among the objects highlighted by the museum are alleged hair [samples]({{'samples/' | relative_url }}) attributed to creatures such as Bigfoot, the Yeti, Yowie and Orang Pendek, expedition-collected material connected to Yeti investigations, footprint casts linked to reported sightings and documents associated with famous cryptozoological cases. These items are displayed not as proven zoological specimens but as pieces of a larger evidential record assembled by researchers and enthusiasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptozoologymuseum.com/exhibitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptozoologymuseum.com">[Cryptozoology Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptozoologymuseum.com</span><span class="citation-popover-title">Cryptozoology Museum Exhibitions &#124; International Cryptozoology Museum</span><span class="citation-popover-snippet">Cryptozoology Museum Exhibitions &#124; International Cryptozoology Museum</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gXZuNFNeDss" title="The International Cryptozoology Museum: Bigfoot, Sea Monsters, and More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gXZuNFNeDss" target="_blank" rel="noopener noreferrer">The International Cryptozoology Museum: Bigfoot, Sea Monsters, and More!</a></p><p class="youtube-embed-meta">Channel: New England Escapades</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gXZuNFNeDss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gXZuNFNeDss">Open on YouTube</a></p></div></div></div>
 
@@ -300,8 +296,6 @@ Several well-known exhibits illustrate this philosophy. The museum displays a pt
 
 The FeeJee Mermaid is especially revealing. It belongs to a long history of fabricated curiosities that blurred entertainment and natural history in nineteenth-century exhibition culture. By exhibiting a version of the famous mermaid alongside cryptozoological material, the museum draws attention to the ways mystery, spectacle and belief have often intersected. The object is museum-worthy not as biological evidence but as evidence of how extraordinary-animal stories acquire cultural power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://danszczesny.substack.com/p/the-feejee-mermaid-of-portland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danszczesny.substack.com">[Dan Szczesny]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danszczesny.substack.com</span><span class="citation-popover-title">Dan Szczesny The Feejee Mermaid of Portland</span><span class="citation-popover-snippet">Dan SzczesnyThe Feejee Mermaid of Portland - by Dan Szczesny - SubstackThe mermaid is a Hollywood prop, specifically a prop used for the...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d-Illustration-2-dark.svg" | relative_url }}" alt="Hybrid Displays illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_hybrid_cryptid_displ_6f920d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Museum Includes Successful Discoveries
-
-A further dimension of the museum's display strategy is its inclusion of animals once thought mythical, extinct or doubtful but later confirmed by science. The coelacanth occupies a particularly prominent place in the museum's narrative and even appears in its visual identity. The museum features a life-size model of the famous 1938 specimen and describes such animals as examples of successful cryptozoological discovery stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptozoologymuseum.com/exhibitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptozoologymuseum.com">[Cryptozoology Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptozoologymuseum.com</span><span class="citation-popover-title">Cryptozoology Museum Exhibitions &#124; International Cryptozoology Museum</span><span class="citation-popover-snippet">Cryptozoology Museum Exhibitions &#124; International Cryptozoology Museum</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RSWOb0oY5A4" title="International Cryptozoology Museum - Portland, ME - Hunting For Dambo Trolls!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RSWOb0oY5A4" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum - Portland, ME - Hunting For Dambo Trolls!</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RSWOb0oY5A4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RSWOb0oY5A4">Open on YouTube</a></p></div></div></div>
 

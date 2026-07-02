@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:55'
+date: '2026-07-01 12:55:55'
 parent_title: Why the Okapi Became Real Science
 parent_permalink: /okapi/
 parent_nav_short_title: Okapi
@@ -279,8 +279,6 @@ The okapi is often cited in [cryptozoology]({{'cryptozoology/' | relative_url }}
 
 The Ituri Forest forms part of the vast Congo Basin, one of the largest continuous tropical forest regions in the world. Large areas consist of dense evergreen and semi-evergreen forest, interspersed with swampy zones, river systems, and thick understorey vegetation that severely restrict visibility and movement. Even today, the [Okapi]({{'okapi/' | relative_url }}) Wildlife Reserve protects roughly one-fifth of the Ituri Forest, illustrating the immense scale of the habitat involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/718/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkapi Wildlife ReserveThe Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-ea...</span></span></span>
 
-For nineteenth-century explorers, this environment created practical barriers that differed greatly from those encountered on open plains. Observation distances were often measured in metres rather than kilometres. Animals could move through vegetation while remaining completely hidden from human observers. Travel depended heavily on rivers, footpaths, and local guides rather than extensive road networks. In many areas, outsiders could spend long periods in the forest without encountering every large mammal living there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/718/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">UNESCO World Heritage CentreOkapi Wildlife ReserveThe Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-ea...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Gn4KYQjxCY" title="Okapi: The Extraordinary Fusion of Zebra and Giraffe!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Gn4KYQjxCY" target="_blank" rel="noopener noreferrer">Okapi: The Extraordinary Fusion of Zebra and Giraffe!</a></p><p class="youtube-embed-meta">Channel: The Story of Animals</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Gn4KYQjxCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Gn4KYQjxCY">Open on YouTube</a></p></div></div></div>
 
 ## Why European Science Lacked a Specimen
@@ -296,8 +294,6 @@ Several factors converged:
 
 When specimens finally reached zoologists, acceptance followed quickly. In other words, the delay arose largely from difficulties in obtaining verifiable material, not from an inability of science to recognise a real animal once evidence became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — The first instance of European awareness of the Okapi* came in 1890 when...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-2-dark.svg" | relative_url }}" alt="Forest Plausibility illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_ituri_forest_plausib_6e015d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Modern Surveys Are Still Difficult
-
-The Ituri Forest remains challenging even for contemporary wildlife researchers equipped with technologies unavailable in 1900. Conservation literature emphasises that the okapi is rarely observed directly because of its secretive behaviour and dense rainforest habitat. Researchers have relied on methods such as radio telemetry, genetic sampling, camera traps, dung surveys, and indirect signs rather than routine visual observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portals.iucn.org">[IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portals.iucn.org</span><span class="citation-popover-snippet">IUCN PortalsOkapi (Okapia johnstoni)by NF Kümpel · 2015 · Cited by 17 — The okapi is rarely observed directly in the wild state, because...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GDFKH42Sseg" title="Okapi :The Secret Giraffe of the Congo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer">Okapi :The Secret Giraffe of the Congo</a></p><p class="youtube-embed-meta">Channel: The Shoebill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GDFKH42Sseg">Open on YouTube</a></p></div></div></div>
 

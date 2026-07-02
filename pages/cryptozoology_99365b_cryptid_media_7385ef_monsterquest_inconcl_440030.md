@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:11'
+date: '2026-07-01 20:53:11'
 parent_title: How Media Keeps Cryptids Alive
 parent_permalink: /media/
 parent_nav_short_title: Media
@@ -278,13 +278,9 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_monsterquest_inconcl_440030-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i-1o06GTUVg" title="History Channel&#x27;s MonsterQuest Was Totally Insane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i-1o06GTUVg" target="_blank" rel="noopener noreferrer">History Channel&#x27;s MonsterQuest Was Totally Insane</a></p><p class="youtube-embed-meta">Channel: Isiah Young</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i-1o06GTUVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i-1o06GTUVg">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i-1o06GTUVg" title="History Channel&#x27;s MonsterQuest Was Totally Insane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i-1o06GTUVg" target="_blank" rel="noopener noreferrer">History Channel&#x27;s MonsterQuest Was Totally Insane</a></p><p class="youtube-embed-meta">Channel: Isiah Young</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i-1o06GTUVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i-1o06GTUVg">Open on YouTube</a></p></div></div></div>
 
 ## How the documentary-reality format worked
-
-Unlike many paranormal programmes that relied mainly on storytelling, *MonsterQuest* framed its investigations around procedures that resembled scientific inquiry. Episodes typically began with local legends or witness reports, then moved through a sequence of evidence gathering, expert consultation and field testing. Researchers collected [footprints]({{'footprints/' | relative_url }}), audio recordings, biological samples or environmental data before sending them to laboratories or specialists for evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/MonsterQuest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Monster Quest</span><span class="citation-popover-snippet">Monster Quest</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DbdVWuSNAdc" title="The History Channel&#x27;s Horrible AI Monster Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DbdVWuSNAdc" target="_blank" rel="noopener noreferrer">The History Channel&#x27;s Horrible AI Monster Show</a></p><p class="youtube-embed-meta">Channel: Billiam</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DbdVWuSNAdc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DbdVWuSNAdc">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +302,6 @@ Several factors contributed to this appeal:
 * **Testing felt meaningful.** Viewers saw evidence collected, transported and analysed instead of merely discussed.
 * **Experts created credibility.** The presence of scientists and technical specialists suggested that claims were being evaluated seriously.
 * **[Negative results]({{'negative-results/' | relative_url }}) were not final.** A failed test usually ruled out one piece of evidence rather than the entire legend.
-* **The search remained open-ended.** Each inconclusive outcome implied that stronger evidence might still exist elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.supernaturalstudies.com/previous-journal-issues/vol-1-issue-1/keller" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supernaturalstudies.com">[supernaturalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supernaturalstudies.com</span><span class="citation-popover-snippet">Supernatural Studies - Kellerby J Keller · Cited by 1 — As is invariably the case with Monster TV, the findings of the expedition are int...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XknAo6x9v98" title="FIRST LOOK | MonsterQuest The World’s Most Chilling Monster Encounters l Premieres Jan 2 on HISTORY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XknAo6x9v98" target="_blank" rel="noopener noreferrer">FIRST LOOK | MonsterQuest The World’s Most Chilling Monster Encounters l Premieres Jan 2 on HISTORY</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XknAo6x9v98" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XknAo6x9v98">Open on YouTube</a></p></div></div></div>
 
 ## A lasting model for cryptid television

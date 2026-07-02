@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /the-saola/
   short_title: The Saola
   heading_title: Why the saola changed cryptid evidence claims
-date:'2026-07-01 23:39:58'
+date: '2026-07-01 23:39:58'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_hidden_habitat_limit_181e4a-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_hidden_habitat_limit_181e4a-Illustration-1.webp
@@ -284,8 +284,6 @@ Remote forests can conceal real animals, but they are not limitless hiding place
 ## Why real ranges get narrower after evidence appears
 
 A common assumption in [cryptozoology]({{'cryptozoology/' | relative_url }}) is that unexplored wilderness provides unlimited opportunities for [hidden animals]({{'hidden-animals/' | relative_url }}). In practice, scientific discoveries often move in the opposite direction. When evidence accumulates, researchers usually learn that a species occupies a much smaller and more specialised range than originally imagined.
-
-The saola illustrates this pattern. Although it became famous as a major mammal discovery of the 1990s, subsequent work did not reveal a vast undiscovered distribution. Instead, studies increasingly associated it with particular parts of the Annamite Mountains of Vietnam and Laos, specific forest types, river valleys and relatively undisturbed habitat. Rather than expanding into a continent-wide mystery, the species became more geographically constrained as knowledge improved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe rare saola is critically endangered. Learn how WWF works to conserve this elusive species and its fores...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-7y66FBZR2M" title="Why Finding Bigfoot Fell Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-7y66FBZR2M" target="_blank" rel="noopener noreferrer">Why Finding Bigfoot Fell Off</a></p><p class="youtube-embed-meta">Channel: BuzzKill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-7y66FBZR2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-7y66FBZR2M">Open on YouTube</a></p></div></div></div>
 

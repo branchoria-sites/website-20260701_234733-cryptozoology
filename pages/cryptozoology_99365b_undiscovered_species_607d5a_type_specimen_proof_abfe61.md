@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 13:58:43'
+date: '2026-07-01 13:58:43'
 parent_title: Why New Species Are Not All Cryptids
 parent_permalink: /new-species/
 parent_nav_short_title: New Species
@@ -287,8 +287,7 @@ Taxonomists also use related categories:<div class="content-enhancement content-
 
 * **Paratypes** are additional specimens cited in the original description.
 * **Syntypes** are multiple name-bearing specimens used when no single holotype was designated.
-* **Lectotypes** can later be selected from a syntype series.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wrdmw_Ioovk" title="How Do Dinosaurs Get Their Names?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wrdmw_Ioovk" target="_blank" rel="noopener noreferrer">How Do Dinosaurs Get Their Names?</a></p><p class="youtube-embed-meta">Channel: American Museum of Natural History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wrdmw_Ioovk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wrdmw_Ioovk">Open on YouTube</a></p></div></div></div>
+* **Lectotypes** can later be selected from a syntype series.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wrdmw_Ioovk" title="How Do Dinosaurs Get Their Names?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wrdmw_Ioovk" target="_blank" rel="noopener noreferrer">How Do Dinosaurs Get Their Names?</a></p><p class="youtube-embed-meta">Channel: American Museum of Natural History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wrdmw_Ioovk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wrdmw_Ioovk">Open on YouTube</a></p></div></div></div>
 
 ## What a Formal Description Must Show
 
@@ -316,12 +315,9 @@ Museum preservation allows later scientists to:<div class="content-enhancement c
 * Re-examine anatomical features.
 * Apply new technologies such as CT scanning.
 * Extract DNA when feasible.
-* Resolve disputes about identification.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJybVwSh_Js" title="Holotype: the name bearer of a species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJybVwSh_Js" target="_blank" rel="noopener noreferrer">Holotype: the name bearer of a species</a></p><p class="youtube-embed-meta">Channel: Berkeley Natural History Museums</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJybVwSh_Js" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJybVwSh_Js">Open on YouTube</a></p></div></div></div>
+* Resolve disputes about identification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJybVwSh_Js" title="Holotype: the name bearer of a species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJybVwSh_Js" target="_blank" rel="noopener noreferrer">Holotype: the name bearer of a species</a></p><p class="youtube-embed-meta">Channel: Berkeley Natural History Museums</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJybVwSh_Js" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJybVwSh_Js">Open on YouTube</a></p></div></div></div>
 
-## Can a Species Ever Be Named Without a Preserved Specimen?
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kowCBgcUB6Y" title="Synonyms - multiple names for the same species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kowCBgcUB6Y" target="_blank" rel="noopener noreferrer">Synonyms - multiple names for the same species</a></p><p class="youtube-embed-meta">Channel: Bill Sutherland&#x27;s Conservation Concepts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kowCBgcUB6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kowCBgcUB6Y">Open on YouTube</a></p></div></div></div>
+## Can a Species Ever Be Named Without a Preserved Specimen?<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kowCBgcUB6Y" title="Synonyms - multiple names for the same species" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kowCBgcUB6Y" target="_blank" rel="noopener noreferrer">Synonyms - multiple names for the same species</a></p><p class="youtube-embed-meta">Channel: Bill Sutherland&#x27;s Conservation Concepts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kowCBgcUB6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kowCBgcUB6Y">Open on YouTube</a></p></div></div></div>
 
 ## How Cryptid Evidence Falls Short of Taxonomy
 

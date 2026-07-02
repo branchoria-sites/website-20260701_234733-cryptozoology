@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-isc/
 description: Focused pages that expand on Isc Professionalisat.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_isc_professionalisat_d80f14
 parent_title: Isc Professionalisat

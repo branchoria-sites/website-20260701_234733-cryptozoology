@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 14:59:12'
+date: '2026-07-01 14:59:12'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -313,9 +313,7 @@ The existence of such mistakes does not undermine camera traps as scientific too
 
 Large mammals are among the easiest animals for modern camera traps to detect. Conservation projects around the world routinely document elusive species including snow leopards, jaguars, lynx and other rarely seen animals using camera-trap networks. Millions of images are now collected annually across forests, mountains and wilderness areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9367452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Animal Detection and Classification from Camera Trap Images...by M Tan · 2022 · Cited by 116 — Deep learning technology can assist ec...</span></span></span>
 
-This creates an evidential challenge for claims involving undiscovered large terrestrial animals. If such creatures existed in stable [populations]({{'populations/' | relative_url }}) and occupied areas already covered by extensive camera-trap networks, researchers would expect repeated detections rather than isolated ambiguous photographs.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAXVywLM8gU" title="How AI is streaming the processing and use of camera trap data for conservation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAXVywLM8gU" target="_blank" rel="noopener noreferrer">How AI is streaming the processing and use of camera trap data for conservation</a></p><p class="youtube-embed-meta">Channel: AI for Good</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAXVywLM8gU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAXVywLM8gU">Open on YouTube</a></p></div></div></div>
+This creates an evidential challenge for claims involving undiscovered large terrestrial animals. If such creatures existed in stable [populations]({{'populations/' | relative_url }}) and occupied areas already covered by extensive camera-trap networks, researchers would expect repeated detections rather than isolated ambiguous photographs.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAXVywLM8gU" title="How AI is streaming the processing and use of camera trap data for conservation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAXVywLM8gU" target="_blank" rel="noopener noreferrer">How AI is streaming the processing and use of camera trap data for conservation</a></p><p class="youtube-embed-meta">Channel: AI for Good</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAXVywLM8gU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAXVywLM8gU">Open on YouTube</a></p></div></div></div>
 
 ## What would count as stronger visual data?
 

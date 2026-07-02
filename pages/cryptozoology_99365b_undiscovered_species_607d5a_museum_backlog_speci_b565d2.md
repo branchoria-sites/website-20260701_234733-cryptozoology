@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 13:58:43'
+date: '2026-07-01 13:58:43'
 parent_title: Why New Species Are Not All Cryptids
 parent_permalink: /new-species/
 parent_nav_short_title: New Species
@@ -323,9 +323,7 @@ These discoveries are noteworthy precisely because they involve physical specime
 
 ## The Conservation Twist: Some Species Are Found Too Late
 
-An unexpected consequence of the museum backlog is that species may be formally recognised only after they have become rare, endangered or even extinct.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Eide_FMmEA" title="Five new species of dinosaur discovered in 2021 | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer">Five new species of dinosaur discovered in 2021 | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Eide_FMmEA">Open on YouTube</a></p></div></div></div>
+An unexpected consequence of the museum backlog is that species may be formally recognised only after they have become rare, endangered or even extinct.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Eide_FMmEA" title="Five new species of dinosaur discovered in 2021 | Natural History Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer">Five new species of dinosaur discovered in 2021 | Natural History Museum</a></p><p class="youtube-embed-meta">Channel: Natural History Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Eide_FMmEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Eide_FMmEA">Open on YouTube</a></p></div></div></div>
 
 ## Why This Does Not Rescue Weak Cryptid Claims
 

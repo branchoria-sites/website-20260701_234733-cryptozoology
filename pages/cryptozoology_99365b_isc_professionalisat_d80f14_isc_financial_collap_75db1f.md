@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:35'
+date: '2026-07-01 19:55:35'
 parent_title: Why Cryptozoology Did Not Become Zoology
 parent_permalink: /isc-professionalisat/
 parent_nav_short_title: Isc Professionalisat
@@ -287,8 +287,6 @@ For a movement that sought scientific legitimacy, the ISC's fate revealed a prac
 
 From its beginning, the ISC operated in a narrow financial niche. Unlike established scientific societies, it had no university department, government agency, major foundation, or professional discipline providing long-term institutional support. Its activities depended heavily on membership fees, subscriptions, volunteer labour, and the personal commitment of a small number of organisers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">International Society of Cryptozoology</span><span class="citation-popover-snippet">International Society of Cryptozoology</span></span></span>
 
-The society's most important project was the annual journal *Cryptozoology*. Producing a specialist publication required editing, printing, distribution, and administrative work. While the journal gave the ISC a scholarly appearance, it also created recurring costs. Maintaining a peer-reviewed publication for a small and controversial field was difficult when membership numbers remained limited and mainstream academic libraries showed little interest in subscriptions. The journal ultimately ceased publication after its twelfth volume, covering the period 1993–1996.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinebooks.library.upenn.edu/webbin/serial?id=cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinebooks.library.upenn.edu">[Online Books Page+2Cryptid Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinebooks.library.upenn.edu</span><span class="citation-popover-snippet">Online Books PageCryptozoology archivesCryptozoology began in 1982. It ran until 1996. Persistent Archives of Complete Issues. 1982-1996...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qv2BmglYUlg" title="What If Cryptids Were Realistic Animals?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qv2BmglYUlg" target="_blank" rel="noopener noreferrer">What If Cryptids Were Realistic Animals?</a></p><p class="youtube-embed-meta">Channel: Curious Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qv2BmglYUlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qv2BmglYUlg">Open on YouTube</a></p></div></div></div>
 
 ## How Internal Dispute Weakened the Society
@@ -305,8 +303,6 @@ The end of the journal illustrates this process. A scholarly publication is ofte
 ## What the Collapse Meant for Professionalisation
 
 The ISC's collapse had consequences beyond the organisation itself. It removed the most visible attempt to establish standards and gatekeeping within cryptozoology.
-
-While the society never persuaded mainstream zoology to recognise cryptozoology as a legitimate scientific subdiscipline, it did provide a framework for evaluating claims. Through its journal, newsletter, and membership structure, it encouraged discussions about evidence, taxonomy, field methods, and standards of [documentation]({{'documentation/' | relative_url }}). When the organisation disappeared, that centralised framework largely disappeared with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/International_Society_of_Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">International Society of Cryptozoology</span><span class="citation-popover-snippet">International Society of Cryptozoology</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R06S0fnOEd0" title="The ENTIRE Cryptid Timeline EXPLAINED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R06S0fnOEd0" target="_blank" rel="noopener noreferrer">The ENTIRE Cryptid Timeline EXPLAINED</a></p><p class="youtube-embed-meta">Channel: CreepyDemon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R06S0fnOEd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R06S0fnOEd0">Open on YouTube</a></p></div></div></div>
 

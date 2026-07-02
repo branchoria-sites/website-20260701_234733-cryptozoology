@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 13:58:47'
+date: '2026-07-01 13:58:47'
 parent_title: When Extinct Animals Reappear Alive
 parent_permalink: /lazarus-taxa/
 parent_nav_short_title: Lazarus Taxa
@@ -279,8 +279,6 @@ Within discussions of [cryptozoology]({{'cryptozoology/' | relative_url }}) and 
 
 ## Why the cahow seemed lost for centuries
 
-Before human settlement, Bermuda's petrels were abundant across the archipelago. The arrival of English colonists in the early seventeenth century brought intense hunting pressure and introduced predators including rats, cats, dogs and pigs. Ground-nesting seabirds proved especially vulnerable. Within a few decades, the cahow had apparently vanished, and by the 1620s it was widely regarded as extinct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bermuda_petrel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DENR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bermuda petrel</span><span class="citation-popover-snippet">Bermuda petrel</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CGbZ9s0TMUk" title="BOC Meeting 2.11.22 - The Bermuda Petrel by Andrew Cleave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CGbZ9s0TMUk" target="_blank" rel="noopener noreferrer">BOC Meeting 2.11.22 - The Bermuda Petrel by Andrew Cleave</a></p><p class="youtube-embed-meta">Channel: BOC Secretary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CGbZ9s0TMUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CGbZ9s0TMUk">Open on YouTube</a></p></div></div></div>
 
 ## The 1951 breeding-pair discovery
@@ -302,9 +300,7 @@ As later observers noted, conservation biology itself was still a young discipli
 
 The recovery programme that followed became one of the longest-running species-restoration efforts in the Atlantic.
 
-### Protecting the remaining colonies
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3O_dd4TcZJE" title="The Bermuda Petrel: tragedies &amp; triumphs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3O_dd4TcZJE" target="_blank" rel="noopener noreferrer">The Bermuda Petrel: tragedies &amp; triumphs</a></p><p class="youtube-embed-meta">Channel: Robert Flood</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3O_dd4TcZJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3O_dd4TcZJE">Open on YouTube</a></p></div></div></div>
+### Protecting the remaining colonies<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3O_dd4TcZJE" title="The Bermuda Petrel: tragedies &amp; triumphs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3O_dd4TcZJE" target="_blank" rel="noopener noreferrer">The Bermuda Petrel: tragedies &amp; triumphs</a></p><p class="youtube-embed-meta">Channel: Robert Flood</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3O_dd4TcZJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3O_dd4TcZJE">Open on YouTube</a></p></div></div></div>
 
 ### Rebuilding habitat on Nonsuch Island
 
@@ -320,8 +316,6 @@ The programme achieved remarkably high fledging success and eventually helped es
 ## Can 18 breeding pairs save a species?
 
 The answer, in the cahow's case, appears to be yes—but only with extraordinary human assistance.
-
-The population increased gradually over the decades following rediscovery. Various official and conservation sources report growth from the original 18 breeding pairs to more than one hundred breeding pairs by the early twenty-first century, with continued increases thereafter. Recent reports have recorded approximately 165 nesting pairs in 2024, a dramatic improvement from the tiny remnant found in 1951.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecosphere-documents-production-public.s3.amazonaws.com/sams/public_docs/species_nonpublish/2761.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecosphere-documents-production-public.s3.amazonaws.com">[ecosphere-documents-production-public.s3.amazonaws.com+2BirdsCaribbean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecosphere-documents-production-public.s3.amazonaws.com</span><span class="citation-popover-snippet">• The total...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0CCOxIfZ-1o" title="Nonsuch Island: An Oasis For The Bermuda Cahow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0CCOxIfZ-1o" target="_blank" rel="noopener noreferrer">Nonsuch Island: An Oasis For The Bermuda Cahow</a></p><p class="youtube-embed-meta">Channel: Cornell Lab Bird Cams</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0CCOxIfZ-1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0CCOxIfZ-1o">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Race+to+Save+the+Lord+God+Bird+by+Phillip+Hoose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Race to Save the Lord God Bird on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4uZuAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Race to Save the Lord God Bird" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Race+to+Save+the+Lord+God+Bird+by+Phillip+Hoose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Race to Save the Lord God Bird">The Race to Save the Lord God Bird</a></h4><p class="fr-book-author">By Phillip Hoose</p><p class="fr-book-desc">Explores evidence, searches and survival claims for a presumed-lost bird.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Race+to+Save+the+Lord+God+Bird+by+Phillip+Hoose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

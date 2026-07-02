@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:11'
+date: '2026-07-01 12:55:11'
 parent_title: Why Bigfoot Evidence Still Falls Short
 parent_permalink: /bigfoot/
 parent_nav_short_title: Bigfoot
@@ -291,8 +291,7 @@ Several characteristics have made the film unusually influential:
 
 * The figure appears to walk with a confident, natural gait rather than the exaggerated movements associated with many costume hoaxes.
 * The body seems proportioned differently from a typical human, with long arms and a broad torso.
-* Some viewers believe they can see muscles moving beneath the hair-covered surface.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ygpu3t0nDWk" title="AI Finally Analyzes The 1967 Patterson Gimlin Bigfoot Film, And It Couldn’t Classify What It Saw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ygpu3t0nDWk" target="_blank" rel="noopener noreferrer">AI Finally Analyzes The 1967 Patterson Gimlin Bigfoot Film, And It Couldn’t Classify What It Saw</a></p><p class="youtube-embed-meta">Channel: UnReal Mystic Discovery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ygpu3t0nDWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ygpu3t0nDWk">Open on YouTube</a></p></div></div></div>
+* Some viewers believe they can see muscles moving beneath the hair-covered surface.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ygpu3t0nDWk" title="AI Finally Analyzes The 1967 Patterson Gimlin Bigfoot Film, And It Couldn’t Classify What It Saw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ygpu3t0nDWk" target="_blank" rel="noopener noreferrer">AI Finally Analyzes The 1967 Patterson Gimlin Bigfoot Film, And It Couldn’t Classify What It Saw</a></p><p class="youtube-embed-meta">Channel: UnReal Mystic Discovery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ygpu3t0nDWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ygpu3t0nDWk">Open on YouTube</a></p></div></div></div>
 
 ## Why Supporters Treat It as Important
 
@@ -304,8 +303,6 @@ Supporters also emphasise that decades of analysis have not produced universal a
 
 This combination of apparent realism and unresolved debate explains why the film remains central to Bigfoot advocacy despite the absence of broader biological evidence.<img src="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_patterson_gimlin_fil_40aceb-Illustration-2-dark.svg" | relative_url }}" alt="Patterson Film illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_patterson_gimlin_fil_40aceb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_patterson_gimlin_fil_40aceb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Remain Unconvinced
-
-The main scientific objection is straightforward: the film shows an unidentified figure, not an identified species. Even if the footage depicts something unusual, it does not establish the existence of an undiscovered primate population. Scientists require evidence that can be independently verified and linked to a real organism through [specimens]({{'specimens/' | relative_url }}), genetics or repeated observation. The film provides none of those things.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">documentarys devastating bigfoot debunking</span><span class="citation-popover-snippet">Skeptical InquirerDocumentary&#x27;s Devastating Bigfoot Debunking13 Mar 2026 — For decades it&#x27;s been widely—and, apparently, correctly—assume...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TjhhFj3Vua0" title="Patterson-Gimlin Bigfoot Film analysis. 4K stabilised colour." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TjhhFj3Vua0" target="_blank" rel="noopener noreferrer">Patterson-Gimlin Bigfoot Film analysis. 4K stabilised colour.</a></p><p class="youtube-embed-meta">Channel: Wayne Dowsent</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TjhhFj3Vua0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TjhhFj3Vua0">Open on YouTube</a></p></div></div></div>
 

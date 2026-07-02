@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-cryptid-tourism/
 description: Focused pages that expand on Tourism.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_cryptid_tourism_9bd103
 parent_title: Tourism

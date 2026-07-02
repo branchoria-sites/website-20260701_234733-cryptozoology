@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:46'
+date: '2026-07-01 12:55:46'
 parent_title: What the Coelacanth Really Proves
 parent_permalink: /coelacanth/
 parent_nav_short_title: Coelacanth
@@ -292,8 +292,7 @@ Several factors made detection especially difficult:
 
 * **Low visibility and limited access:** Deep water receives little sunlight, making visual surveys challenging.
 * **Sparse human activity:** Few fishermen historically worked consistently at coelacanth depths.
-* **Patchy distribution:** Coelacanths are not spread evenly through the ocean but occupy specific habitat pockets.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGkuVEZGAfo" title="David Attenborough | Deep Ocean | Kingdom of the Coelacanth | Lazarus taxon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGkuVEZGAfo" target="_blank" rel="noopener noreferrer">David Attenborough | Deep Ocean | Kingdom of the Coelacanth | Lazarus taxon</a></p><p class="youtube-embed-meta">Channel: symmetry</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGkuVEZGAfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGkuVEZGAfo">Open on YouTube</a></p></div></div></div>
+* **Patchy distribution:** Coelacanths are not spread evenly through the ocean but occupy specific habitat pockets.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGkuVEZGAfo" title="David Attenborough | Deep Ocean | Kingdom of the Coelacanth | Lazarus taxon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGkuVEZGAfo" target="_blank" rel="noopener noreferrer">David Attenborough | Deep Ocean | Kingdom of the Coelacanth | Lazarus taxon</a></p><p class="youtube-embed-meta">Channel: symmetry</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGkuVEZGAfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGkuVEZGAfo">Open on YouTube</a></p></div></div></div>
 
 ## How Caves and Steep Slopes Fit Coelacanth Biology
 

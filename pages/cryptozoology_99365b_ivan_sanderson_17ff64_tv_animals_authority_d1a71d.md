@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:19'
+date: '2026-07-01 19:55:19'
 parent_title: How Monster Hunting Became Popular Media
 parent_permalink: /sanderson/
 parent_nav_short_title: Sanderson
@@ -299,8 +299,6 @@ Television therefore functioned as a credibility transfer mechanism. Familiarity
 ## Where Education, Spectacle and Authority Blurred
 
 Sanderson's broadcasts sat at an intersection of science communication and entertainment. Television rewarded vivid demonstrations, unexpected behaviour and unusual specimens. A presenter who arrived with an exotic animal naturally attracted attention.
-
-This created a productive but complicated blend of roles. Sanderson was simultaneously educator, performer and naturalist. The same qualities that made him effective on television—confidence, storytelling skill and a talent for presenting unusual creatures dramatically—also became part of his later cryptozoological appeal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivan T. Sanderson</span><span class="citation-popover-snippet">Ivan T. Sanderson</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/omkf-eh9FAc" title="Brittnet Barbieri Experts investigate cryptozoologist Ivan Sanderson&#x27;s unexplained cases." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=omkf-eh9FAc" target="_blank" rel="noopener noreferrer">Brittnet Barbieri Experts investigate cryptozoologist Ivan Sanderson&#x27;s unexplained cases.</a></p><p class="youtube-embed-meta">Channel: Sarah&#x27;s Playlist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=omkf-eh9FAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=omkf-eh9FAc">Open on YouTube</a></p></div></div></div>
 

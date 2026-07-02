@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:58'
+date: '2026-07-01 19:54:58'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -470,9 +470,7 @@ This matters because Loch Ness is not just a creature story; it is a landscape, 
 
 Science-centre versions of cryptid display often make the uncertainty more explicit. ECHO Leahy Center for Lake Champlain’s “Champ: America’s Lake Monster” invites visitors to investigate reported sightings, explore local history and “real-world science”, examine creatures both real and unproven, and imagine their own version of the Lake Champlain Monster. The exhibition’s official description stresses hands-on interactives across three levels, a life-sized sculpture and the reader-facing question “Do you believe in Champ?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.echovermont.org/animals-exhibits/champ-americas-lake-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: echovermont.org">[ECHO, Leahy Center for Lake Champlain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">echovermont.org</span><span class="citation-popover-snippet">Open source on echovermont.org.</span></span></span>
 
-That question is central to cryptid museology. A normal zoological display usually asks, “What is this animal, and how does it live?” A cryptid display more often asks, “What has been reported, why do people care, and what would count as proof?” The difference changes the museum’s job. Instead of only classifying nature, the exhibit must classify claims, memories, hoaxes, artefacts, sightings, media images and emotional reactions.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CqAN7ijLii4" title="The True Story Behind The Mothman of West Virginia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CqAN7ijLii4" target="_blank" rel="noopener noreferrer">The True Story Behind The Mothman of West Virginia</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 185.1K &middot; Uploaded: June 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CqAN7ijLii4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CqAN7ijLii4">Open on YouTube</a></p></div></div></div>
+That question is central to cryptid museology. A normal zoological display usually asks, “What is this animal, and how does it live?” A cryptid display more often asks, “What has been reported, why do people care, and what would count as proof?” The difference changes the museum’s job. Instead of only classifying nature, the exhibit must classify claims, memories, hoaxes, artefacts, sightings, media images and emotional reactions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CqAN7ijLii4" title="The True Story Behind The Mothman of West Virginia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CqAN7ijLii4" target="_blank" rel="noopener noreferrer">The True Story Behind The Mothman of West Virginia</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 185.1K &middot; Uploaded: June 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CqAN7ijLii4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CqAN7ijLii4">Open on YouTube</a></p></div></div></div>
 
 ## Why visitors enjoy unresolved mysteries
 

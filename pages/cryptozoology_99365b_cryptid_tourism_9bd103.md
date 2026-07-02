@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:47'
+date: '2026-07-01 19:54:47'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -468,8 +468,6 @@ Loch Ness is the classic lake-monster economy. The loch was already scenic and h
 
 What matters is the layering. Visitors may come for the Highlands, Urquhart Castle, walking, scenery or Inverness, but Nessie gives the area an instantly marketable identity. Visit Inverness Loch Ness presents the region as a year-round destination of landscapes, history and culture, while the wider Scottish tourism sector is important enough that official bodies track visitor spend, employment and international performance in detail. The monster sits inside that larger visitor economy as a distinctive local differentiator rather than the only reason people arrive. Visit Inverness Loch Ness+2Visit Inverness Loch Ness<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[visitinvernesslochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Open source on visitinvernesslochness.com.</span></span></span>
 
-Forest monsters work in a similar way, but with a different mood. Bigfoot tourism often relies on the idea that remote wooded terrain could still hide something. Willow Creek, California, brands itself through Bigfoot because of its association with northern California Sasquatch lore and the famous Patterson-Gimlin film tradition. The Willow Creek China Flat Museum promotes a Bigfoot collection alongside local history, while regional tourism listings describe the museum as a place to see footprint material and Bigfoot-related exhibits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thebigfootmuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebigfootmuseum.com">[thebigfootmuseum.com+2visitredwoods.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebigfootmuseum.com</span><span class="citation-popover-snippet">Open source on thebigfootmuseum.com.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n1gM2Eu6FHA" title="The Loch Ness Monster: is it all a LIE? 🧐 Nessie museum + Urquhart Castle + Aviemore roadtrip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n1gM2Eu6FHA" target="_blank" rel="noopener noreferrer">The Loch Ness Monster: is it all a LIE? 🧐 Nessie museum + Urquhart Castle + Aviemore roadtrip</a></p><p class="youtube-embed-meta">Channel: Camy in Wonderworld</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n1gM2Eu6FHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n1gM2Eu6FHA">Open on YouTube</a></p></div></div></div>
 
 ## Souvenirs, museums and festivals turn sightings into civic infrastructure
@@ -492,8 +490,6 @@ Cryptid branding is strongest when the monster becomes shorthand for the whole p
 This kind of branding works because it compresses geography, atmosphere and identity into a single figure. A town does not need to explain its entire history in one roadside sign; it can show a winged red-eyed creature or a hairy forest giant and immediately become memorable. That simplicity is useful for small destinations competing for attention against better-funded cities and national attractions.
 
 But local monster branding is not only external marketing. It also creates an internal identity. Residents may disagree about whether the creature exists, yet still recognise its usefulness as a shared symbol. A monster can become a local joke, a protective emblem, a school mascot-style figure, a festival theme, a business name, or a reason to restore and animate a downtown. In that sense, belief becomes less important than participation.
-
-Mothman shows this transformation especially clearly. The early story was tied to fear, strange sightings and later associations with the 1967 Silver Bridge collapse. Over time, Point Pleasant reframed the creature into something the town could host: a statue to photograph, a museum to visit, a festival to attend, and a distinctive identity in West Virginia folklore. The creature did not stop being eerie, but it became familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southernliving.com/culture/the-mothman-legend-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernliving.com">[Southern Living+2Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernliving.com</span><span class="citation-popover-snippet">Open source on southernliving.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EFJa73BXdgI" title="The Mothman Festival: A Guide for the Hopelessly Superstitious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EFJa73BXdgI" target="_blank" rel="noopener noreferrer">The Mothman Festival: A Guide for the Hopelessly Superstitious</a></p><p class="youtube-embed-meta">Channel: Wandering The United States</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EFJa73BXdgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EFJa73BXdgI">Open on YouTube</a></p></div></div></div>
 

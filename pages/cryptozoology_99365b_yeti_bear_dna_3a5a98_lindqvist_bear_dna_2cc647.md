@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:26'
+date: '2026-07-01 12:55:26'
 parent_title: Did Yeti Samples Point to Bears?
 parent_permalink: /yeti-dna/
 parent_nav_short_title: Yeti DNA
@@ -272,13 +272,9 @@ header:
 image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
 
 ## What the 2017 team sampled
-
-Lindqvist's project examined alleged Yeti [specimens]({{'specimens/' | relative_url }}) that had accumulated over decades through expeditions, collections and local traditions. The materials included hair, skin, bone, tooth and faecal samples associated with Yeti claims from the Himalayan and Tibetan regions. The research group analysed DNA from these remains and compared the resulting genetic sequences with those of known bear populations and other mammals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurekalert.org/news-releases/844761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[EurekAlert!+2publichealth.buffalo.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!study ties DNA samples from purported Yetis to Asian bearsNov 28, 2017 — The research, which will be published in Proceedings...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ymwVDxoGc34" title="Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ymwVDxoGc34" target="_blank" rel="noopener noreferrer">Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears</a></p><p class="youtube-embed-meta">Channel: WKBW TV | Buffalo, NY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ymwVDxoGc34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ymwVDxoGc34">Open on YouTube</a></p></div></div></div>
 
@@ -297,8 +293,6 @@ Specific examples helped make the findings memorable. A skin relic attributed to
 
 Crucially, none of the analysed material produced genetic evidence for an unknown primate, an unrecognised ape species or any other novel large mammal. Every sample fell within the range of known species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/content/article/so-much-abominable-snowman-study-finds-yeti-dna-belongs-bears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science+2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">So much for the abominable snowman</span><span class="citation-popover-snippet">Study finds that &#x27;...Nov 28, 2017 — DNA analyses of nine samples purported to be from the &quot;abominable snowman&quot; reveal that eight actuall...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647-Illustration-2-dark.svg" | relative_url }}" alt="2017 Study illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_lindqvist_bear_dna_2cc647-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the study addressed the earlier polar-bear controversy
-
-Part of the significance of the 2017 work lay in its response to a specific scientific dispute. Earlier DNA research had suggested that two Himalayan hair samples showed affinity with an ancient polar bear sequence, leading to speculation about a previously unknown bear lineage or even a polar-bear–brown-bear hybrid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 65 — Two purported yeti samples from the Himal...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwKR_vF-WZM" title="Is the Yeti just...a bear?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwKR_vF-WZM" target="_blank" rel="noopener noreferrer">Is the Yeti just...a bear?</a></p><p class="youtube-embed-meta">Channel: 11Alive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwKR_vF-WZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwKR_vF-WZM">Open on YouTube</a></p></div></div></div>
 

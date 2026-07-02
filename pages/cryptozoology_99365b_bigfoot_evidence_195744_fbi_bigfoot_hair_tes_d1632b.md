@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:13'
+date: '2026-07-01 12:55:13'
 parent_title: Why Bigfoot Evidence Still Falls Short
 parent_permalink: /bigfoot/
 parent_nav_short_title: Bigfoot
@@ -278,13 +278,9 @@ header:
 image: /assets/images/cryptozoology_99365b_bigfoot_evidence_195744_fbi_bigfoot_hair_tes_d1632b-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1E3XID7z8ZQ" title="FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer">FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting</a></p><p class="youtube-embed-meta">Channel: KREM 2 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1E3XID7z8ZQ">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1E3XID7z8ZQ" title="FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer">FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting</a></p><p class="youtube-embed-meta">Channel: KREM 2 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1E3XID7z8ZQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the Sample Reached the FBI
-
-The case began with Peter Byrne, one of the most prominent Bigfoot investigators of the 1970s and director of the Oregon-based Bigfoot Information Center and Exhibition. Byrne contacted the FBI in 1976 after encountering references suggesting that the bureau might previously have examined alleged Bigfoot material. FBI officials replied that they could find no record of such earlier examinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc13.com/post/fbi-releases-documents-from-1977-bigfoot-investigation/5332943/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-title">fbi releases documents from 1977 bigfoot investigation</span><span class="citation-popover-snippet">ABC13 HoustonFBI releases documents from Bigfoot investigation, finding...Jun 5, 2019 — The FBI investigated hair and skin in the 1970s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_BwaHDjsIc" title="FBI Documents Reveal Bigfoot Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_BwaHDjsIc" target="_blank" rel="noopener noreferrer">FBI Documents Reveal Bigfoot Investigation</a></p><p class="youtube-embed-meta">Channel: WFMY News 2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_BwaHDjsIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_BwaHDjsIc">Open on YouTube</a></p></div></div></div>
 
@@ -297,9 +293,7 @@ The result was not ambiguous. The laboratory did not report an unknown species, 
 The FBI subsequently returned the material to Byrne. The correspondence preserved in the released file contains no indication that further testing uncovered anything unusual or that the bureau considered the specimen evidence for Bigfoot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.avclub.com/the-fbi-just-released-its-bigfoot-file-1835277774" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avclub.com">[AV Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avclub.com</span><span class="citation-popover-snippet">AV ClubThe FBI just released its Bigfoot fileWhile the FBI denied having tested Bigfoot hair in the past, they were, as it turned out, mo...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_fbi_bigfoot_hair_tes_d1632b-Illustration-2-dark.svg" | relative_url }}" alt="FBI Hair Test illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_fbi_bigfoot_hair_tes_d1632b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_bigfoot_evidence_195744_fbi_bigfoot_hair_tes_d1632b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Released FBI File Actually Shows
 
-When the FBI publicly released the file decades later through its records vault, [media]({{'media/' | relative_url }}) coverage often emphasised the novelty of a federal “Bigfoot investigation”. The documents themselves reveal something narrower.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4JcbsjsXMl4" title="Under The Microscope: The FBI Hair Cases | Fault Lines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4JcbsjsXMl4" target="_blank" rel="noopener noreferrer">Under The Microscope: The FBI Hair Cases | Fault Lines</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4JcbsjsXMl4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4JcbsjsXMl4">Open on YouTube</a></p></div></div></div>
+When the FBI publicly released the file decades later through its records vault, [media]({{'media/' | relative_url }}) coverage often emphasised the novelty of a federal “Bigfoot investigation”. The documents themselves reveal something narrower.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4JcbsjsXMl4" title="Under The Microscope: The FBI Hair Cases | Fault Lines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4JcbsjsXMl4" target="_blank" rel="noopener noreferrer">Under The Microscope: The FBI Hair Cases | Fault Lines</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4JcbsjsXMl4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4JcbsjsXMl4">Open on YouTube</a></p></div></div></div>
 
 ## Why Official Testing Did Not Validate Bigfoot
 

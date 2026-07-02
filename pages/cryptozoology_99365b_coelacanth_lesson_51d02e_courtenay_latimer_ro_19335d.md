@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:45'
+date: '2026-07-01 12:55:45'
 parent_title: What the Coelacanth Really Proves
 parent_permalink: /coelacanth/
 parent_nav_short_title: Coelacanth
@@ -283,8 +283,6 @@ image: /assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_la
 The discovery of the coelacanth is often told as a story about a fish that should not have existed. Equally important, however, is the story of the person who prevented that fish from disappearing before anyone realised what it was. In December 1938, museum curator Marjorie Courtenay-Latimer recognised that an unusual trawler catch deserved attention, even though she could not identify it. Her decision to save, document and seek expert advice about the specimen transformed an anonymous bycatch fish into one of the most significant zoological discoveries of the twentieth century. The episode remains one of the clearest examples in both zoology and [cryptozoology]({{'cryptozoology/' | relative_url }}) of how major discoveries can depend on practical judgement exercised before the evidence is fully understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterMarjorie Courtenay-Latimer, curator of the East London Mus...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d-Illustration-1-dark.svg" | relative_url }}" alt="Latimer s Role illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Trawler Catch Almost Vanished
 
-On 22 December 1938, Courtenay-Latimer received a call from local fishermen connected with the trawler *Nerine*. She had spent years encouraging crews to notify the East London Museum when they encountered unusual [specimens]({{'specimens/' | relative_url }}), a habit that placed her in the right position when an unfamiliar fish appeared among the catch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Marjorie_Courtenay-Latimer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Marjorie Courtenay-Latimer</span><span class="citation-popover-snippet">Marjorie Courtenay-Latimer</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NVbdhwUgwmQ" title="marjorie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NVbdhwUgwmQ" target="_blank" rel="noopener noreferrer">marjorie</a></p><p class="youtube-embed-meta">Channel: Taylor Swift - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NVbdhwUgwmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NVbdhwUgwmQ">Open on YouTube</a></p></div></div></div>
 
 ## How Museum Judgement Preserved the Evidence
@@ -306,9 +304,7 @@ Her contribution was different and, in many ways, more fundamental. She performe
 
 1. **Detection** – noticing that the specimen was exceptional.
 2. **Preservation** – ensuring it survived long enough to be studied.
-3. **Escalation** – bringing it to the attention of someone with the relevant expertise.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZI3rJpDNw4" title="From the Cache: Marjorie Courtenay-Latimer and the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer">From the Cache: Marjorie Courtenay-Latimer and the Coelacanth</a></p><p class="youtube-embed-meta">Channel: History Cache</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZI3rJpDNw4">Open on YouTube</a></p></div></div></div>
+3. **Escalation** – bringing it to the attention of someone with the relevant expertise.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZI3rJpDNw4" title="From the Cache: Marjorie Courtenay-Latimer and the Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer">From the Cache: Marjorie Courtenay-Latimer and the Coelacanth</a></p><p class="youtube-embed-meta">Channel: History Cache</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZI3rJpDNw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZI3rJpDNw4">Open on YouTube</a></p></div></div></div>
 
 ## What the Case Says About Expertise and Chance
 

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:54:56'
+date: '2026-07-01 19:54:56'
 parent_title: How Local Monsters Become Tourist Icons
 parent_permalink: /tourism/
 parent_nav_short_title: Tourism
@@ -294,8 +294,6 @@ The result is a shift from rumour to attraction. The creature remains unverified
 The most successful monster museums rarely present themselves as laboratories proving a creature exists. Instead, they blend several elements that appeal to different audiences at once.
 
 **Witness testimony.** Many displays focus on the people who reported encounters. The Mothman Museum in Point Pleasant, West Virginia, for example, highlights eyewitness accounts, original press coverage and documents connected to the famous 1966–1967 wave of reports. Visitors encounter the story through the experiences of residents rather than through claims of scientific certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g59426-d621279-Reviews-Mothman_Museum-Point_Pleasant_West_Virginia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-title">Mothman Museum</span><span class="citation-popover-snippet">Mothman Museum - All You SHOULD Know Before Going...The Mothman Museum is devoted to the Mothman legend, featuring the hand w...</span></span></span>
-
-**Physical artefacts and replicas.** The International Cryptozoology Museum in Maine displays footprint casts, artefacts, folklore materials and items linked to investigations of creatures such as Bigfoot, the Yeti and the Loch Ness Monster. These objects give visitors something concrete to examine even when the creatures themselves remain unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cryptozoologymuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptozoologymuseum.com">[cryptozoologymuseum.com+2Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptozoologymuseum.com</span><span class="citation-popover-title">International Cryptozoology Museum 490 Broadway, Bangor</span><span class="citation-popover-snippet">September 24, 2020 — Our two-story museum is curated with a wide variety of cryptozoological specimens, oddities, artifacts, and novelty...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qzd-Xf-CrWQ" title="Cryptozoology Museum | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer">Cryptozoology Museum | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qzd-Xf-CrWQ">Open on YouTube</a></p></div></div></div>
 

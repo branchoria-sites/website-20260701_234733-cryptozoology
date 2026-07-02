@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:14'
+date: '2026-07-01 20:53:14'
 parent_title: How Media Keeps Cryptids Alive
 parent_permalink: /media/
 parent_nav_short_title: Media
@@ -295,9 +295,7 @@ This approach borrows concepts familiar from legitimate scientific and commercia
 * Predicting future activity from past reports.
 * Using large datasets to guide fieldwork.
 
-In principle, these are real analytical methods. Ecologists routinely use sighting records, habitat data and statistical modelling to estimate where known species are likely to occur. Wildlife managers use similar techniques to track migration routes, invasive species and population distributions.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdAqIFvNfvg" title="One Team Member Down As the Search Begins | Expedition Bigfoot | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdAqIFvNfvg" target="_blank" rel="noopener noreferrer">One Team Member Down As the Search Begins | Expedition Bigfoot | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdAqIFvNfvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdAqIFvNfvg">Open on YouTube</a></p></div></div></div>
+In principle, these are real analytical methods. Ecologists routinely use sighting records, habitat data and statistical modelling to estimate where known species are likely to occur. Wildlife managers use similar techniques to track migration routes, invasive species and population distributions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdAqIFvNfvg" title="One Team Member Down As the Search Begins | Expedition Bigfoot | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdAqIFvNfvg" target="_blank" rel="noopener noreferrer">One Team Member Down As the Search Begins | Expedition Bigfoot | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdAqIFvNfvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdAqIFvNfvg">Open on YouTube</a></p></div></div></div>
 
 ## Why Sighting Databases Are Not Proof
 
@@ -349,8 +347,6 @@ That perception is powerful because modern audiences often associate computation
 ## Can Algorithms Really Find Bigfoot?
 
 Algorithms can certainly do some things.
-
-They can organise thousands of reports, visualise geographic clusters, identify recurring themes and help investigators choose locations more efficiently. Mapping projects built around Bigfoot reports demonstrate how easily large collections of sightings can be transformed into searchable geographic datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bigfootmap.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigfootmap.com">[BigfootMap.com+2Idaho State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigfootmap.com</span><span class="citation-popover-snippet">The Bigfoot Mapping Project &#124; www.bigfootmap.comViewers can see and interact with a map that displays data and location of crowdsourced B...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sZI_pKlOXYA" title="A Lingering Fear | Expedition Bigfoot | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sZI_pKlOXYA" target="_blank" rel="noopener noreferrer">A Lingering Fear | Expedition Bigfoot | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sZI_pKlOXYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sZI_pKlOXYA">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a></h4><p class="fr-book-author">By Nate Silver</p><p class="fr-book-desc">Directly relevant to claims that algorithms can find patterns in uncertain data.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -439,7 +439,7 @@ next_link:
   permalink: /media/
   short_title: Media
   heading_title: How Media Keeps Cryptids Alive
-date:'2026-07-01 23:39:11'
+date: '2026-07-01 23:39:11'
 header:
   og_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e-overview-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_monster_legend_meani_56343e-overview.webp
@@ -468,8 +468,6 @@ Many cryptid legends preserve the idea that nature is not fully safe. This is on
 
 Bigfoot stories often involve signs rather than full encounters: tracks, sounds, smells, broken branches, thrown stones, glimpses at dusk. These fragments suit wilderness anxiety because they suggest that the observer is not alone but cannot control the situation. The modern Bigfoot story itself took shape around footprint reports in northern California logging country in 1958, when bulldozer operator Jerry Crew and other workers encountered large tracks at remote work sites and the press helped popularise the name “Bigfoot”. Later, the Wallace family said carved wooden feet had been used in a hoax, but the setting — labourers in forest country facing unexplained traces — had already become central to the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The danger is sometimes literal. In December 2024, two Oregon men died from exposure after going into Washington’s Gifford Pinchot National Forest to search for Sasquatch; the Associated Press reported that authorities attributed the deaths to harsh weather and lack of preparation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/3ab2a21c723e96f327b1f3fa53a1658e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span> The tragedy does not prove anything about Bigfoot, but it reveals something about Bigfoot country: the real wilderness is dangerous enough without a monster. Cryptid stories often borrow that real danger and give it a face.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oYVkyp_7xQM" title="Terrifying Monsters from Mythology and Folklore Around the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oYVkyp_7xQM" target="_blank" rel="noopener noreferrer">Terrifying Monsters from Mythology and Folklore Around the World</a></p><p class="youtube-embed-meta">Channel: World History Encyclopedia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oYVkyp_7xQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oYVkyp_7xQM">Open on YouTube</a></p></div></div></div>
 
 ## Loss, nostalgia and the wish for a less finished world
@@ -489,9 +487,7 @@ Cryptozoology often turns on a conflict over who gets to know. Scientists usuall
 
 This divide is especially visible in Bigfoot culture. Science historian Brian Regal has studied the boundary between professional science and amateur Bigfoot research; his article “Amateur versus professional: the search for Bigfoot” explicitly examines Sasquatch, Bigfoot and the Yeti as a case of conflict between credentialled expertise and vernacular investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18514914/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Bruce Hardy, writing in Sapiens and republished by RealClearScience, uses Bigfoot to discuss public mistrust of science, noting that late-1960s Bigfoot reports drew in amateur naturalists, journalists and some credentialled anthropologists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.realclearscience.com/2023/06/14/what_bigfoot_teaches_us_about_public_mistrust_of_science_940527.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realclearscience.com">[RealClearScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realclearscience.com</span><span class="citation-popover-title">Real Clear Science What Bigfoot Teaches Us About Public Mistrust of Science</span><span class="citation-popover-snippet">Real Clear Science What Bigfoot Teaches Us About Public Mistrust of Science</span></span></span>
 
-This does not make the sceptical position weak. The problem for Bigfoot as zoology remains severe: no confirmed body, no accepted DNA, no breeding population, and many reports that can be explained as mistakes, bears, hoaxes or ambiguous traces. But as folklore, the dispute itself is part of the engine. Every official dismissal can be folded back into the story as evidence that experts are incurious, embarrassed, institutionally cautious or protecting reputations.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BGeo66npGpw" title="The Silver Bridge Disaster: 46 People Died Because of a Defect in One Piece of Steel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BGeo66npGpw" target="_blank" rel="noopener noreferrer">The Silver Bridge Disaster: 46 People Died Because of a Defect in One Piece of Steel</a></p><p class="youtube-embed-meta">Channel: The Fault Line</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BGeo66npGpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BGeo66npGpw">Open on YouTube</a></p></div></div></div>
+This does not make the sceptical position weak. The problem for Bigfoot as zoology remains severe: no confirmed body, no accepted DNA, no breeding population, and many reports that can be explained as mistakes, bears, hoaxes or ambiguous traces. But as folklore, the dispute itself is part of the engine. Every official dismissal can be folded back into the story as evidence that experts are incurious, embarrassed, institutionally cautious or protecting reputations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BGeo66npGpw" title="The Silver Bridge Disaster: 46 People Died Because of a Defect in One Piece of Steel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BGeo66npGpw" target="_blank" rel="noopener noreferrer">The Silver Bridge Disaster: 46 People Died Because of a Defect in One Piece of Steel</a></p><p class="youtube-embed-meta">Channel: The Fault Line</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BGeo66npGpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BGeo66npGpw">Open on YouTube</a></p></div></div></div>
 
 ## Why official debunking rarely ends the story
 

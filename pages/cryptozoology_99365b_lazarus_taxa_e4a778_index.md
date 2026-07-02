@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cryptozoology-99365b-lazarus-taxa/
 description: Focused pages that expand on Lazarus Taxa.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: cryptozoology_99365b_lazarus_taxa_e4a778
 parent_title: Lazarus Taxa

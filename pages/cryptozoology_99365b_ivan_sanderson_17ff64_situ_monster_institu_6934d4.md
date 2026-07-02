@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:23'
+date: '2026-07-01 19:55:23'
 parent_title: How Monster Hunting Became Popular Media
 parent_permalink: /sanderson/
 parent_nav_short_title: Sanderson
@@ -285,8 +285,6 @@ SITU mattered because it attempted to transform monster hunting from a series of
 
 ## When Monster Hunting Became Organised
 
-Before SITU, many cryptozoological investigations depended on individual researchers, magazine articles or informal correspondence. Sanderson wanted a permanent structure capable of collecting and evaluating reports that mainstream institutions ignored. In 1965 he established the Ivan T. Sanderson Foundation at his New Jersey property, later reorganising it into SITU in 1967. The organisation's stated purpose was the acquisition, investigation and dissemination of information about phenomena that did not fit comfortably within accepted scientific explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[APS Manuscript Collections+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-title">APS Manuscript Collections Ivan Terence Sanderson papers, [ca</span><span class="citation-popover-snippet">1920-1973]In 1965, Sanderson established the Ivan T. Sanderson Foundation, later called Society for the Investigation of the Unexplained...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3pXWzs79Hz4" title="&quot;Flatwoods monster&quot; witnessed after 1952 UFO landing discussed by Ivan Sanderson &amp; Stanton Friedman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3pXWzs79Hz4" target="_blank" rel="noopener noreferrer">&quot;Flatwoods monster&quot; witnessed after 1952 UFO landing discussed by Ivan Sanderson &amp; Stanton Friedman</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3pXWzs79Hz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3pXWzs79Hz4">Open on YouTube</a></p></div></div></div>
 
 ## Why SITU Mattered as a Research Society
@@ -324,8 +322,6 @@ However, critics argued that this approach weakened cryptozoology's credibility.
 
 This tension became a recurring issue in later cryptozoological organisations. Some researchers attempted to narrow their focus to biological mysteries, while others embraced the broader Fortean model that SITU had exemplified.<img src="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4-Illustration-3-dark.svg" | relative_url }}" alt="SITU illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## SITU's Legacy for Cryptozoology
-
-SITU survived beyond Sanderson's death in 1973 and remained influential for years, largely through its archives, publications and investigator network. Contemporary accounts describe it as one of the leading organisations devoted to anomalous research during its era. Eventually the organisation declined and was disbanded, while reports suggest that parts of its once-extensive collections were dispersed or lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/society-investigation-unexplained-situ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2thebiggeststudy.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Sanderson in 1965, for the acquisition, investigation and dissemination of information on reports of all tangible...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0gGTsQkrUAw" title="Spacetime Bigfoot Brothers podcast episode 2: Ivan T. Sanderson interviews Louis Leakey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0gGTsQkrUAw" target="_blank" rel="noopener noreferrer">Spacetime Bigfoot Brothers podcast episode 2: Ivan T. Sanderson interviews Louis Leakey</a></p><p class="youtube-embed-meta">Channel: Placement Publishing</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0gGTsQkrUAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0gGTsQkrUAw">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Snowmen, Legend Come to Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MVZSSkqDCU4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Snowmen, Legend Come to Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen, Legend Come to Life">Abominable Snowmen, Legend Come to Life</a></h4><p class="fr-book-author">By Ivan T. Sanderson</p><p class="fr-book-desc">Connects directly to the founder&#x27;s influence on organized monster hunting.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

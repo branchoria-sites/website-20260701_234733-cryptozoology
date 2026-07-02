@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:32'
+date: '2026-07-01 12:55:32'
 parent_title: Why Sea Serpent Stories Keep Returning
 parent_permalink: /sea-serpents/
 parent_nav_short_title: Sea Serpents
@@ -293,8 +293,6 @@ Several features make the animal especially likely to trigger “monster” inte
 * **A bright red dorsal fin** running almost the entire length of the body.
 * **Red crest-like fin rays** projecting from the head, giving it a crown-like appearance.
 * **A silvery reflective surface** that flashes in sunlight and can distort perception at distance.
-* **Rare appearances near the surface**, [meaning]({{'meaning/' | relative_url }}) most observers have never seen one before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2Florida Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicMysterious &#x27;Sea Serpent&#x27; Oarfish ResurfacesFeb 17, 2017 — Though not a reptile, the elongated fish is thought to be th...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ScL8wjWbps" title="The Oarfish | The Real Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer">The Oarfish | The Real Sea Serpent</a></p><p class="youtube-embed-meta">Channel: Secrets Of The Deep Sea</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ScL8wjWbps">Open on YouTube</a></p></div></div></div>
 
 ## Which Sighting Details They Can Explain
@@ -332,8 +330,6 @@ More recent strandings continue to demonstrate why the association persists. Spe
 Although oarfish provide a convincing explanation for some reports, they cannot account for every sea serpent claim.
 
 First, many classic sightings describe animals with features that oarfish do not possess. Reports of multiple humps, thick reptilian necks, horse-like heads, large flippers, or whale-sized bodies extend well beyond known oarfish anatomy. In such cases, other explanations—such as misidentified whales, groups of marine mammals, sharks, floating debris, or observational error—are more plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">the giant squid dragon of the deep 18784038</span><span class="citation-popover-snippet">Smithsonian MagazineThe Giant Squid: Dragon of the DeepJun 21, 2011 — After over 150 years since it was first sighted by the HMS Daedalus...</span></span></span>
-
-Second, oarfish are generally delicate fish rather than powerful surface swimmers. They do not habitually travel in a way that would create long sequences of visible humps across the water. Sightings dominated by that feature fit poorly with the oarfish hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The oarfish, a true one in a million fish. These guys are</span><span class="citation-popover-snippet">The oarfish, a true one in a million fish. These guys are...May 3, 2021 — They live 200+ meters deep in the ocean in calm waters...</span><span class="citation-popover-meta">Published: May 3, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SlwXVdb4B24" title="Scientists complete necropsy on deep-sea oarfish discovered in La Jolla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SlwXVdb4B24" target="_blank" rel="noopener noreferrer">Scientists complete necropsy on deep-sea oarfish discovered in La Jolla</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SlwXVdb4B24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SlwXVdb4B24">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a></h4><p class="fr-book-author">By Loren Coleman, Jerome Clark</p><p class="fr-book-desc">Provides broader sea-serpent and mystery-animal context.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

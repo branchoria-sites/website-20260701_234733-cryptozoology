@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:14'
+date: '2026-07-01 20:53:14'
 parent_title: How Media Keeps Cryptids Alive
 parent_permalink: /media/
 parent_nav_short_title: Media
@@ -272,9 +272,7 @@ header:
 image: /assets/images/cryptozoology_99365b_cryptid_media_7385ef_bfro_sighting_databa_8d1632-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPYlVm44xks" title="Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer">Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPYlVm44xks">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPYlVm44xks" title="Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer">Matt Moneymaker: The Truth About Bigfoot | Planet Tyrus</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPYlVm44xks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPYlVm44xks">Open on YouTube</a></p></div></div></div>
 
 ## How the report archive model works
 
@@ -284,8 +282,6 @@ A key feature of the system is classification. Published reports are generally a
 
 * **Class A**: direct visual observations.
 * **Class B**: indirect experiences, including sounds, [tracks]({{'tracks/' | relative_url }}) or brief observations under poorer [conditions]({{'conditions/' | relative_url }}).
-* **Class C**: reports considered insufficiently reliable for public listing or retained mainly for archival purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfro.net/gdb/classify.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfro.net">[bfro.net+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfro.net</span><span class="citation-popover-snippet">BFRO Database History and Report Classification SystemThe BFRO site is the only collection of bigfoot reports from across North America t...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/--4_28E3vWQ" title="The Legend of Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer">The Legend of Bigfoot</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=--4_28E3vWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=--4_28E3vWQ">Open on YouTube</a></p></div></div></div>
 
 ## Why accumulation can look persuasive

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:25'
+date: '2026-07-01 12:55:25'
 parent_title: Did Yeti Samples Point to Bears?
 parent_permalink: /yeti-dna/
 parent_nav_short_title: Yeti DNA
@@ -283,8 +283,6 @@ image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits
 The debate over [Yeti DNA]({{'yeti-dna/' | relative_url }}) did not hinge on a complete genome or a well-preserved specimen. It hinged on a tiny stretch of genetic code. That detail matters because one of the most important lessons from the Yeti evidence is that DNA can be powerful while still being easy to over-interpret when only a small fragment survives.<img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" alt="DNA limits illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDglMNXvAjk" title="What DNA Revealed About the Yeti Shocked Explorers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer">What DNA Revealed About the Yeti Shocked Explorers</a></p><p class="youtube-embed-meta">Channel: The Ancestry Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDglMNXvAjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDglMNXvAjk">Open on YouTube</a></p></div></div></div>
 
 ## Why short mitochondrial sequences are useful but limited
-
-Many alleged cryptid samples are old, weathered, contaminated or poorly preserved. In those [conditions]({{'conditions/' | relative_url }}), researchers often rely on mitochondrial DNA because it is more abundant in cells than nuclear DNA and is therefore more likely to survive in usable form. That makes mitochondrial testing an important tool for investigating hairs, bones and tissue fragments linked to cryptozoological claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Genetic analysis of hair samples attributed to yeti, bigfoot...22 Aug 2014 — We have used rigorous decontamination followed by mit...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uZKgCZRqnwk" title="British Geneticist Says He Has Proof of Yeti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uZKgCZRqnwk" target="_blank" rel="noopener noreferrer">British Geneticist Says He Has Proof of Yeti</a></p><p class="youtube-embed-meta">Channel: Newsy Weird Stuff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uZKgCZRqnwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uZKgCZRqnwk">Open on YouTube</a></p></div></div></div>
 

@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:15'
+date: '2026-07-01 12:55:15'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -446,9 +446,7 @@ header:
 image: /assets/images/cryptozoology_99365b_loch_ness_dna_39c301-overview-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
 
 ## The classic Nessie claim
 
@@ -464,8 +462,6 @@ That still leaves room for sightings to be sincere. A witness can honestly repor
 Environmental DNA, or eDNA, is genetic material shed by living things into their surroundings. Animals leave traces through skin, mucus, scales, feathers, faeces and other biological material. In water, scientists can filter samples, extract DNA and compare sequences with reference databases to build a picture of what organisms are present. Gemmell described the method in plain terms before the Loch Ness fieldwork: life is messy, and those traces can provide a biological census of a place at a given time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/opinion-from-otago-to-loch-ness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">Open source on otago.ac.nz.</span></span></span>
 
 The Loch Ness project was deliberately framed as both science and public engagement. Gemmell wrote that the plan was essentially a biodiversity survey using eDNA tools, with the monster story acting as a way to draw people into the scientific process. The team involved researchers from Otago, the Loch Ness Project, the University of Copenhagen, the University of Hull and the University of the Highlands and Islands, and collected hundreds of samples from around the loch, including deep water down to about 200 metres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/opinion-from-otago-to-loch-ness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">Open source on otago.ac.nz.</span></span></span>
-
-The publicly reported findings were not “monster DNA”. They were a catalogue of expected and unexpected ordinary life. The headline result for cryptozoology was negative evidence against several famous claims. The team did not report genetic evidence for plesiosaurs, sharks, Wels catfish or sturgeon. In contrast, it found eel DNA at nearly every sampled location, suggesting that eels are plentiful in Loch Ness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of Otago5 September 2019, First eDNA Study Of Loch Ness Points To Something Fishy, News archive, Department of Anatomy &#124; Unive...</span><span class="citation-popover-meta">Published: September 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CcOEijIqiAM" title="The Loch Ness DNA Test Results That Terrified Scientists!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CcOEijIqiAM" target="_blank" rel="noopener noreferrer">The Loch Ness DNA Test Results That Terrified Scientists!</a></p><p class="youtube-embed-meta">Channel: Did You Know?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CcOEijIqiAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CcOEijIqiAM">Open on YouTube</a></p></div></div></div>
 

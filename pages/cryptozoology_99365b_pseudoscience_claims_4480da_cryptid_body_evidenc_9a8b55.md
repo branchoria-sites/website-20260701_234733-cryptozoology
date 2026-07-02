@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:39'
+date: '2026-07-01 19:55:39'
 parent_title: Why Cryptozoology Is Called Pseudoscience
 parent_permalink: /pseudoscience/
 parent_nav_short_title: Pseudoscience
@@ -307,9 +307,7 @@ DNA has expanded these capabilities. Tissue, hair, blood, faeces and environment
 For a cryptid claim, therefore, a verified tissue sample or distinctive genetic sequence would be far more persuasive than another photograph. A photograph can show that something was present. DNA can show what it was.<img src="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" alt="Need a Body illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Coelacanth Shows How Science Changes Its Mind
 
-Cryptozoology supporters often cite the coelacanth as proof that extraordinary animals can remain undiscovered. The example is real, but its lesson is frequently misunderstood.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
+Cryptozoology supporters often cite the coelacanth as proof that extraordinary animals can remain undiscovered. The example is real, but its lesson is frequently misunderstood.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
 
 ## Why Large Animals Should Leave Repeated Traces
 

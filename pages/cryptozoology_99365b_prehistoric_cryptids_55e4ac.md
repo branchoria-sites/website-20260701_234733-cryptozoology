@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 12:55:35'
+date: '2026-07-01 12:55:35'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -485,9 +485,7 @@ There is also a cultural risk in the way this claim is often handled. Some recen
 
 The fossil record does not say that every extinct lineage vanished at the exact moment of its last fossil. It does, however, provide a large-scale pattern. Non-avian dinosaurs, many marine reptiles and numerous other groups disappear at or before the Cretaceous–Palaeogene boundary around 66 million years ago. The US National Park Service’s palaeontology overview states that dinosaurs and several other groups lasted to practically the end of the Cretaceous, and then there is no good evidence for them in the following Palaeocene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/extinction-events.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Extinction Events</span><span class="citation-popover-snippet">National...28 Feb 2025 — Dinosaurs survived the mass extinction ・ went extinct at the end of the Cretaceous ・ these groups lasted to pra...</span></span></span>
 
-That phrase “good evidence” is important. Palaeontologists know that fossils can be reworked: older bones may erode out of ancient rock and become redeposited in younger sediment. This can create misleading claims of “late-surviving” dinosaurs unless the geological context is secure. The fossil record is not accepted uncritically; it is interpreted through dating, stratigraphy, sedimentology, anatomy and comparison with other sites. A cryptid claim that relies only on “the fossil record has gaps” is therefore much weaker than it sounds.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sTVTuo48ZpQ" title="The Mokele-Mbembe Mystery: Dinosaur, Myth, or Unknown Animal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sTVTuo48ZpQ" target="_blank" rel="noopener noreferrer">The Mokele-Mbembe Mystery: Dinosaur, Myth, or Unknown Animal?</a></p><p class="youtube-embed-meta">Channel: Brothers Mellema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sTVTuo48ZpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sTVTuo48ZpQ">Open on YouTube</a></p></div></div></div>
+That phrase “good evidence” is important. Palaeontologists know that fossils can be reworked: older bones may erode out of ancient rock and become redeposited in younger sediment. This can create misleading claims of “late-surviving” dinosaurs unless the geological context is secure. The fossil record is not accepted uncritically; it is interpreted through dating, stratigraphy, sedimentology, anatomy and comparison with other sites. A cryptid claim that relies only on “the fossil record has gaps” is therefore much weaker than it sounds.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sTVTuo48ZpQ" title="The Mokele-Mbembe Mystery: Dinosaur, Myth, or Unknown Animal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sTVTuo48ZpQ" target="_blank" rel="noopener noreferrer">The Mokele-Mbembe Mystery: Dinosaur, Myth, or Unknown Animal?</a></p><p class="youtube-embed-meta">Channel: Brothers Mellema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sTVTuo48ZpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sTVTuo48ZpQ">Open on YouTube</a></p></div></div></div>
 
 ## The ecological burden of survival
 
@@ -509,9 +507,7 @@ A credible prehistoric-survivor case would not need to begin with a perfect spec
 
 * **Repeated, high-quality photographs or video** would help, especially if they showed anatomy from multiple angles and came with location, scale and chain-of-custody details.
 * **Consistent ecological traces** such as tracks, dung, feeding marks, nests, eggshells or shed skin would be important if they could not be attributed to known animals.
-* **A plausible breeding population** would be essential. A lone survivor of a Mesozoic lineage is not a viable explanation across decades or centuries.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_rTFf9Nxq0" title="Living Dinosaurs in the Congo: Mokele Mbembe Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer">Living Dinosaurs in the Congo: Mokele Mbembe Part 2</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_rTFf9Nxq0">Open on YouTube</a></p></div></div></div>
+* **A plausible breeding population** would be essential. A lone survivor of a Mesozoic lineage is not a viable explanation across decades or centuries.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_rTFf9Nxq0" title="Living Dinosaurs in the Congo: Mokele Mbembe Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer">Living Dinosaurs in the Congo: Mokele Mbembe Part 2</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_rTFf9Nxq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_rTFf9Nxq0">Open on YouTube</a></p></div></div></div>
 
 ## The real lesson for cryptozoology
 

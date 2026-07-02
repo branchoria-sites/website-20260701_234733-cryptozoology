@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 20:53:03'
+date: '2026-07-01 20:53:03'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -463,8 +463,6 @@ The problem becomes sharper for cryptids described as ancient survivors. A plesi
 ## Food, habitat and the size of the ecological footprint
 
 Large animals are not just bodies; they are energy demands. A population of big predators or omnivores must fit into the food supply of its habitat. This is where Loch Ness is such a useful case. It is large, deep and visually mysterious, but it is also a bounded freshwater ecosystem that has been studied by sonar, limnology and environmental sampling. The Loch Ness Project’s archive lists research on plankton, benthic animals, hydroacoustics, fish habitats, sediment cores, water chemistry, underwater television and the spatial distribution of fish and zooplankton — exactly the sort of work that turns a “mysterious lake” into a measurable ecosystem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/ARCHIVE%20ROOM/papershtml/loch_ness_project_history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[lochnessproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
-
-A monster population would have to draw energy from that system. If the animal were imagined as a large fish-eating predator, the available fish biomass would limit how much predator biomass the loch could support. Reports on Loch Ness ecology have repeatedly focused on whether the loch contains enough food for a population of very large animals, and later public summaries of Adrian Shine’s long-running work have argued that the open-water fish stock is far too small to support the kind of huge creatures often described in monster lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Open source on nypost.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wpjngt8kBqk" title="What if the Loch Ness Monster was Real? - Speculative Evolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wpjngt8kBqk" target="_blank" rel="noopener noreferrer">What if the Loch Ness Monster was Real? - Speculative Evolution</a></p><p class="youtube-embed-meta">Channel: CreatureArchives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wpjngt8kBqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wpjngt8kBqk">Open on YouTube</a></p></div></div></div>
 

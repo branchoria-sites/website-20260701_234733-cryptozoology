@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 22:28:55'
+date: '2026-07-01 22:28:55'
 parent_title: The Real Unknown Animals of the Deep Sea
 parent_permalink: /deep-sea/
 parent_nav_short_title: Deep Sea
@@ -272,9 +272,7 @@ header:
 image: /assets/images/cryptozoology_99365b_deep_sea_unknowns_7769bf_ocean_census_unknown_126f33-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/un4Ht3PD334" title="Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer">Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais</a></p><p class="youtube-embed-meta">Channel: Jornalismo TV Cultura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=un4Ht3PD334">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/un4Ht3PD334" title="Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer">Censo do Oceanos: projeto visa salvar a vida marinha e evitar extinção de peixes e animais</a></p><p class="youtube-embed-meta">Channel: Jornalismo TV Cultura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=un4Ht3PD334" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=un4Ht3PD334">Open on YouTube</a></p></div></div></div>
 
 ## What Recent Surveys Are Finding
 
@@ -284,8 +282,7 @@ The most striking aspect of the dataset is its diversity. New finds include:
 
 * Deep-sea ghost sharks (chimaeras), relatives of sharks and rays that diverged from other cartilaginous fishes hundreds of millions of years ago.
 * Symbiotic worms living inside intricate glass sponge structures.
-* New corals, shrimps, crabs, sea urchins and anemones from remote seafloor habitats.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xww4tmquic0" title="New discoveries: Ocean census project reveals over 800 new species of ocean life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer">New discoveries: Ocean census project reveals over 800 new species of ocean life</a></p><p class="youtube-embed-meta">Channel: africanews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xww4tmquic0">Open on YouTube</a></p></div></div></div>
+* New corals, shrimps, crabs, sea urchins and anemones from remote seafloor habitats.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xww4tmquic0" title="New discoveries: Ocean census project reveals over 800 new species of ocean life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer">New discoveries: Ocean census project reveals over 800 new species of ocean life</a></p><p class="youtube-embed-meta">Channel: africanews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xww4tmquic0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xww4tmquic0">Open on YouTube</a></p></div></div></div>
 
 ### The Ghost Shark Example
 

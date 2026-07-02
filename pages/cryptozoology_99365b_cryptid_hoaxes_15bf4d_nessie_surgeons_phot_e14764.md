@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 19:55:55'
+date: '2026-07-01 19:55:55'
 parent_title: How Cryptid Hoaxes Fool the Public
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
@@ -311,8 +311,6 @@ Several elements helped the deception succeed:<div class="content-enhancement co
 ## Why Exposure Did Not Erase the Silhouette
 
 The exposure of the hoax did not erase the photograph from popular culture. Instead, the image underwent a transformation from evidence into icon. Even people who know the story is false often recognise the photograph instantly. The silhouette became more important than the original claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe Loch Ness monster, 1934 - a picture from the past23 Oct 2013 — One of the most famous photographic hoaxes, allegedly take...</span></span></span>
-
-One reason is that images are often remembered more easily than corrections. The photograph supplied a clear visual model for Nessie, whereas the debunking required readers to absorb a more complicated explanation involving multiple participants, motivations, and technical details. The simple picture was easier to recall than the investigative history behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/lochness/legend3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">But in 1994, 60 years after the photo was...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Af6pSSk2F4" title="Loch Ness Monster Conspiracy EXPOSED | History&#x27;s Greatest Mysteries (Season 4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Af6pSSk2F4" target="_blank" rel="noopener noreferrer">Loch Ness Monster Conspiracy EXPOSED | History&#x27;s Greatest Mysteries (Season 4)</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Af6pSSk2F4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Af6pSSk2F4">Open on YouTube</a></p></div></div></div>
 

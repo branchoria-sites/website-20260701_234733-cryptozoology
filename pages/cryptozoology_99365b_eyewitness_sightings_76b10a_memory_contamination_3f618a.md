@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 13:58:51'
+date: '2026-07-01 13:58:51'
 parent_title: Why Honest Cryptid Sightings Can Mislead
 parent_permalink: /sightings/
 parent_nav_short_title: Sightings
@@ -292,9 +292,7 @@ In a cryptid context, the initial experience may consist of observations such as
 * A large dark figure crossing a road.
 * An unusual silhouette near a lake.
 * Strange sounds in woodland.
-* Brief movement seen in poor light.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9CRBvIAsQ" title="Elizabeth Loftus | The Memory Factory || Radcliffe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer">Elizabeth Loftus | The Memory Factory || Radcliffe Institute</a></p><p class="youtube-embed-meta">Channel: Harvard University &middot; Views: 52.2K &middot; Uploaded: May 2015 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9CRBvIAsQ">Open on YouTube</a></p></div></div></div>
+* Brief movement seen in poor light.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9CRBvIAsQ" title="Elizabeth Loftus | The Memory Factory || Radcliffe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer">Elizabeth Loftus | The Memory Factory || Radcliffe Institute</a></p><p class="youtube-embed-meta">Channel: Harvard University &middot; Views: 52.2K &middot; Uploaded: May 2015 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9CRBvIAsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9CRBvIAsQ">Open on YouTube</a></p></div></div></div>
 
 ## Suggestion, Retelling and Contaminated Recall
 
@@ -314,13 +312,9 @@ After a cryptid encounter, potential sources of contamination include:<div class
 A witness who originally remembered only a dark shape may later encounter descriptions of glowing eyes, a distinctive smell or a particular style of movement. These details can become integrated into the remembered event, especially if they fit the witness's developing interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_eyewitness_sightings_76b10a_memory_contamination_3f618a-Illustration-2-dark.svg" | relative_url }}" alt="Memory Drift illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_eyewitness_sightings_76b10a_memory_contamination_3f618a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_eyewitness_sightings_76b10a_memory_contamination_3f618a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Memory Conformity Between Witnesses
 
-A particularly important mechanism is memory conformity, sometimes called co-witness contamination. When people discuss an event together, they frequently exchange details. Later, they may remember information supplied by another person as though they observed it themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The present study investigated the...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
-### Folklore as a Source of Memory Contamination
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
+### Folklore as a Source of Memory Contamination<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
 
 ## Why Consistent Testimony Is Not Always Stronger Evidence
 

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /giant-muntjac/
   short_title: Giant muntjac
   heading_title: Rare is not the same as magically hidden
-date:'2026-07-01 23:39:57'
+date: '2026-07-01 23:39:57'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468-Illustration-1.webp
@@ -282,8 +282,6 @@ image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_k
 
 Attenborough’s long-beaked echidna is one of the clearest modern examples of how a “lost species” can move from rumour-like status back into documented zoology. For more than sixty years, the species was known scientifically from a single specimen collected in 1961 in Indonesia’s Cyclops Mountains. Yet local communities continued to report its presence long after outside science had lost direct evidence. When researchers finally obtained camera-trap photographs and videos in 2023, the rediscovery did not emerge from technology alone. It depended on Indigenous and [local knowledge]({{'local-knowledge/' | relative_url }}) that guided where, when and how researchers searched. In the context of [cryptozoology]({{'cryptozoology/' | relative_url }}), the case is significant because it shows how local observations can preserve accurate information about a rare animal while also demonstrating that claims ultimately require verifiable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44185-025-00086-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Attenborough&#x27;s echidna rediscovered by combining...by G Morib · 2025 · Cited by 3 — In 2022 and 2023, we deployed camera-traps in...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468-Illustration-1-dark.svg" | relative_url }}" alt="Echidna search illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Cyclops Mountains mattered
-
-The Cyclops Mountains are a rugged, isolated range on the north coast of Papua, Indonesia. Their steep slopes, dense forest and difficult access have long made biological surveys challenging. Attenborough’s long-beaked echidna appears to have an exceptionally restricted range, with the Cyclops representing the only place where living individuals have been documented in modern times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ox.ac.uk/news/2023-11-10-found-last-bizarre-egg-laying-mammal-finally-rediscovered-after-60-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-snippet">ford Universitybizarre, egg-laying mammal finally rediscovered after 60...10 Nov 2023 — One of the world&#x27;s most unusual mammals finall...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GE8mkdJaxQs" title="#TheMoment a rare egg-laying mammal was rediscovered in Indonesia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GE8mkdJaxQs" target="_blank" rel="noopener noreferrer">#TheMoment a rare egg-laying mammal was rediscovered in Indonesia</a></p><p class="youtube-embed-meta">Channel: CBC News: The National</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GE8mkdJaxQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GE8mkdJaxQs">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +309,7 @@ The recordings changed several things at once:<div class="content-enhancement co
 
 * They confirmed that the species had survived more than six decades without scientific documentation.
 * They transformed local reports from plausible but unverified claims into evidence-supported observations.
-* They demonstrated that targeted camera-trapping informed by local expertise could succeed where broader surveys had failed.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUZiGFncA8I" title="Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer">Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea</a></p><p class="youtube-embed-meta">Channel: Royal Geographical Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUZiGFncA8I">Open on YouTube</a></p></div></div></div>
+* They demonstrated that targeted camera-trapping informed by local expertise could succeed where broader surveys had failed.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUZiGFncA8I" title="Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer">Rediscovering Attenborough&#x27;s long-beaked echidna: Expedition Cyclops to Indonesia and New Guinea</a></p><p class="youtube-embed-meta">Channel: Royal Geographical Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUZiGFncA8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUZiGFncA8I">Open on YouTube</a></p></div></div></div>
 
 ## What the echidna case means for cryptozoology
 

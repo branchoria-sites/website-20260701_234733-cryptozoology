@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 22:28:37'
+date: '2026-07-01 22:28:37'
 parent_title: How to Document a Cryptid Claim Responsibly
 parent_permalink: /field-basics/
 parent_nav_short_title: Field Basics
@@ -293,9 +293,7 @@ Several features are more informative than a witness simply reporting “a large
 * **Shoulder movement:** Cats often display a rolling shoulder motion when walking. Dogs generally appear more rigid through the back.
 * **Head position:** Felines tend to move with the head lower than many dogs.
 * **Gait pattern:** Cats usually place their hind feet close to where the front feet landed, creating a smooth, deliberate stride.
-* **Behaviour:** A cat crossing a field purposefully differs from a dog stopping frequently to investigate scents.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sg__hwo947o" title="British Big Cats: Fact or Fiction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer">British Big Cats: Fact or Fiction?</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sg__hwo947o">Open on YouTube</a></p></div></div></div>
+* **Behaviour:** A cat crossing a field purposefully differs from a dog stopping frequently to investigate scents.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sg__hwo947o" title="British Big Cats: Fact or Fiction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer">British Big Cats: Fact or Fiction?</a></p><p class="youtube-embed-meta">Channel: Dr. Polaris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sg__hwo947o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sg__hwo947o">Open on YouTube</a></p></div></div></div>
 
 ## Why dogs are the most common alternative
 
