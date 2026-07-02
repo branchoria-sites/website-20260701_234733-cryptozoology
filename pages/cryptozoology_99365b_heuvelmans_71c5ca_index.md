@@ -16,11 +16,11 @@ parent_permalink: /heuvelmans/
 
 # Explore Topics in Heuvelmans
 
-The following pages expand on the main **[Heuvelmans]({{'/heuvelmans/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Heuvelmans]({{ '/heuvelmans/' | relative_url }})** page and cover its key branches in.
 
-- [Hidden Animals]({{'/hidden-animals/' | relative_url }})
-- [The Society]({{'/the-society/' | relative_url }})
-- [Local Testimony]({{'/local-testimony/' | relative_url }})
-- [Okapi Analogy]({{'/okapi-analogy/' | relative_url }})
-- [Founding Book]({{'/founding-book/' | relative_url }})
-- [Sanderson]({{'/sanderson-27bf28/' | relative_url }})
+- [Hidden Animals]({{ '/hidden-animals/' | relative_url }})
+- [The Society]({{ '/the-society/' | relative_url }})
+- [Local Testimony]({{ '/local-testimony/' | relative_url }})
+- [Okapi Analogy]({{ '/okapi-analogy/' | relative_url }})
+- [Founding Book]({{ '/founding-book/' | relative_url }})
+- [Sanderson]({{ '/sanderson-27bf28/' | relative_url }})

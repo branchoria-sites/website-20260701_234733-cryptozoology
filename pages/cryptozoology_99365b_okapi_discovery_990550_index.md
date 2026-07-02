@@ -16,11 +16,11 @@ parent_permalink: /okapi/
 
 # Explore Topics in Okapi
 
-The following pages expand on the main **[Okapi]({{'/okapi/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Okapi]({{ '/okapi/' | relative_url }})** page and cover its key branches in.
 
-- [Zebra Mistake]({{'/zebra-mistake/' | relative_url }})
-- [Former Cryptid]({{'/former-cryptid/' | relative_url }})
-- [Forest Plausibility]({{'/forest-plausibility/' | relative_url }})
-- [Specimens]({{'/specimens/' | relative_url }})
-- [Local Knowledge]({{'/local-knowledge/' | relative_url }})
-- [Giraffid Link]({{'/giraffid-link/' | relative_url }})
+- [Zebra Mistake]({{ '/zebra-mistake/' | relative_url }})
+- [Former Cryptid]({{ '/former-cryptid/' | relative_url }})
+- [Forest Plausibility]({{ '/forest-plausibility/' | relative_url }})
+- [Specimens]({{ '/specimens/' | relative_url }})
+- [Local Knowledge]({{ '/local-knowledge/' | relative_url }})
+- [Giraffid Link]({{ '/giraffid-link/' | relative_url }})

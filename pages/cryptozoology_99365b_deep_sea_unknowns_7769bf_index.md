@@ -16,11 +16,11 @@ parent_permalink: /deep-sea/
 
 # Explore Topics in Deep Sea
 
-The following pages expand on the main **[Deep Sea]({{'/deep-sea/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Deep Sea]({{ '/deep-sea/' | relative_url }})** page and cover its key branches in.
 
-- [Coelacanth]({{'/coelacanth-59193f/' | relative_url }})
-- [Colossal Squid]({{'/colossal-squid/' | relative_url }})
-- [Giant Squid]({{'/giant-squid/' | relative_url }})
-- [Midwater]({{'/midwater/' | relative_url }})
-- [Ocean Census]({{'/ocean-census/' | relative_url }})
-- [Mapping Gaps]({{'/mapping-gaps/' | relative_url }})
+- [Coelacanth]({{ '/coelacanth-59193f/' | relative_url }})
+- [Colossal Squid]({{ '/colossal-squid/' | relative_url }})
+- [Giant Squid]({{ '/giant-squid/' | relative_url }})
+- [Midwater]({{ '/midwater/' | relative_url }})
+- [Ocean Census]({{ '/ocean-census/' | relative_url }})
+- [Mapping Gaps]({{ '/mapping-gaps/' | relative_url }})

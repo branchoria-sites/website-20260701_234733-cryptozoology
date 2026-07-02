@@ -16,11 +16,11 @@ parent_permalink: /samples/
 
 # Explore Topics in Samples
 
-The following pages expand on the main **[Samples]({{'/samples/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Samples]({{ '/samples/' | relative_url }})** page and cover its key branches in.
 
-- [Bigfoot Hair]({{'/bigfoot-hair/' | relative_url }})
-- [Custody Gaps]({{'/custody-gaps/' | relative_url }})
-- [Retesting]({{'/retesting/' | relative_url }})
-- [Contamination]({{'/contamination/' | relative_url }})
-- [Oxford Study]({{'/oxford-study/' | relative_url }})
-- [Yeti Relics]({{'/yeti-relics/' | relative_url }})
+- [Bigfoot Hair]({{ '/bigfoot-hair/' | relative_url }})
+- [Custody Gaps]({{ '/custody-gaps/' | relative_url }})
+- [Retesting]({{ '/retesting/' | relative_url }})
+- [Contamination]({{ '/contamination/' | relative_url }})
+- [Oxford Study]({{ '/oxford-study/' | relative_url }})
+- [Yeti Relics]({{ '/yeti-relics/' | relative_url }})

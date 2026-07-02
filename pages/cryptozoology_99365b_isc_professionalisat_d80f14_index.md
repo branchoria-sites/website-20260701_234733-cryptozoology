@@ -16,11 +16,11 @@ parent_permalink: /isc-professionalisat/
 
 # Explore Topics in Isc Professionalisat
 
-The following pages expand on the main **[Isc Professionalisat]({{'/isc-professionalisat/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Isc Professionalisat]({{ '/isc-professionalisat/' | relative_url }})** page and cover its key branches in.
 
-- [Boundary Line]({{'/boundary-line/' | relative_url }})
-- [Proof Gap]({{'/proof-gap/' | relative_url }})
-- [Collapse]({{'/collapse/' | relative_url }})
-- [ISC Journal]({{'/isc-journal/' | relative_url }})
-- [Okapi Emblem]({{'/okapi-emblem/' | relative_url }})
-- [Founding]({{'/founding/' | relative_url }})
+- [Boundary Line]({{ '/boundary-line/' | relative_url }})
+- [Proof Gap]({{ '/proof-gap/' | relative_url }})
+- [Collapse]({{ '/collapse/' | relative_url }})
+- [ISC Journal]({{ '/isc-journal/' | relative_url }})
+- [Okapi Emblem]({{ '/okapi-emblem/' | relative_url }})
+- [Founding]({{ '/founding/' | relative_url }})

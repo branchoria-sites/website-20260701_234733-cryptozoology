@@ -16,11 +16,11 @@ parent_permalink: /misidentification/
 
 # Explore Topics in Misidentification
 
-The following pages expand on the main **[Misidentification]({{'/misidentification/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Misidentification]({{ '/misidentification/' | relative_url }})** page and cover its key branches in.
 
-- [Rotting Sharks]({{'/rotting-sharks/' | relative_url }})
-- [Bear Patterns]({{'/bear-patterns/' | relative_url }})
-- [Wakes]({{'/wakes/' | relative_url }})
-- [Mange Coyotes]({{'/mange-coyotes/' | relative_url }})
-- [Oarfish]({{'/oarfish-29466e/' | relative_url }})
-- [Sturgeon]({{'/sturgeon/' | relative_url }})
+- [Rotting Sharks]({{ '/rotting-sharks/' | relative_url }})
+- [Bear Patterns]({{ '/bear-patterns/' | relative_url }})
+- [Wakes]({{ '/wakes/' | relative_url }})
+- [Mange Coyotes]({{ '/mange-coyotes/' | relative_url }})
+- [Oarfish]({{ '/oarfish-29466e/' | relative_url }})
+- [Sturgeon]({{ '/sturgeon/' | relative_url }})

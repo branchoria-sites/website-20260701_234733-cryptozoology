@@ -16,11 +16,11 @@ parent_permalink: /loch-ness/
 
 # Explore Topics in Loch Ness
 
-The following pages expand on the main **[Loch Ness]({{'/loch-ness/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Loch Ness]({{ '/loch-ness/' | relative_url }})** page and cover its key branches in.
 
-- [Giant Eels]({{'/giant-eels/' | relative_url }})
-- [DNA Survey]({{'/dna-survey/' | relative_url }})
-- [Loch Ecology]({{'/loch-ecology/' | relative_url }})
-- [Eel Odds]({{'/eel-odds/' | relative_url }})
-- [Plesiosaur Claim]({{'/plesiosaur-claim/' | relative_url }})
-- [Sonar Contacts]({{'/sonar-contacts/' | relative_url }})
+- [Giant Eels]({{ '/giant-eels/' | relative_url }})
+- [DNA Survey]({{ '/dna-survey/' | relative_url }})
+- [Loch Ecology]({{ '/loch-ecology/' | relative_url }})
+- [Eel Odds]({{ '/eel-odds/' | relative_url }})
+- [Plesiosaur Claim]({{ '/plesiosaur-claim/' | relative_url }})
+- [Sonar Contacts]({{ '/sonar-contacts/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /field-basics/
 
 # Explore Topics in Field Basics
 
-The following pages expand on the main **[Field Basics]({{'/field-basics/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Field Basics]({{ '/field-basics/' | relative_url }})** page and cover its key branches in.
 
-- [Reports Of A “black Panther”]({{'/reports-of-a-black-panther/' | relative_url }})
-- [Location]({{'/location/' | relative_url }})
-- [Original Files]({{'/original-files/' | relative_url }})
-- [Track Photos]({{'/track-photos/' | relative_url }})
-- [Conditions]({{'/conditions/' | relative_url }})
-- [Witnesses]({{'/witnesses/' | relative_url }})
+- [Reports Of A “black Panther”]({{ '/reports-of-a-black-panther/' | relative_url }})
+- [Location]({{ '/location/' | relative_url }})
+- [Original Files]({{ '/original-files/' | relative_url }})
+- [Track Photos]({{ '/track-photos/' | relative_url }})
+- [Conditions]({{ '/conditions/' | relative_url }})
+- [Witnesses]({{ '/witnesses/' | relative_url }})

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-02T16:02:48",
+  "generated_at": "2026-07-02T20:38:06",
   "passed": true,
   "baseline": {
     "article_pages": 242,
-    "amazon_specific_pages": 210,
+    "amazon_specific_pages": 136,
     "amazon_fallback_pages": 1,
     "ebay_specific_pages": 210,
     "ebay_fallback_pages": 0,
     "pages": {
       "cryptozoology_99365b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -21,7 +21,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_basking_shark_carcas_db11fd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -45,19 +45,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_mange_coyotes_chupac_d60c23": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_oarfish_sea_serpents_84f9cd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -75,13 +75,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_footprint_ca_1bf447": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_population_t_f485f3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -135,7 +135,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_breeding_populations_14f2d4_loch_ness_food_suppl_e0b341": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -153,7 +153,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_breeding_populations_14f2d4_one_bigfoot_sighting_3edfe8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -183,7 +183,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_coelacanth_lesson_51d02e_cryptid_evidence_sta_1fbf75": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -201,7 +201,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_coelacanth_lesson_51d02e_living_fossil_miscon_5d1b6c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -237,19 +237,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_jersey_devil_pine_ba_872ccd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -285,13 +285,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_hoaxes_15bf4d_patterson_gimlin_deb_dbf361": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_hoaxes_15bf4d_wallace_bigfoot_trac_2d635e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -315,13 +315,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -345,7 +345,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -357,19 +357,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_flatwoods_museum_ide_4601d8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -411,7 +411,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_photos_f13bdf_cropping_scale_illus_448176": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -429,7 +429,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -453,7 +453,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_bigfoot_hair_known_a_a9cdfa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -477,7 +477,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -489,7 +489,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_yeti_relic_bear_dna_7489ab": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -501,7 +501,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tourism_9bd103_champ_lake_champlain_6a310c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -531,7 +531,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tourism_9bd103_mothman_festival_civ_51c214": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -549,13 +549,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_bear_barefoot_illusi_7c6aad": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_bigfoot_cast_detail_32323f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -573,7 +573,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_single_print_vs_trac_b40c1f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -603,7 +603,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_deep_sea_unknowns_7769bf_colossal_squid_live_6e0865": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -663,7 +663,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_edna_lake_monsters_c31a50_lake_sampling_design_637141": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -675,7 +675,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_edna_lake_monsters_c31a50_negative_edna_result_fc315a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -705,7 +705,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_eyewitness_sightings_76b10a_distance_darkness_mi_0a15ea": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -717,7 +717,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_eyewitness_sightings_76b10a_lake_monster_scale_m_967a5b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -807,7 +807,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_heuvelmans_71c5ca_local_testimony_unkn_011cb7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -843,7 +843,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -903,7 +903,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_isc_professionalisat_d80f14_indirect_evidence_pr_f9dbe7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -915,7 +915,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_isc_professionalisat_d80f14_isc_journal_failed_d_036043": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -939,13 +939,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_argosy_magazine_mons_1d24bd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_flatwoods_anomaly_tu_67ad72": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -957,13 +957,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_snowmen_global_patte_a14ba4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -975,7 +975,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_zoological_language_4a2264": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -987,13 +987,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_cahow_recovery_ce257f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_coelacanth_myth_fdf452": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1017,7 +1017,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_stick_insect_dna_9a7778": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1047,13 +1047,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_ecology_li_5e0774": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1065,13 +1065,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_nessie_plesiosaur_bi_9488af": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_operation_deepscan_s_b3968e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1083,7 +1083,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_monster_legend_meani_56343e_bigfoot_footprint_di_c9a669": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1167,7 +1167,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1185,7 +1185,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_coelacanth_monster_l_03488f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1197,13 +1197,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_living_fossil_langua_d8f352": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_mokele_mbembe_saurop_cb331d": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1227,7 +1227,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_cryptid_population_e_26fc7f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1239,13 +1239,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_dna_not_enough_speci_62c842": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_holotype_naming_rule_b6fd6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1257,13 +1257,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_occurrence_records_s_46c067": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_olinguito_species_pr_17ef9b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1275,25 +1275,25 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_bigfoot_report_datab_439d80": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_blurry_bigfoot_photo_af3845": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_coelacanth_argument_3e7e20": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1341,7 +1341,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_sea_serpent_sighting_7dd069_hms_daedalus_sightin_7f2b8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1353,7 +1353,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1371,13 +1371,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_deep_sea_discoveries_799ec7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1395,7 +1395,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_tiny_species_not_mon_db6932": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1407,7 +1407,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_undersampled_habitat_ef60b0": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1449,7 +1449,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_yeti_bear_dna_3a5a98_sykes_hair_samples_6c73aa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1464,13 +1464,13 @@
   },
   "current": {
     "article_pages": 242,
-    "amazon_specific_pages": 210,
+    "amazon_specific_pages": 136,
     "amazon_fallback_pages": 1,
     "ebay_specific_pages": 210,
     "ebay_fallback_pages": 0,
     "pages": {
       "cryptozoology_99365b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1482,7 +1482,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_basking_shark_carcas_db11fd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1506,19 +1506,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_mange_coyotes_chupac_d60c23": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_oarfish_sea_serpents_84f9cd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1536,13 +1536,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_footprint_ca_1bf447": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_population_t_f485f3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1596,7 +1596,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_breeding_populations_14f2d4_loch_ness_food_suppl_e0b341": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1614,7 +1614,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_breeding_populations_14f2d4_one_bigfoot_sighting_3edfe8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1644,7 +1644,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_coelacanth_lesson_51d02e_cryptid_evidence_sta_1fbf75": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1662,7 +1662,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_coelacanth_lesson_51d02e_living_fossil_miscon_5d1b6c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1698,19 +1698,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_jersey_devil_pine_ba_872ccd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1746,13 +1746,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_hoaxes_15bf4d_patterson_gimlin_deb_dbf361": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_hoaxes_15bf4d_wallace_bigfoot_trac_2d635e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1776,13 +1776,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_expedition_bigfoot_a_3dae43": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_finding_bigfoot_town_62a9ca": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1806,7 +1806,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_media_7385ef_trail_camera_bigfoot_a76676": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1818,19 +1818,19 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_museums_71b4f6_flatwoods_museum_ide_4601d8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1872,7 +1872,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_photos_f13bdf_cropping_scale_illus_448176": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1890,7 +1890,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_photos_f13bdf_nessie_flipper_enhan_675491": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1914,7 +1914,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_bigfoot_hair_known_a_a9cdfa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1938,7 +1938,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1950,7 +1950,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_samples_280506_yeti_relic_bear_dna_7489ab": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1962,7 +1962,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tourism_9bd103_champ_lake_champlain_6a310c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1992,7 +1992,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tourism_9bd103_mothman_festival_civ_51c214": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2010,13 +2010,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_bear_barefoot_illusi_7c6aad": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_bigfoot_cast_detail_32323f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2034,7 +2034,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_cryptid_tracks_4e254c_single_print_vs_trac_b40c1f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2064,7 +2064,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_deep_sea_unknowns_7769bf_colossal_squid_live_6e0865": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2124,7 +2124,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_edna_lake_monsters_c31a50_lake_sampling_design_637141": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2136,7 +2136,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_edna_lake_monsters_c31a50_negative_edna_result_fc315a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2166,7 +2166,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_eyewitness_sightings_76b10a_distance_darkness_mi_0a15ea": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2178,7 +2178,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_eyewitness_sightings_76b10a_lake_monster_scale_m_967a5b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2268,7 +2268,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_heuvelmans_71c5ca_local_testimony_unkn_011cb7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2304,7 +2304,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2364,7 +2364,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_isc_professionalisat_d80f14_indirect_evidence_pr_f9dbe7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2376,7 +2376,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_isc_professionalisat_d80f14_isc_journal_failed_d_036043": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2400,13 +2400,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_argosy_magazine_mons_1d24bd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_flatwoods_anomaly_tu_67ad72": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2418,13 +2418,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_snowmen_global_patte_a14ba4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2436,7 +2436,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_ivan_sanderson_17ff64_zoological_language_4a2264": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2448,13 +2448,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_cahow_recovery_ce257f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_coelacanth_myth_fdf452": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2478,7 +2478,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_lazarus_taxa_e4a778_stick_insect_dna_9a7778": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2508,13 +2508,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_ecology_li_5e0774": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2526,13 +2526,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_nessie_plesiosaur_bi_9488af": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_operation_deepscan_s_b3968e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2544,7 +2544,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_monster_legend_meani_56343e_bigfoot_footprint_di_c9a669": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2628,7 +2628,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2646,7 +2646,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_coelacanth_monster_l_03488f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2658,13 +2658,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_living_fossil_langua_d8f352": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_prehistoric_cryptids_55e4ac_mokele_mbembe_saurop_cb331d": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2688,7 +2688,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_cryptid_population_e_26fc7f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2700,13 +2700,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_dna_not_enough_speci_62c842": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_holotype_naming_rule_b6fd6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2718,13 +2718,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_occurrence_records_s_46c067": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_proof_standards_bd0f6d_olinguito_species_pr_17ef9b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2736,25 +2736,25 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_bigfoot_report_datab_439d80": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_blurry_bigfoot_photo_af3845": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_coelacanth_argument_3e7e20": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2802,7 +2802,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_sea_serpent_sighting_7dd069_hms_daedalus_sightin_7f2b8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2814,7 +2814,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2832,13 +2832,13 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_cryptic_species_conf_9f694a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_deep_sea_discoveries_799ec7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2856,7 +2856,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_tiny_species_not_mon_db6932": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2868,7 +2868,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_undiscovered_species_607d5a_undersampled_habitat_ef60b0": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2910,7 +2910,7 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_yeti_bear_dna_3a5a98_sykes_hair_samples_6c73aa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false

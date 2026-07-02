@@ -16,11 +16,11 @@ parent_permalink: /coelacanth/
 
 # Explore Topics in Coelacanth
 
-The following pages expand on the main **[Coelacanth]({{'/coelacanth/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Coelacanth]({{ '/coelacanth/' | relative_url }})** page and cover its key branches in.
 
-- [1938 Specimen]({{'/1938-specimen/' | relative_url }})
-- [Second Fish]({{'/second-fish/' | relative_url }})
-- [Latimer s Role]({{'/latimer-s-role/' | relative_url }})
-- [Evidence Test]({{'/evidence-test/' | relative_url }})
-- [Deep Habitat]({{'/deep-habitat/' | relative_url }})
-- [Living Fossil]({{'/living-fossil/' | relative_url }})
+- [1938 Specimen]({{ '/1938-specimen/' | relative_url }})
+- [Second Fish]({{ '/second-fish/' | relative_url }})
+- [Latimer s Role]({{ '/latimer-s-role/' | relative_url }})
+- [Evidence Test]({{ '/evidence-test/' | relative_url }})
+- [Deep Habitat]({{ '/deep-habitat/' | relative_url }})
+- [Living Fossil]({{ '/living-fossil/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /populations/
 
 # Explore Topics in Populations
 
-The following pages expand on the main **[Populations]({{'/populations/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Populations]({{ '/populations/' | relative_url }})** page and cover its key branches in.
 
-- [Elusive Traces]({{'/elusive-traces/' | relative_url }})
-- [Hard Evidence]({{'/hard-evidence/' | relative_url }})
-- [Ness Food]({{'/ness-food/' | relative_url }})
-- [Viable Numbers]({{'/viable-numbers/' | relative_url }})
-- [No Body]({{'/no-body/' | relative_url }})
-- [One Sighting]({{'/one-sighting/' | relative_url }})
+- [Elusive Traces]({{ '/elusive-traces/' | relative_url }})
+- [Hard Evidence]({{ '/hard-evidence/' | relative_url }})
+- [Ness Food]({{ '/ness-food/' | relative_url }})
+- [Viable Numbers]({{ '/viable-numbers/' | relative_url }})
+- [No Body]({{ '/no-body/' | relative_url }})
+- [One Sighting]({{ '/one-sighting/' | relative_url }})

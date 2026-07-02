@@ -16,11 +16,11 @@ parent_permalink: /hidden-mammals/
 
 # Explore Topics in Hidden Mammals
 
-The following pages expand on the main **[Hidden Mammals]({{'/hidden-mammals/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Hidden Mammals]({{ '/hidden-mammals/' | relative_url }})** page and cover its key branches in.
 
-- [Camera traps]({{'/camera-traps-526bea/' | relative_url }})
-- [Chevrotain]({{'/chevrotain/' | relative_url }})
-- [Echidna search]({{'/echidna-search/' | relative_url }})
-- [Habitat limits]({{'/habitat-limits/' | relative_url }})
-- [Giant muntjac]({{'/giant-muntjac/' | relative_url }})
-- [The Saola]({{'/the-saola/' | relative_url }})
+- [Camera traps]({{ '/camera-traps-526bea/' | relative_url }})
+- [Chevrotain]({{ '/chevrotain/' | relative_url }})
+- [Echidna search]({{ '/echidna-search/' | relative_url }})
+- [Habitat limits]({{ '/habitat-limits/' | relative_url }})
+- [Giant muntjac]({{ '/giant-muntjac/' | relative_url }})
+- [The Saola]({{ '/the-saola/' | relative_url }})

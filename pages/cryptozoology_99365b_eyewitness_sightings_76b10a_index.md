@@ -16,11 +16,11 @@ parent_permalink: /sightings/
 
 # Explore Topics in Sightings
 
-The following pages expand on the main **[Sightings]({{'/sightings/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Sightings]({{ '/sightings/' | relative_url }})** page and cover its key branches in.
 
-- [Bear Problem]({{'/bear-problem/' | relative_url }})
-- [Confidence Gap]({{'/confidence-gap/' | relative_url }})
-- [Dark Sightings]({{'/dark-sightings/' | relative_url }})
-- [Water Illusions]({{'/water-illusions/' | relative_url }})
-- [Memory Drift]({{'/memory-drift/' | relative_url }})
-- [Stress Errors]({{'/stress-errors/' | relative_url }})
+- [Bear Problem]({{ '/bear-problem/' | relative_url }})
+- [Confidence Gap]({{ '/confidence-gap/' | relative_url }})
+- [Dark Sightings]({{ '/dark-sightings/' | relative_url }})
+- [Water Illusions]({{ '/water-illusions/' | relative_url }})
+- [Memory Drift]({{ '/memory-drift/' | relative_url }})
+- [Stress Errors]({{ '/stress-errors/' | relative_url }})

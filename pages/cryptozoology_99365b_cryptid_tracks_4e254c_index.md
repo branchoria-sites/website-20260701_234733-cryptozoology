@@ -16,11 +16,11 @@ parent_permalink: /tracks/
 
 # Explore Topics in Tracks
 
-The following pages expand on the main **[Tracks]({{'/tracks/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Tracks]({{ '/tracks/' | relative_url }})** page and cover its key branches in.
 
-- [Bear Prints]({{'/bear-prints/' | relative_url }})
-- [Cast Details]({{'/cast-details/' | relative_url }})
-- [Documentation]({{'/documentation/' | relative_url }})
-- [Trackways]({{'/trackways/' | relative_url }})
-- [Snowmelt]({{'/snowmelt/' | relative_url }})
-- [Chain Custody]({{'/chain-custody/' | relative_url }})
+- [Bear Prints]({{ '/bear-prints/' | relative_url }})
+- [Cast Details]({{ '/cast-details/' | relative_url }})
+- [Documentation]({{ '/documentation/' | relative_url }})
+- [Trackways]({{ '/trackways/' | relative_url }})
+- [Snowmelt]({{ '/snowmelt/' | relative_url }})
+- [Chain Custody]({{ '/chain-custody/' | relative_url }})

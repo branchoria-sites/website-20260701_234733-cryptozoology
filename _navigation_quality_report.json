@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T15:02:45.872945Z",
+  "generated_at_utc": "2026-07-02T19:38:03.281431Z",
   "summary": {
     "total_pages_with_permalink": 242,
     "visible_pages": 211,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 1519,
+    "inline_internal_edge_count": 1260,
     "inline_internal_target_page_count": 211,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 211,
-    "average_inline_inbound_links_per_visible_page": 7.2,
+    "visible_pages_with_inline_outbound_links": 208,
+    "average_inline_inbound_links_per_visible_page": 5.97,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -30,241 +30,241 @@
         "basename": "cryptozoology_99365b",
         "title": "Cryptids, Evidence, and the Animals We Imagine",
         "permalink": "/cryptozoology/",
-        "inline_inbound_count": 165
+        "inline_inbound_count": 140
       },
       {
         "basename": "cryptozoology_99365b_field_investigation_7e6e81_weather_light_mistak_190150",
-        "title": "Conditions",
+        "title": "When weather makes animals look strange",
         "permalink": "/conditions/",
-        "inline_inbound_count": 75
-      },
-      {
-        "basename": "cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec",
-        "title": "Specimens",
-        "permalink": "/specimens/",
-        "inline_inbound_count": 75
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9",
-        "title": "Folklore",
-        "permalink": "/folklore/",
-        "inline_inbound_count": 73
-      },
-      {
-        "basename": "cryptozoology_99365b_proof_standards_bd0f6d",
-        "title": "Proof",
-        "permalink": "/proof/",
         "inline_inbound_count": 60
       },
       {
-        "basename": "cryptozoology_99365b_breeding_populations_14f2d4",
-        "title": "Populations",
-        "permalink": "/populations/",
-        "inline_inbound_count": 57
+        "basename": "cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec",
+        "title": "Why Okapi Reports Needed Skins and Skulls",
+        "permalink": "/specimens/",
+        "inline_inbound_count": 54
       },
       {
-        "basename": "cryptozoology_99365b_cryptid_tracks_4e254c",
-        "title": "Tracks",
-        "permalink": "/tracks/",
-        "inline_inbound_count": 53
-      },
-      {
-        "basename": "cryptozoology_99365b_field_investigation_7e6e81_witness_first_accoun_472c3e",
-        "title": "Witnesses",
-        "permalink": "/witnesses/",
+        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9",
+        "title": "Why Cryptid Stories Matter Without Proof",
+        "permalink": "/folklore/",
         "inline_inbound_count": 52
       },
       {
-        "basename": "cryptozoology_99365b_cryptid_samples_280506",
-        "title": "Samples",
-        "permalink": "/samples/",
+        "basename": "cryptozoology_99365b_breeding_populations_14f2d4",
+        "title": "Why One Monster Would Never Be Enough",
+        "permalink": "/populations/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "cryptozoology_99365b_proof_standards_bd0f6d",
+        "title": "What Would Prove a Cryptid Is Real?",
+        "permalink": "/proof/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tracks_4e254c",
+        "title": "Can Cryptid Footprints Be Trusted?",
+        "permalink": "/tracks/",
         "inline_inbound_count": 46
       },
       {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81_witness_first_accoun_472c3e",
+        "title": "Why witnesses should write before talking",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 44
+      },
+      {
         "basename": "cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_footprint_ca_1bf447",
-        "title": "Footprints",
+        "title": "Can Bigfoot Footprints Prove Anything?",
         "permalink": "/footprints/",
-        "inline_inbound_count": 41
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_media_7385ef",
-        "title": "Media",
-        "permalink": "/media/",
-        "inline_inbound_count": 41
-      },
-      {
-        "basename": "cryptozoology_99365b_undiscovered_species_607d5a",
-        "title": "New Species",
-        "permalink": "/new-species/",
         "inline_inbound_count": 37
       },
       {
-        "basename": "cryptozoology_99365b_field_investigation_7e6e81_gps_location_checks_07c103",
-        "title": "Location",
-        "permalink": "/location/",
+        "basename": "cryptozoology_99365b_cryptid_samples_280506",
+        "title": "When Cryptid Samples Count as Evidence",
+        "permalink": "/samples/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "cryptozoology_99365b_undiscovered_species_607d5a",
+        "title": "Why New Species Are Not All Cryptids",
+        "permalink": "/new-species/",
         "inline_inbound_count": 32
       },
       {
         "basename": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_breeding_population_e5ae69",
-        "title": "Missing traces",
+        "title": "Why One Hidden Survivor Is Not Enough",
         "permalink": "/missing-traces-2ce98c/",
-        "inline_inbound_count": 32
+        "inline_inbound_count": 31
       },
       {
-        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55",
-        "title": "Misidentification",
-        "permalink": "/misidentification/",
+        "basename": "cryptozoology_99365b_cryptid_media_7385ef",
+        "title": "How Media Keeps Cryptids Alive",
+        "permalink": "/media/",
         "inline_inbound_count": 29
       },
       {
-        "basename": "cryptozoology_99365b_monster_legend_meani_56343e",
-        "title": "Meaning",
-        "permalink": "/meaning/",
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81_gps_location_checks_07c103",
+        "title": "Can the sighting site be checked?",
+        "permalink": "/location/",
         "inline_inbound_count": 26
       },
       {
-        "basename": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
-        "title": "Hoaxes",
-        "permalink": "/hoaxes/",
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55",
+        "title": "When Monsters Are Ordinary Animals",
+        "permalink": "/misidentification/",
         "inline_inbound_count": 25
       },
       {
+        "basename": "cryptozoology_99365b_cryptid_hoaxes_15bf4d",
+        "title": "How Cryptid Hoaxes Fool the Public",
+        "permalink": "/hoaxes/",
+        "inline_inbound_count": 20
+      },
+      {
         "basename": "cryptozoology_99365b_cryptid_tracks_4e254c_cryptid_track_docume_bb05b0",
-        "title": "Documentation",
+        "title": "How Mystery Tracks Should Be Recorded",
         "permalink": "/documentation/",
-        "inline_inbound_count": 24
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "cryptozoology_99365b_monster_legend_meani_56343e",
+        "title": "What Monster Legends Say About US",
+        "permalink": "/meaning/",
+        "inline_inbound_count": 20
       },
       {
         "basename": "cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d",
-        "title": "Nessie",
+        "title": "How Nessie Became More Than a Monster",
         "permalink": "/nessie/",
-        "inline_inbound_count": 23
-      },
-      {
-        "basename": "cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec",
-        "title": "Hidden Animals",
-        "permalink": "/hidden-animals/",
-        "inline_inbound_count": 18
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328",
-        "title": "Contamination",
-        "permalink": "/contamination/",
-        "inline_inbound_count": 17
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103",
-        "title": "Tourism",
-        "permalink": "/tourism/",
-        "inline_inbound_count": 17
-      },
-      {
-        "basename": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
-        "title": "Sea Serpents",
-        "permalink": "/sea-serpents/",
         "inline_inbound_count": 16
       },
       {
-        "basename": "cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f",
-        "title": "Collapse",
-        "permalink": "/collapse/",
-        "inline_inbound_count": 15
+        "basename": "cryptozoology_99365b_cryptid_samples_280506_mystery_hair_contami_875328",
+        "title": "How Mystery Hair Gets Contaminated in the Field",
+        "permalink": "/contamination/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103",
+        "title": "How Local Monsters Become Tourist Icons",
+        "permalink": "/tourism/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cryptozoology_99365b_heuvelmans_71c5ca_hidden_animal_method_f3afec",
+        "title": "Can Monster Reports Become Animal Evidence?",
+        "permalink": "/hidden-animals/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cryptozoology_99365b_sea_serpent_sighting_7dd069",
+        "title": "Why Sea Serpent Stories Keep Returning",
+        "permalink": "/sea-serpents/",
+        "inline_inbound_count": 14
       },
       {
         "basename": "cryptozoology_99365b_okapi_discovery_990550_local_congo_okapi_kn_7bf6a4",
-        "title": "Local Knowledge",
+        "title": "Who Knew the Okapi Before Science?",
         "permalink": "/local-knowledge/",
-        "inline_inbound_count": 15
+        "inline_inbound_count": 13
       },
       {
-        "basename": "cryptozoology_99365b_heuvelmans_71c5ca",
-        "title": "Heuvelmans",
-        "permalink": "/heuvelmans/",
-        "inline_inbound_count": 14
+        "basename": "cryptozoology_99365b_isc_professionalisat_d80f14_isc_financial_collap_75db1f",
+        "title": "Why the ISC Could Not Last",
+        "permalink": "/collapse/",
+        "inline_inbound_count": 12
       },
       {
         "basename": "cryptozoology_99365b_okapi_discovery_990550",
-        "title": "Okapi",
+        "title": "Why the Okapi Became Real Science",
         "permalink": "/okapi/",
-        "inline_inbound_count": 14
-      },
-      {
-        "basename": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e",
-        "title": "Silhouettes",
-        "permalink": "/silhouettes/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37",
-        "title": "Mothman",
-        "permalink": "/mothman/",
-        "inline_inbound_count": 10
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_photos_f13bdf_cryptid_image_proven_787ad1",
-        "title": "Provenance",
-        "permalink": "/provenance/",
-        "inline_inbound_count": 10
-      },
-      {
-        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103_cryptid_souvenirs_un_4a6b6e",
-        "title": "Souvenirs",
-        "permalink": "/souvenirs/",
-        "inline_inbound_count": 10
-      },
-      {
-        "basename": "cryptozoology_99365b_field_investigation_7e6e81",
-        "title": "Field Basics",
-        "permalink": "/field-basics/",
-        "inline_inbound_count": 10
-      },
-      {
-        "basename": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8",
-        "title": "DNA Survey",
-        "permalink": "/dna-survey/",
         "inline_inbound_count": 10
       },
       {
         "basename": "cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59",
-        "title": "Brown bears",
+        "title": "Could rare brown bears explain Yeti sightings?",
         "permalink": "/brown-bears/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_loch_ness_wakes_bird_761903",
-        "title": "Wakes",
-        "permalink": "/wakes/",
+        "basename": "cryptozoology_99365b_cryptid_folklore_f406e9_mothman_disaster_mem_73cf37",
+        "title": "Why Mothman Still Haunts Point Pleasant",
+        "permalink": "/mothman/",
         "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_photos_f13bdf_cryptid_image_proven_787ad1",
+        "title": "What a Cryptid Photo Must Prove First",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_heuvelmans_71c5ca",
+        "title": "The Writer Who Named Modern Cryptozoology",
+        "permalink": "/heuvelmans/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e",
+        "title": "How Fossil Shapes Reframe Strange Sightings",
+        "permalink": "/silhouettes/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cryptozoology_99365b_loch_ness_dna_39c301_loch_ness_dna_survey_04c8f8",
+        "title": "What Did Loch Ness DNA Really Rule Out?",
+        "permalink": "/dna-survey/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_loch_ness_wakes_bird_761903",
+        "title": "When Loch Ness Makes Its Own Monsters",
+        "permalink": "/wakes/",
+        "inline_inbound_count": 7
       },
       {
         "basename": "cryptozoology_99365b_bigfoot_evidence_195744",
-        "title": "Bigfoot",
+        "title": "Why Bigfoot Evidence Still Falls Short",
         "permalink": "/bigfoot/",
-        "inline_inbound_count": 9
-      },
-      {
-        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309",
-        "title": "Sturgeon",
-        "permalink": "/sturgeon/",
-        "inline_inbound_count": 8
+        "inline_inbound_count": 7
       },
       {
         "basename": "cryptozoology_99365b_cryptid_hoaxes_15bf4d_patterson_gimlin_deb_dbf361",
-        "title": "Patty Film",
+        "title": "Why the Patterson Gimlin Film Still Divides People",
         "permalink": "/patty-film/",
-        "inline_inbound_count": 8
-      },
-      {
-        "basename": "cryptozoology_99365b_heuvelmans_71c5ca_isc_legitimacy_push_934079",
-        "title": "The Society",
-        "permalink": "/the-society/",
-        "inline_inbound_count": 8
-      },
-      {
-        "basename": "cryptozoology_99365b_coelacanth_lesson_51d02e_courtenay_latimer_ro_19335d",
-        "title": "Latimer s Role",
-        "permalink": "/latimer-s-role/",
         "inline_inbound_count": 7
+      },
+      {
+        "basename": "cryptozoology_99365b_field_investigation_7e6e81",
+        "title": "How to Document a Cryptid Claim Responsibly",
+        "permalink": "/field-basics/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309",
+        "title": "Could a Giant Fish Look Like a Lake Monster?",
+        "permalink": "/sturgeon/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tourism_9bd103_cryptid_souvenirs_un_4a6b6e",
+        "title": "Why Monster Souvenirs Matter",
+        "permalink": "/souvenirs/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5",
+        "title": "Why Official Answers Do Not End Monsters",
+        "permalink": "/distrust/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cryptozoology_99365b_cryptid_tracks_4e254c_single_print_vs_trac_b40c1f",
+        "title": "One Print Is Not a Trackway",
+        "permalink": "/trackways/",
+        "inline_inbound_count": 5
       }
     ],
     "unresolved_inline_internal_targets": [],

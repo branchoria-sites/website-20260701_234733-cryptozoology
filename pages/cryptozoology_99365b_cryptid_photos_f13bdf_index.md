@@ -16,11 +16,11 @@ parent_permalink: /photos/
 
 # Explore Topics in Photos
 
-The following pages expand on the main **[Photos]({{'/photos/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Photos]({{ '/photos/' | relative_url }})** page and cover its key branches in.
 
-- [Camera Traps]({{'/camera-traps/' | relative_url }})
-- [Scale Tricks]({{'/scale-tricks/' | relative_url }})
-- [Provenance]({{'/provenance/' | relative_url }})
-- [Flipper Blur]({{'/flipper-blur/' | relative_url }})
-- [PG Film]({{'/pg-film/' | relative_url }})
-- [Surgeon Photo]({{'/surgeon-photo/' | relative_url }})
+- [Camera Traps]({{ '/camera-traps/' | relative_url }})
+- [Scale Tricks]({{ '/scale-tricks/' | relative_url }})
+- [Provenance]({{ '/provenance/' | relative_url }})
+- [Flipper Blur]({{ '/flipper-blur/' | relative_url }})
+- [PG Film]({{ '/pg-film/' | relative_url }})
+- [Surgeon Photo]({{ '/surgeon-photo/' | relative_url }})

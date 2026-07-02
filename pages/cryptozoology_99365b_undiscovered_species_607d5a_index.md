@@ -16,11 +16,11 @@ parent_permalink: /new-species/
 
 # Explore Topics in New Species
 
-The following pages expand on the main **[New Species]({{'/new-species/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[New Species]({{ '/new-species/' | relative_url }})** page and cover its key branches in.
 
-- [Cryptic Species]({{'/cryptic-species/' | relative_url }})
-- [Deep Sea]({{'/deep-sea-f895ab/' | relative_url }})
-- [Museum Backlog]({{'/museum-backlog/' | relative_url }})
-- [Tiny Species]({{'/tiny-species/' | relative_url }})
-- [Type Specimens]({{'/type-specimens/' | relative_url }})
-- [Hidden Habitats]({{'/hidden-habitats/' | relative_url }})
+- [Cryptic Species]({{ '/cryptic-species/' | relative_url }})
+- [Deep Sea]({{ '/deep-sea-f895ab/' | relative_url }})
+- [Museum Backlog]({{ '/museum-backlog/' | relative_url }})
+- [Tiny Species]({{ '/tiny-species/' | relative_url }})
+- [Type Specimens]({{ '/type-specimens/' | relative_url }})
+- [Hidden Habitats]({{ '/hidden-habitats/' | relative_url }})

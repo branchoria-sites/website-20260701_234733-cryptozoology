@@ -16,11 +16,11 @@ parent_permalink: /proof/
 
 # Explore Topics in Proof
 
-The following pages expand on the main **[Proof]({{'/proof/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Proof]({{ '/proof/' | relative_url }})** page and cover its key branches in.
 
-- [Population Signs]({{'/population-signs/' | relative_url }})
-- [Voucher Specimens]({{'/voucher-specimens/' | relative_url }})
-- [DNA Limits]({{'/dna-limits-8bf7fa/' | relative_url }})
-- [Holotypes]({{'/holotypes/' | relative_url }})
-- [Occurrence Records]({{'/occurrence-records/' | relative_url }})
-- [Olinguito Case]({{'/olinguito-case/' | relative_url }})
+- [Population Signs]({{ '/population-signs/' | relative_url }})
+- [Voucher Specimens]({{ '/voucher-specimens/' | relative_url }})
+- [DNA Limits]({{ '/dna-limits-8bf7fa/' | relative_url }})
+- [Holotypes]({{ '/holotypes/' | relative_url }})
+- [Occurrence Records]({{ '/occurrence-records/' | relative_url }})
+- [Olinguito Case]({{ '/olinguito-case/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /bigfoot/
 
 # Explore Topics in Bigfoot
 
-The following pages expand on the main **[Bigfoot]({{'/bigfoot/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Bigfoot]({{ '/bigfoot/' | relative_url }})** page and cover its key branches in.
 
-- [DNA Tests]({{'/dna-tests/' | relative_url }})
-- [Footprints]({{'/footprints/' | relative_url }})
-- [Missing Traces]({{'/missing-traces/' | relative_url }})
-- [Sightings]({{'/sightings-cffe00/' | relative_url }})
-- [FBI Hair Test]({{'/fbi-hair-test/' | relative_url }})
-- [Patterson Film]({{'/patterson-film/' | relative_url }})
+- [DNA Tests]({{ '/dna-tests/' | relative_url }})
+- [Footprints]({{ '/footprints/' | relative_url }})
+- [Missing Traces]({{ '/missing-traces/' | relative_url }})
+- [Sightings]({{ '/sightings-cffe00/' | relative_url }})
+- [FBI Hair Test]({{ '/fbi-hair-test/' | relative_url }})
+- [Patterson Film]({{ '/patterson-film/' | relative_url }})

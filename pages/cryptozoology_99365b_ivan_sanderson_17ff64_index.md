@@ -16,11 +16,11 @@ parent_permalink: /sanderson/
 
 # Explore Topics in Sanderson
 
-The following pages expand on the main **[Sanderson]({{'/sanderson/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Sanderson]({{ '/sanderson/' | relative_url }})** page and cover its key branches in.
 
-- [Magazine Monsters]({{'/magazine-monsters/' | relative_url }})
-- [Flatwoods Turn]({{'/flatwoods-turn/' | relative_url }})
-- [SITU]({{'/situ/' | relative_url }})
-- [Snowmen Book]({{'/snowmen-book/' | relative_url }})
-- [TV Animals]({{'/tv-animals/' | relative_url }})
-- [Evidence Gap]({{'/evidence-gap/' | relative_url }})
+- [Magazine Monsters]({{ '/magazine-monsters/' | relative_url }})
+- [Flatwoods Turn]({{ '/flatwoods-turn/' | relative_url }})
+- [SITU]({{ '/situ/' | relative_url }})
+- [Snowmen Book]({{ '/snowmen-book/' | relative_url }})
+- [TV Animals]({{ '/tv-animals/' | relative_url }})
+- [Evidence Gap]({{ '/evidence-gap/' | relative_url }})

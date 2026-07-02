@@ -16,11 +16,11 @@ parent_permalink: /media/
 
 # Explore Topics in Media
 
-The following pages expand on the main **[Media]({{'/media/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Media]({{ '/media/' | relative_url }})** page and cover its key branches in.
 
-- [BFRO Reports]({{'/bfro-reports/' | relative_url }})
-- [Data Hunts]({{'/data-hunts/' | relative_url }})
-- [Town Halls]({{'/town-halls/' | relative_url }})
-- [Monster Quest]({{'/monster-quest/' | relative_url }})
-- [TV Cues]({{'/tv-cues/' | relative_url }})
-- [Trail Cams]({{'/trail-cams/' | relative_url }})
+- [BFRO Reports]({{ '/bfro-reports/' | relative_url }})
+- [Data Hunts]({{ '/data-hunts/' | relative_url }})
+- [Town Halls]({{ '/town-halls/' | relative_url }})
+- [Monster Quest]({{ '/monster-quest/' | relative_url }})
+- [TV Cues]({{ '/tv-cues/' | relative_url }})
+- [Trail Cams]({{ '/trail-cams/' | relative_url }})

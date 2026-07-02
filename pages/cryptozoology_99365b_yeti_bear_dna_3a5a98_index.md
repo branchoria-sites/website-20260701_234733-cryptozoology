@@ -16,11 +16,11 @@ parent_permalink: /yeti-dna/
 
 # Explore Topics in Yeti DNA
 
-The following pages expand on the main **[Yeti DNA]({{'/yeti-dna/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Yeti DNA]({{ '/yeti-dna/' | relative_url }})** page and cover its key branches in.
 
-- [Bear encounters]({{'/bear-encounters/' | relative_url }})
-- [Brown bears]({{'/brown-bears/' | relative_url }})
-- [2017 Study]({{'/2017-study/' | relative_url }})
-- [DNA limits]({{'/dna-limits/' | relative_url }})
-- [Sykes hairs]({{'/sykes-hairs/' | relative_url }})
-- [Relics]({{'/relics/' | relative_url }})
+- [Bear encounters]({{ '/bear-encounters/' | relative_url }})
+- [Brown bears]({{ '/brown-bears/' | relative_url }})
+- [2017 Study]({{ '/2017-study/' | relative_url }})
+- [DNA limits]({{ '/dna-limits/' | relative_url }})
+- [Sykes hairs]({{ '/sykes-hairs/' | relative_url }})
+- [Relics]({{ '/relics/' | relative_url }})

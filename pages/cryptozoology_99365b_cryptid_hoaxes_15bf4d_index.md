@@ -16,11 +16,11 @@ parent_permalink: /hoaxes/
 
 # Explore Topics in Hoaxes
 
-The following pages expand on the main **[Hoaxes]({{'/hoaxes/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Hoaxes]({{ '/hoaxes/' | relative_url }})** page and cover its key branches in.
 
-- [Feejee Mermaid]({{'/feejee-mermaid/' | relative_url }})
-- [Iceman]({{'/iceman/' | relative_url }})
-- [Nessie Photo]({{'/nessie-photo/' | relative_url }})
-- [Patty Film]({{'/patty-film/' | relative_url }})
-- [Wallace Tracks]({{'/wallace-tracks/' | relative_url }})
-- [Hippo Tracks]({{'/hippo-tracks/' | relative_url }})
+- [Feejee Mermaid]({{ '/feejee-mermaid/' | relative_url }})
+- [Iceman]({{ '/iceman/' | relative_url }})
+- [Nessie Photo]({{ '/nessie-photo/' | relative_url }})
+- [Patty Film]({{ '/patty-film/' | relative_url }})
+- [Wallace Tracks]({{ '/wallace-tracks/' | relative_url }})
+- [Hippo Tracks]({{ '/hippo-tracks/' | relative_url }})

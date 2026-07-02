@@ -1,91 +1,11 @@
 {
   "version": 1,
-  "page_count": 2,
-  "total_page_seconds": 10.5306,
-  "average_page_seconds": 5.2653,
-  "phase_totals_seconds": {
-    "youtube": 4.2013,
-    "monetization": 2.3875,
-    "internal_links": 2.1849,
-    "media_svg": 0.8302,
-    "content_assembly": 0.7771,
-    "quality_write": 0.0705,
-    "content_cleanup_final": 0.0452,
-    "preparation": 0.0325,
-    "content_cleanup_initial": 0.0012
-  },
-  "slowest_pages": [
-    {
-      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f",
-      "level": 3,
-      "outcome": "rebuilt",
-      "total_seconds": 5.353,
-      "phases": {
-        "preparation": 0.0165,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 1.1005,
-        "content_cleanup_final": 0.0205,
-        "media_svg": 0.4207,
-        "youtube": 2.1927,
-        "content_assembly": 0.3771,
-        "monetization": 1.1892,
-        "quality_write": 0.0351
-      }
-    },
-    {
-      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5",
-      "level": 3,
-      "outcome": "rebuilt",
-      "total_seconds": 5.1776,
-      "phases": {
-        "preparation": 0.016,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 1.0844,
-        "content_cleanup_final": 0.0247,
-        "media_svg": 0.4095,
-        "youtube": 2.0086,
-        "content_assembly": 0.4,
-        "monetization": 1.1983,
-        "quality_write": 0.0354
-      }
-    }
-  ],
-  "pages": [
-    {
-      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f",
-      "level": 3,
-      "outcome": "rebuilt",
-      "total_seconds": 5.353,
-      "phases": {
-        "preparation": 0.0165,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 1.1005,
-        "content_cleanup_final": 0.0205,
-        "media_svg": 0.4207,
-        "youtube": 2.1927,
-        "content_assembly": 0.3771,
-        "monetization": 1.1892,
-        "quality_write": 0.0351
-      }
-    },
-    {
-      "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5",
-      "level": 3,
-      "outcome": "rebuilt",
-      "total_seconds": 5.1776,
-      "phases": {
-        "preparation": 0.016,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 1.0844,
-        "content_cleanup_final": 0.0247,
-        "media_svg": 0.4095,
-        "youtube": 2.0086,
-        "content_assembly": 0.4,
-        "monetization": 1.1983,
-        "quality_write": 0.0354
-      }
-    }
-  ],
+  "page_count": 0,
+  "total_page_seconds": 0,
+  "average_page_seconds": 0.0,
+  "phase_totals_seconds": {},
+  "slowest_pages": [],
+  "pages": [],
   "parallel": {
     "enabled": true,
     "mode": "process",
@@ -93,60 +13,20 @@
     "workers_raw": "auto",
     "max_workers": 3,
     "progress_interval_seconds": 60.0,
-    "queued_rebuild_pages": 2,
-    "reused_pages": 209,
-    "rebuilt_pages": 2,
+    "queued_rebuild_pages": 0,
+    "reused_pages": 211,
+    "rebuilt_pages": 0,
     "error_pages": 0,
-    "page_work_wall_seconds": 31.2408,
-    "rebuilt_pages_per_minute": 3.8411,
-    "queued_rebuild_pages_per_minute": 3.8411,
-    "apparent_page_work_speedup": 0.3371,
+    "page_work_wall_seconds": 12.5253,
+    "rebuilt_pages_per_minute": 0.0,
+    "queued_rebuild_pages_per_minute": 0.0,
+    "apparent_page_work_speedup": 0.0,
     "process_worker_diagnostics": {
-      "completed_pages": 2,
-      "successful_pages": 2,
+      "completed_pages": 0,
+      "successful_pages": 0,
       "failed_pages": 0,
-      "worker_summary": {
-        "14076": {
-          "pages": 1,
-          "successes": 1,
-          "failures": 0,
-          "total_worker_seconds": 5.3927,
-          "max_worker_seconds": 5.3927,
-          "last_base_name": "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f"
-        },
-        "20268": {
-          "pages": 1,
-          "successes": 1,
-          "failures": 0,
-          "total_worker_seconds": 5.2157,
-          "max_worker_seconds": 5.2157,
-          "last_base_name": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5"
-        }
-      },
-      "slowest_worker_pages": [
-        {
-          "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f",
-          "level": 3,
-          "success": true,
-          "worker_pid": 14076,
-          "worker_duration_seconds": 5.3927,
-          "total_seconds": 5.353,
-          "worker_started_at_utc": "2026-07-02T15:02:03.348532Z",
-          "worker_finished_at_utc": "2026-07-02T15:02:08.701558Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5",
-          "level": 3,
-          "success": true,
-          "worker_pid": 20268,
-          "worker_duration_seconds": 5.2157,
-          "total_seconds": 5.1776,
-          "worker_started_at_utc": "2026-07-02T15:02:06.132442Z",
-          "worker_finished_at_utc": "2026-07-02T15:02:11.310092Z",
-          "result_merge_seconds": 0.0
-        }
-      ]
+      "worker_summary": {},
+      "slowest_worker_pages": []
     }
   }
 }

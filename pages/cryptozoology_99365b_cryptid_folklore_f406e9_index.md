@@ -16,11 +16,11 @@ parent_permalink: /folklore/
 
 # Explore Topics in Folklore
 
-The following pages expand on the main **[Folklore]({{'/folklore/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Folklore]({{ '/folklore/' | relative_url }})** page and cover its key branches in.
 
-- [Bigfoot]({{'/bigfoot-e16f14/' | relative_url }})
-- [Chupacabra]({{'/chupacabra/' | relative_url }})
-- [Maybe Stories]({{'/maybe-stories/' | relative_url }})
-- [Jersey Devil]({{'/jersey-devil/' | relative_url }})
-- [Mothman]({{'/mothman/' | relative_url }})
-- [Nessie]({{'/nessie/' | relative_url }})
+- [Bigfoot]({{ '/bigfoot-e16f14/' | relative_url }})
+- [Chupacabra]({{ '/chupacabra/' | relative_url }})
+- [Maybe Stories]({{ '/maybe-stories/' | relative_url }})
+- [Jersey Devil]({{ '/jersey-devil/' | relative_url }})
+- [Mothman]({{ '/mothman/' | relative_url }})
+- [Nessie]({{ '/nessie/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /pseudoscience/
 
 # Explore Topics in Pseudoscience
 
-The following pages expand on the main **[Pseudoscience]({{'/pseudoscience/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Pseudoscience]({{ '/pseudoscience/' | relative_url }})** page and cover its key branches in.
 
-- [Report Databases]({{'/report-databases/' | relative_url }})
-- [Blurry Photos]({{'/blurry-photos/' | relative_url }})
-- [Coelacanth]({{'/coelacanth-921753/' | relative_url }})
-- [Need a Body]({{'/need-a-body/' | relative_url }})
-- [Sightings]({{'/sightings-e773e0/' | relative_url }})
-- [Failed Searches]({{'/failed-searches/' | relative_url }})
+- [Report Databases]({{ '/report-databases/' | relative_url }})
+- [Blurry Photos]({{ '/blurry-photos/' | relative_url }})
+- [Coelacanth]({{ '/coelacanth-921753/' | relative_url }})
+- [Need a Body]({{ '/need-a-body/' | relative_url }})
+- [Sightings]({{ '/sightings-e773e0/' | relative_url }})
+- [Failed Searches]({{ '/failed-searches/' | relative_url }})

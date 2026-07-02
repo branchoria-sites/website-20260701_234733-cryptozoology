@@ -16,11 +16,11 @@ parent_permalink: /lazarus-taxa/
 
 # Explore Topics in Lazarus Taxa
 
-The following pages expand on the main **[Lazarus Taxa]({{'/lazarus-taxa/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Lazarus Taxa]({{ '/lazarus-taxa/' | relative_url }})** page and cover its key branches in.
 
-- [Cahow]({{'/cahow/' | relative_url }})
-- [Coelacanth]({{'/coelacanth-d4a71d/' | relative_url }})
-- [Extinction Rules]({{'/extinction-rules/' | relative_url }})
-- [Hidden Refuges]({{'/hidden-refuges/' | relative_url }})
-- [Stick Insect]({{'/stick-insect/' | relative_url }})
-- [Takahe]({{'/takahe/' | relative_url }})
+- [Cahow]({{ '/cahow/' | relative_url }})
+- [Coelacanth]({{ '/coelacanth-d4a71d/' | relative_url }})
+- [Extinction Rules]({{ '/extinction-rules/' | relative_url }})
+- [Hidden Refuges]({{ '/hidden-refuges/' | relative_url }})
+- [Stick Insect]({{ '/stick-insect/' | relative_url }})
+- [Takahe]({{ '/takahe/' | relative_url }})

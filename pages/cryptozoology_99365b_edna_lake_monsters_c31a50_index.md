@@ -16,11 +16,11 @@ parent_permalink: /e-dna/
 
 # Explore Topics in e DNA
 
-The following pages expand on the main **[e DNA]({{'/e-dna/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[e DNA]({{ '/e-dna/' | relative_url }})** page and cover its key branches in.
 
-- [False Positives]({{'/false-positives/' | relative_url }})
-- [DNA Databases]({{'/dna-databases/' | relative_url }})
-- [Sampling Design]({{'/sampling-design/' | relative_url }})
-- [Loch Ness e DNA]({{'/loch-ness-e-dna/' | relative_url }})
-- [Negative Results]({{'/negative-results/' | relative_url }})
-- [Sightings vs DNA]({{'/sightings-vs-dna/' | relative_url }})
+- [False Positives]({{ '/false-positives/' | relative_url }})
+- [DNA Databases]({{ '/dna-databases/' | relative_url }})
+- [Sampling Design]({{ '/sampling-design/' | relative_url }})
+- [Loch Ness e DNA]({{ '/loch-ness-e-dna/' | relative_url }})
+- [Negative Results]({{ '/negative-results/' | relative_url }})
+- [Sightings vs DNA]({{ '/sightings-vs-dna/' | relative_url }})

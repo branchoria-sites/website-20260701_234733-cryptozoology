@@ -16,11 +16,11 @@ parent_permalink: /meaning/
 
 # Explore Topics in Meaning
 
-The following pages expand on the main **[Meaning]({{'/meaning/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Meaning]({{ '/meaning/' | relative_url }})** page and cover its key branches in.
 
-- [Bigfoot Tracks]({{'/bigfoot-tracks/' | relative_url }})
-- [Sightings Register]({{'/sightings-register/' | relative_url }})
-- [Hunt Risks]({{'/hunt-risks/' | relative_url }})
-- [TNT Area]({{'/tnt-area/' | relative_url }})
-- [Distrust]({{'/distrust/' | relative_url }})
-- [Remote Places]({{'/remote-places/' | relative_url }})
+- [Bigfoot Tracks]({{ '/bigfoot-tracks/' | relative_url }})
+- [Sightings Register]({{ '/sightings-register/' | relative_url }})
+- [Hunt Risks]({{ '/hunt-risks/' | relative_url }})
+- [TNT Area]({{ '/tnt-area/' | relative_url }})
+- [Distrust]({{ '/distrust/' | relative_url }})
+- [Remote Places]({{ '/remote-places/' | relative_url }})

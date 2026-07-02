@@ -16,11 +16,11 @@ parent_permalink: /museums/
 
 # Explore Topics in Museums
 
-The following pages expand on the main **[Museums]({{'/museums/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Museums]({{ '/museums/' | relative_url }})** page and cover its key branches in.
 
-- [When Cryptids Enter An Art Museum, The Question]({{'/when-cryptids-enter-an-art-museum-the/' | relative_url }})
-- [Bigfoot Attraction]({{'/bigfoot-attraction/' | relative_url }})
-- [Flatwoods Identity]({{'/flatwoods-identity/' | relative_url }})
-- [Hybrid Displays]({{'/hybrid-displays/' | relative_url }})
-- [Nessie Quest]({{'/nessie-quest/' | relative_url }})
-- [Mothman Archive]({{'/mothman-archive/' | relative_url }})
+- [When Cryptids Enter An Art Museum, The Question]({{ '/when-cryptids-enter-an-art-museum-the/' | relative_url }})
+- [Bigfoot Attraction]({{ '/bigfoot-attraction/' | relative_url }})
+- [Flatwoods Identity]({{ '/flatwoods-identity/' | relative_url }})
+- [Hybrid Displays]({{ '/hybrid-displays/' | relative_url }})
+- [Nessie Quest]({{ '/nessie-quest/' | relative_url }})
+- [Mothman Archive]({{ '/mothman-archive/' | relative_url }})

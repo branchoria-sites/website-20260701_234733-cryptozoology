@@ -16,11 +16,11 @@ parent_permalink: /prehistoric-claims/
 
 # Explore Topics in Prehistoric Claims
 
-The following pages expand on the main **[Prehistoric Claims]({{'/prehistoric-claims/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Prehistoric Claims]({{ '/prehistoric-claims/' | relative_url }})** page and cover its key branches in.
 
-- [Missing traces]({{'/missing-traces-2ce98c/' | relative_url }})
-- [Coelacanth]({{'/coelacanth-10b18d/' | relative_url }})
-- [Living fossils]({{'/living-fossils/' | relative_url }})
-- [Mokele mbembe]({{'/mokele-mbembe/' | relative_url }})
-- [Silhouettes]({{'/silhouettes/' | relative_url }})
-- [Reworked fossils]({{'/reworked-fossils/' | relative_url }})
+- [Missing traces]({{ '/missing-traces-2ce98c/' | relative_url }})
+- [Coelacanth]({{ '/coelacanth-10b18d/' | relative_url }})
+- [Living fossils]({{ '/living-fossils/' | relative_url }})
+- [Mokele mbembe]({{ '/mokele-mbembe/' | relative_url }})
+- [Silhouettes]({{ '/silhouettes/' | relative_url }})
+- [Reworked fossils]({{ '/reworked-fossils/' | relative_url }})
