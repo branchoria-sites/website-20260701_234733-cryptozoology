@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:27'
+date:'2026-07-01 12:55:27'
 parent_title: Did Yeti Samples Point to Bears?
 parent_permalink: /yeti-dna/
 parent_nav_short_title: Yeti DNA
@@ -280,269 +280,70 @@ image: /assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_
 
 ## Introduction
 
-Among the many attempts to explain Yeti reports through known animals, Himalayan brown bears are supported by the strongest biological evidence. Modern DNA studies of alleged Yeti remains have repeatedly identified [samples]({{ 'samples/' | relative_url }}) as belonging to bears native to the Himalaya and Tibetan Plateau, particularly Himalayan brown bears and Tibetan brown bears. Rather than pointing to an unknown primate, the evidence suggests that at least some Yeti traditions may have grown from encounters with rare, poorly understood bears living in remote high-altitude environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-dark.svg" | relative_url }}" alt="Brown bears illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes this explanation especially interesting is that Himalayan brown bears are not simply ordinary brown bears living at high elevations. Genetic research has shown that they represent an unusually ancient and distinctive lineage, isolated for hundreds of thousands of years. Their rarity, unusual appearance and remote habitat help explain why they have remained entangled with Yeti stories long after scientific exploration reached the Himalaya. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
-
-
+Among the many attempts to explain Yeti reports through known animals, Himalayan brown bears are supported by the strongest biological evidence. Modern DNA studies of alleged Yeti remains have repeatedly identified [samples]({{'samples/' | relative_url }}) as belonging to bears native to the Himalaya and Tibetan Plateau, particularly Himalayan brown bears and Tibetan brown bears. Rather than pointing to an unknown primate, the evidence suggests that at least some Yeti traditions may have grown from encounters with rare, poorly understood bears living in remote high-altitude environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-dark.svg" | relative_url }}" alt="Brown bears illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ajsJ5lcuuY8" title="No Abominable Snowman? DNA Study Says Yetis Are Just Bears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer">No Abominable Snowman? DNA Study Says Yetis Are Just Bears</a></p><p class="youtube-embed-meta">Channel: CBS TEXAS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ajsJ5lcuuY8">Open on YouTube</a></p></div></div></div>
 
 ## Where Himalayan and Tibetan brown bears fit the evidence
 
-The clearest connection between bears and the Yeti comes from genetic analysis of physical [specimens]({{ 'specimens/' | relative_url }}). In 2017, researchers led by Charlotte Lindqvist examined bones, hair, skin and faecal material that had been attributed to the Yeti. The results showed that the samples belonged to local bear species rather than an unknown hominid. Specimens from the western Himalayas matched Himalayan brown bears, while others from the Tibetan Plateau matched Tibetan brown bears. One supposed Yeti sample proved to be from a dog. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[CORDIS+3Royal Society+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
+The clearest connection between bears and the Yeti comes from genetic analysis of physical [specimens]({{'specimens/' | relative_url }}). In 2017, researchers led by Charlotte Lindqvist examined bones, hair, skin and faecal material that had been attributed to the Yeti. The results showed that the samples belonged to local bear species rather than an unknown hominid. Specimens from the western Himalayas matched Himalayan brown bears, while others from the Tibetan Plateau matched Tibetan brown bears. One supposed Yeti sample proved to be from a dog.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[CORDIS+3Royal Society+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
 
-These findings were particularly significant because they followed earlier claims that some Yeti hairs might represent an unknown bear related to ancient polar bears. Subsequent analyses with larger datasets and more complete genetic information failed to support that interpretation. Instead, the evidence consistently pointed towards recognised bear [populations]({{ 'populations/' | relative_url }}) already living in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Daicel Arbor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</span></span></span>
-
-The pattern was not random. Samples linked to different geographic areas corresponded to the bear populations actually found there. This geographical consistency strengthened the argument that alleged Yeti remains were being misidentified local wildlife rather than traces of a hidden species. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2017/nov/29/dna-sampling-exposes-nine-yeti-specimens-as-eight-bears-and-a-dog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">dna sampling exposes nine yeti specimens as eight bears and a dog</span><span class="citation-popover-snippet">The GuardianDNA sampling exposes nine &#x27;yeti specimens&#x27; as eight...29 Nov 2017 — “The purported yetis from the Tibetan plateau matched Ti...</span></span></span>
-
+These findings were particularly significant because they followed earlier claims that some Yeti hairs might represent an unknown bear related to ancient polar bears. Subsequent analyses with larger datasets and more complete genetic information failed to support that interpretation. Instead, the evidence consistently pointed towards recognised bear [populations]({{'populations/' | relative_url }}) already living in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Daicel Arbor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XVkE6-L31To" title="Abominable Snowman (yeti) likely just bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer">Abominable Snowman (yeti) likely just bear</a></p><p class="youtube-embed-meta">Channel: Scripps News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XVkE6-L31To">Open on YouTube</a></p></div></div></div>
 
 ## Why high-altitude encounters are easy to misread
 
-The Himalayan environment creates ideal conditions for [misidentification]({{ 'misidentification/' | relative_url }}). Encounters are often brief, occur at long distances and take place in difficult terrain where snow, fog, shadows and steep slopes distort perception.
+The Himalayan environment creates ideal conditions for [misidentification]({{'misidentification/' | relative_url }}). Encounters are often brief, occur at long distances and take place in difficult terrain where snow, fog, shadows and steep slopes distort perception.
 
-Brown bears can appear surprisingly human-like under such conditions. When standing upright, a large bear presents a tall silhouette that resembles a biped. Tracks left in melting snow may expand, merge or deform, producing [footprints]({{ 'footprints/' | relative_url }}) that seem much larger and more human-shaped than the original paw prints. These effects have been documented repeatedly during investigations of alleged Yeti traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Un estudio genético de nueve muestras, que incluían patas, cueros cabelludos, huesos y excrementos cuidadosamente preservados en monaster...</span></span></span>
+Brown bears can appear surprisingly human-like under such conditions. When standing upright, a large bear presents a tall silhouette that resembles a biped. Tracks left in melting snow may expand, merge or deform, producing [footprints]({{'footprints/' | relative_url }}) that seem much larger and more human-shaped than the original paw prints. These effects have been documented repeatedly during investigations of alleged Yeti traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Un estudio genético de nueve muestras, que incluían patas, cueros cabelludos, huesos y excrementos cuidadosamente preservados en monaster...</span></span></span>
 
-Rarity also matters. Himalayan brown bears are among the least commonly observed large mammals in parts of their range. Many communities and travellers may encounter them only rarely, if at all. An unexpected sighting of a large animal in a remote alpine landscape can therefore acquire an unusual or supernatural interpretation more easily than a sighting of familiar wildlife. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mongabay.com">[Mongabay News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mongabay.com</span><span class="citation-popover-title">a sketch of the yeti saving the himalayan brown bear</span><span class="citation-popover-snippet">Mongabay NewsA sketch of the yeti: saving the Himalayan brown bear1 May 2014 — Brown bears were a recent sighting in the area, and their...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+Rarity also matters. Himalayan brown bears are among the least commonly observed large mammals in parts of their range. Many communities and travellers may encounter them only rarely, if at all. An unexpected sighting of a large animal in a remote alpine landscape can therefore acquire an unusual or supernatural interpretation more easily than a sighting of familiar wildlife.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mongabay.com">[Mongabay News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mongabay.com</span><span class="citation-popover-title">a sketch of the yeti saving the himalayan brown bear</span><span class="citation-popover-snippet">Mongabay NewsA sketch of the yeti: saving the Himalayan brown bear1 May 2014 — Brown bears were a recent sighting in the area, and their...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-The bears' ecology further contributes to the mystery. They occupy high-altitude environments, use caves and dens, and move across rugged mountain terrain where direct observation is difficult. Historically, reports of mysterious creatures emerging from isolated valleys or crossing snowy passes fit naturally with the behaviour of elusive bears that few people regularly observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Himalayan_brown_bear" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Himalayan brown bear</span><span class="citation-popover-snippet">Himalayan brown bear</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-dark.svg" | relative_url }}" alt="Brown bears illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The bears' ecology further contributes to the mystery. They occupy high-altitude environments, use caves and dens, and move across rugged mountain terrain where direct observation is difficult. Historically, reports of mysterious creatures emerging from isolated valleys or crossing snowy passes fit naturally with the behaviour of elusive bears that few people regularly observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Himalayan_brown_bear" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Himalayan brown bear</span><span class="citation-popover-snippet">Himalayan brown bear</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-dark.svg" | relative_url }}" alt="Brown bears illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How distinctive bear lineages complicate simple debunking
 
 The bear explanation is sometimes presented as a straightforward debunking of the Yeti. The genetics tell a more nuanced story.
 
-Research on mitochondrial genomes has shown that Himalayan brown bears form one of the oldest surviving branches within the brown bear family tree. Estimates place their separation from other brown bear lineages at roughly 650,000 years ago, probably during major Pleistocene glaciations that isolated populations in mountain refuges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
+Research on mitochondrial genomes has shown that Himalayan brown bears form one of the oldest surviving branches within the brown bear family tree. Estimates place their separation from other brown bear lineages at roughly 650,000 years ago, probably during major Pleistocene glaciations that isolated populations in mountain refuges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
 
-This means that witnesses who encountered these animals were not necessarily seeing an ordinary representative of a widespread species. They were encountering a rare, geographically isolated lineage with its own evolutionary history. The same studies found that Tibetan brown bears followed a different evolutionary path and are more closely related to other Eurasian and North American brown bears than to the Himalayan lineage living nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
+This means that witnesses who encountered these animals were not necessarily seeing an ordinary representative of a widespread species. They were encountering a rare, geographically isolated lineage with its own evolutionary history. The same studies found that Tibetan brown bears followed a different evolutionary path and are more closely related to other Eurasian and North American brown bears than to the Himalayan lineage living nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
 
-The unusual genetics of Himalayan brown bears also help explain why earlier DNA studies briefly raised the possibility of a previously unknown bear. Limited genetic fragments created misleading signals that appeared unusual when compared with available reference sequences. As more comprehensive data became available, the mystery shifted from a hypothetical new species to a real but highly distinctive bear population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Daicel Arbor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</span></span></span>
-
-In this sense, the bear explanation does not reduce the story to simple error. It reveals that some Yeti traditions may have been influenced by encounters with genuinely uncommon animals whose evolutionary history was itself poorly understood until modern genetic research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</span></span></span>
-
+The unusual genetics of Himalayan brown bears also help explain why earlier DNA studies briefly raised the possibility of a previously unknown bear. Limited genetic fragments created misleading signals that appeared unusual when compared with available reference sequences. As more comprehensive data became available, the mystery shifted from a hypothetical new species to a real but highly distinctive bear population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Daicel Arbor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7X7fsM9i1So" title="Yeti: myth, man or bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer">Yeti: myth, man or bear</a></p><p class="youtube-embed-meta">Channel: NTUsg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7X7fsM9i1So">Open on YouTube</a></p></div></div></div>
 
 ## What the brown bear explanation does—and does not—explain
 
-The evidence linking alleged Yeti samples to Himalayan and Tibetan bears is strong enough to account for many physical claims associated with the creature. Hair, bones, skin fragments and other specimens repeatedly resolve into known bear species when tested genetically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
+The evidence linking alleged Yeti samples to Himalayan and Tibetan bears is strong enough to account for many physical claims associated with the creature. Hair, bones, skin fragments and other specimens repeatedly resolve into known bear species when tested genetically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
 
-However, this does not automatically explain every Yeti story. [Folklore]({{ 'folklore/' | relative_url }}) develops through many influences, including local traditions, religious beliefs, eyewitness interpretation and storytelling. The genetic evidence addresses biological remains, not the full cultural history of the Yeti. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
+However, this does not automatically explain every Yeti story. [Folklore]({{'folklore/' | relative_url }}) develops through many influences, including local traditions, religious beliefs, eyewitness interpretation and storytelling. The genetic evidence addresses biological remains, not the full cultural history of the Yeti.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
 
-What it does show is that rare brown bears provide a plausible and evidence-based mechanism for the emergence of at least part of the Yeti tradition. When an elusive, ancient bear lineage inhabits some of the world's most remote mountains, encounters with that animal can become the foundation for stories that later evolve into legends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-dark.svg" | relative_url }}" alt="Brown bears illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could rare brown bears explain Yeti sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Directly addresses Yeti evidence and animal explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
-        
-        <p class="fr-book-desc">Explains how rare animals can generate cryptid reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open STILL IN SEARCH OF PREHISTORIC on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6tcVMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for STILL IN SEARCH OF PREHISTORIC" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="STILL IN SEARCH OF PREHISTORIC">STILL IN SEARCH OF PREHISTORIC</a>
-        </h4>
-        <p class="fr-book-author">By Karl P. N. Shuker</p>
-        
-        <p class="fr-book-desc">Examines alleged unknown animals and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Discusses scientific evaluation of Yeti claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">STILL IN SEARCH OF PREHISTORIC</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e486d7e3b099960b59f0.jpg' | relative_url }}" alt="Listing image for YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/83f37b3b9265a8c694cf.jpg' | relative_url }}" alt="Listing image for Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster"><img src="{{ '/assets/images/marketplace-covers/7f49d5aa8a094b0ce5cf.jpg' | relative_url }}" alt="Listing image for Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979"><img src="{{ '/assets/images/marketplace-covers/43b50756e7d9af1ba61b.jpg' | relative_url }}" alt="Listing image for YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+What it does show is that rare brown bears provide a plausible and evidence-based mechanism for the emergence of at least part of the Yeti tradition. When an elusive, ancient bear lineage inhabits some of the world's most remote mountains, encounters with that animal can become the foundation for stories that later evolve into legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society+2Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">mysteries of the yeti</span><span class="citation-popover-snippet">Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-dark.svg" | relative_url }}" alt="Brown bears illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_yeti_bear_dna_3a5a98_himalayan_brown_bear_efbd59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Could rare brown bears explain Yeti sightings?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a></h4><p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p><p class="fr-book-desc">Directly addresses Yeti evidence and animal explanations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a></h4><p class="fr-book-author">By Darren Naish</p><p class="fr-book-desc">Explains how rare animals can generate cryptid reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open STILL IN SEARCH OF PREHISTORIC on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6tcVMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for STILL IN SEARCH OF PREHISTORIC" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="STILL IN SEARCH OF PREHISTORIC">STILL IN SEARCH OF PREHISTORIC</a></h4><p class="fr-book-author">By Karl P. N. Shuker</p><p class="fr-book-desc">Examines alleged unknown animals and evidence standards.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC+by+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Discusses scientific evaluation of Yeti claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=STILL+IN+SEARCH+OF+PREHISTORIC&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">STILL IN SEARCH OF PREHISTORIC</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/e486d7e3b099960b59f0.jpg' | relative_url }}" alt="Listing image for YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">YETI CYCLES GOLD Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/83f37b3b9265a8c694cf.jpg' | relative_url }}" alt="Listing image for Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">Yeti Retired 2022 Not My Problem An Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster"><img src="{{'/assets/images/marketplace-covers/7f49d5aa8a094b0ce5cf.jpg' | relative_url }}" alt="Listing image for Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">Yeti Mountain Bike - C-26, Retro, original A3 unframed print, wall art poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979"><img src="{{'/assets/images/marketplace-covers/43b50756e7d9af1ba61b.jpg' | relative_url }}" alt="Listing image for YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">YETI: THE GIANT OF THE 20TH CENTURY EGYPTIAN POSTER TONY KENDALL 1979</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for yeti poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: yeti poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=yeti+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="yeti poster" data-ebay-reference="brown-bears-could-rare-brown-bears-explain-yeti-sightings-cryptozoology-yeti-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,24 +357,24 @@ What it does show is that rare brown bears provide a plausible and evidence-base
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -584,7 +385,7 @@ What it does show is that rare brown bears provide a plausible and evidence-base
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -592,45 +393,43 @@ What it does show is that rare brown bears provide a plausible and evidence-base
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -646,10 +445,10 @@ What it does show is that rare brown bears provide a plausible and evidence-base
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -669,11 +468,11 @@ What it does show is that rare brown bears provide a plausible and evidence-base
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -682,16 +481,16 @@ What it does show is that rare brown bears provide a plausible and evidence-base
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,9 +504,9 @@ What it does show is that rare brown bears provide a plausible and evidence-base
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -726,139 +525,116 @@ What it does show is that rare brown bears provide a plausible and evidence-base
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/56507165/Evolutionary_history_of_enigmatic_bears_in_the_Tibetan_Plateau_Himalaya_region_and_the_identity_of_the_yeti" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/56507165/Evolutionary_history_of_enigmatic_bears_in_the_Tibetan_Plateau_Himalaya_region_and_the_identity_of_the_yeti</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Himalayan brown bears diverged around 658,000 years ago as a distinct lineage.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/56507165/Evolutionary_history_of_enigmatic_bears_in_the_Tibetan_Plateau_Himalaya_region_and_the_identity_of_the_yeti" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/56507165/Evolutionary_history_of_enigmatic_bears_in_the_Tibetan_Plateau_Himalaya_region_and_the_identity_of_the_yeti</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Himalayan brown bears diverged around 658,000 years ago as a distinct lineage.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Un estudio genético de nueve muestras, que incluían patas, cueros cabelludos, huesos y excrementos cuidadosamente preservados en monaster...</p></details>
+   Link:<a href="https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/yeti-bear-legend-dna-analysis-myth</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Un estudio genético de nueve muestras, que incluían patas, cueros cabelludos, huesos y excrementos cuidadosamente preservados en monaster...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cordis.europa.eu  
    Title: CORDISYeti or not Yeti? DNA samples provide a response  
-   Link: <a href="https://cordis.europa.eu/article/id/122699-trending-science-yeti-or-not-[yeti-dna" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/122699-trending-science-yeti-or-not-[yeti-dna</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Nov 2017 — A total of 24 samples were analysed, Eight of them turned out to be from Asian black bears, Himalayan brown bears or...</p></details>
+   Link:<a href="https://cordis.europa.eu/article/id/122699-trending-science-yeti-or-not-[yeti-dna" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/122699-trending-science-yeti-or-not-[yeti-dna</a><details class="endnote-snippet"><summary>Source snippet</summary><p>30 Nov 2017 — A total of 24 samples were analysed, Eight of them turned out to be from Asian black bears, Himalayan brown bears or...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Yeti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yeti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Yeti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yeti</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.mongabay.com  
    Title: a sketch of the yeti saving the himalayan brown bear  
-   Link: <a href="https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/" target="_blank" rel="noopener noreferrer nofollow">https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mongabay NewsA sketch of the yeti: saving the Himalayan brown bear1 May 2014 — Brown bears were a recent sighting in the area, and their...</p></details>
+   Link:<a href="https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/" target="_blank" rel="noopener noreferrer nofollow">https://news.mongabay.com/2014/05/a-sketch-of-the-yeti-saving-the-himalayan-brown-bear/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Mongabay NewsA sketch of the yeti: saving the Himalayan brown bear1 May 2014 — Brown bears were a recent sighting in the area, and their...</p></details>
    Published: May 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Himalayan brown bear  
-   Link: <a href="https://en.wikipedia.org/wiki/Himalayan_brown_bear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Himalayan_brown_bear</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Himalayan_brown_bear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Himalayan_brown_bear</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: royalsociety.org  
    Title: mysteries of the yeti  
-   Link: <a href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</p></details>
+   Link:<a href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Royal SocietyMysteries of the yeti29 Nov 2017 — These included bone, skin, hair and fecal samples that had been collected in the Himalaya...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingEvolutionary history of enigmatic bears in the Tibetan Plateau...by T Lan · 2017 · Cited by 66 — In our study, b...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: dna sampling exposes nine yeti specimens as eight bears and a dog  
-   Link: <a href="https://www.theguardian.com/science/2017/nov/29/dna-sampling-exposes-nine-yeti-specimens-as-eight-bears-and-a-dog" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2017/nov/29/dna-sampling-exposes-nine-yeti-specimens-as-eight-bears-and-a-dog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDNA sampling exposes nine &#x27;yeti specimens&#x27; as eight...29 Nov 2017 — “The purported yetis from the Tibetan plateau matched Ti...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2017/nov/29/dna-sampling-exposes-nine-yeti-specimens-as-eight-bears-and-a-dog" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2017/nov/29/dna-sampling-exposes-nine-yeti-specimens-as-eight-bears-and-a-dog</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDNA sampling exposes nine &#x27;yeti specimens&#x27; as eight...29 Nov 2017 — “The purported yetis from the Tibetan plateau matched Ti...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29187630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29187630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29187630/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Evolutionary history of enigmatic bears in the Tibetan...by T Lan · 2017 · Cited by 66 — Two purported yeti samples from the Himal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arborbiosci.com  
-   Link: <a href="https://arborbiosci.com/publication/evolutionary-history-of-enigmatic-bears-in-the-tibetan-plateau-himalaya-region-and-the-identity-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://arborbiosci.com/publication/evolutionary-history-of-enigmatic-bears-in-the-tibetan-plateau-himalaya-region-and-the-identity-of-the-yeti/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolutionary history of enigmatic bears in the Tibetan...Recently, two purported yeti samples from the Himalayas showed genetic affinity...</p></details>
+   Link:<a href="https://arborbiosci.com/publication/evolutionary-history-of-enigmatic-bears-in-the-tibetan-plateau-himalaya-region-and-the-identity-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://arborbiosci.com/publication/evolutionary-history-of-enigmatic-bears-in-the-tibetan-plateau-himalaya-region-and-the-identity-of-the-yeti/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Evolutionary history of enigmatic bears in the Tibetan...Recently, two purported yeti samples from the Himalayas showed genetic affinity...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovermagazine.com  
    Title: this is not the yeti youre looking for 12664  
-   Link: <a href="https://www.discovermagazine.com/this-is-not-the-yeti-youre-looking-for-12664" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/this-is-not-the-yeti-youre-looking-for-12664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Not The Yeti You&#x27;re Looking For28 Nov 2017 — The Himalayan brown bear has long been associated with yeti lore by local population...</p></details>
+   Link:<a href="https://www.discovermagazine.com/this-is-not-the-yeti-youre-looking-for-12664" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/this-is-not-the-yeti-youre-looking-for-12664</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Not The Yeti You&#x27;re Looking For28 Nov 2017 — The Himalayan brown bear has long been associated with yeti lore by local population...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: yeti dna genetics brown black bears dog evolution  
-   Link: <a href="https://www.abc.net.au/news/science/2017-11-29/yeti-dna-genetics-brown-black-bears-dog-evolution/9197266" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2017-11-29/yeti-dna-genetics-brown-black-bears-dog-evolution/9197266</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yeti remains revealed to be … brown bear and dog29 Nov 2017 — Nine pieces of &#x27;Yeti&#x27;, including scraps of skin, hair and bone collected in...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2017-11-29/yeti-dna-genetics-brown-black-bears-dog-evolution/9197266" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2017-11-29/yeti-dna-genetics-brown-black-bears-dog-evolution/9197266</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Yeti remains revealed to be … brown bear and dog29 Nov 2017 — Nine pieces of &#x27;Yeti&#x27;, including scraps of skin, hair and bone collected in...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sanewschannel/posts/the-legendary-yeti-mystery-finally-solved-through-comprehensive-dna-analysis-of-/1311558850997040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sanewschannel/posts/the-legendary-yeti-mystery-finally-solved-through-comprehensive-dna-analysis-of-/1311558850997040/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary Yeti mystery finally solved...A [2017 study](&amp;#123;&amp;#123; &#x27;2017-study/&#x27; | relative_url &amp;#125;&amp;#125;) analysed DNA samples of hair, tissue of Himalayan brown bears and purported Yet...</p></details>
+   Link:<a href="https://www.facebook.com/sanewschannel/posts/the-legendary-yeti-mystery-finally-solved-through-comprehensive-dna-analysis-of-/1311558850997040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sanewschannel/posts/the-legendary-yeti-mystery-finally-solved-through-comprehensive-dna-analysis-of-/1311558850997040/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary Yeti mystery finally solved...A [2017 study](&amp;#123;&amp;#123; &#x27;2017-study/&#x27; | relative_url &amp;#125;&amp;#125;) analysed DNA samples of hair, tissue of Himalayan brown bears and purported Yet...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalgeographic.com  
    Title: yeti legends real animals dna bears himalaya science  
-   Link: <a href="https://www.nationalgeographic.com/science/article/yeti-legends-real-animals-dna-bears-himalaya-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/yeti-legends-real-animals-dna-bears-himalaya-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yeti Legends Are Based on These Real Animals, DNA...29 Nov 2017 — “This study clearly confirms that the Yeti samples tested are actually...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/yeti-legends-real-animals-dna-bears-himalaya-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/yeti-legends-real-animals-dna-bears-himalaya-science</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Yeti Legends Are Based on These Real Animals, DNA...29 Nov 2017 — “This study clearly confirms that the Yeti samples tested are actually...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aau.edu  
    Title: abominable snowman was probably bear new study  
-   Link: <a href="https://www.aau.edu/research-scholarship/featured-research-topics/abominable-snowman-was-probably-bear-new-study" target="_blank" rel="noopener noreferrer nofollow">https://www.aau.edu/research-scholarship/featured-research-topics/abominable-snowman-was-probably-bear-new-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abominable Snowman Was Probably a Bear, New...30 Nov 2017 — A new DNA study of purported Abominable Snowman remains from museums and...</p></details>
+   Link:<a href="https://www.aau.edu/research-scholarship/featured-research-topics/abominable-snowman-was-probably-bear-new-study" target="_blank" rel="noopener noreferrer nofollow">https://www.aau.edu/research-scholarship/featured-research-topics/abominable-snowman-was-probably-bear-new-study</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Abominable Snowman Was Probably a Bear, New...30 Nov 2017 — A new DNA study of purported Abominable Snowman remains from museums and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sci.news  
    Title: yeti genetically identical asian bears 05486  
-   Link: <a href="https://www.sci.news/biology/yeti-genetically-identical-asian-bears-05486.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/biology/yeti-genetically-identical-asian-bears-05486.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsPurported Yeti Samples Are Genetically Identical to Asian...30 Nov 2017 — “The skin sample turned out to be from an...</p></details>
+   Link:<a href="https://www.sci.news/biology/yeti-genetically-identical-asian-bears-05486.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/biology/yeti-genetically-identical-asian-bears-05486.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsPurported Yeti Samples Are Genetically Identical to Asian...30 Nov 2017 — “The skin sample turned out to be from an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theatlantic.com  
    Title: yeti dna sequencing  
-   Link: <a href="https://www.theatlantic.com/science/archive/2017/11/yeti-dna-sequencing/546806/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2017/11/yeti-dna-sequencing/546806/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Reveals the Yeti Is Actually a Bunch of Bears28 Nov 2017 — Lindqvist said yes because she is a geneticist who studies bears, and the...</p></details>
+   Link:<a href="https://www.theatlantic.com/science/archive/2017/11/yeti-dna-sequencing/546806/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2017/11/yeti-dna-sequencing/546806/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Reveals the Yeti Is Actually a Bunch of Bears28 Nov 2017 — Lindqvist said yes because she is a geneticist who studies bears, and the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7X7fsM9i1So</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No Abominable Snowman? DNA Study Says Yetis Are Just Bears...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7X7fsM9i1So" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7X7fsM9i1So</a><details class="endnote-snippet"><summary>Source snippet</summary><p>No Abominable Snowman? DNA Study Says Yetis Are Just Bears...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: time.com  
    Title: Are Yetis Real?  
-   Link: <a href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5040754/yeti-bear-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Probably Just Himalayan Brown Bears, Scientists SayA study published in the Proceedings of the Royal Society has debunked the myt...</p></details>
+   Link:<a href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5040754/yeti-bear-study/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Probably Just Himalayan Brown Bears, Scientists SayA study published in the Proceedings of the Royal Society has debunked the myt...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: No Abominable Snowman? DNA Study Says Yetis Are Just Bears  
-   Link: <a href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajsJ5lcuuY8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abominable Snowman (yeti) likely just bear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ajsJ5lcuuY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajsJ5lcuuY8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Abominable Snowman (yeti) likely just bear...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Abominable Snowman (yeti) likely just bear  
-   Link: <a href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVkE6-L31To</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XVkE6-L31To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVkE6-L31To</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery solved? UB study finds &quot;Yeti&quot; DNA tied to local bears...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eatmorecookies.wordpress.com  
    Title: lan et al 2017  
-   Link: <a href="https://eatmorecookies.wordpress.com/wp-content/uploads/2017/11/lan-et-al-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eatmorecookies.wordpress.com/wp-content/uploads/2017/11/lan-et-al-2017.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(U. a. isabellinus) and black bear (U. t. laniger) for the first time.Read more...</p></details>
+   Link:<a href="https://eatmorecookies.wordpress.com/wp-content/uploads/2017/11/lan-et-al-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eatmorecookies.wordpress.com/wp-content/uploads/2017/11/lan-et-al-2017.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(U. a. isabellinus) and black bear (U. t. laniger) for the first time.Read more...</p></details>

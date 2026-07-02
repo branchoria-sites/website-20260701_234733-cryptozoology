@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 14:59:10'
+date:'2026-07-01 14:59:10'
 parent_title: Why Cryptid Photos Rarely Settle Anything
 parent_permalink: /photos/
 parent_nav_short_title: Photos
@@ -274,272 +274,68 @@ image: /assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_
 
 ## Introduction
 
-The 1934 “Surgeon’s Photograph” is arguably the most influential image in the history of [cryptozoology]({{ 'cryptozoology/' | relative_url }}). For decades it appeared to show a long-necked creature rising from the waters of Loch Ness, and it became the visual template for [Nessie]({{ 'nessie/' | relative_url }}) in books, newspapers and documentaries. Yet the photograph’s lasting fame reveals less about unknown animals than about how images are presented. The picture gained much of its persuasive power through cropping, reproduction and the authority attached to the man who supposedly took it. When later investigations uncovered evidence of a small-scale hoax, the photograph became a case study in how weak visual evidence can survive for generations if context is removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The 1934 “Surgeon’s Photograph” is arguably the most influential image in the history of [cryptozoology]({{'cryptozoology/' | relative_url }}). For decades it appeared to show a long-necked creature rising from the waters of Loch Ness, and it became the visual template for [Nessie]({{'nessie/' | relative_url }}) in books, newspapers and documentaries. Yet the photograph’s lasting fame reveals less about unknown animals than about how images are presented. The picture gained much of its persuasive power through cropping, reproduction and the authority attached to the man who supposedly took it. When later investigations uncovered evidence of a small-scale hoax, the photograph became a case study in how weak visual evidence can survive for generations if context is removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Cropped Image Seemed to Show
 
-When most people think of the Surgeon’s Photograph, they picture a dark neck and head emerging from open water. The familiar version isolates the object and the surrounding ripples, encouraging viewers to imagine a substantial animal at some distance from the camera. Reproduced in newspapers, magazines and later television programmes, the image appeared simple and compelling: a clear shape with a recognisable neck-like outline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+When most people think of the Surgeon’s Photograph, they picture a dark neck and head emerging from open water. The familiar version isolates the object and the surrounding ripples, encouraging viewers to imagine a substantial animal at some distance from the camera. Reproduced in newspapers, magazines and later television programmes, the image appeared simple and compelling: a clear shape with a recognisable neck-like outline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-The photograph owed part of its credibility to its reported source. It was attributed to London surgeon and gynaecologist Robert Kenneth Wilson, whose professional status made the claim seem more trustworthy than a typical monster story. Wilson himself became so closely associated with the image that it acquired the name “the Surgeon’s Photograph”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Kenneth Wilson</span><span class="citation-popover-snippet">Robert Kenneth Wilson</span></span></span>
-
-A crucial detail was largely absent from popular reproductions: the wider scene. The version that circulated most widely removed much of the surrounding landscape and water. Viewers were therefore asked to judge the object without strong visual references for distance or size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
+The photograph owed part of its credibility to its reported source. It was attributed to London surgeon and gynaecologist Robert Kenneth Wilson, whose professional status made the claim seem more trustworthy than a typical monster story. Wilson himself became so closely associated with the image that it acquired the name “the Surgeon’s Photograph”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Kenneth Wilson</span><span class="citation-popover-snippet">Robert Kenneth Wilson</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS9Kju5FAJM" title="From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer">From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson</a></p><p class="youtube-embed-meta">Channel: A Thousand Words</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS9Kju5FAJM">Open on YouTube</a></p></div></div></div>
 
 ## How Scale Changed the Interpretation
 
-The power of the photograph changed dramatically when researchers revisited uncropped versions and analysed the original image more closely. The wider frame showed that the alleged monster occupied only a small part of the scene. Once more of the loch became visible, the object looked far less imposing than it did in the tightly cropped image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+The power of the photograph changed dramatically when researchers revisited uncropped versions and analysed the original image more closely. The wider frame showed that the alleged monster occupied only a small part of the scene. Once more of the loch became visible, the object looked far less imposing than it did in the tightly cropped image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-This mattered because scale is one of the hardest things to judge in photographs, especially on water. Without nearby objects for comparison, viewers can easily assume that a small object is much larger than it really is. The cropped photograph encouraged exactly that mistake. Later analysis suggested that the ripples matched disturbances produced by a relatively small object rather than waves surrounding a giant animal. Investigators examining the full image estimated that the object itself may have been only around 60 centimetres long. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+This mattered because scale is one of the hardest things to judge in photographs, especially on water. Without nearby objects for comparison, viewers can easily assume that a small object is much larger than it really is. The cropped photograph encouraged exactly that mistake. Later analysis suggested that the ripples matched disturbances produced by a relatively small object rather than waves surrounding a giant animal. Investigators examining the full image estimated that the object itself may have been only around 60 centimetres long.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-The case demonstrates a broader lesson about cryptid photography. A photograph does not merely record a scene; it frames one. Cropping can remove context, alter perceived distance and change the apparent relationship between an object and its environment. In the Surgeon’s Photograph, the difference between the familiar image and the wider view transformed a seemingly large creature into something that could plausibly be a small model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The case demonstrates a broader lesson about cryptid photography. A photograph does not merely record a scene; it frames one. Cropping can remove context, alter perceived distance and change the apparent relationship between an object and its environment. In the Surgeon’s Photograph, the difference between the familiar image and the wider view transformed a seemingly large creature into something that could plausibly be a small model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hoax Still Matters
 
-The photograph’s reputation began to unravel long before the public widely accepted it as a fake. Sceptics had questioned its scale and authenticity for decades. However, the turning point came when information emerged linking the image to a revenge scheme involving Marmaduke Wetherell, a former Loch Ness investigator who had been embarrassed after earlier “monster [footprints]({{ 'footprints/' | relative_url }})” were exposed as fraudulent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishonlinearchives.com">[British Online Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishonlinearchives.com</span><span class="citation-popover-snippet">British Online Archives90 years: The first photo of the Loch Ness Monster12 Nov 2023 — The truth was that Wilson&#x27;s image had been an elab...</span></span></span>
+The photograph’s reputation began to unravel long before the public widely accepted it as a fake. Sceptics had questioned its scale and authenticity for decades. However, the turning point came when information emerged linking the image to a revenge scheme involving Marmaduke Wetherell, a former Loch Ness investigator who had been embarrassed after earlier “monster [footprints]({{'footprints/' | relative_url }})” were exposed as fraudulent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishonlinearchives.com">[British Online Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishonlinearchives.com</span><span class="citation-popover-snippet">British Online Archives90 years: The first photo of the Loch Ness Monster12 Nov 2023 — The truth was that Wilson&#x27;s image had been an elab...</span></span></span>
 
-Accounts published in the 1990s described how a small model head and neck were attached to a toy submarine and photographed near shore. Christian Spurling, who participated in the project, later stated that the image had been staged. According to these accounts, Wilson’s role helped provide respectability, while the photograph itself concealed the model’s true size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donttakepictures.com">[Don&#x27;t Take Pictures+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donttakepictures.com</span><span class="citation-popover-title">the loch ness monster turns 83 the story of the surgeons photograph</span><span class="citation-popover-snippet">Don&#x27;t Take PicturesThe Loch Ness Monster Turns 83: The Story of...19 Apr 2017 — After Spurling revealed the photograph as a hoax, he exp...</span></span></span>
+Accounts published in the 1990s described how a small model head and neck were attached to a toy submarine and photographed near shore. Christian Spurling, who participated in the project, later stated that the image had been staged. According to these accounts, Wilson’s role helped provide respectability, while the photograph itself concealed the model’s true size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donttakepictures.com">[Don&#x27;t Take Pictures+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donttakepictures.com</span><span class="citation-popover-title">the loch ness monster turns 83 the story of the surgeons photograph</span><span class="citation-popover-snippet">Don&#x27;t Take PicturesThe Loch Ness Monster Turns 83: The Story of...19 Apr 2017 — After Spurling revealed the photograph as a hoax, he exp...</span></span></span>
 
-Although a few disputes have continued over details of the confession and reconstruction, the broad conclusion accepted by most historians, sceptics and Loch Ness researchers is that the photograph was not evidence of an unknown creature. Instead, it was an elaborate deception that succeeded because presentation amplified ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+Although a few disputes have continued over details of the confession and reconstruction, the broad conclusion accepted by most historians, sceptics and Loch Ness researchers is that the photograph was not evidence of an unknown creature. Instead, it was an elaborate deception that succeeded because presentation amplified ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-The significance of the hoax extends beyond Loch Ness. The image became a warning about several recurring problems in cryptid evidence:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+The significance of the hoax extends beyond Loch Ness. The image became a warning about several recurring problems in cryptid evidence:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Authority bias:** a claim may seem stronger because of who presents it rather than what the evidence shows.
 * **Loss of context:** cropped or selectively reproduced images can hide critical information.
 * **Scale illusions:** objects on water are particularly difficult to size accurately.
 * **Narrative reinforcement:** once a photograph becomes famous, later audiences often encounter the story before they examine the image itself.
-* **Longevity of weak evidence:** a dramatic picture can remain influential long after serious doubts emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-</div>
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmiBt5VdMgQ" title="We Finally Solved The Loch Ness Monster Mystery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer">We Finally Solved The Loch Ness Monster Mystery!</a></p><p class="youtube-embed-meta">Channel: Origins Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmiBt5VdMgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmiBt5VdMgQ">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNhz89rZ63Q" title="Loch Ness Monster: The Shocking Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNhz89rZ63Q" target="_blank" rel="noopener noreferrer">Loch Ness Monster: The Shocking Truth</a></p><p class="youtube-embed-meta">Channel: Very Nearly Interesting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNhz89rZ63Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNhz89rZ63Q">Open on YouTube</a></p></div></div></div>
 
 ## The Lasting Lesson for Cryptid Photography
 
-The Surgeon’s Photograph remains important not because it provides evidence for Nessie, but because it illustrates how visual claims should be evaluated. A small, ambiguous object became one of the most famous cryptid images in history through careful framing, repeated reproduction and the absence of obvious scale references. When the wider context reappeared, the photograph’s [meaning]({{ 'meaning/' | relative_url }}) changed substantially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+The Surgeon’s Photograph remains important not because it provides evidence for Nessie, but because it illustrates how visual claims should be evaluated. A small, ambiguous object became one of the most famous cryptid images in history through careful framing, repeated reproduction and the absence of obvious scale references. When the wider context reappeared, the photograph’s [meaning]({{'meaning/' | relative_url }}) changed substantially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-For anyone assessing blurry photographs of alleged cryptids, the central lesson is straightforward: before asking whether an image shows an unknown creature, ask what has been left outside the frame. The history of the Surgeon’s Photograph shows that context can be as important as the subject itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Tiny Photo That Became Nessie. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Examines how weak evidence becomes enduring legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Mystery Solved on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eApHAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Mystery Solved" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Mystery Solved">The Loch Ness Mystery Solved</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Binns, R. J. Bell</p>
-        
-        <p class="fr-book-desc">Directly relevant to the Surgeon&#x27;s Photograph and its legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
-        
-        <p class="fr-book-desc">Explores photographic interpretation and scale issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photo Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tonADQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Photo Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photo Forensics">Photo Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Hany Farid</p>
-        
-        <p class="fr-book-desc">Shows how presentation can affect interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Mystery Solved</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Monster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW"><img src="{{ '/assets/images/marketplace-covers/3a8f871062374d58014e.jpg' | relative_url }}" alt="Listing image for Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search <span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure"><img src="{{ '/assets/images/marketplace-covers/ed6e27beb93090006659.jpg' | relative_url }}" alt="Listing image for APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search <span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift"><img src="{{ '/assets/images/marketplace-covers/d8b1dca31f22989732b7.jpg' | relative_url }}" alt="Listing image for Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search <span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP"><img src="{{ '/assets/images/marketplace-covers/1cdee832d7eec2ef1d36.jpg' | relative_url }}" alt="Listing image for LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search <span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+For anyone assessing blurry photographs of alleged cryptids, the central lesson is straightforward: before asking whether an image shows an unknown creature, ask what has been left outside the frame. The history of the Surgeon’s Photograph shows that context can be as important as the subject itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-dark.svg" | relative_url }}" alt="Surgeon Photo illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf_surgeons_photo_lesso_94acdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to The Tiny Photo That Became Nessie. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Examines how weak evidence becomes enduring legend.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Mystery Solved on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eApHAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Mystery Solved" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Mystery Solved">The Loch Ness Mystery Solved</a></h4><p class="fr-book-author">By Ronald Binns, R. J. Bell</p><p class="fr-book-desc">Directly relevant to the Surgeon&#x27;s Photograph and its legacy.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved+by+Ronald+Binns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a></h4><p class="fr-book-author">By Steuart Campbell</p><p class="fr-book-desc">Explores photographic interpretation and scale issues.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photo Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tonADQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Photo Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photo Forensics">Photo Forensics</a></h4><p class="fr-book-author">By Hany Farid</p><p class="fr-book-desc">Shows how presentation can affect interpretation.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Mystery Solved</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Monster</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW"><img src="{{'/assets/images/marketplace-covers/3a8f871062374d58014e.jpg' | relative_url }}" alt="Listing image for Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">Apex Legends Green Nessie 10 Inch Soft Quality Plush Collectors Toy NEW</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search<span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure"><img src="{{'/assets/images/marketplace-covers/ed6e27beb93090006659.jpg' | relative_url }}" alt="Listing image for APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">APEX LEGENDS Nessie Plush 6-Inch Stuffed Collectible Figure</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search<span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift"><img src="{{'/assets/images/marketplace-covers/d8b1dca31f22989732b7.jpg' | relative_url }}" alt="Listing image for Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">Cuddle Cub Nessie Loch Ness Monster Plush Teddy Bear Toy 15cm Tall Newborn Gift</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search<span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP"><img src="{{'/assets/images/marketplace-covers/1cdee832d7eec2ef1d36.jpg' | relative_url }}" alt="Listing image for LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">LARGE NESSIE PLUSH CUDDLY TOY 18&quot; AVAILABLE WITH PERSONALISED TAG &amp; GIFT WRAP</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nessie plush">Search<span data-ebay-domain-label>eBay.co.uk</span>: nessie plush</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nessie+plush&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nessie plush" data-ebay-reference="surgeon-photo-the-tiny-photo-that-became-nessie-cryptozoology-nessie-plush" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,24 +349,24 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -581,7 +377,7 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -589,45 +385,43 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -643,10 +437,10 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -666,11 +460,11 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -679,16 +473,16 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,9 +496,9 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -723,110 +517,93 @@ For anyone assessing blurry photographs of alleged cryptids, the central lesson 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Robert Kenneth Wilson  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: M. A. Wetherell  
-   Link: <a href="https://en.wikipedia.org/wiki/M._A._Wetherell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/M._A._Wetherell</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/M._A._Wetherell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/M._A._Wetherell</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LochLoch is a word meaning &quot;lake&quot; or &quot;sea inlet&quot; in Scottish and Irish Gaelic, subsequently borrowed into English. In Irish contexts...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a><details class="endnote-snippet"><summary>Source snippet</summary><p>LochLoch is a word meaning &quot;lake&quot; or &quot;sea inlet&quot; in Scottish and Irish Gaelic, subsequently borrowed into English. In Irish contexts...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness monster, 1934 - a picture from the past23 Oct 2013 — One of the most famous photographic [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;), allegedly taken by the gyn...</p></details>
+   Link:<a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness monster, 1934 - a picture from the past23 Oct 2013 — One of the most famous photographic [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;), allegedly taken by the gyn...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britishonlinearchives.com  
-   Link: <a href="https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow">https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Online Archives90 years: The first photo of the Loch Ness Monster12 Nov 2023 — The truth was that Wilson&#x27;s image had been an elab...</p></details>
+   Link:<a href="https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow">https://britishonlinearchives.com/posts/category/notable-days/687/90-years-the-first-photo-of-the-loch-ness-monster</a><details class="endnote-snippet"><summary>Source snippet</summary><p>British Online Archives90 years: The first photo of the Loch Ness Monster12 Nov 2023 — The truth was that Wilson&#x27;s image had been an elab...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: donttakepictures.com  
    Title: the loch ness monster turns 83 the story of the surgeons photograph  
-   Link: <a href="https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph" target="_blank" rel="noopener noreferrer nofollow">https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Take PicturesThe Loch Ness Monster Turns 83: The Story of...19 Apr 2017 — After Spurling revealed the photograph as a hoax, he exp...</p></details>
+   Link:<a href="https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph" target="_blank" rel="noopener noreferrer nofollow">https://www.donttakepictures.com/dtp-blog/2017/4/19/the-loch-ness-monster-turns-83-the-story-of-the-surgeons-photograph</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Take PicturesThe Loch Ness Monster Turns 83: The Story of...19 Apr 2017 — After Spurling revealed the photograph as a hoax, he exp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/loch" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/loch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning19 May 2026 — The meaning of LOCH is lake...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/loch" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/loch</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning19 May 2026 — The meaning of LOCH is lake...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Beautiful Lochs in Scotland | VisitScotland3 days ago — Check out our list of beautiful lochs in Scotland for relaxing break ideas. In...</p></details>
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a><details class="endnote-snippet"><summary>Source snippet</summary><p>11 Beautiful Lochs in Scotland | VisitScotland3 days ago — Check out our list of beautiful lochs in Scotland for relaxing break ideas. In...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cortissonderegger.ch  
-   Link: <a href="https://www.cortissonderegger.ch/nessie" target="_blank" rel="noopener noreferrer nofollow">https://www.cortissonderegger.ch/nessie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NessieAnalysis of the image has confirmed a number of discrepancies indicating that the picture is a hoax. All [photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) in the ICONS series...</p></details>
+   Link:<a href="https://www.cortissonderegger.ch/nessie" target="_blank" rel="noopener noreferrer nofollow">https://www.cortissonderegger.ch/nessie</a><details class="endnote-snippet"><summary>Source snippet</summary><p>NessieAnalysis of the image has confirmed a number of discrepancies indicating that the picture is a hoax. All [photos](&amp;#123;&amp;#123; &#x27;photos/&#x27; | relative_url &amp;#125;&amp;#125;) in the ICONS series...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: in april 1934 a dramatic photograph taken by dr rk wilson was published in newsp  
-   Link: <a href="https://www.facebook.com/HistoryExtra/posts/in-april-1934-a-dramatic-photograph-taken-by-dr-rk-wilson-was-published-in-newsp/773675148126590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryExtra/posts/in-april-1934-a-dramatic-photograph-taken-by-dr-rk-wilson-was-published-in-newsp/773675148126590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In April 1934, a dramatic photograph taken by Dr RK...The hoax revolves around a photograph, commonly known as the Surgeon&#x27;s Photograph...</p></details>
+   Link:<a href="https://www.facebook.com/HistoryExtra/posts/in-april-1934-a-dramatic-photograph-taken-by-dr-rk-wilson-was-published-in-newsp/773675148126590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryExtra/posts/in-april-1934-a-dramatic-photograph-taken-by-dr-rk-wilson-was-published-in-newsp/773675148126590/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>In April 1934, a dramatic photograph taken by Dr RK...The hoax revolves around a photograph, commonly known as the Surgeon&#x27;s Photograph...</p></details>
    Published: april 1934  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: this photograph was taken by f c adams and was originally published by the daily  
-   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/this-photograph-was-taken-by-f-c-adams-and-was-originally-published-by-the-daily/1115164903953017/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/this-photograph-was-taken-by-f-c-adams-and-was-originally-published-by-the-daily/1115164903953017/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This photograph was taken by F. C. Adams and...21 April 1934. The &#x27;Surgeon&#x27;s Photograph&#x27; of the alleged Loch Ness Monster was published...</p></details>
+   Link:<a href="https://www.facebook.com/CryptozoologyFacts/posts/this-photograph-was-taken-by-f-c-adams-and-was-originally-published-by-the-daily/1115164903953017/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/this-photograph-was-taken-by-f-c-adams-and-was-originally-published-by-the-daily/1115164903953017/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This photograph was taken by F. C. Adams and...21 April 1934. The &#x27;Surgeon&#x27;s Photograph&#x27; of the alleged Loch Ness Monster was published...</p></details>
    Published: April 1934  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/wherewasthistaken/comments/1ft4ixq/the_surgeons_photograph_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wherewasthistaken/comments/1ft4ixq/the_surgeons_photograph_serious/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Surgeon&#x27;s Photograph (serious): r/wherewasthistakenAnalysis of Loch Ness Monster hoax theories. Clear search. Ask... Apparently, it...</p></details>
+   Link:<a href="https://www.reddit.com/r/wherewasthistaken/comments/1ft4ixq/the_surgeons_photograph_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wherewasthistaken/comments/1ft4ixq/the_surgeons_photograph_serious/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Surgeon&#x27;s Photograph (serious): r/wherewasthistakenAnalysis of Loch Ness Monster hoax theories. Clear search. Ask... Apparently, it...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: The Surgeon's Photograph as published in a Newspaper  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1p14ait/the_surgeons_photograph_1934_left_the_surgeons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1p14ait/the_surgeons_photograph_1934_left_the_surgeons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But in the 90s it was admitted to be a hoax. Someone had used a toy submarine and sculpted the head and attached it to the toy. The whole...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1p14ait/the_surgeons_photograph_1934_left_the_surgeons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1p14ait/the_surgeons_photograph_1934_left_the_surgeons/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>But in the 90s it was admitted to be a hoax. Someone had used a toy submarine and sculpted the head and attached it to the toy. The whole...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: File:Loch Ness Monster Surgeon's photograph.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ALoch_Ness_Monster_Surgeon%27s_photograph.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ALoch_Ness_Monster_Surgeon%27s_photograph.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Loch Ness Monster Surgeon&#x27;s photograph.jpg21 Oct 2025 — Wilson&#x27;s photographs were shown, decided the pictures were not...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ALoch_Ness_Monster_Surgeon%27s_photograph.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ALoch_Ness_Monster_Surgeon%27s_photograph.jpg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Loch Ness Monster Surgeon&#x27;s photograph.jpg21 Oct 2025 — Wilson&#x27;s photographs were shown, decided the pictures were not...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: From Myth to Hoax | Episode 38: The Surgeon's Photo, Robert  
-   Link: <a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HS9Kju5FAJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster, taken by Robert Wilson in 1934, is one of the most iconic images in cryptid history. Though it has since been debunked as...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HS9Kju5FAJM</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster, taken by Robert Wilson in 1934, is one of the most iconic images in cryptid history. Though it has since been debunked as...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lochnessmystery.blogspot.com  
    Title: some thoughts on surgeons photograph  
-   Link: <a href="https://lochnessmystery.blogspot.com/2013/01/some-thoughts-on-surgeons-photograph.html" target="_blank" rel="noopener noreferrer nofollow">https://lochnessmystery.blogspot.com/2013/01/some-thoughts-on-surgeons-photograph.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Thoughts on The Surgeon&#x27;s Photograph14 Jan 2013 — This photograph was exposed as a hoax by Alastair Boyd and David Martin in their e...</p></details>
+   Link:<a href="https://lochnessmystery.blogspot.com/2013/01/some-thoughts-on-surgeons-photograph.html" target="_blank" rel="noopener noreferrer nofollow">https://lochnessmystery.blogspot.com/2013/01/some-thoughts-on-surgeons-photograph.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Some Thoughts on The Surgeon&#x27;s Photograph14 Jan 2013 — This photograph was exposed as a hoax by Alastair Boyd and David Martin in their e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/The-Surgeons-photograph-and-other-representations-of-the-Loch-Ness-Monster-Clockwise_fig1_381382759" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-Surgeons-photograph-and-other-representations-of-the-Loch-Ness-Monster-Clockwise_fig1_381382759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreted by many as evidence that the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/The-Surgeons-photograph-and-other-representations-of-the-Loch-Ness-Monster-Clockwise_fig1_381382759" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-Surgeons-photograph-and-other-representations-of-the-Loch-Ness-Monster-Clockwise_fig1_381382759</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreted by many as evidence that the...Read more...</p></details>

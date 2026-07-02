@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 22:28:29'
+date:'2026-07-01 22:28:29'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,15 +448,12 @@ image: /assets/images/cryptozoology_99365b_field_investigation_7e6e81-overview-s
 
 ## Introduction
 
-Responsible cryptid fieldwork does not start with belief. It starts with preserving what can be checked: the time, place, conditions, photographs, physical traces, witness sequence and ordinary alternatives. In [cryptozoology]({{ 'cryptozoology/' | relative_url }}), most famous claims remain unverified, but a well-documented animal report can still be useful if it lets other people test whether the event was a known animal, a hoax, a weather or light effect, a mistaken trackway, or, more rarely, evidence worth escalating to wildlife specialists. The difference between a campfire story and a usable field report is not excitement; it is [documentation]({{ 'documentation/' | relative_url }}).
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-overview.webp" | relative_url }}" alt="Overview image for Field Basics" loading="eager" decoding="sync" fetchpriority="high">
-The basic rule is simple: record first, interpret later. Wildlife observation platforms define a useful observation as an encounter with an organism, or recent evidence of one, at a particular time and [location]({{ 'location/' | relative_url }}), including signs such as [tracks]({{ 'tracks/' | relative_url }}), nests, scat or remains. That standard is a helpful starting point for cryptid claims because it shifts the question from “What do I think I saw?” to “What exactly can be independently examined?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.inaturalist.org">[iNaturalist Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.inaturalist.org</span><span class="citation-popover-title">151000169927 what is an observation</span><span class="citation-popover-snippet">iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</span></span></span>
+Responsible cryptid fieldwork does not start with belief. It starts with preserving what can be checked: the time, place, conditions, photographs, physical traces, witness sequence and ordinary alternatives. In [cryptozoology]({{'cryptozoology/' | relative_url }}), most famous claims remain unverified, but a well-documented animal report can still be useful if it lets other people test whether the event was a known animal, a hoax, a weather or light effect, a mistaken trackway, or, more rarely, evidence worth escalating to wildlife specialists. The difference between a campfire story and a usable field report is not excitement; it is [documentation]({{'documentation/' | relative_url }}).<img src="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-overview.webp" | relative_url }}" alt="Overview image for Field Basics" loading="eager" decoding="sync" fetchpriority="high">
+The basic rule is simple: record first, interpret later. Wildlife observation platforms define a useful observation as an encounter with an organism, or recent evidence of one, at a particular time and [location]({{'location/' | relative_url }}), including signs such as [tracks]({{'tracks/' | relative_url }}), nests, scat or remains. That standard is a helpful starting point for cryptid claims because it shifts the question from “What do I think I saw?” to “What exactly can be independently examined?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.inaturalist.org">[iNaturalist Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.inaturalist.org</span><span class="citation-popover-title">151000169927 what is an observation</span><span class="citation-popover-snippet">iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</span></span></span>
 
 ## Record the scene before the story hardens
 
-The first minutes after a strange animal report are often the most important. Memory begins to organise the event into a story, people influence one another, tracks degrade, weather changes, and phone [photos]({{ 'photos/' | relative_url }}) get cropped, forwarded or stripped of metadata. A responsible investigator therefore separates the raw record from later interpretation.
+The first minutes after a strange animal report are often the most important. Memory begins to organise the event into a story, people influence one another, tracks degrade, weather changes, and phone [photos]({{'photos/' | relative_url }}) get cropped, forwarded or stripped of metadata. A responsible investigator therefore separates the raw record from later interpretation.
 
 A useful initial record should capture:
 
@@ -465,9 +462,9 @@ A useful initial record should capture:
 * **Observer position and direction:** where the witness stood, where the animal or sign was seen, and the direction of travel or movement.
 * **Weather and light:** rain, snow, fog, wind, temperature, cloud, moonlight, glare, torchlight, vehicle headlights or camera flash.
 * **Distance and duration:** estimated distance to the animal or track, how long it was visible, and whether anything blocked the view.
-* **Witness sequence:** what was noticed first, what happened next, who spoke to whom, and whether [witnesses]({{ 'witnesses/' | relative_url }}) discussed the event before giving separate accounts.
+* **Witness sequence:** what was noticed first, what happened next, who spoke to whom, and whether [witnesses]({{'witnesses/' | relative_url }}) discussed the event before giving separate accounts.
 
-This is not special pleading for cryptozoology; it is ordinary field discipline. Wildlife investigation and enforcement guidance commonly stresses recording date, time, GPS location, weather and site details because later interpretation depends on those basics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpforest.gov.in">[hpforest.gov.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpforest.gov.in</span><span class="citation-popover-snippet">wildlife crime scene management and forensic evidence...15 Jul 2023 — basic details such as date, time, GPS location, weather etc...</span></span></span> For cryptid claims, those details matter even more because the claim is usually unusual and the evidence is usually fragile.
+This is not special pleading for cryptozoology; it is ordinary field discipline. Wildlife investigation and enforcement guidance commonly stresses recording date, time, GPS location, weather and site details because later interpretation depends on those basics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpforest.gov.in">[hpforest.gov.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpforest.gov.in</span><span class="citation-popover-snippet">wildlife crime scene management and forensic evidence...15 Jul 2023 — basic details such as date, time, GPS location, weather etc...</span></span></span> For cryptid claims, those details matter even more because the claim is usually unusual and the evidence is usually fragile.
 
 The most damaging habit is to begin with a label: “Bigfoot track”, “lake monster wake”, “black panther print”, “unknown primate hair”. The label can bias every later decision. Better field notes say: “single elongated track in wet silt, 31 cm long, five apparent toe marks, found at 07:40 beside stream after overnight rain.” That description may later prove to be a bear overprint, a human hoax, a distorted dog track, or something still unclear. At least it gives other people something to examine.
 
@@ -477,50 +474,36 @@ A cryptid claim without a reliable location is hard to test. A claim with a prec
 
 Location should be recorded at several levels. GPS coordinates are useful, but so are contextual notes: the nearest road, whether the site is public or private land, whether there are game trails, bins, orchards, fish runs, farms, campsites or rubbish sources nearby. For aquatic claims, record the shoreline position, water depth if known, current, wind direction, boat traffic and sightline. For sound reports, record the listener’s position, terrain, wind direction, nearby roads, machinery, livestock, birds and other people.
 
-Time is just as important. Camera traps and wildlife databases can be compromised by wrong timestamps; camera-trap researchers have reported recurring problems with incorrect or ambiguous date and time data, and camera-trap manuals emphasise checking date and time settings before deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Problem—Cameras often record incorrect or ambiguous timestamps. We have observed many issues resulting from the way camera traps record d...</span></span></span> A night photo with the wrong year, a trail camera left on daylight saving time, or a phone image copied through a messaging app can create a false timeline.
+Time is just as important. Camera traps and wildlife databases can be compromised by wrong timestamps; camera-trap researchers have reported recurring problems with incorrect or ambiguous date and time data, and camera-trap manuals emphasise checking date and time settings before deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Problem—Cameras often record incorrect or ambiguous timestamps. We have observed many issues resulting from the way camera traps record d...</span></span></span> A night photo with the wrong year, a trail camera left on daylight saving time, or a phone image copied through a messaging app can create a false timeline.
 
-For responsible cryptid work, the investigator should preserve original files wherever possible. Screenshots, compressed social-media copies and edited images may still be useful for discussion, but they should not be treated as primary evidence. The original file may contain embedded date, time and location metadata; naturalist platforms routinely use such metadata when it is present, though it can be missing or wrong if the camera settings or permissions were wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.inaturalist.org/t/geotagging-photos/66" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.inaturalist.org">[iNaturalist Community Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.inaturalist.org</span><span class="citation-popover-title">i Naturalist Community Forum Geotagging Photos</span><span class="citation-popover-snippet">i Naturalist Community Forum Geotagging Photos</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-dark.svg" | relative_url }}" alt="Field Basics illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For responsible cryptid work, the investigator should preserve original files wherever possible. Screenshots, compressed social-media copies and edited images may still be useful for discussion, but they should not be treated as primary evidence. The original file may contain embedded date, time and location metadata; naturalist platforms routinely use such metadata when it is present, though it can be missing or wrong if the camera settings or permissions were wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.inaturalist.org/t/geotagging-photos/66" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.inaturalist.org">[iNaturalist Community Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.inaturalist.org</span><span class="citation-popover-title">i Naturalist Community Forum Geotagging Photos</span><span class="citation-popover-snippet">i Naturalist Community Forum Geotagging Photos</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-dark.svg" | relative_url }}" alt="Field Basics illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Photograph for measurement, not drama
 
 The most common failed cryptid photograph is not necessarily fake; it is simply unmeasurable. A dark shape crossing a track, a ripple in a lake, a distant animal at dusk or a close-up of a footprint can be visually striking but scientifically weak if there is no scale, no location context and no way to reconstruct the camera position.
 
 Good photographic practice is deliberately plain. The aim is to let someone else measure, compare and question the image.
 
-For a track or ground sign, take:
-
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+For a track or ground sign, take:<div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **A wide scene photo** showing the track in relation to the path, bank, field edge, waterline or surrounding terrain.
 2. **A mid-range photo** showing the whole trackway, not just the best print.
 3. **Close-ups with scale** using a ruler, tape measure, field notebook, lens cap or other object of known size placed on the same plane as the print.
 4. **Oblique and overhead angles** because depth, slippage and toe impressions can disappear from one angle.
-5. **Photos before touching anything** and only then, if appropriate, photos after measuring or casting.
+5. **Photos before touching anything** and only then, if appropriate, photos after measuring or casting.</div>
 
-</div>
+Wildlife track guides stress that track identification depends on features such as size, shape, toe pattern, pads, claw marks and variation between individuals. They also warn, implicitly or explicitly, that tracks are not fixed signatures: substrate, gait, age, sex, speed and partial impressions can change appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.nmsu.edu/_circulars/CR561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.nmsu.edu">[NMSU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.nmsu.edu</span><span class="citation-popover-title">Publications Identifying and Preserving Wildlife Tracks</span><span class="citation-popover-snippet">Publications Identifying and Preserving Wildlife Tracks</span></span></span> For cryptid claims, that means a single “perfect” print is less persuasive than a documented trackway with stride, direction, substrate and surrounding context.
 
-Wildlife track guides stress that track identification depends on features such as size, shape, toe pattern, pads, claw marks and variation between individuals. They also warn, implicitly or explicitly, that tracks are not fixed signatures: substrate, gait, age, sex, speed and partial impressions can change appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.nmsu.edu/_circulars/CR561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.nmsu.edu">[NMSU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.nmsu.edu</span><span class="citation-popover-title">Publications Identifying and Preserving Wildlife Tracks</span><span class="citation-popover-snippet">Publications Identifying and Preserving Wildlife Tracks</span></span></span> For cryptid claims, that means a single “perfect” print is less persuasive than a documented trackway with stride, direction, substrate and surrounding context.
-
-Photographs of animals need the same discipline. Keep the original image. Do not digitally sharpen, enlarge, draw outlines or change contrast before saving an untouched copy. Record the camera or phone model, lens setting if known, zoom level if available, and whether the image is a still photo, frame from video, trail-camera capture or screenshot. If video exists, preserve the full clip, including the seconds before and after the apparent animal appears. Short clips cut at the most exciting moment often remove the context that would identify a known animal.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7DFBUVnJvDE" title="Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer">Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7DFBUVnJvDE">Open on YouTube</a></p></div></div></div>
+Photographs of animals need the same discipline. Keep the original image. Do not digitally sharpen, enlarge, draw outlines or change contrast before saving an untouched copy. Record the camera or phone model, lens setting if known, zoom level if available, and whether the image is a still photo, frame from video, trail-camera capture or screenshot. If video exists, preserve the full clip, including the seconds before and after the apparent animal appears. Short clips cut at the most exciting moment often remove the context that would identify a known animal.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7DFBUVnJvDE" title="Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer">Getting an Expert&#x27;s Take On the Evidence | Finding Bigfoot</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7DFBUVnJvDE">Open on YouTube</a></p></div></div></div>
 
 ## Handle samples as if contamination is the main suspect
 
-Hair, scat, feathers, tissue, bones, saliva on food, and environmental DNA [samples]({{ 'samples/' | relative_url }}) can sound more decisive than eyewitness testimony. They are also easy to contaminate, mislabel or overinterpret. A hair in a footprint is not automatically from the track-maker. A scat sample near a sighting is not automatically from the animal seen. A DNA result from a mixed or poorly handled sample may identify a person, dog, bear, deer, cow or laboratory contaminant rather than anything mysterious.
+Hair, scat, feathers, tissue, bones, saliva on food, and environmental DNA [samples]({{'samples/' | relative_url }}) can sound more decisive than eyewitness testimony. They are also easy to contaminate, mislabel or overinterpret. A hair in a footprint is not automatically from the track-maker. A scat sample near a sighting is not automatically from the animal seen. A DNA result from a mixed or poorly handled sample may identify a person, dog, bear, deer, cow or laboratory contaminant rather than anything mysterious.
 
-The strongest lesson from genetic testing of cryptid material is caution. In the Oxford-Lausanne Collateral Hominid Project, researchers solicited hair samples attributed to yeti, Bigfoot and related “anomalous primates”. After screening, they selected samples for genetic analysis and found that the tested hairs came from known living mammals rather than unknown primates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Contemporary reporting summarised the practical result bluntly: alleged Bigfoot and Yeti hairs mostly matched ordinary animals such as bears, wolves, cows, horses, raccoons and other known species. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian DNA analysis indicates Bigfoot may be a big fake</span><span class="citation-popover-snippet">The Guardian DNA analysis indicates Bigfoot may be a big fake</span></span></span>
+The strongest lesson from genetic testing of cryptid material is caution. In the Oxford-Lausanne Collateral Hominid Project, researchers solicited hair samples attributed to yeti, Bigfoot and related “anomalous primates”. After screening, they selected samples for genetic analysis and found that the tested hairs came from known living mammals rather than unknown primates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Contemporary reporting summarised the practical result bluntly: alleged Bigfoot and Yeti hairs mostly matched ordinary animals such as bears, wolves, cows, horses, raccoons and other known species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian DNA analysis indicates Bigfoot may be a big fake</span><span class="citation-popover-snippet">The Guardian DNA analysis indicates Bigfoot may be a big fake</span></span></span>
 
-That does not mean “never collect samples”. It means collect them in a way that preserves their value. Environmental DNA protocols for wildlife work emphasise avoiding contamination, changing gloves or equipment when contamination is suspected, cleaning equipment between sites, and tracking sample transfer from field to lab. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.fs.usda.gov">[USFS Research &amp; Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.fs.usda.gov</span><span class="citation-popover-title">USFS Research &amp; Developmente DNA Field Sampling Abbreviated Protocol</span><span class="citation-popover-snippet">USFS Research &amp; Developmente DNA Field Sampling Abbreviated Protocol</span></span></span> Wildlife evidence procedures likewise stress chain of custody: who collected the item, when, where, how it was stored, and who handled it afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fws.gov/policy-library/e1445fw3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fws.gov">[U.S. Fish and Wildlife Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fws.gov</span><span class="citation-popover-snippet">Fish and Wildlife ServiceProcedures for Evidence Collection, Handling, and Storage30 Apr 2019 — It provides minimum standards for the res...</span></span></span>
+That does not mean “never collect samples”. It means collect them in a way that preserves their value. Environmental DNA protocols for wildlife work emphasise avoiding contamination, changing gloves or equipment when contamination is suspected, cleaning equipment between sites, and tracking sample transfer from field to lab.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.fs.usda.gov">[USFS Research &amp; Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.fs.usda.gov</span><span class="citation-popover-title">USFS Research &amp; Developmente DNA Field Sampling Abbreviated Protocol</span><span class="citation-popover-snippet">USFS Research &amp; Developmente DNA Field Sampling Abbreviated Protocol</span></span></span> Wildlife evidence procedures likewise stress chain of custody: who collected the item, when, where, how it was stored, and who handled it afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fws.gov/policy-library/e1445fw3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fws.gov">[U.S. Fish and Wildlife Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fws.gov</span><span class="citation-popover-snippet">Fish and Wildlife ServiceProcedures for Evidence Collection, Handling, and Storage30 Apr 2019 — It provides minimum standards for the res...</span></span></span>
 
-For cryptid-related samples, the minimum responsible practice is:
-
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
+For cryptid-related samples, the minimum responsible practice is:<div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Use clean gloves and clean tools for each sample.
 * Photograph the sample in place before collecting it.
@@ -529,37 +512,30 @@ For cryptid-related samples, the minimum responsible practice is:
 * Keep separate samples separate; do not pool hairs, scat or soil from different points.
 * Label containers immediately, not later at home.
 * Keep a handling log from collection to storage to any laboratory submission.
-* Do not claim a sample is from a cryptid before testing; call it “hair found at reported site” or “scat found near trackway”.
+* Do not claim a sample is from a cryptid before testing; call it “hair found at reported site” or “scat found near trackway”.</div>
 
-</div>
-
-The wording matters. A lab can test a sample more usefully when the submission is precise and modest. “Unknown hair from fence wire, collected 2 metres from reported trackway” is better than “Bigfoot hair”, because the first description preserves the question while the second smuggles in the answer.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-dark.svg" | relative_url }}" alt="Field Basics illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The wording matters. A lab can test a sample more usefully when the submission is precise and modest. “Unknown hair from fence wire, collected 2 metres from reported trackway” is better than “Bigfoot hair”, because the first description preserves the question while the second smuggles in the answer.<img src="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-dark.svg" | relative_url }}" alt="Field Basics illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Check ordinary explanations before escalating the claim
 
 Scepticism in field investigation is not hostility; it is quality control. The investigator’s job is to find the best explanation, not the most unusual one. In cryptozoology, that usually means checking known animals, humans, weather, optics, sound distortion, hoaxes and local context before treating a report as anomalous.
 
-The most useful question is: “What would this look like if it were ordinary?” A bear standing or moving briefly on its hind legs can resemble a large upright figure at distance. Overlapping or degraded tracks can look larger and stranger than the animal that made them. Large otter, dog, deer, badger, bear, cattle and human tracks can all become misleading in mud, snow, sand or melting ice. Track guides show how much ordinary prints vary, including missing claw marks, partial toe marks, drag marks and substrate effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wildlifetrusts.org/how-identify/identify-tracks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wildlifetrusts.org">[The Wildlife Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wildlifetrusts.org</span><span class="citation-popover-snippet">Open source on wildlifetrusts.org.</span></span></span>
+The most useful question is: “What would this look like if it were ordinary?” A bear standing or moving briefly on its hind legs can resemble a large upright figure at distance. Overlapping or degraded tracks can look larger and stranger than the animal that made them. Large otter, dog, deer, badger, bear, cattle and human tracks can all become misleading in mud, snow, sand or melting ice. Track guides show how much ordinary prints vary, including missing claw marks, partial toe marks, drag marks and substrate effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wildlifetrusts.org/how-identify/identify-tracks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wildlifetrusts.org">[The Wildlife Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wildlifetrusts.org</span><span class="citation-popover-snippet">Open source on wildlifetrusts.org.</span></span></span>
 
-This is where cryptid reports can benefit from outside expertise. A local wildlife biologist, tracker, gamekeeper, ranger, zoo specialist, veterinarian or natural history society may recognise a pattern that a cryptid-focused group misses. On public platforms such as iNaturalist, observations are built around the combination of organism evidence, time, location, photos and community identification, which is valuable precisely because it invites correction rather than private confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.inaturalist.org">[iNaturalist Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.inaturalist.org</span><span class="citation-popover-title">151000169927 what is an observation</span><span class="citation-popover-snippet">iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</span></span></span>
+This is where cryptid reports can benefit from outside expertise. A local wildlife biologist, tracker, gamekeeper, ranger, zoo specialist, veterinarian or natural history society may recognise a pattern that a cryptid-focused group misses. On public platforms such as iNaturalist, observations are built around the combination of organism evidence, time, location, photos and community identification, which is valuable precisely because it invites correction rather than private confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.inaturalist.org">[iNaturalist Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.inaturalist.org</span><span class="citation-popover-title">151000169927 what is an observation</span><span class="citation-popover-snippet">iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</span></span></span>
 
-The Loch Ness environmental DNA survey is a useful example of ordinary explanations being tested rather than merely asserted. Researchers sampled Loch Ness water and compared recovered DNA against databases of known life. Public summaries of the 2019 results reported no evidence for prehistoric reptiles, large fish such as sturgeon, or other dramatic candidates, while eel DNA was abundant enough to keep mundane eel-based explanations in discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">Science Focus Loch Ness Monster DNA study reveals &#x27;plausible</span><span class="citation-popover-snippet">Science Focus Loch Ness Monster DNA study reveals &#x27;plausible</span></span></span> The important point for field practice is not “Nessie is an eel”; it is that a famous claim was reframed as a testable biological question.
+The Loch Ness environmental DNA survey is a useful example of ordinary explanations being tested rather than merely asserted. Researchers sampled Loch Ness water and compared recovered DNA against databases of known life. Public summaries of the 2019 results reported no evidence for prehistoric reptiles, large fish such as sturgeon, or other dramatic candidates, while eel DNA was abundant enough to keep mundane eel-based explanations in discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">Science Focus Loch Ness Monster DNA study reveals &#x27;plausible</span><span class="citation-popover-snippet">Science Focus Loch Ness Monster DNA study reveals &#x27;plausible</span></span></span> The important point for field practice is not “Nessie is an eel”; it is that a famous claim was reframed as a testable biological question.
 
 ## Use cameras carefully, and do not overread them
 
-Trail cameras are tempting in cryptid investigation because they seem objective. They can be useful, but only when deployed and logged properly. Camera traps are now central tools in wildlife monitoring, yet the professional literature repeatedly treats data management, metadata, false positives and deployment design as serious issues rather than technical afterthoughts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purews.inbo.be">[Purews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purews.inbo.be</span><span class="citation-popover-title">Purews Best Practices for Managing and Publishing Camera Trap Data</span><span class="citation-popover-snippet">Purews Best Practices for Managing and Publishing Camera Trap Data</span></span></span>
+Trail cameras are tempting in cryptid investigation because they seem objective. They can be useful, but only when deployed and logged properly. Camera traps are now central tools in wildlife monitoring, yet the professional literature repeatedly treats data management, metadata, false positives and deployment design as serious issues rather than technical afterthoughts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purews.inbo.be">[Purews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purews.inbo.be</span><span class="citation-popover-title">Purews Best Practices for Managing and Publishing Camera Trap Data</span><span class="citation-popover-snippet">Purews Best Practices for Managing and Publishing Camera Trap Data</span></span></span>
 
-A single camera pointed at a path for a weekend rarely says much. It may miss animals because of poor angle, wrong height, dead batteries, vegetation movement, rain, infrared reflection, human disturbance, bad placement or species behaviour. Conversely, it may generate ambiguous blobs, partial bodies, false triggers or misleading night images. Camera-trap research has shown the value of systematic image handling and automated classification, but also the need for careful verification because wildlife images can be numerous, uneven and difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1703.05830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+A single camera pointed at a path for a weekend rarely says much. It may miss animals because of poor angle, wrong height, dead batteries, vegetation movement, rain, infrared reflection, human disturbance, bad placement or species behaviour. Conversely, it may generate ambiguous blobs, partial bodies, false triggers or misleading night images. Camera-trap research has shown the value of systematic image handling and automated classification, but also the need for careful verification because wildlife images can be numerous, uneven and difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1703.05830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For responsible cryptid claims, a camera deployment log should include:
 
 * camera make and model;
 * exact GPS position;
-* height from ground;
-
-<div class="content-enhancement content-enhancement--decision" markdown="1">
+* height from ground;<div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * direction faced;
 * trigger settings;
@@ -568,50 +544,34 @@ For responsible cryptid claims, a camera deployment log should include:
 * battery status;
 * reason for choosing the location;
 * dates and times of checks;
-* whether bait, scent lure or food was used.
-
-</div>
+* whether bait, scent lure or food was used.</div>
 
 Bait and lures deserve special caution. They can attract known wildlife, alter behaviour, create misleading concentration of tracks, and complicate interpretation. If bait is used, it should be recorded openly. Hidden baiting or undocumented food sources can make a site look more mysterious than it is.
-
-There is also an ethical issue around location sharing. Conservation researchers have warned that public camera-trap images can expose sensitive wildlife locations, and that simple location obfuscation may not always protect vulnerable species from people using landscape clues and public data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2106.11236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Can poachers find animals from public camera trap images?</span><span class="citation-popover-snippet">arXiv Can poachers find animals from public camera trap images?</span></span></span> Cryptid investigators should therefore avoid publishing exact coordinates for rare, protected or disturbance-sensitive animals, nesting sites, dens or private land without permission.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HaLMQ2H6_PE" title="How to take pictures of animal tracks - Tips from a Wildlife Biologist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer">How to take pictures of animal tracks - Tips from a Wildlife Biologist</a></p><p class="youtube-embed-meta">Channel: Texas Parks and Wildlife</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HaLMQ2H6_PE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HaLMQ2H6_PE">Open on YouTube</a></p></div></div></div>
 
 ## Separate witness testimony from physical evidence
 
-Eyewitness reports are often the starting point for cryptid claims, but they should not be treated as the same kind of evidence as a tissue sample, clear photograph or repeatable trackway. A witness can be honest and still be mistaken. Distance, darkness, fear, expectation, fatigue, alcohol, group discussion, [folklore]({{ 'folklore/' | relative_url }}), online imagery and surprise can all shape perception.
+Eyewitness reports are often the starting point for cryptid claims, but they should not be treated as the same kind of evidence as a tissue sample, clear photograph or repeatable trackway. A witness can be honest and still be mistaken. Distance, darkness, fear, expectation, fatigue, alcohol, group discussion, [folklore]({{'folklore/' | relative_url }}), online imagery and surprise can all shape perception.
 
 A responsible interview should be calm, non-leading and early. Ask the witness to describe what happened before offering possible labels. “What did you see?” is better than “Did it look like Bigfoot?” “Which direction did it move?” is better than “Did it walk like an ape?” Separate witnesses should be interviewed separately before group discussion where possible. The investigator should record uncertainty rather than smoothing it away: “about waist high”, “I heard it for five seconds”, “I only saw the rear half”, “I assumed it was black but it may have been in shadow”.
 
-The report should distinguish:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+The report should distinguish:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Direct observation:** what the witness personally saw, heard, smelled or found.
 * **Inference:** what the witness thought it was.
 * **Later interpretation:** what others suggested after discussion.
 * **Physical evidence:** photos, tracks, hairs, scat, damaged vegetation, audio or video.
-* **Negative evidence:** what was not found, such as no tracks where tracks would be expected.
+* **Negative evidence:** what was not found, such as no tracks where tracks would be expected.</div>
 
-</div>
-
-Negative evidence is often neglected, but it matters. If a large animal supposedly crossed soft mud yet left no tracks, that does not automatically disprove the claim, but it changes the assessment. If an animal was reported near a road yet no dashcam, CCTV, livestock disturbance, dogs barking, carcasses or repeat sightings exist, that also matters. Responsible documentation records absence without turning it into ridicule.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-dark.svg" | relative_url }}" alt="Field Basics illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Negative evidence is often neglected, but it matters. If a large animal supposedly crossed soft mud yet left no tracks, that does not automatically disprove the claim, but it changes the assessment. If an animal was reported near a road yet no dashcam, CCTV, livestock disturbance, dogs barking, carcasses or repeat sightings exist, that also matters. Responsible documentation records absence without turning it into ridicule.<img src="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-dark.svg" | relative_url }}" alt="Field Basics illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_field_investigation_7e6e81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a cryptid report is actually useful
 
 Most cryptid claims will not prove a new species. That is not failure if the investigation produces a clearer answer. A report can still be useful when it identifies a known animal outside its expected range, documents an escaped exotic pet, records rare behaviour, flags a public safety issue, corrects a local rumour, or preserves a cultural account without misrepresenting it as zoological proof.
 
 A strong field report is not the one with the strangest conclusion. It is the one another investigator can audit. The best reports make it possible to say, “This was probably a bear”, “This was likely a hoax”, “This may be an escaped cat”, “This trackway is too degraded to identify”, or “This sample should be tested by a qualified lab.” In a field crowded with folklore, enthusiasm and internet amplification, that humility is valuable.
 
-The practical standard is therefore a decision cluster, not a single dramatic test:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+The practical standard is therefore a decision cluster, not a single dramatic test:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Can the time and location be independently checked?**
 * **Do original photos, video or audio files exist?**
@@ -619,226 +579,40 @@ The practical standard is therefore a decision cluster, not a single dramatic te
 * **Was the sample collected without obvious contamination?**
 * **Have known animals and environmental explanations been checked?**
 * **Can a neutral specialist review the material?**
-* **Is the conclusion phrased in proportion to the evidence?**
+* **Is the conclusion phrased in proportion to the evidence?**</div>
 
-</div>
-
-That last point is the heart of responsible cryptid investigation. A blurry image should not become “proof”. A track should not become a species. A hair should not become a hominid before testing. A sincere witness should not be mocked, but neither should sincerity be confused with verification.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_ksi4Ih_wU" title="How to Make Your Own Animal Track Cast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer">How to Make Your Own Animal Track Cast</a></p><p class="youtube-embed-meta">Channel: PA Game Commission</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_ksi4Ih_wU">Open on YouTube</a></p></div></div></div>
+That last point is the heart of responsible cryptid investigation. A blurry image should not become “proof”. A track should not become a species. A hair should not become a hominid before testing. A sincere witness should not be mocked, but neither should sincerity be confused with verification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_ksi4Ih_wU" title="How to Make Your Own Animal Track Cast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer">How to Make Your Own Animal Track Cast</a></p><p class="youtube-embed-meta">Channel: PA Game Commission</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_ksi4Ih_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_ksi4Ih_wU">Open on YouTube</a></p></div></div></div>
 
 ## A field-ready standard for responsible claims
 
 The simplest responsible protocol is to treat every cryptid claim as a wildlife report with an unusual hypothesis attached. The unusual hypothesis can remain on the table, but it should not control the evidence. Start with the location, conditions, original media and physical traces. Preserve samples cleanly. Ask witnesses neutral questions. Invite ordinary explanations first. Escalate only what survives basic checks.
 
-That approach will disappoint anyone who wants cryptozoology to be a shortcut to mystery. It is, however, the only approach that makes unusual animal reports more useful rather than less. Good fieldwork does not guarantee discovery. It does something more basic: it gives a claim enough structure that it can be tested, corrected, compared and, when necessary, set aside.
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Document a Cryptid Claim Responsibly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Focuses on evaluating evidence and ordinary explanations behind cryptid claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
-        
-        <p class="fr-book-desc">Explains how unusual animal reports should be investigated and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mammal Tracks &amp; Sign on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Suh0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mammal Tracks &amp; Sign" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mammal Tracks &amp; Sign">Mammal Tracks &amp; Sign</a>
-        </h4>
-        <p class="fr-book-author">By Mark Elbroch</p>
-        
-        <p class="fr-book-desc">Helps distinguish mystery evidence from known animal traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tracking and the Art of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking and the Art of Seeing">Tracking and the Art of Seeing</a>
-        </h4>
-        <p class="fr-book-author">By Paul Rezendes</p>
-        
-        <p class="fr-book-desc">Teaches careful field observation and documentation of animal signs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mammal Tracks &amp; Sign</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/d204fcdf020117f55381.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt"><img src="{{ '/assets/images/marketplace-covers/1e15df85d004c0f3697e.jpg' | relative_url }}" alt="Listing image for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+That approach will disappoint anyone who wants cryptozoology to be a shortcut to mystery. It is, however, the only approach that makes unusual animal reports more useful rather than less. Good fieldwork does not guarantee discovery. It does something more basic: it gives a claim enough structure that it can be tested, corrected, compared and, when necessary, set aside.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How to Document a Cryptid Claim Responsibly. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Focuses on evaluating evidence and ordinary explanations behind cryptid claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a></h4><p class="fr-book-author">By Darren Naish</p><p class="fr-book-desc">Explains how unusual animal reports should be investigated and assessed.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mammal Tracks &amp; Sign on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Suh0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mammal Tracks &amp; Sign" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mammal Tracks &amp; Sign">Mammal Tracks &amp; Sign</a></h4><p class="fr-book-author">By Mark Elbroch</p><p class="fr-book-desc">Helps distinguish mystery evidence from known animal traces.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign+by+Mark+Elbroch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tracking and the Art of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking and the Art of Seeing">Tracking and the Art of Seeing</a></h4><p class="fr-book-author">By Paul Rezendes</p><p class="fr-book-desc">Teaches careful field observation and documentation of animal signs.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Tracking+and+the+Art+of+Seeing+by+Paul+Rezendes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mammal+Tracks+%26+Sign&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mammal Tracks &amp; Sign</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{'/assets/images/marketplace-covers/d204fcdf020117f55381.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{'/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt"><img src="{{'/assets/images/marketplace-covers/1e15df85d004c0f3697e.jpg' | relative_url }}" alt="Listing image for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{'/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="field-basics-how-to-document-a-cryptid-claim-responsibly-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -852,24 +626,24 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -880,7 +654,7 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -888,45 +662,43 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -942,10 +714,10 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -965,11 +737,11 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -978,16 +750,16 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1001,9 +773,9 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -1022,239 +794,230 @@ That approach will disappoint anyone who wants cryptozoology to be a shortcut to
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: help.inaturalist.org  
    Title: 151000169927 what is an observation  
-   Link: <a href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</p></details>
+   Link:<a href="https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000169927-what-is-an-observation-</a><details class="endnote-snippet"><summary>Source snippet</summary><p>iNaturalist HelpWhat is an observation?5 Mar 2025 — An observation records an encounter with an individual organism, or recent evidence o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hpforest.gov.in  
-   Link: <a href="https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wildlife crime scene management and forensic evidence...15 Jul 2023 — basic details such as date, time, GPS location, weather etc...</p></details>
+   Link:<a href="https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hpforest.gov.in/storage/files/4/aboutus/wildlifefile15-07-2023-1689416227.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>wildlife crime scene management and forensic evidence...15 Jul 2023 — basic details such as date, time, GPS location, weather etc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fws.gov  
-   Link: <a href="https://www.fws.gov/policy-library/e1445fw3" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/policy-library/e1445fw3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish and Wildlife ServiceProcedures for Evidence Collection, Handling, and Storage30 Apr 2019 — It provides minimum standards for the res...</p></details>
+   Link:<a href="https://www.fws.gov/policy-library/e1445fw3" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/policy-library/e1445fw3</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Fish and Wildlife ServiceProcedures for Evidence Collection, Handling, and Storage30 Apr 2019 — It provides minimum standards for the res...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Problem—Cameras often record incorrect or ambiguous timestamps. We have observed many issues resulting from the way camera traps record d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6953665/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Problem—Cameras often record incorrect or ambiguous timestamps. We have observed many issues resulting from the way camera traps record d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forum.inaturalist.org  
    Title: i Naturalist Community Forum Geotagging Photos  
-   Link: <a href="https://forum.inaturalist.org/t/geotagging-photos/66" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/geotagging-photos/66</a>  
+   Link:<a href="https://forum.inaturalist.org/t/geotagging-photos/66" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/geotagging-photos/66</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: inaturalist.org  
    Title: 6020 getting started make observations from photos  
-   Link: <a href="https://www.inaturalist.org/posts/6020-getting-started-make-observations-from-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/posts/6020-getting-started-make-observations-from-photos</a>  
+   Link:<a href="https://www.inaturalist.org/posts/6020-getting-started-make-observations-from-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/posts/6020-getting-started-make-observations-from-photos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubs.nmsu.edu  
    Title: Publications Identifying and Preserving Wildlife Tracks  
-   Link: <a href="https://pubs.nmsu.edu/_circulars/CR561/" target="_blank" rel="noopener noreferrer nofollow">https://pubs.nmsu.edu/_circulars/CR561/</a>  
+   Link:<a href="https://pubs.nmsu.edu/_circulars/CR561/" target="_blank" rel="noopener noreferrer nofollow">https://pubs.nmsu.edu/_circulars/CR561/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: inaturalist.org  
-   Link: <a href="https://www.inaturalist.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/</a>  
+   Link:<a href="https://www.inaturalist.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1703.05830" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.05830</a>  
+   Link:<a href="https://arxiv.org/abs/1703.05830" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.05830</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Can poachers find animals from public camera trap images?  
-   Link: <a href="https://arxiv.org/abs/2106.11236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.11236</a>  
+   Link:<a href="https://arxiv.org/abs/2106.11236" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.11236</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: inaturalist.org  
    Title: 60932 inaturalist technicalities geotagging photos uploading observations etc  
-   Link: <a href="https://www.inaturalist.org/posts/60932-inaturalist-technicalities-geotagging-photos-uploading-observations-etc" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/posts/60932-inaturalist-technicalities-geotagging-photos-uploading-observations-etc</a>  
+   Link:<a href="https://www.inaturalist.org/posts/60932-inaturalist-technicalities-geotagging-photos-uploading-observations-etc" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/posts/60932-inaturalist-technicalities-geotagging-photos-uploading-observations-etc</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forum.inaturalist.org  
    Title: an observation with multiple photos taken on multiple dates  
-   Link: <a href="https://forum.inaturalist.org/t/an-observation-with-multiple-photos-taken-on-multiple-dates/38821" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/an-observation-with-multiple-photos-taken-on-multiple-dates/38821</a>  
+   Link:<a href="https://forum.inaturalist.org/t/an-observation-with-multiple-photos-taken-on-multiple-dates/38821" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/an-observation-with-multiple-photos-taken-on-multiple-dates/38821</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: inaturalist.org  
-   Link: <a href="https://www.inaturalist.org/pages/getting%2Bstarted" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/pages/getting%2Bstarted</a>  
+   Link:<a href="https://www.inaturalist.org/pages/getting%2Bstarted" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/pages/getting%2Bstarted</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forum.inaturalist.org  
    Title: when observations are photos of photos  
-   Link: <a href="https://forum.inaturalist.org/t/when-observations-are-photos-of-photos/5610" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/when-observations-are-photos-of-photos/5610</a>  
+   Link:<a href="https://forum.inaturalist.org/t/when-observations-are-photos-of-photos/5610" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/when-observations-are-photos-of-photos/5610</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forum.inaturalist.org  
    Title: uploading photos after observation  
-   Link: <a href="https://forum.inaturalist.org/t/uploading-photos-after-observation/21314" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/uploading-photos-after-observation/21314</a>  
+   Link:<a href="https://forum.inaturalist.org/t/uploading-photos-after-observation/21314" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/uploading-photos-after-observation/21314</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: forum.inaturalist.org  
    Title: uploading photos with uncertain times  
-   Link: <a href="https://forum.inaturalist.org/t/uploading-photos-with-uncertain-times/4048" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/uploading-photos-with-uncertain-times/4048</a>  
+   Link:<a href="https://forum.inaturalist.org/t/uploading-photos-with-uncertain-times/4048" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/uploading-photos-with-uncertain-times/4048</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: help.inaturalist.org  
    Title: 151000197160 how to make an observation with the inaturalist iphone app  
-   Link: <a href="https://help.inaturalist.org/en/support/solutions/articles/151000197160-how-to-make-an-observation-with-the-inaturalist-iphone-app" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000197160-how-to-make-an-observation-with-the-inaturalist-iphone-app</a>  
+   Link:<a href="https://help.inaturalist.org/en/support/solutions/articles/151000197160-how-to-make-an-observation-with-the-inaturalist-iphone-app" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000197160-how-to-make-an-observation-with-the-inaturalist-iphone-app</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forum.inaturalist.org  
    Title: what to do when i dont know the exact location of an observation  
-   Link: <a href="https://forum.inaturalist.org/t/what-to-do-when-i-dont-know-the-exact-location-of-an-observation/51554" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/what-to-do-when-i-dont-know-the-exact-location-of-an-observation/51554</a>  
+   Link:<a href="https://forum.inaturalist.org/t/what-to-do-when-i-dont-know-the-exact-location-of-an-observation/51554" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/what-to-do-when-i-dont-know-the-exact-location-of-an-observation/51554</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: forum.inaturalist.org  
    Title: how to post observations with accurate dates  
-   Link: <a href="https://forum.inaturalist.org/t/how-to-post-observations-with-accurate-dates/60746" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/how-to-post-observations-with-accurate-dates/60746</a>  
+   Link:<a href="https://forum.inaturalist.org/t/how-to-post-observations-with-accurate-dates/60746" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/how-to-post-observations-with-accurate-dates/60746</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: inaturalist.org  
-   Link: <a href="https://www.inaturalist.org/pages/archived%2Bhelp" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/pages/archived%2Bhelp</a>  
+   Link:<a href="https://www.inaturalist.org/pages/archived%2Bhelp" target="_blank" rel="noopener noreferrer nofollow">https://www.inaturalist.org/pages/archived%2Bhelp</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forum.inaturalist.org  
-   Link: <a href="https://forum.inaturalist.org/t/should-i-post-multiple-observations-of-same-species-or-possibly-same-individuals-at-same-location-at-different-hours-or-days/18928" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/should-i-post-multiple-observations-of-same-species-or-possibly-same-individuals-at-same-location-at-different-hours-or-days/18928</a>  
+   Link:<a href="https://forum.inaturalist.org/t/should-i-post-multiple-observations-of-same-species-or-possibly-same-individuals-at-same-location-at-different-hours-or-days/18928" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/should-i-post-multiple-observations-of-same-species-or-possibly-same-individuals-at-same-location-at-different-hours-or-days/18928</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: forum.inaturalist.org  
    Title: extract time and location creating an observation from photo  
-   Link: <a href="https://forum.inaturalist.org/t/extract-time-and-location-creating-an-observation-from-photo/25563" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/extract-time-and-location-creating-an-observation-from-photo/25563</a>  
+   Link:<a href="https://forum.inaturalist.org/t/extract-time-and-location-creating-an-observation-from-photo/25563" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/extract-time-and-location-creating-an-observation-from-photo/25563</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: help.inaturalist.org  
-   Link: <a href="https://help.inaturalist.org/en/support/solutions/articles/151000170784-how-to-make-an-observation-with-the-inaturalist-website-video-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000170784-how-to-make-an-observation-with-the-inaturalist-website-video-tutorial</a>  
+   Link:<a href="https://help.inaturalist.org/en/support/solutions/articles/151000170784-how-to-make-an-observation-with-the-inaturalist-website-video-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000170784-how-to-make-an-observation-with-the-inaturalist-website-video-tutorial</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: forum.inaturalist.org  
    Title: position of observation by observer or observed  
-   Link: <a href="https://forum.inaturalist.org/t/position-of-observation-by-observer-or-observed/43789" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/position-of-observation-by-observer-or-observed/43789</a>  
+   Link:<a href="https://forum.inaturalist.org/t/position-of-observation-by-observer-or-observed/43789" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/position-of-observation-by-observer-or-observed/43789</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: help.inaturalist.org  
    Title: 151000192921 how to make an observation  
-   Link: <a href="https://help.inaturalist.org/en/support/solutions/articles/151000192921-how-to-make-an-observation" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000192921-how-to-make-an-observation</a>  
+   Link:<a href="https://help.inaturalist.org/en/support/solutions/articles/151000192921-how-to-make-an-observation" target="_blank" rel="noopener noreferrer nofollow">https://help.inaturalist.org/en/support/solutions/articles/151000192921-how-to-make-an-observation</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: forum.inaturalist.org  
    Title: should i post old observations where i vaguely know the location  
-   Link: <a href="https://forum.inaturalist.org/t/should-i-post-old-observations-where-i-vaguely-know-the-location/25126" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/should-i-post-old-observations-where-i-vaguely-know-the-location/25126</a>  
+   Link:<a href="https://forum.inaturalist.org/t/should-i-post-old-observations-where-i-vaguely-know-the-location/25126" target="_blank" rel="noopener noreferrer nofollow">https://forum.inaturalist.org/t/should-i-post-old-observations-where-i-vaguely-know-the-location/25126</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ntca.gov.in  
-   Link: <a href="https://ntca.gov.in/assets/uploads/sops/Compendium_SOPs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntca.gov.in/assets/uploads/sops/Compendium_SOPs.pdf</a>  
+   Link:<a href="https://ntca.gov.in/assets/uploads/sops/Compendium_SOPs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntca.gov.in/assets/uploads/sops/Compendium_SOPs.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: time.com  
    Title: dna analysis debunks bigfoot myth points to unknown bear species  
-   Link: <a href="https://time.com/2948745/dna-analysis-debunks-bigfoot-myth-points-to-unknown-bear-species/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2948745/dna-analysis-debunks-bigfoot-myth-points-to-unknown-bear-species/</a>  
+   Link:<a href="https://time.com/2948745/dna-analysis-debunks-bigfoot-myth-points-to-unknown-bear-species/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2948745/dna-analysis-debunks-bigfoot-myth-points-to-unknown-bear-species/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wildlifetrusts.org  
-   Link: <a href="https://www.wildlifetrusts.org/how-identify/identify-tracks" target="_blank" rel="noopener noreferrer nofollow">https://www.wildlifetrusts.org/how-identify/identify-tracks</a>  
+   Link:<a href="https://www.wildlifetrusts.org/how-identify/identify-tracks" target="_blank" rel="noopener noreferrer nofollow">https://www.wildlifetrusts.org/how-identify/identify-tracks</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: The Guardian DNA analysis indicates Bigfoot may be a big fake  
-   Link: <a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
+   Link:<a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: research.fs.usda.gov  
    Title: USFS Research & Developmente DNA Field Sampling Abbreviated Protocol  
-   Link: <a href="https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf</a>  
+   Link:<a href="https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/sites/default/files/2023-02/rmrs-2019_edna_short_field_protocol.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: fws.gov  
-   Link: <a href="https://www.fws.gov/sites/default/files/documents/2026-04/process-for-non-traditional-sampling-program-sop-6-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/sites/default/files/documents/2026-04/process-for-non-traditional-sampling-program-sop-6-2026.pdf</a>  
+   Link:<a href="https://www.fws.gov/sites/default/files/documents/2026-04/process-for-non-traditional-sampling-program-sop-6-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/sites/default/files/documents/2026-04/process-for-non-traditional-sampling-program-sop-6-2026.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sciencefocus.com  
-   Title: Science Focus Loch Ness Monster DNA study reveals 'plausible'  
-   Link: <a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a>  
+   Title: Science Focus Loch Ness Monster DNA study reveals'plausible'  
+   Link:<a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: purews.inbo.be  
    Title: Purews Best Practices for Managing and Publishing Camera Trap Data  
-   Link: <a href="https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf</a>  
+   Link:<a href="https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://purews.inbo.be/ws/portalfiles/portal/100083468/best_practices_for_managing_and_publishing_camera_trap_data.en.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10499263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10499263/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10499263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10499263/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: adfg.alaska.gov  
-   Link: <a href="https://www.adfg.alaska.gov/static/education/educators/curricula/pdfs/tracks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adfg.alaska.gov/static/education/educators/curricula/pdfs/tracks.pdf</a>  
+   Link:<a href="https://www.adfg.alaska.gov/static/education/educators/curricula/pdfs/tracks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adfg.alaska.gov/static/education/educators/curricula/pdfs/tracks.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
    Title: loch ness monster could be a giant eel say scientists  
-   Link: <a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
+   Link:<a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: pestsmart.org.au  
    Title: location, time, date, site and camera code for.Read more  
-   Link: <a href="https://pestsmart.org.au/wp-content/uploads/sites/3/2020/06/CameraTrapManual_2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pestsmart.org.au/wp-content/uploads/sites/3/2020/06/CameraTrapManual_2012.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to camera trapping for wildlife surveys in...by P Meek · Cited by 248 — Set and check the settings on each of y...</p></details>
+   Link:<a href="https://pestsmart.org.au/wp-content/uploads/sites/3/2020/06/CameraTrapManual_2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pestsmart.org.au/wp-content/uploads/sites/3/2020/06/CameraTrapManual_2012.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to camera trapping for wildlife surveys in...by P Meek · Cited by 248 — Set and check the settings on each of y...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HSsIpDQ2Lbk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Bigfoot for a Month (Here&#x27;s what I found)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HSsIpDQ2Lbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HSsIpDQ2Lbk</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Bigfoot for a Month (Here&#x27;s what I found)...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Getting an Expert's Take On the Evidence | Finding Bigfoot  
-   Link: <a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7DFBUVnJvDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7DFBUVnJvDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7DFBUVnJvDE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Most Amazing Cryptozoology Findings | Lost Monster Files | Discovery...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DaFBgAHj86-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DaFBgAHj86-/</a>  
+   Link:<a href="https://www.instagram.com/reel/DaFBgAHj86-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DaFBgAHj86-/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reabic.net  
-   Link: <a href="https://www.reabic.net/journals/mbi/2020/Supplements/MBI_2020_LeBlanc_etal_Appendix_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reabic.net/journals/mbi/2020/Supplements/MBI_2020_LeBlanc_etal_Appendix_1.pdf</a>  
+   Link:<a href="https://www.reabic.net/journals/mbi/2020/Supplements/MBI_2020_LeBlanc_etal_Appendix_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reabic.net/journals/mbi/2020/Supplements/MBI_2020_LeBlanc_etal_Appendix_1.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: bfro.net  
-   Link: <a href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/</a>  
+   Link:<a href="https://www.bfro.net/gdb/" target="_blank" rel="noopener noreferrer nofollow">https://www.bfro.net/gdb/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: vetmeduni.ac.at  
-   Link: <a href="https://www.vetmeduni.ac.at/fileadmin/v/fiwi/Projekte/ALPBIONET/20171012_Beiglboeck_BasicsWildlifeForensicsHandout_sizereduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vetmeduni.ac.at/fileadmin/v/fiwi/Projekte/ALPBIONET/20171012_Beiglboeck_BasicsWildlifeForensicsHandout_sizereduced.pdf</a>  
+   Link:<a href="https://www.vetmeduni.ac.at/fileadmin/v/fiwi/Projekte/ALPBIONET/20171012_Beiglboeck_BasicsWildlifeForensicsHandout_sizereduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vetmeduni.ac.at/fileadmin/v/fiwi/Projekte/ALPBIONET/20171012_Beiglboeck_BasicsWildlifeForensicsHandout_sizereduced.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/317843086751551/posts/1345778423958007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/317843086751551/posts/1345778423958007/</a>  
+   Link:<a href="https://www.facebook.com/groups/317843086751551/posts/1345778423958007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/317843086751551/posts/1345778423958007/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/19efvyb/because_if_recent_studies_do_you_think_bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/19efvyb/because_if_recent_studies_do_you_think_bigfoot/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/19efvyb/because_if_recent_studies_do_you_think_bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/19efvyb/because_if_recent_studies_do_you_think_bigfoot/</a>  

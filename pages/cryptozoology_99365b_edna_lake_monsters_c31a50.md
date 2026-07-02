@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:54:28'
+date:'2026-07-01 19:54:28'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,11 +448,8 @@ image: /assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-overview-so
 
 ## Introduction
 
-Environmental DNA, usually shortened to eDNA, has changed what a lake monster search can responsibly claim. Instead of waiting for a clear photograph, a carcass, or a dramatic sonar contact, researchers can sample water and look for traces of DNA shed by fish, amphibians, birds, mammals, plants, microbes and anything else using the lake. For [cryptozoology]({{ 'cryptozoology/' | relative_url }}), that matters because it moves famous lake-monster claims from “people report something” towards “what animals does this lake actually contain?”
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-overview.webp" | relative_url }}" alt="Overview image for e DNA" loading="eager" decoding="sync" fetchpriority="high">
-The clearest case is Loch Ness. In 2018, an international team led by University of Otago geneticist Neil Gemmell took 250 water [samples]({{ 'samples/' | relative_url }}) from different parts and depths of the loch, then sequenced the DNA and compared it with global reference databases. The results did not find evidence for a plesiosaur-like reptile, giant catfish, [sturgeon]({{ 'sturgeon/' | relative_url }}) or shark, but they did find abundant eel DNA, leaving “large eels” as a more biologically plausible explanation for at least some sightings than prehistoric-survivor theories. eDNA does not prove that every monster story is false, but it sharply limits which explanations still fit the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago+2Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
+Environmental DNA, usually shortened to eDNA, has changed what a lake monster search can responsibly claim. Instead of waiting for a clear photograph, a carcass, or a dramatic sonar contact, researchers can sample water and look for traces of DNA shed by fish, amphibians, birds, mammals, plants, microbes and anything else using the lake. For [cryptozoology]({{'cryptozoology/' | relative_url }}), that matters because it moves famous lake-monster claims from “people report something” towards “what animals does this lake actually contain?”<img src="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-overview.webp" | relative_url }}" alt="Overview image for e DNA" loading="eager" decoding="sync" fetchpriority="high">
+The clearest case is Loch Ness. In 2018, an international team led by University of Otago geneticist Neil Gemmell took 250 water [samples]({{'samples/' | relative_url }}) from different parts and depths of the loch, then sequenced the DNA and compared it with global reference databases. The results did not find evidence for a plesiosaur-like reptile, giant catfish, [sturgeon]({{'sturgeon/' | relative_url }}) or shark, but they did find abundant eel DNA, leaving “large eels” as a more biologically plausible explanation for at least some sightings than prehistoric-survivor theories. eDNA does not prove that every monster story is false, but it sharply limits which explanations still fit the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago+2Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
 
 ## How eDNA turns a lake into a biological record
 
@@ -460,305 +457,96 @@ Every animal leaves genetic material behind. Skin cells, scales, mucus, faeces, 
 
 For lake monster searches, the appeal is obvious. A large unknown animal would not need to pose for a camera. If it lived, fed, bred or regularly moved through a lake, it should shed biological material like other animals. That makes eDNA especially useful for checking claims about hidden aquatic creatures, because water naturally mixes biological traces from places that are difficult, dangerous or expensive to survey directly.
 
-The method is not speculative; it is now widely used in biodiversity monitoring. National Park Service and US Geological Survey authors describe eDNA as a way to identify species present at the time of sample collection, while freshwater studies have shown that eDNA metabarcoding can detect fish communities in large lakes and sometimes reveal more species than conventional netting surveys. One major Windermere study detected 14 of 16 historically recorded fish species using eDNA, compared with four species in the most recent gill-net survey cited by the authors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/aps-19-1-6.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
+The method is not speculative; it is now widely used in biodiversity monitoring. National Park Service and US Geological Survey authors describe eDNA as a way to identify species present at the time of sample collection, while freshwater studies have shown that eDNA metabarcoding can detect fish communities in large lakes and sometimes reveal more species than conventional netting surveys. One major Windermere study detected 14 of 16 historically recorded fish species using eDNA, compared with four species in the most recent gill-net survey cited by the authors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/aps-19-1-6.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
 
-That sensitivity is why eDNA has become so attractive to scientifically minded cryptozoology. It does not depend on eyewitness judgement, [folklore]({{ 'folklore/' | relative_url }}), local reputation or dramatic footage. It produces a dataset that can be reanalysed, compared with later surveys, and checked against known biology. The Loch Ness Project described the 2018 work as involving shoreline, surface, mid-water and deep-water sampling at Loch Ness and three other lochs, with water filtered and processed after collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[Loch Ness Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-dark.svg" | relative_url }}" alt="e DNA illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That sensitivity is why eDNA has become so attractive to scientifically minded cryptozoology. It does not depend on eyewitness judgement, [folklore]({{'folklore/' | relative_url }}), local reputation or dramatic footage. It produces a dataset that can be reanalysed, compared with later surveys, and checked against known biology. The Loch Ness Project described the 2018 work as involving shoreline, surface, mid-water and deep-water sampling at Loch Ness and three other lochs, with water filtered and processed after collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[Loch Ness Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-dark.svg" | relative_url }}" alt="e DNA illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Loch Ness survey actually found
 
-The Loch Ness eDNA project was not just a “monster test”. It was also a biodiversity survey of one of Britain’s most famous bodies of freshwater. According to the University of Otago, the team took 250 samples “around, through the centre, and into the very depths” of Loch Ness, captured and sequenced DNA from each sample, and compared the results with global databases to build a picture of life in the loch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
+The Loch Ness eDNA project was not just a “monster test”. It was also a biodiversity survey of one of Britain’s most famous bodies of freshwater. According to the University of Otago, the team took 250 samples “around, through the centre, and into the very depths” of Loch Ness, captured and sequenced DNA from each sample, and compared the results with global databases to build a picture of life in the loch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
 
-The headline finding was negative for several popular monster theories. The survey did not find genetic evidence of large reptiles, including anything that would support the common plesiosaur-style image of [Nessie]({{ 'nessie/' | relative_url }}). Reporting from the announcement noted that reptilian DNA should have appeared somewhere near known reptile lineages if such animals were present, yet the sequences did not contain that signal. The survey also failed to support giant catfish, sturgeon or shark explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">loch ness monster dna study reveals plausible explanation for sightings</span><span class="citation-popover-snippet">Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</span></span></span>
+The headline finding was negative for several popular monster theories. The survey did not find genetic evidence of large reptiles, including anything that would support the common plesiosaur-style image of [Nessie]({{'nessie/' | relative_url }}). Reporting from the announcement noted that reptilian DNA should have appeared somewhere near known reptile lineages if such animals were present, yet the sequences did not contain that signal. The survey also failed to support giant catfish, sturgeon or shark explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">loch ness monster dna study reveals plausible explanation for sightings</span><span class="citation-popover-snippet">Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</span></span></span>
 
-What it did find was ordinary ecology, and that is the point. The survey detected fish, amphibians, birds, mammals, humans, livestock and microbes. Otago’s account emphasised that eDNA also captured land-based species associated with the surrounding catchment, including humans, dogs, sheep, cattle, deer, badgers, foxes, rabbits, voles and multiple bird species. That shows both the power and the complication of the method: a lake can collect DNA not only from animals living in the water, but also from the surrounding landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
-
-The most monster-relevant positive result was eel DNA. Researchers found a substantial eel signal, and Gemmell said the data left open the possibility that unusually large eels could explain some observations. This was not the same as proving a giant eel exists. eDNA can show that eel DNA is present, and sometimes indicate relative abundance or distribution, but it cannot directly measure the body length of the eel that shed it. A lake full of ordinary eels can produce a strong eel signal without containing a single monster-sized specimen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">loch ness monster dna study reveals plausible explanation for sightings</span><span class="citation-popover-snippet">Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</span></span></span>
-
+What it did find was ordinary ecology, and that is the point. The survey detected fish, amphibians, birds, mammals, humans, livestock and microbes. Otago’s account emphasised that eDNA also captured land-based species associated with the surrounding catchment, including humans, dogs, sheep, cattle, deer, badgers, foxes, rabbits, voles and multiple bird species. That shows both the power and the complication of the method: a lake can collect DNA not only from animals living in the water, but also from the surrounding landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4y62Pa4b28" title="Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer">Neil Gemmell - Environmental DNA for Biodiversity, Biosecurity, Global Health and Monster Hunting</a></p><p class="youtube-embed-meta">Channel: Genomics Aotearoa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4y62Pa4b28">Open on YouTube</a></p></div></div></div>
 
 ## What lake surveys can and cannot detect
 
-eDNA is powerful because it can detect traces from organisms that are hard to see or catch. It is also limited because it is an indirect method. A sample does not contain a whole animal; it contains fragments of genetic material shaped by [sampling design]({{ 'sampling-design/' | relative_url }}), water movement, degradation, laboratory sensitivity, [contamination]({{ 'contamination/' | relative_url }}) control and database coverage.
+eDNA is powerful because it can detect traces from organisms that are hard to see or catch. It is also limited because it is an indirect method. A sample does not contain a whole animal; it contains fragments of genetic material shaped by [sampling design]({{'sampling-design/' | relative_url }}), water movement, degradation, laboratory sensitivity, [contamination]({{'contamination/' | relative_url }}) control and database coverage.
 
-A useful way to read any lake-monster eDNA result is to separate four questions:
-
-
-<div class="content-enhancement content-enhancement--checklist" markdown="1">
+A useful way to read any lake-monster eDNA result is to separate four questions:<div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **Was the target animal shedding DNA where and when samples were taken?** A resident breeding population should be easier to detect than a rare visitor, a seasonal migrant or a single animal moving through a huge water body.
 * **Did the sampling plan cover the right places?** Deep basins, shorelines, inflows, outflows, sediment layers and open water may carry different DNA signals.
 * **Can the lab detect the relevant lineage?** Detection depends on primers, sequencing depth, contamination controls and the quality of reference databases.
-* **Does absence of DNA mean absence of the animal?** Not always. It means the survey did not detect a matching signal under its specific conditions.
+* **Does absence of DNA mean absence of the animal?** Not always. It means the survey did not detect a matching signal under its specific conditions.</div>
 
-</div>
-
-Scientific reviews of eDNA repeatedly stress this uncertainty. False negatives can occur when a species is present but its DNA is not captured in a field sample or falls below laboratory detection limits. False positives can arise from contamination, analytical errors, or DNA transported from elsewhere. Recent work on eDNA uncertainty argues that detection and non-detection should be modelled probabilistically rather than treated as perfect proof of presence or absence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: besjournals.onlinelibrary.wiley.com">[Biodiversity and Evolution+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">besjournals.onlinelibrary.wiley.com</span><span class="citation-popover-title">2041 210X.12743</span><span class="citation-popover-snippet">2041 210X.12743</span></span></span>
+Scientific reviews of eDNA repeatedly stress this uncertainty. False negatives can occur when a species is present but its DNA is not captured in a field sample or falls below laboratory detection limits. False positives can arise from contamination, analytical errors, or DNA transported from elsewhere. Recent work on eDNA uncertainty argues that detection and non-detection should be modelled probabilistically rather than treated as perfect proof of presence or absence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: besjournals.onlinelibrary.wiley.com">[Biodiversity and Evolution+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">besjournals.onlinelibrary.wiley.com</span><span class="citation-popover-title">2041 210X.12743</span><span class="citation-popover-snippet">2041 210X.12743</span></span></span>
 
 This matters for cryptozoology because a dramatic claim requires a careful evidential standard. If a lake monster is proposed as a population of large air-breathing reptiles, eDNA non-detection across extensive sampling is serious evidence against that idea. If the claim is a rare animal that enters only occasionally, a single negative survey is weaker. The more permanent, numerous, biologically active and lake-resident the proposed creature is, the more damaging a well-designed eDNA non-detection becomes.
 
-The method also depends on known reference sequences. If an animal is entirely unknown to science, eDNA may not return a neat species name. It might produce an unmatched or poorly resolved sequence, or assign it only to a broad group. But for famous lake-monster hypotheses such as plesiosaurs, giant catfish, sturgeon, sharks, seals, otters, amphibians or eels, researchers can still ask whether DNA appears close to known relatives. The absence of any reptile-like signal at Loch Ness is therefore more meaningful than a generic failure to find “monster DNA”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — His study sequenced DNA from 250 samples of Loch Ness wat...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-dark.svg" | relative_url }}" alt="e DNA illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The method also depends on known reference sequences. If an animal is entirely unknown to science, eDNA may not return a neat species name. It might produce an unmatched or poorly resolved sequence, or assign it only to a broad group. But for famous lake-monster hypotheses such as plesiosaurs, giant catfish, sturgeon, sharks, seals, otters, amphibians or eels, researchers can still ask whether DNA appears close to known relatives. The absence of any reptile-like signal at Loch Ness is therefore more meaningful than a generic failure to find “monster DNA”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — His study sequenced DNA from 250 samples of Loch Ness wat...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-dark.svg" | relative_url }}" alt="e DNA illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why eDNA narrows monster theories rather than ending folklore
 
 The strongest contribution of eDNA to lake monster searches is not that it “solves” every legend. It changes the shortlist of explanations. Before the Loch Ness survey, popular ideas included prehistoric reptiles, giant fish, sharks, catfish, sturgeon, seals, otters, eels, misidentified birds, floating debris, boat wakes and hoaxes. After the eDNA work, several animal hypotheses became much harder to defend for Loch Ness specifically.
 
 That is different from saying every sighting has the same explanation. A long-necked shape at the surface could be a bird, a line of birds, a swimming deer, a seal-like visitor, a wave pattern, a floating log, a boat wake, an eel, a camera artefact, a hoax, or a sincere misperception under poor viewing conditions. eDNA does not interpret old photographs or judge witness honesty. It tests whether the lake’s biological traces fit the idea of a hidden animal population.
 
-The eel result shows the difference between narrowing and proving. Eels are real residents of Loch Ness, and abundant eel DNA makes them a biologically grounded candidate for some elongated, moving shapes. But the eDNA survey did not show that Loch Ness contains eels of extraordinary size. A later statistical paper on the eel hypothesis argued from European eel catch data that extremely large eels become increasingly improbable as proposed size increases, meaning the eel explanation may be plausible for modest “large animal” reports but not for the most extravagant monster descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?</span><span class="citation-popover-snippet">Research Gate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?</span></span></span>
+The eel result shows the difference between narrowing and proving. Eels are real residents of Loch Ness, and abundant eel DNA makes them a biologically grounded candidate for some elongated, moving shapes. But the eDNA survey did not show that Loch Ness contains eels of extraordinary size. A later statistical paper on the eel hypothesis argued from European eel catch data that extremely large eels become increasingly improbable as proposed size increases, meaning the eel explanation may be plausible for modest “large animal” reports but not for the most extravagant monster descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?</span><span class="citation-popover-snippet">Research Gate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?</span></span></span>
 
-For cryptozoology, this is a healthy result. eDNA does not replace sceptical fieldwork, local ecological knowledge, sonar, photography, historical research or conventional biology. It forces each monster theory to become more specific. A claim can no longer rest on “something unknown might be there” when a lake has been sampled and its known animal signals are available for comparison.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uMN7on6ZKcQ" title="Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer">Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie</a></p><p class="youtube-embed-meta">Channel: University of Otago - Ōtākou Whakaihu Waka</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uMN7on6ZKcQ">Open on YouTube</a></p></div></div></div>
+For cryptozoology, this is a healthy result. eDNA does not replace sceptical fieldwork, local ecological knowledge, sonar, photography, historical research or conventional biology. It forces each monster theory to become more specific. A claim can no longer rest on “something unknown might be there” when a lake has been sampled and its known animal signals are available for comparison.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uMN7on6ZKcQ" title="Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer">Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie</a></p><p class="youtube-embed-meta">Channel: University of Otago - Ōtākou Whakaihu Waka</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uMN7on6ZKcQ">Open on YouTube</a></p></div></div></div>
 
 ## The future: repeated surveys, better databases, fewer escape hatches
 
 The future of lake monster searches is likely to look less like a single expedition and more like long-term ecological monitoring. One survey is a snapshot. Repeated eDNA sampling across seasons, years, depths and weather conditions would make the evidence stronger, especially in large lakes where DNA distribution varies with currents, stratification, inflows and animal behaviour.
 
-Better reference databases will also matter. Metabarcoding works by comparing sequences with known DNA records, so poor database coverage can limit identification. Fisheries and biodiversity studies increasingly call for more complete reference libraries, multi-marker assays and careful sampling design to improve reliability. In lake-monster contexts, this means future surveys should not simply ask whether an exciting animal appears; they should document all ordinary species well enough that any unusual signal stands out clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+Better reference databases will also matter. Metabarcoding works by comparing sequences with known DNA records, so poor database coverage can limit identification. Fisheries and biodiversity studies increasingly call for more complete reference libraries, multi-marker assays and careful sampling design to improve reliability. In lake-monster contexts, this means future surveys should not simply ask whether an exciting animal appears; they should document all ordinary species well enough that any unusual signal stands out clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-The Loch Ness case also suggests that monster searches can produce useful science even when they do not find monsters. Gemmell has described the survey as a way to showcase eDNA’s power for biodiversity monitoring, and Otago reported that the Loch Ness dataset could be compared with future tests to identify environmental trends and changes in the loch. That reframes the expedition from a yes-or-no monster hunt into a baseline survey of a culturally famous ecosystem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
+The Loch Ness case also suggests that monster searches can produce useful science even when they do not find monsters. Gemmell has described the survey as a way to showcase eDNA’s power for biodiversity monitoring, and Otago reported that the Loch Ness dataset could be compared with future tests to identify environmental trends and changes in the loch. That reframes the expedition from a yes-or-no monster hunt into a baseline survey of a culturally famous ecosystem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</span></span></span>
 
 A credible future lake-monster eDNA programme would therefore include:
 
-* repeated sampling, not just one [media]({{ 'media/' | relative_url }})-friendly expedition;
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
+* repeated sampling, not just one [media]({{'media/' | relative_url }})-friendly expedition;<div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * transparent sampling maps, depths, dates and laboratory controls;
 * multiple genetic markers rather than reliance on a single assay;
 * independent replication by different laboratories;
 * publication of methods and, where possible, sequence data;
-* comparison with conventional surveys, sonar, camera traps and local ecological records.
+* comparison with conventional surveys, sonar, camera traps and local ecological records.</div>
 
-</div>
-
-This approach would not drain the mystery from lake legends. It would separate the parts that belong to culture, tourism and storytelling from the parts that make testable biological claims.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-dark.svg" | relative_url }}" alt="e DNA illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This approach would not drain the mystery from lake legends. It would separate the parts that belong to culture, tourism and storytelling from the parts that make testable biological claims.<img src="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-dark.svg" | relative_url }}" alt="e DNA illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_edna_lake_monsters_c31a50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a negative eDNA result really means for cryptozoology
 
 A negative eDNA result is not a magic eraser. It does not prove that nobody ever saw anything unusual, and it does not prove that an animal was never present at any time in the past. It means that, under the survey’s design and detection limits, researchers did not find genetic evidence for the proposed animal.
 
 For a serious cryptozoological claim, that still matters. A lake large enough to hide a breeding population of giant animals should also contain food webs, waste, shed cells, carcass traces, reproductive material and repeated biological signals. If careful eDNA surveys repeatedly detect ordinary fish, amphibians, birds, mammals and human-associated species but never detect the lineage required by the monster theory, the burden shifts heavily back to the claimant.
 
-That is why eDNA is most useful as a narrowing tool. It cannot turn every absence into a final answer, but it can make some answers much less plausible. At Loch Ness, the future of the search is no longer mainly about whether a Jurassic reptile has escaped detection for millions of years. The evidence now points towards a more grounded set of possibilities: known animals seen under difficult conditions, unusual but not monstrous eels, occasional visitors, optical effects, wakes, folklore, hoaxes, and the powerful human habit of turning ambiguous shapes on dark water into stories.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can e DNA Solve Lake Monster Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly examines cryptozoology, evidence claims, and famous cryptids.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
-        </h4>
-        <p class="fr-book-author">By J. W. Ocker</p>
-        
-        <p class="fr-book-desc">Covers a wide range of cryptid legends and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Environmental DNA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oSJLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Environmental DNA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Environmental DNA">Environmental DNA</a>
-        </h4>
-        <p class="fr-book-author">By Pierre Taberlet, Aurélie Bonin et al.</p>
-        
-        <p class="fr-book-desc">Explains reference databases and taxonomic assignment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DNA Barcodes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DcOKDAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for DNA Barcodes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DNA Barcodes">DNA Barcodes</a>
-        </h4>
-        <p class="fr-book-author">By W John Kress, David L Erickson et al.</p>
-        
-        <p class="fr-book-desc">Directly relevant to matching sequences against known organisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Environmental+DNA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Environmental DNA</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3fa984f15f55b8f1896.jpg' | relative_url }}" alt="Listing image for CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster"><img src="{{ '/assets/images/marketplace-covers/40d38f45842752b75878.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Crater Lake Monster (1977) Movie Poster"><img src="{{ '/assets/images/marketplace-covers/eb0c745be8b4806a5e99.jpg' | relative_url }}" alt="Listing image for The Crater Lake Monster (1977) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">The Crater Lake Monster (1977) Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad"><img src="{{ '/assets/images/marketplace-covers/c5faf53d773c1ed5a5c9.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+That is why eDNA is most useful as a narrowing tool. It cannot turn every absence into a final answer, but it can make some answers much less plausible. At Loch Ness, the future of the search is no longer mainly about whether a Jurassic reptile has escaped detection for millions of years. The evidence now points towards a more grounded set of possibilities: known animals seen under difficult conditions, unusual but not monstrous eels, occasional visitors, optical effects, wakes, folklore, hoaxes, and the powerful human habit of turning ambiguous shapes on dark water into stories.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MiiwSuhk8k" title="DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer">DNA Evidence Reveals The Loch Ness Monster Could Be A Giant Eel | Loch Ness The New Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MiiwSuhk8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MiiwSuhk8k">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Can e DNA Solve Lake Monster Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Directly examines cryptozoology, evidence claims, and famous cryptids.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a></h4><p class="fr-book-author">By J. W. Ocker</p><p class="fr-book-desc">Covers a wide range of cryptid legends and reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Environmental DNA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oSJLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Environmental DNA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Environmental DNA">Environmental DNA</a></h4><p class="fr-book-author">By Pierre Taberlet, Aurélie Bonin et al.</p><p class="fr-book-desc">Explains reference databases and taxonomic assignment.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Environmental+DNA+by+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DNA Barcodes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DcOKDAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for DNA Barcodes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DNA Barcodes">DNA Barcodes</a></h4><p class="fr-book-author">By W John Kress, David L Erickson et al.</p><p class="fr-book-desc">Directly relevant to matching sequences against known organisms.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=DNA+Barcodes+by+W+John+Kress&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Environmental+DNA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Environmental DNA</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/c3fa984f15f55b8f1896.jpg' | relative_url }}" alt="Listing image for CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">CHAMP LAKE MONSTER Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster"><img src="{{'/assets/images/marketplace-covers/40d38f45842752b75878.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Crater Lake Monster (1977) Movie Poster"><img src="{{'/assets/images/marketplace-covers/eb0c745be8b4806a5e99.jpg' | relative_url }}" alt="Listing image for The Crater Lake Monster (1977) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">The Crater Lake Monster (1977) Movie Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad"><img src="{{'/assets/images/marketplace-covers/c5faf53d773c1ed5a5c9.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="e-dna-can-e-dna-solve-lake-monster-mysteries-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -772,24 +560,24 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -800,7 +588,7 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -808,45 +596,43 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -862,10 +648,10 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -885,11 +671,11 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -898,16 +684,16 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,9 +707,9 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -942,173 +728,164 @@ That is why eDNA is most useful as a narrowing tool. It cannot turn every absenc
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-021-91166-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-91166-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-021-91166-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-91166-7</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Loch Ness Monster: If It's Real, Could It Be an Eel?  
-   Link: <a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
+   Link:<a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a816ee6e5274a2e8ab53f6d/A_DNA_based_monitoring_method_for_fish_in_lakes_-_report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342296365_ESSAY_REVIEW_Disappointing_documentary_about_Loch_Ness_Monsters_Nessies_Can_good_documentaries_be_made_about_such_subjects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342296365_ESSAY_REVIEW_Disappointing_documentary_about_Loch_Ness_Monsters_Nessies_Can_good_documentaries_be_made_about_such_subjects</a>  
+   Link:<a href="https://www.researchgate.net/publication/342296365_ESSAY_REVIEW_Disappointing_documentary_about_Loch_Ness_Monsters_Nessies_Can_good_documentaries_be_made_about_such_subjects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342296365_ESSAY_REVIEW_Disappointing_documentary_about_Loch_Ness_Monsters_Nessies_Can_good_documentaries_be_made_about_such_subjects</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Sources-of-eDNA-false-positive-and-false-negative-detections-Errors-can-result-from_fig5_313849926" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Sources-of-eDNA-false-positive-and-false-negative-detections-Errors-can-result-from_fig5_313849926</a>  
+   Link:<a href="https://www.researchgate.net/figure/Sources-of-eDNA-false-positive-and-false-negative-detections-Errors-can-result-from_fig5_313849926" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Sources-of-eDNA-false-positive-and-false-negative-detections-Errors-can-result-from_fig5_313849926</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339422489_Environmental_DNA_Sampling_Informs_Fish_Eradication_Efforts_Case_Studies_and_Lessons_Learned" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339422489_Environmental_DNA_Sampling_Informs_Fish_Eradication_Efforts_Case_Studies_and_Lessons_Learned</a>  
+   Link:<a href="https://www.researchgate.net/publication/339422489_Environmental_DNA_Sampling_Informs_Fish_Eradication_Efforts_Case_Studies_and_Lessons_Learned" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339422489_Environmental_DNA_Sampling_Informs_Fish_Eradication_Efforts_Case_Studies_and_Lessons_Learned</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/346237675_Marine_environmental_DNA_eDNA_for_biodiversity_assessments_a_one-to-one_comparison_between_eDNA_and_baited_remote_underwater_video_BRUV_surveys" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346237675_Marine_environmental_DNA_eDNA_for_biodiversity_assessments_a_one-to-one_comparison_between_eDNA_and_baited_remote_underwater_video_BRUV_surveys</a>  
+   Link:<a href="https://www.researchgate.net/publication/346237675_Marine_environmental_DNA_eDNA_for_biodiversity_assessments_a_one-to-one_comparison_between_eDNA_and_baited_remote_underwater_video_BRUV_surveys" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346237675_Marine_environmental_DNA_eDNA_for_biodiversity_assessments_a_one-to-one_comparison_between_eDNA_and_baited_remote_underwater_video_BRUV_surveys</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Neil-Gemmell-at-Loch-Ness_fig1_342296365" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Neil-Gemmell-at-Loch-Ness_fig1_342296365</a>  
+   Link:<a href="https://www.researchgate.net/figure/Neil-Gemmell-at-Loch-Ness_fig1_342296365" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Neil-Gemmell-at-Loch-Ness_fig1_342296365</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdba.gov.au  
    Title: edna biodiversity findings report murray darling basin spring 2023  
-   Link: <a href="https://www.mdba.gov.au/sites/default/files/publications/edna-biodiversity-findings-report-murray-darling-basin-spring-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mdba.gov.au/sites/default/files/publications/edna-biodiversity-findings-report-murray-darling-basin-spring-2023.pdf</a>  
+   Link:<a href="https://www.mdba.gov.au/sites/default/files/publications/edna-biodiversity-findings-report-murray-darling-basin-spring-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mdba.gov.au/sites/default/files/publications/edna-biodiversity-findings-report-murray-darling-basin-spring-2023.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Neil Gemmell  
-   Link: <a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4y62Pa4b28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness eDNA Sweep Results...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4y62Pa4b28</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness eDNA Sweep Results...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: otago.ac.nz  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</p></details>
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a><details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoFirst eDNA Study Of Loch Ness Points To Something Fishy5 Sept 2019 — The results come after 250 samples of water were...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencefocus.com  
    Title: loch ness monster dna study reveals plausible explanation for sightings  
-   Link: <a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</p></details>
+   Link:<a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Science FocusLoch Ness Monster DNA study reveals &#x27;plausible&#x27;...5 Sept 2019 — The research, led by Professor Neil Gemmell from the Univer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — His study sequenced DNA from 250 samples of Loch Ness wat...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLoch Ness monster could be a giant eel, say scientists5 Sept 2019 — His study sequenced DNA from 250 samples of Loch Ness wat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/articles/aps-19-1-6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/aps-19-1-6.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/aps-19-1-6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/aps-19-1-6.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
+   Link:<a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: besjournals.onlinelibrary.wiley.com  
    Title: 2041 210X.12743  
-   Link: <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743" target="_blank" rel="noopener noreferrer nofollow">https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743</a>  
+   Link:<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743" target="_blank" rel="noopener noreferrer nofollow">https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12743</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: emea.illumina.com  
    Title: loch ness edna  
-   Link: <a href="https://emea.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://emea.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
+   Link:<a href="https://emea.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://emea.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: illumina.com  
    Title: loch ness edna  
-   Link: <a href="https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html</a>  
+   Link:<a href="https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: illumina.com  
    Title: loch ness edna  
-   Link: <a href="https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
+   Link:<a href="https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/loch" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/loch</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/loch" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/loch</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencefocus.com  
    Title: loch ness monster how edna helps us discover what lurks beneath  
-   Link: <a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a>  
+   Link:<a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/loch" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/loch</a>  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/loch" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/loch</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1747671/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1747671/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1747671/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1747671/full</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: seanoe.org  
-   Link: <a href="https://www.seanoe.org/data/00846/95815/" target="_blank" rel="noopener noreferrer nofollow">https://www.seanoe.org/data/00846/95815/</a>  
+   Link:<a href="https://www.seanoe.org/data/00846/95815/" target="_blank" rel="noopener noreferrer nofollow">https://www.seanoe.org/data/00846/95815/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: otago.ac.nz  
    Title: communicating the loch ness study  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/communicating-the-loch-ness-study" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/communicating-the-loch-ness-study</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/communicating-the-loch-ness-study" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/communicating-the-loch-ness-study</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie  
-   Link: <a href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uMN7on6ZKcQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness eDNA Neil Gemmell Episode 6 - Finding Nessie: Communicating genetics with Professor Neil Gemmell Science Communication UWA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uMN7on6ZKcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uMN7on6ZKcQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness eDNA Neil Gemmell Episode 6 - Finding Nessie: Communicating genetics with Professor Neil Gemmell Science Communication UWA...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P76FAAiuNYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P76FAAiuNYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P76FAAiuNYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P76FAAiuNYQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Neil Gemmell prepares for his trip to Loch Ness in the hunt for Nessie...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: DNA Sequencing Exposed Loch Ness’ Secret — Nessie Was Never What We Thought  
-   Link: <a href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EraB4J49aRg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness: eDNA &amp; New Footage (2019) - Association of Cryptozoological Fieldwork &amp; Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EraB4J49aRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EraB4J49aRg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness: eDNA &amp; New Footage (2019) - Association of Cryptozoological Fieldwork &amp; Analysis...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: stir.ac.uk  
-   Link: <a href="https://www.stir.ac.uk/research/hub/file/1446789" target="_blank" rel="noopener noreferrer nofollow">https://www.stir.ac.uk/research/hub/file/1446789</a>  
+   Link:<a href="https://www.stir.ac.uk/research/hub/file/1446789" target="_blank" rel="noopener noreferrer nofollow">https://www.stir.ac.uk/research/hub/file/1446789</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchsystem.canberra.edu.au  
-   Link: <a href="https://researchsystem.canberra.edu.au/ws/portalfiles/portal/99354931/Environmental_DNA_-_2023_-_Yates_-_Beyond_species_detection_leveraging_environmental_DNA_and_environmental_RNA_to_push.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchsystem.canberra.edu.au/ws/portalfiles/portal/99354931/Environmental_DNA_-_2023_-_Yates_-_Beyond_species_detection_leveraging_environmental_DNA_and_environmental_RNA_to_push.pdf</a>  
+   Link:<a href="https://researchsystem.canberra.edu.au/ws/portalfiles/portal/99354931/Environmental_DNA_-_2023_-_Yates_-_Beyond_species_detection_leveraging_environmental_DNA_and_environmental_RNA_to_push.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchsystem.canberra.edu.au/ws/portalfiles/portal/99354931/Environmental_DNA_-_2023_-_Yates_-_Beyond_species_detection_leveraging_environmental_DNA_and_environmental_RNA_to_push.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rabbies.com  
-   Link: <a href="https://www.rabbies.com/en-gb/blog/loch-vs-lake" target="_blank" rel="noopener noreferrer nofollow">https://www.rabbies.com/en-gb/blog/loch-vs-lake</a>  
+   Link:<a href="https://www.rabbies.com/en-gb/blog/loch-vs-lake" target="_blank" rel="noopener noreferrer nofollow">https://www.rabbies.com/en-gb/blog/loch-vs-lake</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/470765477828717/posts/1350997809805475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/470765477828717/posts/1350997809805475/</a>  
+   Link:<a href="https://www.facebook.com/groups/470765477828717/posts/1350997809805475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/470765477828717/posts/1350997809805475/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: research-collection.ethz.ch  
-   Link: <a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/4009194d-47fe-4929-80ff-dd74f4183a57/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/4009194d-47fe-4929-80ff-dd74f4183a57/content</a>  
+   Link:<a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/4009194d-47fe-4929-80ff-dd74f4183a57/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/4009194d-47fe-4929-80ff-dd74f4183a57/content</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cryptozoologymuseum/posts/the-team-took-250-water-samples-at-various-depths-throughout-the-loch-last-year-/10156107266981086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cryptozoologymuseum/posts/the-team-took-250-water-samples-at-various-depths-throughout-the-loch-last-year-/10156107266981086/</a>  
+   Link:<a href="https://www.facebook.com/cryptozoologymuseum/posts/the-team-took-250-water-samples-at-various-depths-throughout-the-loch-last-year-/10156107266981086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cryptozoologymuseum/posts/the-team-took-250-water-samples-at-various-depths-throughout-the-loch-last-year-/10156107266981086/</a>  

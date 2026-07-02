@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:41'
+date:'2026-07-01 12:55:41'
 parent_title: Could Prehistoric Monsters Still Be Alive?
 parent_permalink: /prehistoric-claims/
 parent_nav_short_title: Prehistoric Claims
@@ -274,20 +274,14 @@ image: /assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistor
 
 ## Introduction
 
-One of the most persistent features of [cryptozoology]({{ 'cryptozoology/' | relative_url }}) is not a particular creature but a particular way of seeing. Once extinct animals become familiar through museum displays, documentaries and artwork, their silhouettes provide ready-made templates for interpreting ambiguous sights. A dark hump on a lake, a long neck glimpsed above reeds, or a line of swimming animals can quickly become a “plesiosaur”, “sea serpent” or “living dinosaur” in the observer’s mind. The result is a recurring pattern: reports that appear prehistoric at first glance often rely more on resemblance than identification. In discussions of surviving prehistoric animals, this distinction is crucial. A shape can evoke a fossil reconstruction without providing evidence that the reconstructed animal is actually present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-dark.svg" | relative_url }}" alt="Silhouettes illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+One of the most persistent features of [cryptozoology]({{'cryptozoology/' | relative_url }}) is not a particular creature but a particular way of seeing. Once extinct animals become familiar through museum displays, documentaries and artwork, their silhouettes provide ready-made templates for interpreting ambiguous sights. A dark hump on a lake, a long neck glimpsed above reeds, or a line of swimming animals can quickly become a “plesiosaur”, “sea serpent” or “living dinosaur” in the observer’s mind. The result is a recurring pattern: reports that appear prehistoric at first glance often rely more on resemblance than identification. In discussions of surviving prehistoric animals, this distinction is crucial. A shape can evoke a fossil reconstruction without providing evidence that the reconstructed animal is actually present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-dark.svg" | relative_url }}" alt="Silhouettes illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Familiar Outlines Shape Interpretation
 
-Humans are exceptionally good at recognising patterns, even when information is incomplete. Psychologists refer to a related tendency as pareidolia: the perception of meaningful forms in ambiguous visual stimuli. Under uncertain viewing [conditions]({{ 'conditions/' | relative_url }}), observers often match incomplete shapes to familiar mental images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.20616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Shape2Animal: Creative Animal Generation from Natural Silhouettes</span><span class="citation-popover-snippet">Shape2Animal: Creative Animal Generation from Natural SilhouettesJune 25, 2025...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span>
+Humans are exceptionally good at recognising patterns, even when information is incomplete. Psychologists refer to a related tendency as pareidolia: the perception of meaningful forms in ambiguous visual stimuli. Under uncertain viewing [conditions]({{'conditions/' | relative_url }}), observers often match incomplete shapes to familiar mental images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.20616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Shape2Animal: Creative Animal Generation from Natural Silhouettes</span><span class="citation-popover-snippet">Shape2Animal: Creative Animal Generation from Natural SilhouettesJune 25, 2025...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span>
 
-In cryptozoology, fossil animals provide some of the most memorable mental images available. A long-necked plesiosaur, a giant sauropod, or a dragon-like reptile has a simple and distinctive outline. Once those forms become culturally familiar, [witnesses]({{ 'witnesses/' | relative_url }}) may unconsciously organise unclear observations around them.
+In cryptozoology, fossil animals provide some of the most memorable mental images available. A long-necked plesiosaur, a giant sauropod, or a dragon-like reptile has a simple and distinctive outline. Once those forms become culturally familiar, [witnesses]({{'witnesses/' | relative_url }}) may unconsciously organise unclear observations around them.
 
 This helps explain why descriptions of alleged prehistoric survivors often converge on a small number of recognisable body plans. The witness is rarely reporting a detailed anatomical assessment. Instead, they are describing a fleeting impression that resembles a known prehistoric image. The resemblance can feel compelling because the fossil template is already stored in memory.
-
-The effect is reinforced by [media]({{ 'media/' | relative_url }}) coverage. Illustrations accompanying monster stories frequently depict extinct reptiles, encouraging later witnesses to compare their own observations to the same visual model. Over time, the template becomes part of the legend itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wW6eKLLViK8" title="Unlocking the Mystery of Loch Ness | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer">Unlocking the Mystery of Loch Ness | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wW6eKLLViK8">Open on YouTube</a></p></div></div></div>
 
@@ -295,28 +289,22 @@ The effect is reinforced by [media]({{ 'media/' | relative_url }}) coverage. Ill
 
 No prehistoric silhouette has influenced monster reports more strongly than the long-necked plesiosaur.
 
-After the modern Loch Ness Monster craze began in the 1930s, commentators quickly suggested that sightings resembled a plesiosaur. The comparison was visually powerful: a small head, long neck and body emerging from water matched popular artistic reconstructions of marine reptiles. The image became so influential that many later reports were interpreted through that framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+After the modern Loch Ness Monster craze began in the 1930s, commentators quickly suggested that sightings resembled a plesiosaur. The comparison was visually powerful: a small head, long neck and body emerging from water matched popular artistic reconstructions of marine reptiles. The image became so influential that many later reports were interpreted through that framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-Yet the relationship often ran in the opposite direction from what enthusiasts assumed. Rather than sightings independently revealing a plesiosaur-like animal, many descriptions became more plesiosaur-like after the comparison entered public discussion. Investigators have repeatedly noted that witness accounts, sketches and media illustrations can shape one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+Yet the relationship often ran in the opposite direction from what enthusiasts assumed. Rather than sightings independently revealing a plesiosaur-like animal, many descriptions became more plesiosaur-like after the comparison entered public discussion. Investigators have repeatedly noted that witness accounts, sketches and media illustrations can shape one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-The famous “long neck” also illustrates the danger of relying on silhouettes alone. A neck-like shape can be created by partial views of birds, floating debris, waves, branches, swimming mammals or combinations of separate objects seen from a distance. Once observers expect a plesiosaur outline, ordinary features may be assembled into a prehistoric-looking figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-dark.svg" | relative_url }}" alt="Silhouettes illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The famous “long neck” also illustrates the danger of relying on silhouettes alone. A neck-like shape can be created by partial views of birds, floating debris, waves, branches, swimming mammals or combinations of separate objects seen from a distance. Once observers expect a plesiosaur outline, ordinary features may be assembled into a prehistoric-looking figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-dark.svg" | relative_url }}" alt="Silhouettes illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Modern Sources of Monster Shapes
 
 Many reported prehistoric-looking creatures emerge from ordinary objects or animals viewed under unusual conditions.
 
-**Waterbirds.** Swans, cormorants and other waterbirds can create convincing long-necked silhouettes. When distance is difficult to judge, a bird occupying a small part of the visual field may appear much larger than it really is. Investigators of Loch Ness reports have repeatedly pointed to waterbirds as a source of apparent neck-and-head sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Is this the &#x27;answer&#x27; to the Loch Ness Monster mystery?</span><span class="citation-popover-snippet">Scientist reveals simple explanation for Nessie sightingsAdrian Shine, a Scottish naturalist and long-time investigator, suggests a simpl...</span></span></span>
+**Waterbirds.** Swans, cormorants and other waterbirds can create convincing long-necked silhouettes. When distance is difficult to judge, a bird occupying a small part of the visual field may appear much larger than it really is. Investigators of Loch Ness reports have repeatedly pointed to waterbirds as a source of apparent neck-and-head sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Is this the &#x27;answer&#x27; to the Loch Ness Monster mystery?</span><span class="citation-popover-snippet">Scientist reveals simple explanation for Nessie sightingsAdrian Shine, a Scottish naturalist and long-time investigator, suggests a simpl...</span></span></span>
 
-**Boat [wakes]({{ 'wakes/' | relative_url }}) and wave trains.** A series of waves moving across a lake can appear as multiple humps belonging to a single animal. Observers viewing the wake from an unusual angle may not immediately recognise its source. Several analyses of Loch Ness reports have identified wakes as a major contributor to monster interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+**Boat [wakes]({{'wakes/' | relative_url }}) and wave trains.** A series of waves moving across a lake can appear as multiple humps belonging to a single animal. Observers viewing the wake from an unusual angle may not immediately recognise its source. Several analyses of Loch Ness reports have identified wakes as a major contributor to monster interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-**Floating logs and tree trunks.** Partially submerged timber can resemble a head, neck or humped back. In some cases, rising logs have been proposed as explanations for classic monster photographs and sightings. Branch stubs and irregular shapes can produce surprisingly animal-like outlines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+**Floating logs and tree trunks.** Partially submerged timber can resemble a head, neck or humped back. In some cases, rising logs have been proposed as explanations for classic monster photographs and sightings. Branch stubs and irregular shapes can produce surprisingly animal-like outlines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
-**Groups of animals.** Separate animals swimming close together may be perceived as a single large creature. Otters, deer crossing water and lines of birds can produce segmented silhouettes that appear serpentine or reptilian from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invernesspalacehotel.co.uk">[invernesspalacehotel.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invernesspalacehotel.co.uk</span><span class="citation-popover-title">Is The Loch Ness Monster Real?</span><span class="citation-popover-snippet">New Evidence Shocks...5 Sept 2025 — Most Nessie sightings result from misidentified animals (otters, seals), floating logs, boat wakes...</span></span></span>
-
-**Large fish and eels.** Although they do not resemble plesiosaurs anatomically, unusually large fish or eels can generate brief sightings that witnesses later reinterpret through a prehistoric lens. Subsequent retellings often add details that fit the fossil template more closely than the original observation did. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
-
+**Groups of animals.** Separate animals swimming close together may be perceived as a single large creature. Otters, deer crossing water and lines of birds can produce segmented silhouettes that appear serpentine or reptilian from a distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invernesspalacehotel.co.uk">[invernesspalacehotel.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invernesspalacehotel.co.uk</span><span class="citation-popover-title">Is The Loch Ness Monster Real?</span><span class="citation-popover-snippet">New Evidence Shocks...5 Sept 2025 — Most Nessie sightings result from misidentified animals (otters, seals), floating logs, boat wakes...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NQ-UrmwAsg0" title="Beyond Pareidolia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer">Beyond Pareidolia</a></p><p class="youtube-embed-meta">Channel: Bradshaw Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NQ-UrmwAsg0">Open on YouTube</a></p></div></div></div>
 
@@ -324,233 +312,47 @@ Many reported prehistoric-looking creatures emerge from ordinary objects or anim
 
 The central mistake in many prehistoric-survivor claims is treating resemblance as evidence of identity.
 
-Palaeontologists identify extinct animals through anatomy, not through broad silhouette matches. A genuine plesiosaur, for example, would require diagnostic skeletal features, consistent observations, biological traces and ultimately physical evidence. A distant shape that merely resembles a plesiosaur outline cannot establish the presence of a surviving Mesozoic reptile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+Palaeontologists identify extinct animals through anatomy, not through broad silhouette matches. A genuine plesiosaur, for example, would require diagnostic skeletal features, consistent observations, biological traces and ultimately physical evidence. A distant shape that merely resembles a plesiosaur outline cannot establish the presence of a surviving Mesozoic reptile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 This distinction becomes especially important because silhouettes discard most of the information needed for identification. Colour, texture, proportions, movement and anatomical detail often disappear under poor lighting, distance or brief viewing times. What remains is the simplest possible shape—and simple shapes can match many different objects.
 
-Cryptozoological reports frequently involve precisely these conditions: low visibility, fleeting encounters, emotional excitement and prior expectations. Those are circumstances in which silhouette-based errors become more likely, not less. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Abominable Science!: Origins of the Yeti, Nessie, and ...A captivatingly illustrated general-interest book confronting the persistent myt</span><span class="citation-popover-snippet">hs of cryptozoology</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-dark.svg" | relative_url }}" alt="Silhouettes illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Cryptozoological reports frequently involve precisely these conditions: low visibility, fleeting encounters, emotional excitement and prior expectations. Those are circumstances in which silhouette-based errors become more likely, not less.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Abominable Science!: Origins of the Yeti, Nessie, and ...A captivatingly illustrated general-interest book confronting the persistent myt</span><span class="citation-popover-snippet">hs of cryptozoology</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-dark.svg" | relative_url }}" alt="Silhouettes illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_prehistoric_silhouet_9c796e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Separate Resemblance from Identification
 
 When evaluating a reported prehistoric-looking creature, several questions help distinguish a visual similarity from genuine evidence:
 
-1. **How much detail was actually observed?** A silhouette alone provides far less information than a clear view of anatomy.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0L6DU5YT7U" title="New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer">New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0L6DU5YT7U">Open on YouTube</a></p></div></div></div>
+1. **How much detail was actually observed?** A silhouette alone provides far less information than a clear view of anatomy.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w0L6DU5YT7U" title="New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer">New Champ Sightings Shock Investigators | Expedition X S2 E6 | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w0L6DU5YT7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w0L6DU5YT7U">Open on YouTube</a></p></div></div></div>
 
 2. **Could scale have been misjudged?** Distance over water is notoriously difficult to estimate. [New York Post](https://nypost.com/2024/12/19/science/scientists-simple-explanation-for-loch-ness-monster-mystery/)
 
 3. **Are ordinary explanations available?** Birds, wakes, logs and known animals should be ruled out before invoking extinct species. [Wikipedia](https://en.wikipedia.org/wiki/Loch_Ness_Monster)
 
-4. **Did the prehistoric interpretation come immediately or later?** Comparisons introduced after media coverage may reflect cultural influence rather than direct observation.
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fossil Shapes Reframe Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dinosaur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FOViD-lDPy0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Dinosaur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dinosaur">The Complete Dinosaur</a>
-        </h4>
-        <p class="fr-book-author">By James Orville Farlow, M. K. Brett-Surman</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate claims involving surviving dinosaurs and ancient lineages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YuC0fRUwnUgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Thomas R. Holtz, Jr.</p>
-        
-        <p class="fr-book-desc">Shows how fossil reconstructions shape public imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly addresses how people interpret ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the Last Undiscovered Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the Last Undiscovered Animals">The Search for the Last Undiscovered Animals</a>
-        </h4>
-        <p class="fr-book-author">By Karl Shuker</p>
-        
-        <p class="fr-book-desc">Provides context for reports based on visual resemblance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Dinosaur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Dinosaur</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/961f3d8270fbeb5ae79e.jpg' | relative_url }}" alt="Listing image for Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1d1b3e8bab8ca89bc548.jpg' | relative_url }}" alt="Listing image for Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+4. **Did the prehistoric interpretation come immediately or later?** Comparisons introduced after media coverage may reflect cultural influence rather than direct observation.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How Fossil Shapes Reframe Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dinosaur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FOViD-lDPy0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Dinosaur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dinosaur">The Complete Dinosaur</a></h4><p class="fr-book-author">By James Orville Farlow, M. K. Brett-Surman</p><p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p><p class="fr-book-desc">Helps readers evaluate claims involving surviving dinosaurs and ancient lineages.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YuC0fRUwnUgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a></h4><p class="fr-book-author">By Dr. Thomas R. Holtz, Jr.</p><p class="fr-book-desc">Shows how fossil reconstructions shape public imagery.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Directly addresses how people interpret ambiguous observations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the Last Undiscovered Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the Last Undiscovered Animals">The Search for the Last Undiscovered Animals</a></h4><p class="fr-book-author">By Karl Shuker</p><p class="fr-book-desc">Provides context for reports based on visual resemblance.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Dinosaur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Dinosaur</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/961f3d8270fbeb5ae79e.jpg' | relative_url }}" alt="Listing image for Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Cryptid Cryptozoology Dayli Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/1d1b3e8bab8ca89bc548.jpg' | relative_url }}" alt="Listing image for Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Dover Demon Cryptozoology Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="silhouettes-how-fossil-shapes-reframe-strange-sightings-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,24 +366,24 @@ When evaluating a reported prehistoric-looking creature, several questions help 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -592,7 +394,7 @@ When evaluating a reported prehistoric-looking creature, several questions help 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -600,45 +402,43 @@ When evaluating a reported prehistoric-looking creature, several questions help 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -654,10 +454,10 @@ When evaluating a reported prehistoric-looking creature, several questions help 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -677,11 +477,11 @@ When evaluating a reported prehistoric-looking creature, several questions help 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -690,16 +490,16 @@ When evaluating a reported prehistoric-looking creature, several questions help 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,9 +513,9 @@ When evaluating a reported prehistoric-looking creature, several questions help 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -734,102 +534,85 @@ When evaluating a reported prehistoric-looking creature, several questions help 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Shape2Animal: Creative Animal Generation from Natural Silhouettes  
-   Link: <a href="https://arxiv.org/abs/2506.20616" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.20616</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shape2Animal: Creative Animal Generation from Natural SilhouettesJune 25, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2506.20616" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.20616</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Shape2Animal: Creative Animal Generation from Natural SilhouettesJune 25, 2025...</p></details>
    Published: June 25, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Diamonds in the Sky: Pareidolic Animals in Clouds  
-   Link: <a href="https://arxiv.org/abs/2606.01361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.01361</a>  
+   Link:<a href="https://arxiv.org/abs/2606.01361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.01361</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.03989" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.03989</a>  
+   Link:<a href="https://arxiv.org/abs/2603.03989" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.03989</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hs of cryptozoology...</p></details>
+   Link:<a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie</a><details class="endnote-snippet"><summary>Source snippet</summary><p>hs of cryptozoology...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: invernesspalacehotel.co.uk  
    Title: Is The Loch Ness Monster Real?  
-   Link: <a href="https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Evidence Shocks...5 Sept 2025 — Most Nessie sightings result from misidentified animals (otters, seals), floating logs, boat wakes...</p></details>
+   Link:<a href="https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.invernesspalacehotel.co.uk/blog/is-the-loch-ness-monster-real-new-evidence-shocks-scientists/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>New Evidence Shocks...5 Sept 2025 — Most Nessie sightings result from misidentified animals (otters, seals), floating logs, boat wakes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tetzoo.com  
-   Title: loch ness monster flipper [photos](&#123;&#123; 'photos/' | relative_url &#125;&#125;)  
-   Link: <a href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe 1972 Loch Ness Monster Flipper Photos18 Aug 2020 — It was, in their view, a twin-humped plesiosaur (or, at least, ple...</p></details>
+   Title: loch ness monster flipper [photos](&#123;&#123;'photos/' | relative_url &#125;&#125;)  
+   Link:<a href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe 1972 Loch Ness Monster Flipper Photos18 Aug 2020 — It was, in their view, a twin-humped plesiosaur (or, at least, ple...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: the-british-reptiles-and-amphibians.fandom.com  
-   Link: <a href="https://the-british-reptiles-and-amphibians.fandom.com/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://the-british-reptiles-and-amphibians.fandom.com/wiki/Loch_Ness_Monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ness Monster | British Herping Wiki - FandomOne photograph appeared to show the head, neck and upper torso of a plesiosaur-like animal...</p></details>
+   Link:<a href="https://the-british-reptiles-and-amphibians.fandom.com/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://the-british-reptiles-and-amphibians.fandom.com/wiki/Loch_Ness_Monster</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ness Monster | British Herping Wiki - FandomOne photograph appeared to show the head, neck and upper torso of a plesiosaur-like animal...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/872876739/Reports-of-Loch-Ness-Monster-Sightings-Keep-Coming" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872876739/Reports-of-Loch-Ness-Monster-Sightings-Keep-Coming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster Sightings Explained | PDFThe plesiosaur hypothesis is contradicted by several lines of evidence. Modern studies...</p></details>
+   Link:<a href="https://www.scribd.com/document/872876739/Reports-of-Loch-Ness-Monster-Sightings-Keep-Coming" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872876739/Reports-of-Loch-Ness-Monster-Sightings-Keep-Coming</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster Sightings Explained | PDFThe plesiosaur hypothesis is contradicted by several lines of evidence. Modern studies...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: classified no fun for sure this curious tale from 1942 lives in our librarys mon  
-   Link: <a href="https://www.facebook.com/NationalMuseumsScotland/posts/classified-no-fun-for-sure-this-curious-tale-from-1942-lives-in-our-librarys-mon/1349806487185031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalMuseumsScotland/posts/classified-no-fun-for-sure-this-curious-tale-from-1942-lives-in-our-librarys-mon/1349806487185031/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Museums ScotlandIn April 1933, local couple John Mackay and Margaret Munro reported seeing an enormous animal rolling and plungi...</p></details>
+   Link:<a href="https://www.facebook.com/NationalMuseumsScotland/posts/classified-no-fun-for-sure-this-curious-tale-from-1942-lives-in-our-librarys-mon/1349806487185031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalMuseumsScotland/posts/classified-no-fun-for-sure-this-curious-tale-from-1942-lives-in-our-librarys-mon/1349806487185031/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Museums ScotlandIn April 1933, local couple John Mackay and Margaret Munro reported seeing an enormous animal rolling and plungi...</p></details>
    Published: April 1933  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NQ-UrmwAsg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond PareidoliaThis episode explores how visual imagery, the cave environment, and cultural factors acted together that led to a better...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NQ-UrmwAsg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NQ-UrmwAsg0</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond PareidoliaThis episode explores how visual imagery, the cave environment, and cultural factors acted together that led to a better...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW6eKLLViK8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Mystery of Loch Ness | MonstrumUnderstanding the legend of the loch ness monster requires looking into hundreds of years of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wW6eKLLViK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW6eKLLViK8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Mystery of Loch Ness | MonstrumUnderstanding the legend of the loch ness monster requires looking into hundreds of years of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: syfy.com  
    Title: plesiosaur fossils in ancient river make loch ness monster plausible  
-   Link: <a href="https://www.syfy.com/syfy-wire/plesiosaur-fossils-in-ancient-river-make-loch-ness-monster-plausible" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/plesiosaur-fossils-in-ancient-river-make-loch-ness-monster-plausible</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plesiosaur fossils in ancient river make Loch Ness monster...28 Jul 2022 — By all accounts, the gigantic aquatic monster of the Loch has...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/plesiosaur-fossils-in-ancient-river-make-loch-ness-monster-plausible" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/plesiosaur-fossils-in-ancient-river-make-loch-ness-monster-plausible</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Plesiosaur fossils in ancient river make Loch Ness monster...28 Jul 2022 — By all accounts, the gigantic aquatic monster of the Loch has...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.everythingdinosaur.com  
    Title: loch ness monster myth solved it was the faults fault  
-   Link: <a href="https://blog.everythingdinosaur.com/blog/_archives/2013/07/06/loch-ness-monster-myth-solved-it-was-the-faults-fault.html" target="_blank" rel="noopener noreferrer nofollow">https://blog.everythingdinosaur.com/blog/_archives/2013/07/06/loch-ness-monster-myth-solved-it-was-the-faults-fault.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ness Monster Puzzle Solved by Italian Geologist6 Jul 2013 — Geologist Luigi Piccardi claims that activity along the Great Glen Fault in S...</p></details>
+   Link:<a href="https://blog.everythingdinosaur.com/blog/_archives/2013/07/06/loch-ness-monster-myth-solved-it-was-the-faults-fault.html" target="_blank" rel="noopener noreferrer nofollow">https://blog.everythingdinosaur.com/blog/_archives/2013/07/06/loch-ness-monster-myth-solved-it-was-the-faults-fault.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ness Monster Puzzle Solved by Italian Geologist6 Jul 2013 — Geologist Luigi Piccardi claims that activity along the Great Glen Fault in S...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lairofmythics.com  
-   Link: <a href="https://lairofmythics.com/blogs/cryptid-case-files/loch-ness-monster?srsltid=AfmBOooN8RgkH3UTB9Tuz0AEvl2jkEuzV2iHC81qpOzy1C9r7E7-3ShM" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/loch-ness-monster?srsltid=AfmBOooN8RgkH3UTB9Tuz0AEvl2jkEuzV2iHC81qpOzy1C9r7E7-3ShM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster: Scotland&#x27;s Most Enduring Mystery25 Oct 2025 — The scientific answer is colder: the Loch Ness Monster has never bee...</p></details>
+   Link:<a href="https://lairofmythics.com/blogs/cryptid-case-files/loch-ness-monster?srsltid=AfmBOooN8RgkH3UTB9Tuz0AEvl2jkEuzV2iHC81qpOzy1C9r7E7-3ShM" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/loch-ness-monster?srsltid=AfmBOooN8RgkH3UTB9Tuz0AEvl2jkEuzV2iHC81qpOzy1C9r7E7-3ShM</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster: Scotland&#x27;s Most Enduring Mystery25 Oct 2025 — The scientific answer is colder: the Loch Ness Monster has never bee...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/monstertalkgroupmail/posts/1270786206273531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/monstertalkgroupmail/posts/1270786206273531/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gendary or extinct animals whose present existence is disputed or...</p></details>
+   Link:<a href="https://www.facebook.com/groups/monstertalkgroupmail/posts/1270786206273531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/monstertalkgroupmail/posts/1270786206273531/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>gendary or extinct animals whose present existence is disputed or...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theprehistoricworld/posts/for-nearly-half-a-century-one-of-the-most-persistent-investigators-of-one-of-the/978260461571053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theprehistoricworld/posts/for-nearly-half-a-century-one-of-the-most-persistent-investigators-of-one-of-the/978260461571053/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resembling a plesiosaur, an extinct marine reptile. The first...</p></details>
+   Link:<a href="https://www.facebook.com/theprehistoricworld/posts/for-nearly-half-a-century-one-of-the-most-persistent-investigators-of-one-of-the/978260461571053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theprehistoricworld/posts/for-nearly-half-a-century-one-of-the-most-persistent-investigators-of-one-of-the/978260461571053/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>resembling a plesiosaur, an extinct marine reptile. The first...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DJ2OjRuyuXp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJ2OjRuyuXp/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gons—are rooted in reality? Skeptics call it pareidolia, but...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DJ2OjRuyuXp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJ2OjRuyuXp/?hl=en</a><details class="endnote-snippet"><summary>Source snippet</summary><p>gons—are rooted in reality? Skeptics call it pareidolia, but...</p></details>

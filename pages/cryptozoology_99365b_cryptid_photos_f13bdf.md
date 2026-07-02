@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 14:59:09'
+date:'2026-07-01 14:59:09'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,308 +448,101 @@ image: /assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-overview-social
 
 ## Introduction
 
-Blurry photos and videos rarely settle cryptid claims because they preserve the excitement of a sighting while removing much of the information needed to identify what was actually seen. In [cryptozoology]({{ 'cryptozoology/' | relative_url }}), a dark shape crossing a clearing, a hump on a lake, or a distant figure in trees can feel immediate and persuasive, but blur, distance, cropping, unstable camera movement, missing scale and unclear provenance leave ordinary explanations open: known animals, floating debris, waves, birds, people, costumes, forced perspective, editing or outright hoax. That does not make every poor image useless. It means the image has to be treated as one piece of evidence, not as proof by itself. The strongest visual record would need context, [original files]({{ 'original-files/' | relative_url }}) or film, location data, scale references, continuous footage, independent witnesses and follow-up biological evidence.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-overview.webp" | relative_url }}" alt="Overview image for Photos" loading="eager" decoding="sync" fetchpriority="high">
+Blurry photos and videos rarely settle cryptid claims because they preserve the excitement of a sighting while removing much of the information needed to identify what was actually seen. In [cryptozoology]({{'cryptozoology/' | relative_url }}), a dark shape crossing a clearing, a hump on a lake, or a distant figure in trees can feel immediate and persuasive, but blur, distance, cropping, unstable camera movement, missing scale and unclear provenance leave ordinary explanations open: known animals, floating debris, waves, birds, people, costumes, forced perspective, editing or outright hoax. That does not make every poor image useless. It means the image has to be treated as one piece of evidence, not as proof by itself. The strongest visual record would need context, [original files]({{'original-files/' | relative_url }}) or film, location data, scale references, continuous footage, independent witnesses and follow-up biological evidence.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-overview.webp" | relative_url }}" alt="Overview image for Photos" loading="eager" decoding="sync" fetchpriority="high">
 ## Why blur helps a mystery survive
 
 Cryptid imagery often sits in a frustrating middle ground. It is clear enough to invite interpretation but not clear enough to close the case. A sharp photograph of a bear, seal, otter, deer, cormorant or floating log is usually just a wildlife or landscape image. A blurred version can become more flexible: a head becomes a “neck”, a wake becomes a “hump”, a person in dark clothing becomes a large unknown animal, and a distant animal becomes impossible to size.
 
-This ambiguity is especially powerful because cryptid photographs are usually judged after a story has already been attached to them. Viewers are not only asking, “What is in this image?” They are often asking, “Could this be Bigfoot?” or “Could this be Nessie?” That framing changes how much weight is given to vague outlines. National Geographic’s discussion of cryptozoology noted the familiar pattern around famous creatures: eyewitness accounts, blurry photographs and [footprints]({{ 'footprints/' | relative_url }}) are often treated by believers as enough, while sceptics point out that such evidence remains circumstantial and does not replace physical proof such as bodies, bones or reliable biological [samples]({{ 'samples/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicThe Science Behind Bigfoot and Other Monsters9 Sept 2013 — There&#x27;s ample circumstantial evidence for all these creatur...</span></span></span>
+This ambiguity is especially powerful because cryptid photographs are usually judged after a story has already been attached to them. Viewers are not only asking, “What is in this image?” They are often asking, “Could this be Bigfoot?” or “Could this be Nessie?” That framing changes how much weight is given to vague outlines. National Geographic’s discussion of cryptozoology noted the familiar pattern around famous creatures: eyewitness accounts, blurry photographs and [footprints]({{'footprints/' | relative_url }}) are often treated by believers as enough, while sceptics point out that such evidence remains circumstantial and does not replace physical proof such as bodies, bones or reliable biological [samples]({{'samples/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicThe Science Behind Bigfoot and Other Monsters9 Sept 2013 — There&#x27;s ample circumstantial evidence for all these creatur...</span></span></span>
 
-Blur also reduces the number of independent features available for checking. A clear animal image can be tested against anatomy, gait, fur texture, limbs, shadow direction, environment, known species range and behaviour. A vague image may show only a silhouette. Once the details disappear, the debate often shifts from identification to possibility: not “this is what the image shows”, but “you cannot prove it is not the creature”. That reversal is weak evidence. In science and wildlife [documentation]({{ 'documentation/' | relative_url }}), the burden is not to disprove every imaginative reading; it is to show that the claimed reading is the best explanation.
+Blur also reduces the number of independent features available for checking. A clear animal image can be tested against anatomy, gait, fur texture, limbs, shadow direction, environment, known species range and behaviour. A vague image may show only a silhouette. Once the details disappear, the debate often shifts from identification to possibility: not “this is what the image shows”, but “you cannot prove it is not the creature”. That reversal is weak evidence. In science and wildlife [documentation]({{'documentation/' | relative_url }}), the burden is not to disprove every imaginative reading; it is to show that the claimed reading is the best explanation.
 
 ## Scale, distance and cropping change what the viewer thinks they see
 
 The most common visual trap in cryptid photos is not necessarily fakery. It is scale. Without a reliable measurement, a small object photographed close to the camera can look huge, while a large animal far away can look like a strange miniature shape. Water makes this worse because there may be no nearby tree, rock, person or building to act as a reference point. A wake or ripple can be mistaken for size, but ripples depend on distance, wind, lens choice and cropping.
 
-The famous 1934 “surgeon’s photograph” of the Loch Ness Monster is the classic example. For decades it was reproduced as a dramatic long-necked creature on the water. The problem was that the familiar version was cropped, making the object appear more imposing. Accounts of later analysis and the eventual hoax explanation describe a much smaller object in the uncropped scene, with ripples fitting small water disturbance rather than a large animal; the alleged monster was later linked to a toy submarine fitted with a model head. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+The famous 1934 “surgeon’s photograph” of the Loch Ness Monster is the classic example. For decades it was reproduced as a dramatic long-necked creature on the water. The problem was that the familiar version was cropped, making the object appear more imposing. Accounts of later analysis and the eventual hoax explanation describe a much smaller object in the uncropped scene, with ripples fitting small water disturbance rather than a large animal; the alleged monster was later linked to a toy submarine fitted with a model head.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 The lesson is not only that one famous photograph was fake. It is that a cryptid image can gain power from presentation. Cropping removes scale. Enlargement increases grain. Contrast changes can harden vague edges into apparent anatomy. Captions tell the viewer what to look for before they have assessed the image. A tiny object in the middle of a loch can become a monster when isolated from the wider frame.
 
-The same problem appears in moving footage. The [Patterson-Gimlin]({{ 'patty-film/' | relative_url }}) film, shot in northern California in 1967 and long treated by many Bigfoot believers as the strongest visual evidence, is not simply a question of “clear” versus “blurry”. Its importance comes from motion, posture and the apparent body shape of the figure. But the footage is also brief, shaky at the start, filmed at distance and dependent on later arguments about scale, anatomy, gait and filming conditions. Even summaries sympathetic to the film acknowledge that attempts to authenticate or debunk it have continued for decades, while sceptical accounts stress the absence of comparable modern footage and the difficulty of treating a single disputed film as biological proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Patterson–Gimlin film</span><span class="citation-popover-snippet">Patterson–Gimlin film</span></span></span>
+The same problem appears in moving footage. The [Patterson-Gimlin]({{'patty-film/' | relative_url }}) film, shot in northern California in 1967 and long treated by many Bigfoot believers as the strongest visual evidence, is not simply a question of “clear” versus “blurry”. Its importance comes from motion, posture and the apparent body shape of the figure. But the footage is also brief, shaky at the start, filmed at distance and dependent on later arguments about scale, anatomy, gait and filming conditions. Even summaries sympathetic to the film acknowledge that attempts to authenticate or debunk it have continued for decades, while sceptical accounts stress the absence of comparable modern footage and the difficulty of treating a single disputed film as biological proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Patterson–Gimlin film</span><span class="citation-popover-snippet">Patterson–Gimlin film</span></span></span>
 
-Recent debate around the documentary *Capturing Bigfoot* shows why provenance matters as much as image content. Reports from 2026 say the film presents newly surfaced footage alleged to show a costumed rehearsal related to the Patterson-Gimlin case; Bigfoot supporters have disputed the implications, but the controversy illustrates how a visual claim can remain unstable when its origins, chain of custody and surrounding production history are contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">documentarys devastating bigfoot debunking</span><span class="citation-popover-snippet">Skeptical InquirerDocumentary&#x27;s Devastating Bigfoot Debunking13 Mar 2026 — The famous and iconic 1967 footage taken in Bluff Creek, Calif...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-dark.svg" | relative_url }}" alt="Photos illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Recent debate around the documentary *Capturing Bigfoot* shows why provenance matters as much as image content. Reports from 2026 say the film presents newly surfaced footage alleged to show a costumed rehearsal related to the Patterson-Gimlin case; Bigfoot supporters have disputed the implications, but the controversy illustrates how a visual claim can remain unstable when its origins, chain of custody and surrounding production history are contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">documentarys devastating bigfoot debunking</span><span class="citation-popover-snippet">Skeptical InquirerDocumentary&#x27;s Devastating Bigfoot Debunking13 Mar 2026 — The famous and iconic 1967 footage taken in Bluff Creek, Calif...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-dark.svg" | relative_url }}" alt="Photos illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Provenance and editing questions are not side issues
 
 A cryptid image is not just pixels or film frames. It is also a record of who made it, when, where, with what equipment, under what conditions and what happened to the original. Missing provenance is one reason dramatic images often fail to convince people outside the believer community.
 
-A useful visual claim should answer basic questions. Is the original file, negative, film or unedited footage available? Has it passed through compression, social media uploads, screenshots or enhancement software? Is there metadata, and is that metadata consistent with the witness account? Are there multiple frames before and after the striking image? Can the location be revisited and matched to landmarks? Are there independent [witnesses]({{ 'witnesses/' | relative_url }}) or only the person who benefits from publicity?
+A useful visual claim should answer basic questions. Is the original file, negative, film or unedited footage available? Has it passed through compression, social media uploads, screenshots or enhancement software? Is there metadata, and is that metadata consistent with the witness account? Are there multiple frames before and after the striking image? Can the location be revisited and matched to landmarks? Are there independent [witnesses]({{'witnesses/' | relative_url }}) or only the person who benefits from publicity?
 
-Editing does not have to mean a sophisticated fake. Many weak cryptid images become more misleading through ordinary handling: zooming, cropping, sharpening, contrast boosting, stabilisation, frame selection or reposting without context. The 1972 Loch Ness “flipper” photographs are a good example of enhancement becoming part of the evidence problem. Darren Naish’s review of the case notes that the original images looked like a greenish-grey blur with little obvious detail, while later “computer enhanced” versions appeared to show a more structured flipper-like form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">loch ness monster flipper photos</span><span class="citation-popover-snippet">loch ness monster flipper photos</span></span></span>
+Editing does not have to mean a sophisticated fake. Many weak cryptid images become more misleading through ordinary handling: zooming, cropping, sharpening, contrast boosting, stabilisation, frame selection or reposting without context. The 1972 Loch Ness “flipper” photographs are a good example of enhancement becoming part of the evidence problem. Darren Naish’s review of the case notes that the original images looked like a greenish-grey blur with little obvious detail, while later “computer enhanced” versions appeared to show a more structured flipper-like form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">loch ness monster flipper photos</span><span class="citation-popover-snippet">loch ness monster flipper photos</span></span></span>
 
-Modern image tools add another complication. General fake-image awareness has grown because photographic manipulation and synthetic imagery are now common public issues, not specialist concerns. The Guardian’s 2025 survey of historically influential fake images places Bigfoot and Loch Ness imagery in a wider pattern: photographs can persuade because they match what audiences already want, fear or hope to see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;It never happened</span><span class="citation-popover-snippet">The Guardian&#x27;It never happened</span></span></span>
+Modern image tools add another complication. General fake-image awareness has grown because photographic manipulation and synthetic imagery are now common public issues, not specialist concerns. The Guardian’s 2025 survey of historically influential fake images places Bigfoot and Loch Ness imagery in a wider pattern: photographs can persuade because they match what audiences already want, fear or hope to see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;It never happened</span><span class="citation-popover-snippet">The Guardian&#x27;It never happened</span></span></span>
 
-That does not mean every new cryptid image is artificial intelligence or Photoshop. It means a serious claim now needs stronger documentation than a cropped upload. The more extraordinary the animal claim, the less persuasive a detached image becomes.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
+That does not mean every new cryptid image is artificial intelligence or Photoshop. It means a serious claim now needs stronger documentation than a cropped upload. The more extraordinary the animal claim, the less persuasive a detached image becomes.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U6HWdcjf-P8" title="The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer">The Loch Ness Monster and eDNA: Why the Mystery is Still Unsolved</a></p><p class="youtube-embed-meta">Channel: Omni Viewer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U6HWdcjf-P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U6HWdcjf-P8">Open on YouTube</a></p></div></div></div>
 
 ## Ordinary wildlife work shows how high the bar really is
 
 Cryptid debates often imply that wildlife photography should be easy: everyone has a phone, so why are the images still blurry? The better answer is more nuanced. Wildlife imaging is genuinely difficult. Animals move unpredictably, appear at low light, cross dense cover, trigger cameras at awkward angles and may be partly hidden. Even professional ecological monitoring produces large numbers of empty, blurred or hard-to-classify images.
 
-Camera-trap research is useful here because it shows what happens when images are treated as data rather than folklore. A 2015 study of recreational camera traps found false positives created a substantial drain on battery power, storage and review time. Other camera-trap studies warn that identification errors can affect estimates of species distribution and abundance, while individual identification from images may be less reliable than researchers once assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimitations of recreational camera traps for wildlife</span><span class="citation-popover-snippet">PMCLimitations of recreational camera traps for wildlife</span></span></span>
+Camera-trap research is useful here because it shows what happens when images are treated as data rather than folklore. A 2015 study of recreational camera traps found false positives created a substantial drain on battery power, storage and review time. Other camera-trap studies warn that identification errors can affect estimates of species distribution and abundance, while individual identification from images may be less reliable than researchers once assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimitations of recreational camera traps for wildlife</span><span class="citation-popover-snippet">PMCLimitations of recreational camera traps for wildlife</span></span></span>
 
 This cuts both ways. It is unreasonable to dismiss every blurred wildlife image merely because it is blurred. Biologists, citizen scientists and camera-trap reviewers sometimes can identify animals from partial or imperfect images when distinctive features are visible. But cryptid claims usually ask the image to do something much harder: not just identify a known species under poor conditions, but establish the presence of an unknown or unverified animal. That requires a higher evidential standard.
 
-Real wildlife records also accumulate. A rare animal may first appear in a poor image, but the claim strengthens when there are repeated photographs from different cameras, tracks that match known anatomy, hair or tissue, environmental DNA, independent observations and eventually a specimen or a well-documented population. A cryptid image that remains isolated for years, with no supporting biological record, is weak even if it is intriguing.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-dark.svg" | relative_url }}" alt="Photos illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Real wildlife records also accumulate. A rare animal may first appear in a poor image, but the claim strengthens when there are repeated photographs from different cameras, tracks that match known anatomy, hair or tissue, environmental DNA, independent observations and eventually a specimen or a well-documented population. A cryptid image that remains isolated for years, with no supporting biological record, is weak even if it is intriguing.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-dark.svg" | relative_url }}" alt="Photos illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Loch Ness shows why images need biological follow-up
 
-Loch Ness is a useful case because it has produced many photographs, videos and sightings, yet the strongest modern investigations have moved beyond image interpretation. The 2019 environmental DNA survey sampled Loch Ness and other lochs, filtering water to detect organisms present through genetic traces. The University of Otago announcement reported abundant eel DNA but no support for several monster explanations such as a large reptile; the Loch Ness Project’s eDNA page describes sampling across shoreline, surface, mid-water and deep-water locations with international university participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago+2Loch Ness Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
+Loch Ness is a useful case because it has produced many photographs, videos and sightings, yet the strongest modern investigations have moved beyond image interpretation. The 2019 environmental DNA survey sampled Loch Ness and other lochs, filtering water to detect organisms present through genetic traces. The University of Otago announcement reported abundant eel DNA but no support for several monster explanations such as a large reptile; the Loch Ness Project’s eDNA page describes sampling across shoreline, surface, mid-water and deep-water locations with international university participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago+2Loch Ness Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
 
 This matters for blurry photos because a large breeding animal is not only a visual object. It should also leave ecological traces. It would need food, habitat, a population or at least repeated presence, and in many cases biological material. Environmental DNA is not magic: it has limits, and it cannot necessarily size every animal detected. But it demonstrates the kind of follow-up that cryptid images need. A dark shape in water may be interesting; a dark shape plus repeatable biological evidence would be much harder to dismiss.
 
-Science Focus’s summary of Loch Ness explanations makes the same practical point from the image side: many Nessie photographs have been explained as hoaxes or misinterpretations of waterbirds, waves, boat wakes or underwater objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">Science Focus How do we know that the Loch Ness Monster doesn&#x27;t exist?</span><span class="citation-popover-snippet">Science Focus How do we know that the Loch Ness Monster doesn&#x27;t exist?</span></span></span> The eDNA work does not explain every photograph one by one, but it narrows the biological possibilities that blurry photographs are often asked to keep open.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-dark.svg" | relative_url }}" alt="Photos illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Science Focus’s summary of Loch Ness explanations makes the same practical point from the image side: many Nessie photographs have been explained as hoaxes or misinterpretations of waterbirds, waves, boat wakes or underwater objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-title">Science Focus How do we know that the Loch Ness Monster doesn&#x27;t exist?</span><span class="citation-popover-snippet">Science Focus How do we know that the Loch Ness Monster doesn&#x27;t exist?</span></span></span> The eDNA work does not explain every photograph one by one, but it narrows the biological possibilities that blurry photographs are often asked to keep open.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-dark.svg" | relative_url }}" alt="Photos illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_photos_f13bdf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a strong cryptid image record would need
 
 A convincing image record for a cryptid would not have to be perfect studio-quality footage. It would, however, need enough context to make ordinary explanations less likely than the cryptid explanation. The standards are demanding because the claim is demanding.
 
 A strong record would include:
 
-* **Original, unedited material:** the full-resolution file, film, negative or continuous video, not only a cropped still or social [media]({{ 'media/' | relative_url }}) repost.
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+* **Original, unedited material:** the full-resolution file, film, negative or continuous video, not only a cropped still or social [media]({{'media/' | relative_url }}) repost.<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Before-and-after frames:** footage showing the approach, event and aftermath, so the viewer can judge movement, scale and context.
 * **Location and scale references:** identifiable landmarks, measured distances, camera position, lens information and objects of known size.
 * **Independent corroboration:** more than one witness, or better, multiple cameras recording the same event from different angles.
 * **Clear anatomy or behaviour:** features that distinguish the subject from known animals, people, costumes, wakes, logs or birds.
 * **Chain of custody:** a credible account of who recorded it, when it was first stored, how it was handled and whether anyone had opportunity or motive to alter it.
-* **Follow-up evidence:** tracks, hair, scat, tissue, environmental DNA, repeated camera-trap records or expert field investigation at the site.
+* **Follow-up evidence:** tracks, hair, scat, tissue, environmental DNA, repeated camera-trap records or expert field investigation at the site.</div>
 
-</div>
-
-These criteria are not designed to make cryptid evidence impossible. They are what allow an image to move from “interesting anomaly” to “testable record”. Without them, blur does too much of the work. It lets believers see the creature, sceptics see a mundane object, and the image itself settle very little.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS9Kju5FAJM" title="From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer">From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson</a></p><p class="youtube-embed-meta">Channel: A Thousand Words</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS9Kju5FAJM">Open on YouTube</a></p></div></div></div>
+These criteria are not designed to make cryptid evidence impossible. They are what allow an image to move from “interesting anomaly” to “testable record”. Without them, blur does too much of the work. It lets believers see the creature, sceptics see a mundane object, and the image itself settle very little.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS9Kju5FAJM" title="From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer">From Myth to Hoax | Episode 38: The Surgeon’s Photo, Robert Wilson</a></p><p class="youtube-embed-meta">Channel: A Thousand Words</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS9Kju5FAJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS9Kju5FAJM">Open on YouTube</a></p></div></div></div>
 
 ## The real lesson of blurry cryptid evidence
 
 Blurry cryptid photos and videos endure because they are emotionally powerful but evidentially incomplete. They capture the moment when something looked strange, not necessarily the moment when an unknown animal was documented. In that gap, cryptozoology becomes less a gallery of proof than a study of uncertainty: how people interpret shapes, how stories frame perception, how images circulate, and how weak records can grow stronger or collapse when context is restored.
 
-The fair position is not that all blurry images are worthless. A poor image can start an investigation. It can preserve a witness’s observation, mark a location, suggest a known animal outside its expected range, or justify checking camera traps and environmental evidence. But in cryptid claims, the image must not be allowed to stand alone. Blur, distance and missing provenance leave too many ordinary doors open. A strong record would close those doors one by one.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGDiGauvArU" title="Bigfoot Expert Jeff Meldrum Explains Why Patterson-Gimlin Film Appeared Genuine | TBM Clips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGDiGauvArU" target="_blank" rel="noopener noreferrer">Bigfoot Expert Jeff Meldrum Explains Why Patterson-Gimlin Film Appeared Genuine | TBM Clips</a></p><p class="youtube-embed-meta">Channel: The Backcountry Manifesto Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGDiGauvArU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGDiGauvArU">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cryptid Photos Rarely Settle Anything. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Explains why photographs and anecdotes rarely resolve cryptid claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z2UlKsvrX60C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mysterious America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
-        
-        <p class="fr-book-desc">Provides context for many famous photo-based cryptid cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
-        
-        <p class="fr-book-desc">Focuses heavily on evaluating image evidence and alternative explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster Hunt on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Hunt">Monster Hunt</a>
-        </h4>
-        <p class="fr-book-author">By Rory Storm</p>
-        
-        <p class="fr-book-desc">Covers how evidence such as photos is assessed in cryptozoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Monster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{ '/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Lapel Pin Run You Run"><img src="{{ '/assets/images/marketplace-covers/0eb06f6c13e9ba6a3796.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Lapel Pin Run You Run" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Lapel Pin Run You Run</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin"><img src="{{ '/assets/images/marketplace-covers/4f8c8998dd0f2f972c1e.jpg' | relative_url }}" alt="Listing image for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The fair position is not that all blurry images are worthless. A poor image can start an investigation. It can preserve a witness’s observation, mark a location, suggest a known animal outside its expected range, or justify checking camera traps and environmental evidence. But in cryptid claims, the image must not be allowed to stand alone. Blur, distance and missing provenance leave too many ordinary doors open. A strong record would close those doors one by one.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGDiGauvArU" title="Bigfoot Expert Jeff Meldrum Explains Why Patterson-Gimlin Film Appeared Genuine | TBM Clips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGDiGauvArU" target="_blank" rel="noopener noreferrer">Bigfoot Expert Jeff Meldrum Explains Why Patterson-Gimlin Film Appeared Genuine | TBM Clips</a></p><p class="youtube-embed-meta">Channel: The Backcountry Manifesto Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGDiGauvArU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGDiGauvArU">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Cryptid Photos Rarely Settle Anything. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Explains why photographs and anecdotes rarely resolve cryptid claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z2UlKsvrX60C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mysterious America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a></h4><p class="fr-book-author">By Loren Coleman</p><p class="fr-book-desc">Provides context for many famous photo-based cryptid cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Mysterious+America+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a></h4><p class="fr-book-author">By Steuart Campbell</p><p class="fr-book-desc">Focuses heavily on evaluating image evidence and alternative explanations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster Hunt on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Hunt">Monster Hunt</a></h4><p class="fr-book-author">By Rory Storm</p><p class="fr-book-desc">Covers how evidence such as photos is assessed in cryptozoology.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Monster+Hunt+by+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Monster</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{'/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Lapel Pin Run You Run"><img src="{{'/assets/images/marketplace-covers/0eb06f6c13e9ba6a3796.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Lapel Pin Run You Run" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Lapel Pin Run You Run</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{'/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin"><img src="{{'/assets/images/marketplace-covers/4f8c8998dd0f2f972c1e.jpg' | relative_url }}" alt="Listing image for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="photos-why-cryptid-photos-rarely-settle-anything-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -763,24 +556,24 @@ The fair position is not that all blurry images are worthless. A poor image can 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -791,7 +584,7 @@ The fair position is not that all blurry images are worthless. A poor image can 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -799,45 +592,43 @@ The fair position is not that all blurry images are worthless. A poor image can 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -853,10 +644,10 @@ The fair position is not that all blurry images are worthless. A poor image can 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -876,11 +667,11 @@ The fair position is not that all blurry images are worthless. A poor image can 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -889,16 +680,16 @@ The fair position is not that all blurry images are worthless. A poor image can 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -912,9 +703,9 @@ The fair position is not that all blurry images are worthless. A poor image can 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -933,187 +724,179 @@ The fair position is not that all blurry images are worthless. A poor image can 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Patterson–Gimlin film  
-   Link: <a href="https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLimitations of recreational camera traps for wildlife  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4623860/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-020-63367-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-63367-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-020-63367-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-63367-z</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLinking camera‐trap data to taxonomy: Identifying  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8293720/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8293720/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8293720/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8293720/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-27980-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-27980-y</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-022-27980-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-27980-y</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Robert Kenneth Wilson  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe Science Behind Bigfoot and Other Monsters9 Sept 2013 — There&#x27;s ample circumstantial evidence for all these creatur...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/adventure/article/130907-cryptid-crytozoology-bigfoot-loch-yeti-monster-abominable-science</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe Science Behind Bigfoot and Other Monsters9 Sept 2013 — There&#x27;s ample circumstantial evidence for all these creatur...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalgeographic.com  
    Title: forensic expert says bigfoot is real  
-   Link: <a href="https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicForensic Expert Says Bigfoot Is Real23 Oct 2003 — The evidence of its existence is fuzzy. There are few clear photogra...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicForensic Expert Says Bigfoot Is Real23 Oct 2003 — The evidence of its existence is fuzzy. There are few clear photogra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: documentarys devastating bigfoot debunking  
-   Link: <a href="https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerDocumentary&#x27;s Devastating Bigfoot Debunking13 Mar 2026 — The famous and iconic 1967 footage taken in Bluff Creek, Calif...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/documentarys-devastating-bigfoot-debunking/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerDocumentary&#x27;s Devastating Bigfoot Debunking13 Mar 2026 — The famous and iconic 1967 footage taken in Bluff Creek, Calif...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/capturing-bigfoot-community-documentary-drama-2026-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/capturing-bigfoot-community-documentary-drama-2026-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The documentary has reignited skepticism and internal conflict within the Bigfoot research community, as dedicated enthusiasts struggle t...</p></details>
+   Link:<a href="https://www.businessinsider.com/capturing-bigfoot-community-documentary-drama" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/capturing-bigfoot-community-documentary-drama</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The documentary has reignited skepticism and internal conflict within the Bigfoot research community, as dedicated enthusiasts struggle t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tetzoo.com  
    Title: loch ness monster flipper photos  
-   Link: <a href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos</a>  
+   Link:<a href="https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/8/17/loch-ness-monster-flipper-photos</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian'It never happened  
-   Link: <a href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world</a>  
+   Link:<a href="https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: otago.ac.nz  
    Title: first edna study of loch ness points to something fishy  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
+   Link:<a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencefocus.com  
    Title: Science Focus How do we know that the Loch Ness Monster doesn't exist?  
-   Link: <a href="https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist</a>  
+   Link:<a href="https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/how-do-we-know-that-the-loch-ness-monster-doesnt-exist</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalgeographic.com  
    Title: 150210 bigfoot science animals yellowstone sasquatch myths culture  
-   Link: <a href="https://www.nationalgeographic.com/animals/article/150210-bigfoot-science-animals-yellowstone-sasquatch-myths-culture" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/150210-bigfoot-science-animals-yellowstone-sasquatch-myths-culture</a>  
+   Link:<a href="https://www.nationalgeographic.com/animals/article/150210-bigfoot-science-animals-yellowstone-sasquatch-myths-culture" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/150210-bigfoot-science-animals-yellowstone-sasquatch-myths-culture</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/</a>  
+   Link:<a href="https://www.lochnessproject.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11216788/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11216788/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11216788/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11216788/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7663993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7663993/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7663993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7663993/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lochness.com  
    Title: 2025 s first potential sighting of loch ness monster spotted at dores beach  
-   Link: <a href="https://lochness.com/news/2025-s-first-potential-sighting-of-loch-ness-monster-spotted-at-dores-beach/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/2025-s-first-potential-sighting-of-loch-ness-monster-spotted-at-dores-beach/</a>  
+   Link:<a href="https://lochness.com/news/2025-s-first-potential-sighting-of-loch-ness-monster-spotted-at-dores-beach/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/2025-s-first-potential-sighting-of-loch-ness-monster-spotted-at-dores-beach/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lochness.com  
    Title: new technology to scour the depths of loch ness in search for elusive beast  
-   Link: <a href="https://lochness.com/news/new-technology-to-scour-the-depths-of-loch-ness-in-search-for-elusive-beast/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/new-technology-to-scour-the-depths-of-loch-ness-in-search-for-elusive-beast/</a>  
+   Link:<a href="https://lochness.com/news/new-technology-to-scour-the-depths-of-loch-ness-in-search-for-elusive-beast/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/new-technology-to-scour-the-depths-of-loch-ness-in-search-for-elusive-beast/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2023/12/is-bigfoot-dead/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/12/is-bigfoot-dead/</a>  
+   Link:<a href="https://skepticalinquirer.org/2023/12/is-bigfoot-dead/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/12/is-bigfoot-dead/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: loch ness monster picture fake  
-   Link: <a href="https://www.theguardian.com/uk-news/2013/oct/04/loch-ness-monster-picture-fake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2013/oct/04/loch-ness-monster-picture-fake</a>  
+   Link:<a href="https://www.theguardian.com/uk-news/2013/oct/04/loch-ness-monster-picture-fake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2013/oct/04/loch-ness-monster-picture-fake</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a>  
+   Link:<a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
    Title: loch ness monster could be a giant eel say scientists  
-   Link: <a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
+   Link:<a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tetzoo.com  
    Title: loch ness monster point and counterpoint  
-   Link: <a href="https://tetzoo.com/blog/2024/11/4/loch-ness-monster-point-and-counterpoint" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2024/11/4/loch-ness-monster-point-and-counterpoint</a>  
+   Link:<a href="https://tetzoo.com/blog/2024/11/4/loch-ness-monster-point-and-counterpoint" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2024/11/4/loch-ness-monster-point-and-counterpoint</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sciencefocus.com  
    Title: loch ness monster how edna helps us discover what lurks beneath  
-   Link: <a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a>  
+   Link:<a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AyH_pfreoyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AyH_pfreoyw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Capturing Bigfoot Reopened the Most Debated Footage in History | Marq Evans...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AyH_pfreoyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AyH_pfreoyw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>How Capturing Bigfoot Reopened the Most Debated Footage in History | Marq Evans...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Greatest Cryptid Hoaxes | Cryptid Corner  
-   Link: <a href="https://www.youtube.com/watch?v=V2BqncANJbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V2BqncANJbQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Mysteries Bigfoot (1994). Bigfoot Photo Analysis. With Leonard Nimoy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V2BqncANJbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V2BqncANJbQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Mysteries Bigfoot (1994). Bigfoot Photo Analysis. With Leonard Nimoy...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
+   Link:<a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328128212_Identifying_Animal_Species_in_Camera_Trap_Images_using_Deep_Learning_and_Citizen_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328128212_Identifying_Animal_Species_in_Camera_Trap_Images_using_Deep_Learning_and_Citizen_Science</a>  
+   Link:<a href="https://www.researchgate.net/publication/328128212_Identifying_Animal_Species_in_Camera_Trap_Images_using_Deep_Learning_and_Citizen_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328128212_Identifying_Animal_Species_in_Camera_Trap_Images_using_Deep_Learning_and_Citizen_Science</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340625367_Identification_errors_in_camera-trap_studies_result_in_systematic_population_overestimation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340625367_Identification_errors_in_camera-trap_studies_result_in_systematic_population_overestimation</a>  
+   Link:<a href="https://www.researchgate.net/publication/340625367_Identification_errors_in_camera-trap_studies_result_in_systematic_population_overestimation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340625367_Identification_errors_in_camera-trap_studies_result_in_systematic_population_overestimation</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/165450020177678/posts/3117828401606477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/165450020177678/posts/3117828401606477/</a>  
+   Link:<a href="https://www.facebook.com/groups/165450020177678/posts/3117828401606477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/165450020177678/posts/3117828401606477/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nespthreatenedspecies.edu.au  
-   Link: <a href="https://www.nespthreatenedspecies.edu.au/media/uk1nuysl/1-1-10-accuracy-of-identifications-of-mammal-species-from-camera-traps_a-northern-australian-case-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nespthreatenedspecies.edu.au/media/uk1nuysl/1-1-10-accuracy-of-identifications-of-mammal-species-from-camera-traps_a-northern-australian-case-study.pdf</a>  
+   Link:<a href="https://www.nespthreatenedspecies.edu.au/media/uk1nuysl/1-1-10-accuracy-of-identifications-of-mammal-species-from-camera-traps_a-northern-australian-case-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nespthreatenedspecies.edu.au/media/uk1nuysl/1-1-10-accuracy-of-identifications-of-mammal-species-from-camera-traps_a-northern-australian-case-study.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KHON2News/posts/a-scientist-who-collected-dna-from-scotlands-loch-ness-suggests-the-lakes-fabled/10156807325566379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-scientist-who-collected-dna-from-scotlands-loch-ness-suggests-the-lakes-fabled/10156807325566379/</a>  
+   Link:<a href="https://www.facebook.com/KHON2News/posts/a-scientist-who-collected-dna-from-scotlands-loch-ness-suggests-the-lakes-fabled/10156807325566379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-scientist-who-collected-dna-from-scotlands-loch-ness-suggests-the-lakes-fabled/10156807325566379/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: isu.edu  
-   Link: <a href="https://www.isu.edu/media/libraries/rhi/research-papers/ANALYSIS-INTEGRITY-OF-THE-PATTERSON-GIMLIN-FILM-IMAGE_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isu.edu/media/libraries/rhi/research-papers/ANALYSIS-INTEGRITY-OF-THE-PATTERSON-GIMLIN-FILM-IMAGE_final.pdf</a>  
+   Link:<a href="https://www.isu.edu/media/libraries/rhi/research-papers/ANALYSIS-INTEGRITY-OF-THE-PATTERSON-GIMLIN-FILM-IMAGE_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isu.edu/media/libraries/rhi/research-papers/ANALYSIS-INTEGRITY-OF-THE-PATTERSON-GIMLIN-FILM-IMAGE_final.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTYdOjTEs2-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTYdOjTEs2-/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DTYdOjTEs2-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTYdOjTEs2-/?hl=en</a>  

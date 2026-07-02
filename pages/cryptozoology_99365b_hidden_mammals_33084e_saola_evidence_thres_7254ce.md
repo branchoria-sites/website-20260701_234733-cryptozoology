@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ prev_link:
   permalink: /habitat-limits/
   short_title: Habitat limits
   heading_title: Remote forest is not an unlimited hiding place
-date: '2026-07-01 23:40:00 '
+date:'2026-07-01 23:40:00'
 header:
   og_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-social.jpg
   preview_image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1.webp
@@ -274,58 +274,38 @@ image: /assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_
 
 ## Introduction
 
-The saola is one of the most important real-world examples in discussions about [cryptozoology]({{ 'cryptozoology/' | relative_url }}) because it demonstrates both sides of the debate at once. On the one hand, a large mammal can remain unknown to science in a remote forest for a surprisingly long time. On the other hand, the saola was not accepted because of rumours, [folklore]({{ 'folklore/' | relative_url }}), or unverified sightings. It became a recognised species only when researchers obtained physical evidence that other scientists could examine and test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-dark.svg" | relative_url }}" alt="The Saola illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Discovered in the Annamite Mountains of Vietnam and Laos in 1992, the saola shows how [hidden animals]({{ 'hidden-animals/' | relative_url }}) move from [local knowledge]({{ 'local-knowledge/' | relative_url }}) into formal zoology. Its case is especially important because it clarifies the evidence threshold required for extraordinary wildlife claims: repeatable, inspectable evidence rather than stories alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
-
-
+The saola is one of the most important real-world examples in discussions about [cryptozoology]({{'cryptozoology/' | relative_url }}) because it demonstrates both sides of the debate at once. On the one hand, a large mammal can remain unknown to science in a remote forest for a surprisingly long time. On the other hand, the saola was not accepted because of rumours, [folklore]({{'folklore/' | relative_url }}), or unverified sightings. It became a recognised species only when researchers obtained physical evidence that other scientists could examine and test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-dark.svg" | relative_url }}" alt="The Saola illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGXr2J2VEQ0" title="One of the Rarest Most Endangered Animals in the World Caught on Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer">One of the Rarest Most Endangered Animals in the World Caught on Camera</a></p><p class="youtube-embed-meta">Channel: The More We Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGXr2J2VEQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGXr2J2VEQ0">Open on YouTube</a></p></div></div></div>
 
 ## The 1992 skull evidence
 
-The breakthrough did not begin with a dramatic encounter in the forest. During a joint biodiversity survey conducted by Vietnam’s Ministry of Forestry and WWF in the Vu Quang region, researchers found an unusual skull with long, nearly parallel horns in a hunter’s home. The morphology did not match any known local bovid, the group that includes cattle, buffalo and antelopes. Additional horn sets and remains were located shortly afterwards, strengthening the case that the specimen represented a previously undocumented animal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2WWFジャパン]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
+The breakthrough did not begin with a dramatic encounter in the forest. During a joint biodiversity survey conducted by Vietnam’s Ministry of Forestry and WWF in the Vu Quang region, researchers found an unusual skull with long, nearly parallel horns in a hunter’s home. The morphology did not match any known local bovid, the group that includes cattle, buffalo and antelopes. Additional horn sets and remains were located shortly afterwards, strengthening the case that the specimen represented a previously undocumented animal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2WWFジャパン]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
 
-This was the crucial step that separated the saola from a rumour. The skull could be measured, photographed, compared with museum collections and examined by specialists. Other researchers could independently assess whether the remains belonged to a known species or something genuinely new. Scientific acceptance therefore rested on material evidence rather than belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-The discovery generated intense interest because large mammal discoveries are rare. WWF described it as the first large mammal discovered by science in more than fifty years and one of the most significant zoological discoveries of the twentieth century. Yet even this remarkable claim was built upon tangible [specimens]({{ 'specimens/' | relative_url }}) and formal taxonomic study, not on eyewitness testimony alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2WWFジャパン]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
-
+This was the crucial step that separated the saola from a rumour. The skull could be measured, photographed, compared with museum collections and examined by specialists. Other researchers could independently assess whether the remains belonged to a known species or something genuinely new. Scientific acceptance therefore rested on material evidence rather than belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xYCQRfSII_k" title="Saola and Serow in the Wild | Rare and Endangered Species of Asia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer">Saola and Serow in the Wild | Rare and Endangered Species of Asia</a></p><p class="youtube-embed-meta">Channel: Animal Earth Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xYCQRfSII_k">Open on YouTube</a></p></div></div></div>
 
 ## Local knowledge and Annamite habitat
 
-The saola was unknown to international science, but it was not unknown to local people. Hunters in the Annamite region already recognised the animal and possessed horns and skulls. This distinction is important. Many species are first documented scientifically only after researchers learn from communities that live in the relevant habitat. Local knowledge can point scientists toward a real animal, but local knowledge alone is not usually sufficient for formal recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The saola was unknown to international science, but it was not unknown to local people. Hunters in the Annamite region already recognised the animal and possessed horns and skulls. This distinction is important. Many species are first documented scientifically only after researchers learn from communities that live in the relevant habitat. Local knowledge can point scientists toward a real animal, but local knowledge alone is not usually sufficient for formal recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The Annamite Mountains provided [conditions]({{ 'conditions/' | relative_url }}) that helped explain why the species remained undocumented for so long. The region consists of dense forests, rugged terrain, limited access and historically low survey coverage. The saola also appears to exist at very low population densities and avoids human contact, making direct observation difficult. Even decades after its discovery, very few confirmed records of living saola have been obtained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.panda.org">[WWF Panda+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.panda.org</span><span class="citation-popover-snippet">Elusive saola on the verge of extinction &#124; WWFThe saola, a relative of the cow first discovered by scientists in 1992 in the Ann...</span></span></span>
+The Annamite Mountains provided [conditions]({{'conditions/' | relative_url }}) that helped explain why the species remained undocumented for so long. The region consists of dense forests, rugged terrain, limited access and historically low survey coverage. The saola also appears to exist at very low population densities and avoids human contact, making direct observation difficult. Even decades after its discovery, very few confirmed records of living saola have been obtained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.panda.org">[WWF Panda+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.panda.org</span><span class="citation-popover-snippet">Elusive saola on the verge of extinction &#124; WWFThe saola, a relative of the cow first discovered by scientists in 1992 in the Ann...</span></span></span>
 
-Researchers later used local sighting information to study potential saola habitat in Laos. Those reports helped identify patterns, including associations with forested mountain areas and animal trails. Importantly, local accounts were treated as data to be tested against geography and ecology rather than accepted uncritically. The reports became valuable because they fit a coherent habitat model and could guide field research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</span></span></span>
+Researchers later used local sighting information to study potential saola habitat in Laos. Those reports helped identify patterns, including associations with forested mountain areas and animal trails. Importantly, local accounts were treated as data to be tested against geography and ecology rather than accepted uncritically. The reports became valuable because they fit a coherent habitat model and could guide field research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</span></span></span>
 
-The saola therefore illustrates a productive relationship between local knowledge and scientific investigation. Community reports suggested where to look, while specimens, habitat studies and later photographic records provided the verifiable evidence needed for scientific confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-dark.svg" | relative_url }}" alt="The Saola illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The saola therefore illustrates a productive relationship between local knowledge and scientific investigation. Community reports suggested where to look, while specimens, habitat studies and later photographic records provided the verifiable evidence needed for scientific confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-dark.svg" | relative_url }}" alt="The Saola illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the saola changed cryptid evidence claims
 
-The saola altered discussions about hidden animals because it proved that modern science can still discover large mammals in remote habitats. Before 1992, many people assumed that all sizeable land mammals had already been catalogued. The saola showed that assumption was too strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.org.la">[wwf.org.la]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.org.la</span><span class="citation-popover-title">Saola still a mystery 20 years after its spectacular debut</span><span class="citation-popover-snippet">May 21, 2012 — the saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, The team found a skull with unusual lo...</span><span class="citation-popover-meta">Published: May 21, 2012</span></span></span>
+The saola altered discussions about hidden animals because it proved that modern science can still discover large mammals in remote habitats. Before 1992, many people assumed that all sizeable land mammals had already been catalogued. The saola showed that assumption was too strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwf.org.la">[wwf.org.la]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwf.org.la</span><span class="citation-popover-title">Saola still a mystery 20 years after its spectacular debut</span><span class="citation-popover-snippet">May 21, 2012 — the saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, The team found a skull with unusual lo...</span><span class="citation-popover-meta">Published: May 21, 2012</span></span></span>
 
-However, the same discovery also highlighted what successful evidence actually looks like. The path to recognition included:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+However, the same discovery also highlighted what successful evidence actually looks like. The path to recognition included:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Physical remains that could be examined.
 * Multiple specimens rather than a single anecdote.
 * A plausible and restricted habitat.
 * Follow-up field surveys.
 * Formal scientific description and peer review.
-* Later independent records, including photographs and camera-trap evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-</div>
-
-In other words, the saola did not become accepted because scientists became more willing to believe extraordinary claims. It became accepted because the evidence became strong enough that disbelief was no longer justified. The discovery raised the standard for evaluating other claims rather than lowering it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
-
+* Later independent records, including photographs and camera-trap evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F4WPzXDchYI" title="Peoples of the Annamites: Multiple Versions of the Same Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer">Peoples of the Annamites: Multiple Versions of the Same Place</a></p><p class="youtube-embed-meta">Channel: Saola Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F4WPzXDchYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F4WPzXDchYI">Open on YouTube</a></p></div></div></div>
 
@@ -333,220 +313,36 @@ In other words, the saola did not become accepted because scientists became more
 
 A common argument in cryptozoology is that if scientists missed the saola, they could also be missing any other alleged creature. The saola case shows why that conclusion does not automatically follow.
 
-The saola left physical traces before its formal discovery. Hunters possessed skulls and horns. The species occupied a specific ecological setting where a small, elusive population could plausibly evade scientific surveys. Once researchers investigated, evidence accumulated quickly enough to support taxonomic recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
+The saola left physical traces before its formal discovery. Hunters possessed skulls and horns. The species occupied a specific ecological setting where a small, elusive population could plausibly evade scientific surveys. Once researchers investigated, evidence accumulated quickly enough to support taxonomic recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
 
 Many famous cryptids differ substantially from this pattern. Claims involving large, widespread, human-sized or long-observed creatures would generally be expected to produce abundant remains, photographs, genetic material or repeated physical evidence. The absence of such evidence becomes increasingly difficult to explain as the claimed animal becomes larger, more numerous or more geographically widespread.
 
-The lesson of the saola is therefore narrower and more useful than either sceptics or enthusiasts sometimes suggest. It demonstrates that unknown mammals can exist in poorly surveyed habitats. It does not demonstrate that all legendary animals are equally plausible. What it demonstrates most clearly is the importance of an evidence threshold: discovery occurs when claims are supported by specimens, habitat data and independent verification that other researchers can examine for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-dark.svg" | relative_url }}" alt="The Saola illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the saola changed cryptid evidence claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Species on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wtI4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lost Species" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Species">The Lost Species</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Kemp</p>
-        
-        <p class="fr-book-desc">Matches the saola&#x27;s transition from obscurity to documented species.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly addresses evidence standards relevant to the saola case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Last Chance To See on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YY8kAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Last Chance To See" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last Chance To See">Last Chance To See</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Adams, Mark Carwardine</p>
-        
-        <p class="fr-book-desc">Explores rare species and the challenge of documenting them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides broader context for hidden-animal debates and discoveries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Species&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Species</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+Chance+To+See&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last Chance To See</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Keyring Keychain"><img src="{{ '/assets/images/marketplace-covers/d96590541faf7d21a080.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Keyring Keychain" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Keyring Keychain</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set"><img src="{{ '/assets/images/marketplace-covers/39fb8abb66c120557bae.jpg' | relative_url }}" alt="Listing image for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive"><img src="{{ '/assets/images/marketplace-covers/0f2b2694b3291d84dd11.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The lesson of the saola is therefore narrower and more useful than either sceptics or enthusiasts sometimes suggest. It demonstrates that unknown mammals can exist in poorly surveyed habitats. It does not demonstrate that all legendary animals are equally plausible. What it demonstrates most clearly is the importance of an evidence threshold: discovery occurs when claims are supported by specimens, habitat data and independent verification that other researchers can examine for themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldwildlife.org">[World Wildlife Fund+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldwildlife.org</span><span class="citation-popover-snippet">World Wildlife FundSaola &#124; WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</span><span class="citation-popover-meta">Published: May 1992</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-dark.svg" | relative_url }}" alt="The Saola illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why the saola changed cryptid evidence claims. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lost Species on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wtI4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lost Species" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost Species">The Lost Species</a></h4><p class="fr-book-author">By Christopher Kemp</p><p class="fr-book-desc">Matches the saola&#x27;s transition from obscurity to documented species.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Lost+Species+by+Christopher+Kemp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Directly addresses evidence standards relevant to the saola case.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Last Chance To See on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YY8kAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Last Chance To See" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last Chance To See">Last Chance To See</a></h4><p class="fr-book-author">By Douglas Adams, Mark Carwardine</p><p class="fr-book-desc">Explores rare species and the challenge of documenting them.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Last+Chance+To+See+by+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a></h4><p class="fr-book-author">By Loren Coleman, Jerome Clark</p><p class="fr-book-desc">Provides broader context for hidden-animal debates and discoveries.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lost+Species&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lost Species</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Last+Chance+To+See&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Last Chance To See</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Keyring Keychain"><img src="{{'/assets/images/marketplace-covers/d96590541faf7d21a080.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Keyring Keychain" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Keyring Keychain</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set"><img src="{{'/assets/images/marketplace-covers/39fb8abb66c120557bae.jpg' | relative_url }}" alt="Listing image for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive"><img src="{{'/assets/images/marketplace-covers/0f2b2694b3291d84dd11.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{'/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="the-saola-why-the-saola-changed-cryptid-evidence-claims-cryptozoology-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,24 +356,24 @@ The lesson of the saola is therefore narrower and more useful than either scepti
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -588,7 +384,7 @@ The lesson of the saola is therefore narrower and more useful than either scepti
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -596,45 +392,43 @@ The lesson of the saola is therefore narrower and more useful than either scepti
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -650,10 +444,10 @@ The lesson of the saola is therefore narrower and more useful than either scepti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -673,11 +467,11 @@ The lesson of the saola is therefore narrower and more useful than either scepti
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -686,16 +480,16 @@ The lesson of the saola is therefore narrower and more useful than either scepti
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,9 +503,9 @@ The lesson of the saola is therefore narrower and more useful than either scepti
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -730,104 +524,88 @@ The lesson of the saola is therefore narrower and more useful than either scepti
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wwf.org.la  
    Title: Saola still a mystery 20 years after its spectacular debut  
-   Link: <a href="https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow">https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2012 — the saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, The team found a skull with unusual lo...</p></details>
+   Link:<a href="https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow">https://www.wwf.org.la/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=</a><details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2012 — the saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, The team found a skull with unusual lo...</p></details>
    Published: May 21, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saola</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saola</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Saola</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Saola" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Saola</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wwf.panda.org  
-   Link: <a href="https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=" target="_blank" rel="noopener noreferrer nofollow">https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elusive saola on the verge of extinction | WWFThe saola, a relative of the cow first discovered by scientists in 1992 in the Ann...</p></details>
+   Link:<a href="https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=" target="_blank" rel="noopener noreferrer nofollow">https://wwf.panda.org/es/?11783%2FElusive-saola-on-the-verge-of-extinction=</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Elusive saola on the verge of extinction | WWFThe saola, a relative of the cow first discovered by scientists in 1992 in the Ann...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Saola Working Group  
-   Link: <a href="https://en.wikipedia.org/wiki/Saola_Working_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saola_Working_Group</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saola_Working_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saola_Working_Group</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wwf.panda.org  
-   Link: <a href="https://wwf.panda.org/es/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow">https://wwf.panda.org/es/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>still a mystery 20 years after its spectacular debutthe saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, T...</p></details>
+   Link:<a href="https://wwf.panda.org/es/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=" target="_blank" rel="noopener noreferrer nofollow">https://wwf.panda.org/es/?204726%2FSaola-still-a-mystery-20-years-after-its-spectacular-debut=</a><details class="endnote-snippet"><summary>Source snippet</summary><p>still a mystery 20 years after its spectacular debutthe saola was discovered in 1992 by a joint team surveying the forests of Vu Quang, T...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: worldwildlife.org  
-   Link: <a href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldwildlife.org/species/saola/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Wildlife FundSaola | WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</p></details>
+   Link:<a href="https://www.worldwildlife.org/species/saola/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldwildlife.org/species/saola/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>World Wildlife FundSaola | WWFThe saola was first documented by scientists in May 1992. The team found a skull with unusual long, straigh...</p></details>
    Published: May 1992  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1940082917713014</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1940082917713014" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1940082917713014</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHabitat Use of the Saola Pseudoryx nghetinhensis...19 Jun 2017 — The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is I...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317710461_Habitat_Use_of_the_Saola_Pseudoryx_nghetinhensis_Mammalia_Bovidae_Based_on_Local_Sightings_in_the_Northern_Annamite_Mountains_of_Lao_PDR" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317710461_Habitat_Use_of_the_Saola_Pseudoryx_nghetinhensis_Mammalia_Bovidae_Based_on_Local_Sightings_in_the_Northern_Annamite_Mountains_of_Lao_PDR</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habitat Use of the Saola Pseudoryx nghetinhensis...The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is IUCN Critically Endang...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317710461_Habitat_Use_of_the_Saola_Pseudoryx_nghetinhensis_Mammalia_Bovidae_Based_on_Local_Sightings_in_the_Northern_Annamite_Mountains_of_Lao_PDR" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317710461_Habitat_Use_of_the_Saola_Pseudoryx_nghetinhensis_Mammalia_Bovidae_Based_on_Local_Sightings_in_the_Northern_Annamite_Mountains_of_Lao_PDR</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habitat Use of the Saola Pseudoryx nghetinhensis...The Saola Pseudoryx nghetinhensis (Mammalia; Bovidae) is IUCN Critically Endang...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: katiensafari.com  
-   Link: <a href="https://katiensafari.com/wildlife-news/saola-asian-unicorn/" target="_blank" rel="noopener noreferrer nofollow">https://katiensafari.com/wildlife-news/saola-asian-unicorn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saola: The Asian Unicorn of the Annamite RangeThe species was first identified from a skull found in Vu Quang National Park, a historical...</p></details>
+   Link:<a href="https://katiensafari.com/wildlife-news/saola-asian-unicorn/" target="_blank" rel="noopener noreferrer nofollow">https://katiensafari.com/wildlife-news/saola-asian-unicorn/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Saola: The Asian Unicorn of the Annamite RangeThe species was first identified from a skull found in Vu Quang National Park, a historical...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/8633729870037397/posts/9366101083466935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8633729870037397/posts/9366101083466935/</a>  
+   Link:<a href="https://www.facebook.com/groups/8633729870037397/posts/9366101083466935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8633729870037397/posts/9366101083466935/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theprehistoricworld/posts/one-of-the-rarest-large-animals-on-the-planet-the-saola-is-so-elusive-that-it-ha/816127481117686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theprehistoricworld/posts/one-of-the-rarest-large-animals-on-the-planet-the-saola-is-so-elusive-that-it-ha/816127481117686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r skull in a hunter&#x27;s home in the Annamite Range, marking one of the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/theprehistoricworld/posts/one-of-the-rarest-large-animals-on-the-planet-the-saola-is-so-elusive-that-it-ha/816127481117686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theprehistoricworld/posts/one-of-the-rarest-large-animals-on-the-planet-the-saola-is-so-elusive-that-it-ha/816127481117686/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>r skull in a hunter&#x27;s home in the Annamite Range, marking one of the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZbZUu2iPPe/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZbZUu2iPPe/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Saola, called &quot;Asian Unicorn&quot; — is a large forest-...The Saola Was Discovered in 1992 in the Annamite Mountains of Vietnam and Laos...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZbZUu2iPPe/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZbZUu2iPPe/?hl=en-gb</a><details class="endnote-snippet"><summary>Source snippet</summary><p>the Saola, called &quot;Asian Unicorn&quot; — is a large forest-...The Saola Was Discovered in 1992 in the Annamite Mountains of Vietnam and Laos...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wwf.or.jp  
    Title: WWFジャパンSaola rediscovered!  
-   Link: <a href="https://www.wwf.or.jp/eng/activities/1665.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wwf.or.jp/eng/activities/1665.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Asian Unicorn&#x27; sighted in Vietnam for...Nov 12, 2013 — The saola was discovered in 1992 by a joint team. WWF surveying the forests of V...</p></details>
+   Link:<a href="https://www.wwf.or.jp/eng/activities/1665.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wwf.or.jp/eng/activities/1665.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Asian Unicorn&#x27; sighted in Vietnam for...Nov 12, 2013 — The saola was discovered in 1992 by a joint team. WWF surveying the forests of V...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vietnamnet.vn  
    Title: saola in vietnam E89266  
-   Link: <a href="https://vietnamnet.vn/en/saola-in-vietnam-E89266.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/saola-in-vietnam-E89266.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saola in VietnamNov 16, 2013 — The discovery of saola in Vietnam in 1992 and the discovery of an individual saola recently when this spec...</p></details>
+   Link:<a href="https://vietnamnet.vn/en/saola-in-vietnam-E89266.html" target="_blank" rel="noopener noreferrer nofollow">https://vietnamnet.vn/en/saola-in-vietnam-E89266.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Saola in VietnamNov 16, 2013 — The discovery of saola in Vietnam in 1992 and the discovery of an individual saola recently when this spec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bioone.org  
-   Link: <a href="https://bioone.org/journals/tropical-conservation-science/volume-10/issue-1/1940082917713014/Habitat-Use-of-the-Saola-Pseudoryx-nghetinhensis-Mammalia-Bovidae-Based/10.1177/1940082917713014.full" target="_blank" rel="noopener noreferrer nofollow">https://bioone.org/journals/tropical-conservation-science/volume-10/issue-1/1940082917713014/Habitat-Use-of-the-Saola-Pseudoryx-nghetinhensis-Mammalia-Bovidae-Based/10.1177/1940082917713014.full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habitat Use of the Saola Pseudoryx nghetinhensis...by C Phommachanh · 2020 · Cited by 6 — An example of two Saola skulls and horns (prob...</p></details>
+   Link:<a href="https://bioone.org/journals/tropical-conservation-science/volume-10/issue-1/1940082917713014/Habitat-Use-of-the-Saola-Pseudoryx-nghetinhensis-Mammalia-Bovidae-Based/10.1177/1940082917713014.full" target="_blank" rel="noopener noreferrer nofollow">https://bioone.org/journals/tropical-conservation-science/volume-10/issue-1/1940082917713014/Habitat-Use-of-the-Saola-Pseudoryx-nghetinhensis-Mammalia-Bovidae-Based/10.1177/1940082917713014.full</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Habitat Use of the Saola Pseudoryx nghetinhensis...by C Phommachanh · 2020 · Cited by 6 — An example of two Saola skulls and horns (prob...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.mae.gov.vn  
    Title: protecting the saola 8819  
-   Link: <a href="https://en.mae.gov.vn/protecting-the-saola-8819.htm" target="_blank" rel="noopener noreferrer nofollow">https://en.mae.gov.vn/protecting-the-saola-8819.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the SaolaIt was first discovered in 1992 in the Annamite Mountains, along the border between Vietnam and Laos...</p></details>
+   Link:<a href="https://en.mae.gov.vn/protecting-the-saola-8819.htm" target="_blank" rel="noopener noreferrer nofollow">https://en.mae.gov.vn/protecting-the-saola-8819.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>the SaolaIt was first discovered in 1992 in the Annamite Mountains, along the border between Vietnam and Laos...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Saola and Serow in the Wild | Rare and Endangered Species of Asia  
-   Link: <a href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xYCQRfSII_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the Rarest Most Endangered Animals in the World Caught on Camera...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xYCQRfSII_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xYCQRfSII_k</a><details class="endnote-snippet"><summary>Source snippet</summary><p>One of the Rarest Most Endangered Animals in the World Caught on Camera...</p></details>

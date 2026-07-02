@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:32'
+date:'2026-07-01 12:55:32'
 parent_title: Why Sea Serpent Stories Keep Returning
 parent_permalink: /sea-serpents/
 parent_nav_short_title: Sea Serpents
@@ -280,15 +280,12 @@ image: /assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_s
 
 ## Introduction
 
-Among the many proposed explanations for sea serpent reports, the oarfish is one of the strongest because it already looks remarkably like the creature people imagine. Long, ribbon-shaped, silvery, and often crowned with bright red fin rays, an oarfish can appear more mythical than many fictional monsters. When one of these deep-sea fish reaches the surface—often sick, injured, or dying—it presents exactly the sort of fleeting, unusual sighting that has fuelled centuries of maritime mystery. Scientists, museum collections, and marine historians frequently cite oarfish as a plausible source for at least some historical sea serpent accounts, particularly those describing long, serpentine bodies seen briefly at sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.org">[Natural History Museum+2National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.org</span><span class="citation-popover-title">Natural History Museum Fishes on Display</span><span class="citation-popover-snippet">Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-dark.svg" | relative_url }}" alt="Oarfish illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Among the many proposed explanations for sea serpent reports, the oarfish is one of the strongest because it already looks remarkably like the creature people imagine. Long, ribbon-shaped, silvery, and often crowned with bright red fin rays, an oarfish can appear more mythical than many fictional monsters. When one of these deep-sea fish reaches the surface—often sick, injured, or dying—it presents exactly the sort of fleeting, unusual sighting that has fuelled centuries of maritime mystery. Scientists, museum collections, and marine historians frequently cite oarfish as a plausible source for at least some historical sea serpent accounts, particularly those describing long, serpentine bodies seen briefly at sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.org">[Natural History Museum+2National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.org</span><span class="citation-popover-title">Natural History Museum Fishes on Display</span><span class="citation-popover-snippet">Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-dark.svg" | relative_url }}" alt="Oarfish illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike hypothetical cryptids, oarfish are real animals. The question is not whether they exist, but how much of the sea serpent tradition they can realistically explain.
 
 ## Why Oarfish Look So Unnatural at the Surface
 
-The giant oarfish (*Regalecus glesne*) is the longest known bony fish. Verified [specimens]({{ 'specimens/' | relative_url }}) commonly exceed several metres in length, and exceptional reports have reached well over 20 feet. Its body is extremely compressed from side to side, creating the appearance of a metallic ribbon moving through the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floridamuseum.ufl.edu">[Florida Museum+2NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floridamuseum.ufl.edu</span><span class="citation-popover-snippet">Florida MuseumOarfish – Discover FishesFeb 6, 2025 — Oarfish are greatly elongated, large fish in the family Regalecidae. This family, de...</span></span></span>
+The giant oarfish (*Regalecus glesne*) is the longest known bony fish. Verified [specimens]({{'specimens/' | relative_url }}) commonly exceed several metres in length, and exceptional reports have reached well over 20 feet. Its body is extremely compressed from side to side, creating the appearance of a metallic ribbon moving through the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floridamuseum.ufl.edu">[Florida Museum+2NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floridamuseum.ufl.edu</span><span class="citation-popover-snippet">Florida MuseumOarfish – Discover FishesFeb 6, 2025 — Oarfish are greatly elongated, large fish in the family Regalecidae. This family, de...</span></span></span>
 
 Several features make the animal especially likely to trigger “monster” interpretations:
 
@@ -296,12 +293,9 @@ Several features make the animal especially likely to trigger “monster” inte
 * **A bright red dorsal fin** running almost the entire length of the body.
 * **Red crest-like fin rays** projecting from the head, giving it a crown-like appearance.
 * **A silvery reflective surface** that flashes in sunlight and can distort perception at distance.
-* **Rare appearances near the surface**, [meaning]({{ 'meaning/' | relative_url }}) most observers have never seen one before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2Florida Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicMysterious &#x27;Sea Serpent&#x27; Oarfish ResurfacesFeb 17, 2017 — Though not a reptile, the elongated fish is thought to be th...</span></span></span>
+* **Rare appearances near the surface**, [meaning]({{'meaning/' | relative_url }}) most observers have never seen one before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2Florida Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">National GeographicMysterious &#x27;Sea Serpent&#x27; Oarfish ResurfacesFeb 17, 2017 — Though not a reptile, the elongated fish is thought to be th...</span></span></span>
 
-The effect becomes even stranger because oarfish do not always swim horizontally. Observations of living individuals have documented a vertical posture, with the head near the surface and much of the body extending downward into deeper water. To an observer on a vessel, only part of the animal may be visible, encouraging estimates that greatly exceed its actual size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karlshuker.blogspot.com">[karlshuker.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karlshuker.blogspot.com</span><span class="citation-popover-title">oarfish origins and very unlikely sea</span><span class="citation-popover-snippet">OARFISH ORIGINS AND A VERY (UN?)LIKELY SEA...Dec 26, 2014 — Until then, no-one had suspected that this serpentine species could orient i...</span></span></span>
-
-Their rarity contributes further to the mystery. Oarfish inhabit deep offshore waters and are seldom encountered alive. Many of the specimens seen by the public are stranded or dying animals that have drifted upward from depths where humans rarely observe marine life directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-snippet">UC San Diego TodayFish Experts Study Rare Deep-Sea Oarfish in the Lab27 Aug 2024 — This deep-sea fish is incredibly rare, and marks only...</span></span></span>
-
+The effect becomes even stranger because oarfish do not always swim horizontally. Observations of living individuals have documented a vertical posture, with the head near the surface and much of the body extending downward into deeper water. To an observer on a vessel, only part of the animal may be visible, encouraging estimates that greatly exceed its actual size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karlshuker.blogspot.com">[karlshuker.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karlshuker.blogspot.com</span><span class="citation-popover-title">oarfish origins and very unlikely sea</span><span class="citation-popover-snippet">OARFISH ORIGINS AND A VERY (UN?)LIKELY SEA...Dec 26, 2014 — Until then, no-one had suspected that this serpentine species could orient i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ScL8wjWbps" title="The Oarfish | The Real Sea Serpent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer">The Oarfish | The Real Sea Serpent</a></p><p class="youtube-embed-meta">Channel: Secrets Of The Deep Sea</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ScL8wjWbps">Open on YouTube</a></p></div></div></div>
 
@@ -311,26 +305,20 @@ Many classic sea serpent reports share a cluster of characteristics that align s
 
 ### Long, snake-like bodies
 
-The most obvious match is simple shape. Numerous historical descriptions speak of an animal resembling a giant serpent, ribbon, cable, or snake moving through the water. Oarfish naturally possess that profile without requiring exaggeration. Museum ichthyologists and marine historians have repeatedly noted that their appearance closely resembles traditional sea serpent imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.org">[Natural History Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.org</span><span class="citation-popover-title">Natural History Museum Fishes on Display</span><span class="citation-popover-snippet">Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</span></span></span>
+The most obvious match is simple shape. Numerous historical descriptions speak of an animal resembling a giant serpent, ribbon, cable, or snake moving through the water. Oarfish naturally possess that profile without requiring exaggeration. Museum ichthyologists and marine historians have repeatedly noted that their appearance closely resembles traditional sea serpent imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.org">[Natural History Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.org</span><span class="citation-popover-title">Natural History Museum Fishes on Display</span><span class="citation-popover-snippet">Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</span></span></span>
 
 ### Red manes, crests, or unusual head features
 
-Some sea serpent accounts describe a mane, crest, or unusual ornamentation near the head. The oarfish's prominent red fin rays provide a straightforward explanation for such observations. At a distance, these structures can appear like hair, feathers, or a dragon-like crest rather than fish anatomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">five real sea monsters brought life early naturalists 180953155</span><span class="citation-popover-snippet">Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-dark.svg" | relative_url }}" alt="Oarfish illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Some sea serpent accounts describe a mane, crest, or unusual ornamentation near the head. The oarfish's prominent red fin rays provide a straightforward explanation for such observations. At a distance, these structures can appear like hair, feathers, or a dragon-like crest rather than fish anatomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">five real sea monsters brought life early naturalists 180953155</span><span class="citation-popover-snippet">Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-dark.svg" | relative_url }}" alt="Oarfish illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Partial sightings of enormous animals
 
-[Witnesses]({{ 'witnesses/' | relative_url }}) often report seeing only a section of a creature. An oarfish near the surface may expose part of its body while the remainder remains submerged. Waves, glare, and distance can make it difficult to judge length accurately. A fish several metres long may appear much larger, especially if observers assume the visible portion is only part of a far bigger animal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">five real sea monsters brought life early naturalists 180953155</span><span class="citation-popover-snippet">Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</span></span></span>
+[Witnesses]({{'witnesses/' | relative_url }}) often report seeing only a section of a creature. An oarfish near the surface may expose part of its body while the remainder remains submerged. Waves, glare, and distance can make it difficult to judge length accurately. A fish several metres long may appear much larger, especially if observers assume the visible portion is only part of a far bigger animal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">five real sea monsters brought life early naturalists 180953155</span><span class="citation-popover-snippet">Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</span></span></span>
 
 ### Washed-up “sea serpent” carcasses
 
-Historically, some supposed sea serpent remains turned out to be ribbonfish or oarfish-like animals. Their unusual proportions and unfamiliar anatomy can appear bizarre even after death. Marine writers and museum collections have noted that stranded specimens have repeatedly been mistaken for monsters because they lack the familiar body shape people associate with fish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.biodiversitylibrary.org">[Biodiversity Heritage Library+2NHSN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.biodiversitylibrary.org</span><span class="citation-popover-title">the quest for sea serpent oarfish or</span><span class="citation-popover-snippet">Biodiversity Heritage LibraryThe Quest for the Sea Serpent: An Oarfish or Something...Oct 29, 2014 — Fleeting glimpses of oarfish could...</span></span></span>
+Historically, some supposed sea serpent remains turned out to be ribbonfish or oarfish-like animals. Their unusual proportions and unfamiliar anatomy can appear bizarre even after death. Marine writers and museum collections have noted that stranded specimens have repeatedly been mistaken for monsters because they lack the familiar body shape people associate with fish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.biodiversitylibrary.org">[Biodiversity Heritage Library+2NHSN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.biodiversitylibrary.org</span><span class="citation-popover-title">the quest for sea serpent oarfish or</span><span class="citation-popover-snippet">Biodiversity Heritage LibraryThe Quest for the Sea Serpent: An Oarfish or Something...Oct 29, 2014 — Fleeting glimpses of oarfish could...</span></span></span>
 
 ### Rare encounters that become memorable stories
-
-Oarfish sightings are genuinely uncommon. In California, only a small number of documented strandings have been recorded since the early twentieth century. Because encounters are rare, witnesses are less likely to recognise what they are seeing and more likely to interpret the event as extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-snippet">UC San Diego TodayFish Experts Study Rare Deep-Sea Oarfish in the Lab27 Aug 2024 — This deep-sea fish is incredibly rare, and marks only...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U2NNVX08EQ" title="Giant Sea Serpent Appears on Cabo Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U2NNVX08EQ" target="_blank" rel="noopener noreferrer">Giant Sea Serpent Appears on Cabo Beach</a></p><p class="youtube-embed-meta">Channel: We Love Animals</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U2NNVX08EQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U2NNVX08EQ">Open on YouTube</a></p></div></div></div>
 
@@ -338,235 +326,47 @@ Oarfish sightings are genuinely uncommon. In California, only a small number of 
 
 The connection between oarfish and sea serpent stories is not merely a modern sceptical suggestion. Naturalists have been making the comparison for generations.
 
-Marine historians have pointed to nineteenth-century reports in which ribbonfish-like animals were initially treated as mysterious serpents. One frequently cited example concerns a supposed sea serpent found in Orkney in 1808, later argued by fish specialists to have been an oarfish or closely related ribbon-shaped fish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tos.org/oceanography/assets/docs/27-2_dybas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tos.org">[The Oceanography Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tos.org</span><span class="citation-popover-snippet">The Oceanography SocietyOceanography“Even the famous Sea Serpent, measuring fifty-six feet in length, cast up on the shore of Orkney in 1...</span></span></span>
+Marine historians have pointed to nineteenth-century reports in which ribbonfish-like animals were initially treated as mysterious serpents. One frequently cited example concerns a supposed sea serpent found in Orkney in 1808, later argued by fish specialists to have been an oarfish or closely related ribbon-shaped fish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tos.org/oceanography/assets/docs/27-2_dybas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tos.org">[The Oceanography Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tos.org</span><span class="citation-popover-snippet">The Oceanography SocietyOceanography“Even the famous Sea Serpent, measuring fifty-six feet in length, cast up on the shore of Orkney in 1...</span></span></span>
 
-Historical records from northern Britain also describe unusually long ribbonfish captured by fishermen and discussed in the same cultural environment that produced sea serpent reports. Modern archive research has highlighted these fish as plausible contributors to local serpent traditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsn.org.uk">[NHSN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsn.org.uk</span><span class="citation-popover-title">stories from the archive the northumbrian sea serpent</span><span class="citation-popover-snippet">Stories from the Archive: The Northumbrian Sea SerpentSep 3, 2024 — The fish they had found was a type of deep-water ribbonfish, whic...</span></span></span>
+Historical records from northern Britain also describe unusually long ribbonfish captured by fishermen and discussed in the same cultural environment that produced sea serpent reports. Modern archive research has highlighted these fish as plausible contributors to local serpent traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsn.org.uk">[NHSN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsn.org.uk</span><span class="citation-popover-title">stories from the archive the northumbrian sea serpent</span><span class="citation-popover-snippet">Stories from the Archive: The Northumbrian Sea SerpentSep 3, 2024 — The fish they had found was a type of deep-water ribbonfish, whic...</span></span></span>
 
-More recent strandings continue to demonstrate why the association persists. Specimens found in California, Mexico, Tasmania, and elsewhere routinely generate headlines describing them as “sea serpent-like” because their appearance is so dramatically unlike that of familiar coastal fish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-dark.svg" | relative_url }}" alt="Oarfish illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+More recent strandings continue to demonstrate why the association persists. Specimens found in California, Mexico, Tasmania, and elsewhere routinely generate headlines describing them as “sea serpent-like” because their appearance is so dramatically unlike that of familiar coastal fish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-dark.svg" | relative_url }}" alt="Oarfish illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_sea_serpent_sighting_7dd069_oarfish_sea_serpent_354bd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Oarfish Explanation Has Limits
 
 Although oarfish provide a convincing explanation for some reports, they cannot account for every sea serpent claim.
 
-First, many classic sightings describe animals with features that oarfish do not possess. Reports of multiple humps, thick reptilian necks, horse-like heads, large flippers, or whale-sized bodies extend well beyond known oarfish anatomy. In such cases, other explanations—such as misidentified whales, groups of marine mammals, sharks, floating debris, or observational error—are more plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">the giant squid dragon of the deep 18784038</span><span class="citation-popover-snippet">Smithsonian MagazineThe Giant Squid: Dragon of the DeepJun 21, 2011 — After over 150 years since it was first sighted by the HMS Daedalus...</span></span></span>
+First, many classic sightings describe animals with features that oarfish do not possess. Reports of multiple humps, thick reptilian necks, horse-like heads, large flippers, or whale-sized bodies extend well beyond known oarfish anatomy. In such cases, other explanations—such as misidentified whales, groups of marine mammals, sharks, floating debris, or observational error—are more plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">the giant squid dragon of the deep 18784038</span><span class="citation-popover-snippet">Smithsonian MagazineThe Giant Squid: Dragon of the DeepJun 21, 2011 — After over 150 years since it was first sighted by the HMS Daedalus...</span></span></span>
 
-Second, oarfish are generally delicate fish rather than powerful surface swimmers. They do not habitually travel in a way that would create long sequences of visible humps across the water. Sightings dominated by that feature fit poorly with the oarfish hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The oarfish, a true one in a million fish. These guys are</span><span class="citation-popover-snippet">The oarfish, a true one in a million fish. These guys are...May 3, 2021 — They live 200+ meters deep in the ocean in calm waters...</span><span class="citation-popover-meta">Published: May 3, 2021</span></span></span>
+Second, oarfish are generally delicate fish rather than powerful surface swimmers. They do not habitually travel in a way that would create long sequences of visible humps across the water. Sightings dominated by that feature fit poorly with the oarfish hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The oarfish, a true one in a million fish. These guys are</span><span class="citation-popover-snippet">The oarfish, a true one in a million fish. These guys are...May 3, 2021 — They live 200+ meters deep in the ocean in calm waters...</span><span class="citation-popover-meta">Published: May 3, 2021</span></span></span>
 
-Third, the geographical distribution of sea serpent traditions is broader than the known occurrence of specific oarfish encounters. Maritime [folklore]({{ 'folklore/' | relative_url }}) developed through many mechanisms, including genuine sightings of unfamiliar animals, cultural storytelling, exaggeration, and repeated retelling across generations. No single species can explain every regional legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">sea serpent&quot; sightings Natural History Museum. [2/4].Read more</span><span class="citation-popover-snippet">Smithsonian MagazineMeet the Real Animals Behind Mermaids, Dragons and...Dec 21, 2020 — Mermaids, sea serpents, manatees and giant oarfi...</span></span></span>
-
-The strongest conclusion is therefore a limited one: oarfish probably contributed to some sea serpent reports, especially those involving long, silvery, ribbon-like animals seen briefly at the surface or washed ashore. They are one of the clearest examples of how a real but rarely observed deep-sea creature can generate accounts that sound cryptozoological without requiring an unknown species. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.org">[Natural History Museum+2National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.org</span><span class="citation-popover-title">Natural History Museum Fishes on Display</span><span class="citation-popover-snippet">Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</span></span></span>
-
+Third, the geographical distribution of sea serpent traditions is broader than the known occurrence of specific oarfish encounters. Maritime [folklore]({{'folklore/' | relative_url }}) developed through many mechanisms, including genuine sightings of unfamiliar animals, cultural storytelling, exaggeration, and repeated retelling across generations. No single species can explain every regional legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">sea serpent&quot; sightings Natural History Museum. [2/4].Read more</span><span class="citation-popover-snippet">Smithsonian MagazineMeet the Real Animals Behind Mermaids, Dragons and...Dec 21, 2020 — Mermaids, sea serpents, manatees and giant oarfi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SlwXVdb4B24" title="Scientists complete necropsy on deep-sea oarfish discovered in La Jolla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SlwXVdb4B24" target="_blank" rel="noopener noreferrer">Scientists complete necropsy on deep-sea oarfish discovered in La Jolla</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SlwXVdb4B24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SlwXVdb4B24">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Real Fish That Looks Like a Serpent. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Evaluates how ordinary animals become cryptid evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides broader sea-serpent and mystery-animal context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sZYWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fishes">Fishes</a>
-        </h4>
-        <p class="fr-book-author">By Peter B. Moyle, Joseph J. Cech</p>
-        
-        <p class="fr-book-desc">Provides biological context for rare fish such as oarfish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fishes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fishes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8b38eabe4278ee812152.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/48e14befcca6b9ef8503.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a></h4><p class="fr-book-author">By Loren Coleman, Jerome Clark</p><p class="fr-book-desc">Provides broader sea-serpent and mystery-animal context.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sZYWAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fishes">Fishes</a></h4><p class="fr-book-author">By Peter B. Moyle, Joseph J. Cech</p><p class="fr-book-desc">Provides biological context for rare fish such as oarfish.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Fishes+by+Peter+B.+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a></h4><p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p><p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fishes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fishes</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/8b38eabe4278ee812152.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/48e14befcca6b9ef8503.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="oarfish-the-real-fish-that-looks-like-a-serpent-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,24 +380,24 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -608,7 +408,7 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -616,45 +416,43 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -670,10 +468,10 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -693,11 +491,11 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -706,16 +504,16 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,9 +527,9 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -750,220 +548,182 @@ The strongest conclusion is therefore a limited one: oarfish probably contribute
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fisheries.noaa.gov  
    Title: giant oarfish  
-   Link: <a href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.fisheries.noaa.gov/podcast/giant-oarfish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA FisheriesThe Giant Oarfish24 Oct 2013 — In the last few weeks, not one, but two giant oarfish have washed up on the beach in Souther...</p></details>
+   Link:<a href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.fisheries.noaa.gov/podcast/giant-oarfish</a><details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA FisheriesThe Giant Oarfish24 Oct 2013 — In the last few weeks, not one, but two giant oarfish have washed up on the beach in Souther...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: karlshuker.blogspot.com  
    Title: oarfish origins and very unlikely sea  
-   Link: <a href="https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html" target="_blank" rel="noopener noreferrer nofollow">https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OARFISH ORIGINS AND A VERY (UN?)LIKELY SEA...Dec 26, 2014 — Until then, no-one had suspected that this serpentine species could orient i...</p></details>
+   Link:<a href="https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html" target="_blank" rel="noopener noreferrer nofollow">https://karlshuker.blogspot.com/2014/12/oarfish-origins-and-very-unlikely-sea.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>OARFISH ORIGINS AND A VERY (UN?)LIKELY SEA...Dec 26, 2014 — Until then, no-one had suspected that this serpentine species could orient i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Giant_oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giant_oarfish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant oarfishIts physical characteristics and undulating mode of swimming have led to speculation that it might be the source of many...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Giant_oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giant_oarfish</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Giant oarfishIts physical characteristics and undulating mode of swimming have led to speculation that it might be the source of many...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nhsn.org.uk  
    Title: stories from the archive the northumbrian sea serpent  
-   Link: <a href="https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from the Archive: The Northumbrian Sea SerpentSep 3, 2024 — The fish they had found was a type of deep-water ribbonfish, whic...</p></details>
+   Link:<a href="https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsn.org.uk/stories-from-the-archive-the-northumbrian-sea-serpent/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from the Archive: The Northumbrian Sea SerpentSep 3, 2024 — The fish they had found was a type of deep-water ribbonfish, whic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: The oarfish, a true one in a million fish. These guys are  
-   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The oarfish, a true one in a million fish. These guys are...May 3, 2021 — They live 200+ meters deep in the ocean in calm waters...</p></details>
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/n3oq0e/the_oarfish_a_true_one_in_a_million_fish_these/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The oarfish, a true one in a million fish. These guys are...May 3, 2021 — They live 200+ meters deep in the ocean in calm waters...</p></details>
    Published: May 3, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sea.com  
-   Link: <a href="https://www.sea.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sea.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeSea is a global technology company founded in Singapore in 2009. Our mission is to better the lives of consumers and small busi...</p></details>
+   Link:<a href="https://www.sea.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sea.com/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>HomeSea is a global technology company founded in Singapore in 2009. Our mission is to better the lives of consumers and small busi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oarfish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OarfishTheir rarity and large size, and their habit of lingering at the surface when sick or dying, make oarfish a probable source of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oarfish</a><details class="endnote-snippet"><summary>Source snippet</summary><p>OarfishTheir rarity and large size, and their habit of lingering at the surface when sick or dying, make oarfish a probable source of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SeaA sea is a large body of salt water. There are particular seas and the sea. The sea commonly refers to the Ocean, the interconnecte...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sea" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sea</a><details class="endnote-snippet"><summary>Source snippet</summary><p>SeaA sea is a large body of salt water. There are particular seas and the sea. The sea commonly refers to the Ocean, the interconnecte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: TI L that “sea serpent” myths likely originated from Oarfish  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/hrs1av/til_that_sea_serpent_myths_likely_originated_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/hrs1av/til_that_sea_serpent_myths_likely_originated_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that the Oarfish is the likely source for most sea serpent tales. And although it&#x27;s a deep water species its not to uncommon to see o...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/hrs1av/til_that_sea_serpent_myths_likely_originated_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/hrs1av/til_that_sea_serpent_myths_likely_originated_from/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that the Oarfish is the likely source for most sea serpent tales. And although it&#x27;s a deep water species its not to uncommon to see o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NatureIsFuckingLit/comments/1izhvse/diver_encountering_a_giant_oarfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NatureIsFuckingLit/comments/1izhvse/diver_encountering_a_giant_oarfish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diver encountering a Giant Oarfish: r/NatureIsFuckingLitAs a result, Oarfish are rarely seen near the surface, except on rare occasions...</p></details>
+   Link:<a href="https://www.reddit.com/r/NatureIsFuckingLit/comments/1izhvse/diver_encountering_a_giant_oarfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NatureIsFuckingLit/comments/1izhvse/diver_encountering_a_giant_oarfish/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Diver encountering a Giant Oarfish: r/NatureIsFuckingLitAs a result, Oarfish are rarely seen near the surface, except on rare occasions...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sea.edu  
-   Link: <a href="https://sea.edu/" target="_blank" rel="noopener noreferrer nofollow">https://sea.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cation AssociationThrough Sea Education Association&#x27;s curriculum, students explore their passion by experiencing the sea and engaging in...</p></details>
+   Link:<a href="https://sea.edu/" target="_blank" rel="noopener noreferrer nofollow">https://sea.edu/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>cation AssociationThrough Sea Education Association&#x27;s curriculum, students explore their passion by experiencing the sea and engaging in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Every Real Sea Monster That Inspired Legends  
-   Link: <a href="http://www.youtube.com/watch?v=KDKsrfIqE5g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KDKsrfIqE5g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oarfish | The Real Sea Serpent...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KDKsrfIqE5g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KDKsrfIqE5g</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Oarfish | The Real Sea Serpent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Oarfish | The Real Sea Serpent  
-   Link: <a href="http://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2ScL8wjWbps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oarfish | This Legendary Fish That Announces Tsunamis...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2ScL8wjWbps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2ScL8wjWbps</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Oarfish | This Legendary Fish That Announces Tsunamis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Oarfish | This Legendary Fish That Announces Tsunamis  
-   Link: <a href="http://www.youtube.com/watch?v=ecH-fY7a5IQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ecH-fY7a5IQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did [Sea Serpents](&amp;#123;&amp;#123; &#x27;sea-serpents/&#x27; | relative_url &amp;#125;&amp;#125;) Exist?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ecH-fY7a5IQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ecH-fY7a5IQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Did [Sea Serpents](&amp;#123;&amp;#123; &#x27;sea-serpents/&#x27; | relative_url &amp;#125;&amp;#125;) Exist?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nhm.org  
    Title: Natural History Museum Fishes on Display  
-   Link: <a href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow">https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</p></details>
+   Link:<a href="https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display" target="_blank" rel="noopener noreferrer nofollow">https://nhm.org/research-collections/departments-and-programs/ichthyology/fishes-display</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumFishes on Display - Natural History MuseumOarfishes in the water may be mistaken for sea monsters or sea serpents...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicMysterious &#x27;Sea Serpent&#x27; Oarfish ResurfacesFeb 17, 2017 — Though not a reptile, the elongated fish is thought to be th...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/adventure/article/pictures-oarfish-philippines</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicMysterious &#x27;Sea Serpent&#x27; Oarfish ResurfacesFeb 17, 2017 — Though not a reptile, the elongated fish is thought to be th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: smithsonianmag.com  
    Title: five real sea monsters brought life early naturalists 180953155  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/five-real-sea-monsters-brought-life-early-naturalists-180953155/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineFive “Real” Sea Monsters Brought to Life by Early NaturalistsOct 27, 2014 — Fleeting glimpses of oarfish could easily...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: floridamuseum.ufl.edu  
-   Link: <a href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida MuseumOarfish – Discover FishesFeb 6, 2025 — Oarfish are greatly elongated, large fish in the family Regalecidae. This family, de...</p></details>
+   Link:<a href="https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/oarfish/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Florida MuseumOarfish – Discover FishesFeb 6, 2025 — Oarfish are greatly elongated, large fish in the family Regalecidae. This family, de...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: today.ucsd.edu  
-   Link: <a href="https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodayFish Experts Study Rare Deep-Sea Oarfish in the Lab27 Aug 2024 — This deep-sea fish is incredibly rare, and marks only...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/fish-experts-study-rare-deep-sea-oarfish-in-the-lab</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodayFish Experts Study Rare Deep-Sea Oarfish in the Lab27 Aug 2024 — This deep-sea fish is incredibly rare, and marks only...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego</a>  
+   Link:<a href="https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/article/2024/aug/16/oarfish-san-diego</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local resident Tony Cheesman discovered the silvery, ribbon-like fish during a walk, noting its distinctive features like long fins exten...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Local resident Tony Cheesman discovered the silvery, ribbon-like fish during a walk, noting its distinctive features like long fins exten...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.biodiversitylibrary.org  
    Title: the quest for sea serpent oarfish or  
-   Link: <a href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow">https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biodiversity Heritage LibraryThe Quest for the Sea Serpent: An Oarfish or Something...Oct 29, 2014 — Fleeting glimpses of oarfish could...</p></details>
+   Link:<a href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow">https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Biodiversity Heritage LibraryThe Quest for the Sea Serpent: An Oarfish or Something...Oct 29, 2014 — Fleeting glimpses of oarfish could...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tos.org  
-   Link: <a href="https://tos.org/oceanography/assets/docs/27-2_dybas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tos.org/oceanography/assets/docs/27-2_dybas.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oceanography SocietyOceanography“Even the famous Sea Serpent, measuring fifty-six feet in length, cast up on the shore of Orkney in 1...</p></details>
+   Link:<a href="https://tos.org/oceanography/assets/docs/27-2_dybas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tos.org/oceanography/assets/docs/27-2_dybas.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Oceanography SocietyOceanography“Even the famous Sea Serpent, measuring fifty-six feet in length, cast up on the shore of Orkney in 1...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smithsonianmag.com  
-   Title: the [giant squid](&#123;&#123; 'giant-squid/' | relative_url &#125;&#125;) dragon of the deep 18784038  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Giant Squid: Dragon of the DeepJun 21, 2011 — After over 150 years since it was first sighted by the HMS [Daedalus](&amp;#123;&amp;#123; &#x27;daedalus/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Title: the [giant squid](&#123;&#123;'giant-squid/' | relative_url &#125;&#125;) dragon of the deep 18784038  
+   Link:<a href="https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/the-giant-squid-dragon-of-the-deep-18784038/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Giant Squid: Dragon of the DeepJun 21, 2011 — After over 150 years since it was first sighted by the HMS [Daedalus](&amp;#123;&amp;#123; &#x27;daedalus/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: smithsonianmag.com  
    Title: sea serpent" sightings Natural History Museum. [2/4].Read more  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineMeet the Real Animals Behind Mermaids, Dragons and...Dec 21, 2020 — Mermaids, sea serpents, manatees and giant oarfi...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/glimpse-sea-serpents-dragons-and-other-mythical-beasts-online-exhibition-1-180976593/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineMeet the Real Animals Behind Mermaids, Dragons and...Dec 21, 2020 — Mermaids, sea serpents, manatees and giant oarfi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/rare-deep-sea-doomsday-fish-surfaces-in-california-just-the-20th-discovered-in-the-state-since-1901-180984942/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/rare-deep-sea-doomsday-fish-surfaces-in-california-just-the-20th-discovered-in-the-state-since-1901-180984942/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Times. “It evokes the sea serpent mythology.” Oarfish have long played a role in Japanese...Read more...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/rare-deep-sea-doomsday-fish-surfaces-in-california-just-the-20th-discovered-in-the-state-since-1901-180984942/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/rare-deep-sea-doomsday-fish-surfaces-in-california-just-the-20th-discovered-in-the-state-since-1901-180984942/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Times. “It evokes the sea serpent mythology.” Oarfish have long played a role in Japanese...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: australian.museum  
-   Link: <a href="https://australian.museum/learn/animals/fishes/oarfish-regalecus-glesne/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/animals/fishes/oarfish-regalecus-glesne/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian MuseumThe Oarfish is reported to be the longest of all fishes. It has a ribbon-like body that has been reliably documented...</p></details>
+   Link:<a href="https://australian.museum/learn/animals/fishes/oarfish-regalecus-glesne/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/animals/fishes/oarfish-regalecus-glesne/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian MuseumThe Oarfish is reported to be the longest of all fishes. It has a ribbon-like body that has been reliably documented...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/science/article/131022-giant-oarfish-facts-sea-serpents" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/131022-giant-oarfish-facts-sea-serpents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Surprising Facts About the Oarfish That Has Been...Oct 22, 2013 — Giant oarfish are the longest known living species of bony fish, rea...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/131022-giant-oarfish-facts-sea-serpents" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/131022-giant-oarfish-facts-sea-serpents</a><details class="endnote-snippet"><summary>Source snippet</summary><p>5 Surprising Facts About the Oarfish That Has Been...Oct 22, 2013 — Giant oarfish are the longest known living species of bony fish, rea...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aquarium.ucsd.edu  
    Title: fish experts study rare deep sea oarfish lab  
-   Link: <a href="https://aquarium.ucsd.edu/newsroom/fish-experts-study-rare-deep-sea-oarfish-lab" target="_blank" rel="noopener noreferrer nofollow">https://aquarium.ucsd.edu/newsroom/fish-experts-study-rare-deep-sea-oarfish-lab</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Study Rare Deep-Sea Oarfish in the LabAug 22, 2024 — The fish was an adult male, measuring 12.25 feet (3.735 meters) in length, 1...</p></details>
+   Link:<a href="https://aquarium.ucsd.edu/newsroom/fish-experts-study-rare-deep-sea-oarfish-lab" target="_blank" rel="noopener noreferrer nofollow">https://aquarium.ucsd.edu/newsroom/fish-experts-study-rare-deep-sea-oarfish-lab</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Study Rare Deep-Sea Oarfish in the LabAug 22, 2024 — The fish was an adult male, measuring 12.25 feet (3.735 meters) in length, 1...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/local/san-diego/2024/08/14/rare-doomsday-fish-la-jolla-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/san-diego/2024/08/14/rare-doomsday-fish-la-jolla-oarfish</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring 12 feet, this sea serpent-like creature is known for its exceptional length—growing up to 36 feet—and its two oar-like pelvic f...</p></details>
+   Link:<a href="https://www.axios.com/local/san-diego/2024/08/14/rare-doomsday-fish-la-jolla-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/san-diego/2024/08/14/rare-doomsday-fish-la-jolla-oarfish</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring 12 feet, this sea serpent-like creature is known for its exceptional length—growing up to 36 feet—and its two oar-like pelvic f...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: marinebio.org  
-   Link: <a href="https://www.marinebio.org/species/oarfishes/regalecus-glesne/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinebio.org/species/oarfishes/regalecus-glesne/</a>  
+   Link:<a href="https://www.marinebio.org/species/oarfishes/regalecus-glesne/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinebio.org/species/oarfishes/regalecus-glesne/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2U2NNVX08EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2U2NNVX08EQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Sea Serpent Appears on Cabo BeachA beach day in Cabo took an unexpected turn when two sisters spotted something strange flashing in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2U2NNVX08EQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2U2NNVX08EQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Sea Serpent Appears on Cabo BeachA beach day in Cabo took an unexpected turn when two sisters spotted something strange flashing in...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40SEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40SEA</a>  
+   Link:<a href="https://www.youtube.com/%40SEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40SEA</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abc11.com  
    Title: They are likely responsible for sea serpent legends throughout history.Read more  
-   Link: <a href="https://abc11.com/post/oarfish-creature-sea-animal-fish/13524337/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/oarfish-creature-sea-animal-fish/13524337/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Divers discover giant oarfish off coast of Taiwan, seen as...Jul 20, 2023 — Oarfish don&#x27;t live near the ocean floor where deep-sea seismic...</p></details>
+   Link:<a href="https://abc11.com/post/oarfish-creature-sea-animal-fish/13524337/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/oarfish-creature-sea-animal-fish/13524337/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Divers discover giant oarfish off coast of Taiwan, seen as...Jul 20, 2023 — Oarfish don&#x27;t live near the ocean floor where deep-sea seismic...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVjTN3LlBfW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjTN3LlBfW/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nese Ryūgū (龍宮), a 10-meter deep-sea “sea serpent,” lives in...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVjTN3LlBfW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjTN3LlBfW/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>nese Ryūgū (龍宮), a 10-meter deep-sea “sea serpent,” lives in...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: newsukraine.rbc.ua  
    Title: On average, these fish reach a length of about 5.5 meters.Read more  
-   Link: <a href="https://newsukraine.rbc.ua/news/monster-from-the-deep-should-we-fear-sea-1700305575.html" target="_blank" rel="noopener noreferrer nofollow">https://newsukraine.rbc.ua/news/monster-from-the-deep-should-we-fear-sea-1700305575.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rbc.uaWorld&#x27;s longest fish giant oarfish - Should we fear sea...Nov 18, 2023 — The giant oarfish was entered into the Guinness World Rec...</p></details>
+   Link:<a href="https://newsukraine.rbc.ua/news/monster-from-the-deep-should-we-fear-sea-1700305575.html" target="_blank" rel="noopener noreferrer nofollow">https://newsukraine.rbc.ua/news/monster-from-the-deep-should-we-fear-sea-1700305575.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>rbc.uaWorld&#x27;s longest fish giant oarfish - Should we fear sea...Nov 18, 2023 — The giant oarfish was entered into the Guinness World Rec...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW6kYEpFaNh/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6kYEpFaNh/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ashed ashore, sparking curiosity and panic across social [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW6kYEpFaNh/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6kYEpFaNh/?hl=en</a><details class="endnote-snippet"><summary>Source snippet</summary><p>ashed ashore, sparking curiosity and panic across social [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/smithsonianmagazine/posts/while-on-a-snorkel-tour-on-the-great-barrier-reef-marine-biologist-jorja-gilmore/1114540227204833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smithsonianmagazine/posts/while-on-a-snorkel-tour-on-the-great-barrier-reef-marine-biologist-jorja-gilmore/1114540227204833/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While on a snorkel tour on the Great Barrier Reef, marine...Their bright red fins and silvery bodies have inspired sea serpent myths for...</p></details>
+   Link:<a href="https://www.facebook.com/smithsonianmagazine/posts/while-on-a-snorkel-tour-on-the-great-barrier-reef-marine-biologist-jorja-gilmore/1114540227204833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smithsonianmagazine/posts/while-on-a-snorkel-tour-on-the-great-barrier-reef-marine-biologist-jorja-gilmore/1114540227204833/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>While on a snorkel tour on the Great Barrier Reef, marine...Their bright red fins and silvery bodies have inspired sea serpent myths for...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: queins.in  
    Title: oarfish the legendary sea serpent  
-   Link: <a href="https://www.queins.in/blogs/fish/oarfish-the-legendary-sea-serpent?srsltid=AfmBOoqJQt0Q5IPfH_Z9Z0O1BaAXvczXQTFzLjER2SVUL3rnn_AVIQX5" target="_blank" rel="noopener noreferrer nofollow">https://www.queins.in/blogs/fish/oarfish-the-legendary-sea-serpent?srsltid=AfmBOoqJQt0Q5IPfH_Z9Z0O1BaAXvczXQTFzLjER2SVUL3rnn_AVIQX5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oarfish – The Legendary “Sea Serpent” with Real Nutritional...Sep 24, 2025 — In ancient Japan, China, and Mediterranean cultures, oarfis...</p></details>
+   Link:<a href="https://www.queins.in/blogs/fish/oarfish-the-legendary-sea-serpent?srsltid=AfmBOoqJQt0Q5IPfH_Z9Z0O1BaAXvczXQTFzLjER2SVUL3rnn_AVIQX5" target="_blank" rel="noopener noreferrer nofollow">https://www.queins.in/blogs/fish/oarfish-the-legendary-sea-serpent?srsltid=AfmBOoqJQt0Q5IPfH_Z9Z0O1BaAXvczXQTFzLjER2SVUL3rnn_AVIQX5</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Oarfish – The Legendary “Sea Serpent” with Real Nutritional...Sep 24, 2025 — In ancient Japan, China, and Mediterranean cultures, oarfis...</p></details>

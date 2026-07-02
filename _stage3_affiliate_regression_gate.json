@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T23:42:26",
+  "generated_at": "2026-07-02T16:02:48",
   "passed": true,
   "baseline": {
-    "article_pages": 226,
-    "amazon_specific_pages": 196,
+    "article_pages": 242,
+    "amazon_specific_pages": 210,
     "amazon_fallback_pages": 1,
-    "ebay_specific_pages": 196,
+    "ebay_specific_pages": 210,
     "ebay_fallback_pages": 0,
     "pages": {
       "cryptozoology_99365b": {
@@ -830,6 +830,54 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "cryptozoology_99365b_hidden_mammals_33084e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_camera_traps_mystery_179087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_chevrotain_camera_tr_fbd019": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_echidna_local_knowle_030468": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_hidden_habitat_limit_181e4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_muntjac_rarity_invis_05e7e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_hidden_mammals_33084e_saola_evidence_thres_7254ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "cryptozoology_99365b_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
@@ -1023,6 +1071,54 @@
         "ebay_fallback": false
       },
       "cryptozoology_99365b_loch_ness_dna_39c301_operation_deepscan_s_b3968e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_bigfoot_footprint_di_c9a669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_loch_ness_sightings_758310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "cryptozoology_99365b_monster_legend_meani_56343e_remote_cryptid_lands_e7870d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -2827,6 +2923,6 @@
       }
     }
   },
-  "shared_pages_compared": 226,
+  "shared_pages_compared": 242,
   "regressions": []
 }

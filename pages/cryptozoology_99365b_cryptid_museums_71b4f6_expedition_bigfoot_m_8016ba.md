@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:55:02'
+date:'2026-07-01 19:55:02'
 parent_title: Inside the World of Cryptid Museums
 parent_permalink: /museums/
 parent_nav_short_title: Museums
@@ -274,275 +274,75 @@ image: /assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_big
 
 ## Introduction
 
-Expedition Bigfoot in Cherry Log, Georgia, presents itself as a place where “entertainment meets education”, and that phrase captures the museum’s central strategy. Rather than choosing between a research exhibit and a roadside attraction, it combines both. Visitors encounter footprint casts, sighting reports, historical displays and a reference library alongside life-sized figures, interactive exhibits, a theatre and gift-shop experiences designed for families. The result is a museum that does not attempt to resolve the Bigfoot question so much as make participation in the search feel accessible, memorable and enjoyable. In the broader landscape of [cryptozoology]({{ 'cryptozoology/' | relative_url }}) museums, Expedition Bigfoot is a useful example of how mystery can be packaged as both learning experience and leisure activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Expedition Bigfoot in Cherry Log, Georgia, presents itself as a place where “entertainment meets education”, and that phrase captures the museum’s central strategy. Rather than choosing between a research exhibit and a roadside attraction, it combines both. Visitors encounter footprint casts, sighting reports, historical displays and a reference library alongside life-sized figures, interactive exhibits, a theatre and gift-shop experiences designed for families. The result is a museum that does not attempt to resolve the Bigfoot question so much as make participation in the search feel accessible, memorable and enjoyable. In the broader landscape of [cryptozoology]({{'cryptozoology/' | relative_url }}) museums, Expedition Bigfoot is a useful example of how mystery can be packaged as both learning experience and leisure activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Footprint Casts and Sighting Maps
 
-One of the museum’s most distinctive educational tools is its emphasis on physical traces rather than claimed [specimens]({{ 'specimens/' | relative_url }}). Expedition Bigfoot advertises a large permanent collection of footprint casts together with photographs, sketches and reported evidence. Visitors are invited to examine the kinds of objects that Bigfoot researchers frequently present as clues, especially [tracks]({{ 'tracks/' | relative_url }}) and impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
+One of the museum’s most distinctive educational tools is its emphasis on physical traces rather than claimed [specimens]({{'specimens/' | relative_url }}). Expedition Bigfoot advertises a large permanent collection of footprint casts together with photographs, sketches and reported evidence. Visitors are invited to examine the kinds of objects that Bigfoot researchers frequently present as clues, especially [tracks]({{'tracks/' | relative_url }}) and impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
 
-This approach serves an important interpretive purpose. A footprint cast is easier to display than an abstract debate about eyewitness testimony. By placing numerous casts together, the museum turns a contested form of evidence into a visual and tactile exhibit. Visitors can compare sizes, shapes and variations while considering why such objects remain central to Bigfoot investigations. The display effectively transforms an unresolved scientific claim into an accessible museum experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
+This approach serves an important interpretive purpose. A footprint cast is easier to display than an abstract debate about eyewitness testimony. By placing numerous casts together, the museum turns a contested form of evidence into a visual and tactile exhibit. Visitors can compare sizes, shapes and variations while considering why such objects remain central to Bigfoot investigations. The display effectively transforms an unresolved scientific claim into an accessible museum experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
 
-Large sighting maps perform a similar role. Rather than presenting Bigfoot as a single story, the maps show reported encounters across regions and time periods. This creates the impression of an ongoing [field investigation]({{ 'field-basics/' | relative_url }}) and encourages visitors to think geographically about the phenomenon. The museum is therefore teaching visitors how researchers organise reports while simultaneously reinforcing the excitement of a continuing mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Cabin Rentals of Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
+Large sighting maps perform a similar role. Rather than presenting Bigfoot as a single story, the maps show reported encounters across regions and time periods. This creates the impression of an ongoing [field investigation]({{'field-basics/' | relative_url }}) and encourages visitors to think geographically about the phenomenon. The museum is therefore teaching visitors how researchers organise reports while simultaneously reinforcing the excitement of a continuing mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Cabin Rentals of Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
 
 ## Why the Theatre and Library Matter
 
-Many roadside attractions rely almost entirely on spectacle. Expedition Bigfoot expands beyond that model by incorporating spaces associated with research and learning.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yKpz9E8VhE0" title="Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer">Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This</a></p><p class="youtube-embed-meta">Channel: Tampa Jay</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yKpz9E8VhE0">Open on YouTube</a></p></div></div></div>
+Many roadside attractions rely almost entirely on spectacle. Expedition Bigfoot expands beyond that model by incorporating spaces associated with research and learning.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yKpz9E8VhE0" title="Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer">Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This</a></p><p class="youtube-embed-meta">Channel: Tampa Jay</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yKpz9E8VhE0">Open on YouTube</a></p></div></div></div>
 
 ### The Sasquatch Theater
 
-The museum’s Sasquatch Theater provides a structured storytelling environment. Instead of visitors simply walking past objects, the theatre allows narratives about sightings, investigations and regional traditions to be presented in a more immersive format. The attraction benefits from techniques familiar from visitor centres and heritage museums, where audiovisual presentation helps transform collections into stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
+The museum’s Sasquatch Theater provides a structured storytelling environment. Instead of visitors simply walking past objects, the theatre allows narratives about sightings, investigations and regional traditions to be presented in a more immersive format. The attraction benefits from techniques familiar from visitor centres and heritage museums, where audiovisual presentation helps transform collections into stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
 
-From an entertainment perspective, the theatre adds atmosphere and drama. From an educational perspective, it introduces visitors to the history of Bigfoot claims and the methods used by enthusiasts and investigators. The same feature therefore serves two purposes at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
+From an entertainment perspective, the theatre adds atmosphere and drama. From an educational perspective, it introduces visitors to the history of Bigfoot claims and the methods used by enthusiasts and investigators. The same feature therefore serves two purposes at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
 
 ### The Reference Library
 
-The reference library is perhaps the clearest signal that the museum wants to be seen as more than a novelty stop. Promotional materials describe a collection where visitors can examine articles, sightings, sketches and other [documentation]({{ 'documentation/' | relative_url }}) connected with Bigfoot research. The library creates the impression that visitors are entering an archive rather than merely consuming a performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueskycabinrentals.com">[Blue Sky Cabin Rentals+2Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueskycabinrentals.com</span><span class="citation-popover-title">Blue Sky Cabin Rentals Visiting EXPEDITION:BIGFOOT!</span><span class="citation-popover-snippet">The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</span></span></span>
+The reference library is perhaps the clearest signal that the museum wants to be seen as more than a novelty stop. Promotional materials describe a collection where visitors can examine articles, sightings, sketches and other [documentation]({{'documentation/' | relative_url }}) connected with Bigfoot research. The library creates the impression that visitors are entering an archive rather than merely consuming a performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueskycabinrentals.com">[Blue Sky Cabin Rentals+2Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueskycabinrentals.com</span><span class="citation-popover-title">Blue Sky Cabin Rentals Visiting EXPEDITION:BIGFOOT!</span><span class="citation-popover-snippet">The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</span></span></span>
 
-Importantly, the library does not transform the museum into a scientific institution. Instead, it gives visitors a way to engage with the culture of investigation. The educational message is less “here is [proof]({{ 'proof/' | relative_url }})” than “here is the material that investigators discuss”. That distinction helps explain why the attraction appeals to believers, sceptics and casual tourists alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueskycabinrentals.com">[Blue Sky Cabin Rentals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueskycabinrentals.com</span><span class="citation-popover-title">Blue Sky Cabin Rentals Visiting EXPEDITION:BIGFOOT!</span><span class="citation-popover-snippet">The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Importantly, the library does not transform the museum into a scientific institution. Instead, it gives visitors a way to engage with the culture of investigation. The educational message is less “here is [proof]({{'proof/' | relative_url }})” than “here is the material that investigators discuss”. That distinction helps explain why the attraction appeals to believers, sceptics and casual tourists alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueskycabinrentals.com">[Blue Sky Cabin Rentals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueskycabinrentals.com</span><span class="citation-popover-title">Blue Sky Cabin Rentals Visiting EXPEDITION:BIGFOOT!</span><span class="citation-popover-snippet">The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Field Vehicle as Interactive Evidence
 
-Among the museum’s most unusual exhibits is what it describes as the world’s only Bigfoot research and technology vehicle on display. The vehicle functions as a bridge between exhibition and expedition. Rather than displaying evidence alone, the museum displays the tools supposedly used to search for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
+Among the museum’s most unusual exhibits is what it describes as the world’s only Bigfoot research and technology vehicle on display. The vehicle functions as a bridge between exhibition and expedition. Rather than displaying evidence alone, the museum displays the tools supposedly used to search for evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2Expeditionbigfoot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
 
-This is a powerful design choice because equipment carries an aura of investigation. Visitors see technology, field gear and transportation associated with active searches rather than passive collecting. The exhibit suggests that Bigfoot research is an ongoing process occurring in forests and remote landscapes, not merely a collection of old stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
-
-At the same time, the vehicle has clear entertainment value. It offers a dramatic visual centrepiece and allows visitors to imagine themselves participating in an expedition. The museum thus converts the romance of exploration into a display object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/51505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">Expedition Bigfoot, the Sasquatch MuseumExhibits include many casts of Bigfoot footprints, several different models of Bigfoot head-types...</span></span></span>
-
+This is a powerful design choice because equipment carries an aura of investigation. Visitors see technology, field gear and transportation associated with active searches rather than passive collecting. The exhibit suggests that Bigfoot research is an ongoing process occurring in forests and remote landscapes, not merely a collection of old stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yBAg_KQ7-QY" title="Expedition Bigfoot! The Sasquatch Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yBAg_KQ7-QY" target="_blank" rel="noopener noreferrer">Expedition Bigfoot! The Sasquatch Museum</a></p><p class="youtube-embed-meta">Channel: Cereal At Midnight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yBAg_KQ7-QY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yBAg_KQ7-QY">Open on YouTube</a></p></div></div></div>
 
 ## Family Attraction Versus Research Display
 
-The most interesting aspect of Expedition Bigfoot is not any individual exhibit but the balance it attempts to strike between education and spectacle. Marketing materials repeatedly describe it as a family attraction while also highlighting artefacts, cultural exhibits, research materials and investigative technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-title">Expedition Bigfoot!</span><span class="citation-popover-snippet">The Sasquatch MuseumHOURS · Open daily · 10:00am - 5:00pm · (Last Museum Admission at 4:30pm) · Closed: Easter, thanksgiving, Christmas d...</span></span></span>
+The most interesting aspect of Expedition Bigfoot is not any individual exhibit but the balance it attempts to strike between education and spectacle. Marketing materials repeatedly describe it as a family attraction while also highlighting artefacts, cultural exhibits, research materials and investigative technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-title">Expedition Bigfoot!</span><span class="citation-popover-snippet">The Sasquatch MuseumHOURS · Open daily · 10:00am - 5:00pm · (Last Museum Admission at 4:30pm) · Closed: Easter, thanksgiving, Christmas d...</span></span></span>
 
-That balance reflects a broader challenge facing cryptozoology museums. If displays are presented too seriously, visitors may question the lack of scientific consensus surrounding the creature. If they are presented purely as entertainment, the attraction risks becoming a joke rather than a museum. Expedition Bigfoot occupies a middle ground. Life-sized figures, interactive exhibits and theatrical presentation create excitement, while libraries, casts and sighting archives provide a framework of inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2BGT Safari]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
+That balance reflects a broader challenge facing cryptozoology museums. If displays are presented too seriously, visitors may question the lack of scientific consensus surrounding the creature. If they are presented purely as entertainment, the attraction risks becoming a joke rather than a museum. Expedition Bigfoot occupies a middle ground. Life-sized figures, interactive exhibits and theatrical presentation create excitement, while libraries, casts and sighting archives provide a framework of inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2BGT Safari]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
 
-The strategy also carries risks. Because exhibits often place alleged evidence beside dramatic reconstructions, some visitors may find it difficult to distinguish between documentation, interpretation and promotional storytelling. Critics of cryptozoology frequently argue that museums of this kind can blur the boundary between investigation and entertainment. Supporters, however, contend that such venues preserve [folklore]({{ 'folklore/' | relative_url }}), local traditions and public curiosity while encouraging visitors to examine the evidence for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The strategy also carries risks. Because exhibits often place alleged evidence beside dramatic reconstructions, some visitors may find it difficult to distinguish between documentation, interpretation and promotional storytelling. Critics of cryptozoology frequently argue that museums of this kind can blur the boundary between investigation and entertainment. Supporters, however, contend that such venues preserve [folklore]({{'folklore/' | relative_url }}), local traditions and public curiosity while encouraging visitors to examine the evidence for themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-dark.svg" | relative_url }}" alt="Bigfoot Attraction illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Expedition Bigfoot Reveals About Cryptozoology Culture
 
-Expedition Bigfoot demonstrates how modern cryptozoology attractions function less as repositories of proof than as participation spaces. Visitors are not asked merely to look at exhibits; they are invited to imagine joining the search. Footprint casts become clues, maps become investigation tools, the theatre becomes a storytelling device and the research vehicle becomes a symbol of exploration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
-
-In that sense, the museum’s educational value comes from teaching visitors how Bigfoot enthusiasts think about evidence, fieldwork and mystery. Its entertainment value comes from turning those same activities into an accessible family experience. The attraction’s significance within cryptozoology popular culture lies precisely in that fusion: it makes the hunt for an unverified creature feel both informative and fun, without requiring visitors to decide whether the creature is real before they walk through the door. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploregeorgia.org">[Explore Georgia+2BGT Safari]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploregeorgia.org</span><span class="citation-popover-title">expedition bigfoot</span><span class="citation-popover-snippet">Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</span></span></span>
-
+Expedition Bigfoot demonstrates how modern cryptozoology attractions function less as repositories of proof than as participation spaces. Visitors are not asked merely to look at exhibits; they are invited to imagine joining the search. Footprint casts become clues, maps become investigation tools, the theatre becomes a storytelling device and the research vehicle becomes a symbol of exploration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expeditionbigfoot.com">[Expeditionbigfoot+2Explore Georgia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expeditionbigfoot.com</span><span class="citation-popover-snippet">Gallery &#124; ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vX7l0FiZtVg" title="Expedition Bigfoot The Sasquatch Museum Georgia | Wacky &amp; Weird Places" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vX7l0FiZtVg" target="_blank" rel="noopener noreferrer">Expedition Bigfoot The Sasquatch Museum Georgia | Wacky &amp; Weird Places</a></p><p class="youtube-embed-meta">Channel: The Magic Geekdom</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vX7l0FiZtVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vX7l0FiZtVg">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Bigfoot Museum Teach and Entertain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Explains the history, evidence claims, and public fascination showcased in Bigfoot museums.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Matches museum exhibits focused on footprints, sightings, and field investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sasquatch: Legend Meets Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hPST5ZLI4dAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sasquatch: Legend Meets Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Meldrum</p>
-        
-        <p class="fr-book-desc">Covers footprint analysis and research methods often highlighted in museums.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Where Bigfoot Walks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HJDC79NbiQsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Where Bigfoot Walks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where Bigfoot Walks">Where Bigfoot Walks</a>
-        </h4>
-        <p class="fr-book-author">By Robert Michael Pyle</p>
-        
-        <p class="fr-book-desc">Captures the field-expedition atmosphere promoted by Bigfoot attractions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini"><img src="{{ '/assets/images/marketplace-covers/fcc011670b959b4abc81.jpg' | relative_url }}" alt="Listing image for Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch"><img src="{{ '/assets/images/marketplace-covers/0760f24fe885c52edfb1.jpg' | relative_url }}" alt="Listing image for Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1"><img src="{{ '/assets/images/marketplace-covers/75818742b06d6ce8c5bf.jpg' | relative_url }}" alt="Listing image for Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin."><img src="{{ '/assets/images/marketplace-covers/4fc0c884efc1a711b018.jpg' | relative_url }}" alt="Listing image for Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a></h4><p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p><p class="fr-book-desc">Matches museum exhibits focused on footprints, sightings, and field investigations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sasquatch: Legend Meets Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hPST5ZLI4dAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sasquatch: Legend Meets Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a></h4><p class="fr-book-author">By Jeff Meldrum</p><p class="fr-book-desc">Covers footprint analysis and research methods often highlighted in museums.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+by+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Where Bigfoot Walks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HJDC79NbiQsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Where Bigfoot Walks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where Bigfoot Walks">Where Bigfoot Walks</a></h4><p class="fr-book-author">By Robert Michael Pyle</p><p class="fr-book-desc">Captures the field-expedition atmosphere promoted by Bigfoot attractions.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+by+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini"><img src="{{'/assets/images/marketplace-covers/fcc011670b959b4abc81.jpg' | relative_url }}" alt="Listing image for Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Figure Brown 9x9x12cm Resin Bigfoot Sasquatch Mythical Creature Collectible Mini</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch"><img src="{{'/assets/images/marketplace-covers/0760f24fe885c52edfb1.jpg' | relative_url }}" alt="Listing image for Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Furrybones Bigfoot Collectible Figurine, Miniature Sasquatch</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1"><img src="{{'/assets/images/marketplace-covers/75818742b06d6ce8c5bf.jpg' | relative_url }}" alt="Listing image for Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Sasquatch collectible Lot Magnet, Sticker, Ornament, Cookie Cutter B1</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin."><img src="{{'/assets/images/marketplace-covers/4fc0c884efc1a711b018.jpg' | relative_url }}" alt="Listing image for Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin." loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Brass Collectible Coin 1.5” - Commemorative Sasquatch Challenge Coin.</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sasquatch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: sasquatch collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sasquatch+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sasquatch collectible -book -books" data-ebay-reference="bigfoot-attraction-can-a-bigfoot-museum-teach-and-entertain-cryptozoology-sasquatch-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,24 +356,24 @@ In that sense, the museum’s educational value comes from teaching visitors how
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -584,7 +384,7 @@ In that sense, the museum’s educational value comes from teaching visitors how
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -592,45 +392,43 @@ In that sense, the museum’s educational value comes from teaching visitors how
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -646,10 +444,10 @@ In that sense, the museum’s educational value comes from teaching visitors how
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -669,11 +467,11 @@ In that sense, the museum’s educational value comes from teaching visitors how
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -682,16 +480,16 @@ In that sense, the museum’s educational value comes from teaching visitors how
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,9 +503,9 @@ In that sense, the museum’s educational value comes from teaching visitors how
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -726,150 +524,126 @@ In that sense, the museum’s educational value comes from teaching visitors how
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: expeditionbigfoot.com  
-   Link: <a href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.expeditionbigfoot.com/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallery | ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</p></details>
+   Link:<a href="https://www.expeditionbigfoot.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.expeditionbigfoot.com/about</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Gallery | ExpeditionbigfootWorld&#x27;s Largest Bigfoot Museum. 3700sqft of Self Guided exhibits. Click on images to learn mo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: expeditionbigfoot.com  
    Title: Expedition Bigfoot!  
-   Link: <a href="https://www.expeditionbigfoot.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.expeditionbigfoot.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch MuseumHOURS · Open daily · 10:00am - 5:00pm · (Last Museum Admission at 4:30pm) · Closed: Easter, thanksgiving, Christmas d...</p></details>
+   Link:<a href="https://www.expeditionbigfoot.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.expeditionbigfoot.com/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch MuseumHOURS · Open daily · 10:00am - 5:00pm · (Last Museum Admission at 4:30pm) · Closed: Easter, thanksgiving, Christmas d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: roadsideamerica.com  
-   Link: <a href="https://www.roadsideamerica.com/story/51505" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/51505</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot, the Sasquatch MuseumExhibits include many casts of Bigfoot [footprints](&amp;#123;&amp;#123; &#x27;footprints/&#x27; | relative_url &amp;#125;&amp;#125;), several different models of Bigfoot head-types...</p></details>
+   Link:<a href="https://www.roadsideamerica.com/story/51505" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/51505</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot, the Sasquatch MuseumExhibits include many casts of Bigfoot [footprints](&amp;#123;&amp;#123; &#x27;footprints/&#x27; | relative_url &amp;#125;&amp;#125;), several different models of Bigfoot head-types...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cabin-rentals-of-georgia.com  
    Title: expedition bigfoot museum  
-   Link: <a href="https://www.cabin-rentals-of-georgia.com/activity/family-fun/expedition-bigfoot-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.cabin-rentals-of-georgia.com/activity/family-fun/expedition-bigfoot-museum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition: Bigfoot! MuseumA 4000 sqft complex w/ genuine artifacts, life-size displays, mini research vehicle, and full-size Sasquatch...</p></details>
+   Link:<a href="https://www.cabin-rentals-of-georgia.com/activity/family-fun/expedition-bigfoot-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.cabin-rentals-of-georgia.com/activity/family-fun/expedition-bigfoot-museum</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition: Bigfoot! MuseumA 4000 sqft complex w/ genuine artifacts, life-size displays, mini research vehicle, and full-size Sasquatch...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...life-size exhibits, Enjoy the Sasquatch Theater, 1934 Hwy 515 Near Blue Ridge, GA, Cherry Log, GA 30522. Bi...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...life-size exhibits, Enjoy the Sasquatch Theater, 1934 Hwy 515 Near Blue Ridge, GA, Cherry Log, GA 30522. Bi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigfoot</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigfoot</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Sasquatch: Legend Meets Science  
-   Link: <a href="https://en.wikipedia.org/wiki/Sasquatch%3A_Legend_Meets_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sasquatch%3A_Legend_Meets_Science</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sasquatch%3A_Legend_Meets_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sasquatch%3A_Legend_Meets_Science</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or30-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or30-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...See the countries largest permanent display of genuine artifacts, life-size exhibits, large sighting maps...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or30-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or30-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...See the countries largest permanent display of genuine artifacts, life-size exhibits, large sighting maps...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or10-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or10-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...North Georgia&#x27;s newest family attraction, where entertainment meets education. See the countries largest pe...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or10-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g3646709-d9821081-Reviews-or10-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>All You SHOULD Know Before...North Georgia&#x27;s newest family attraction, where entertainment meets education. See the countries largest pe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Expedition Bigfoot Museum  
-   Link: <a href="https://www.youtube.com/watch?v=a8V-KXu6KYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a8V-KXu6KYU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Plus Your Fun- Expedition Bigfoot: Sasquatch Museum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a8V-KXu6KYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a8V-KXu6KYU</a><details class="endnote-snippet"><summary>Source snippet</summary><p>3 Plus Your Fun- Expedition Bigfoot: Sasquatch Museum...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: 3 Plus Your Fun- Expedition Bigfoot: Sasquatch Museum  
-   Link: <a href="https://www.youtube.com/watch?v=iM7p0yRB4NE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iM7p0yRB4NE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot! The Sasquatch Museum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iM7p0yRB4NE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iM7p0yRB4NE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot! The Sasquatch Museum...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Expedition Bigfoot! The Sasquatch Museum  
-   Link: <a href="https://www.youtube.com/watch?v=yBAg_KQ7-QY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yBAg_KQ7-QY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot The Sasquatch Museum Georgia | Wacky &amp; Weird Places...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yBAg_KQ7-QY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yBAg_KQ7-QY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot The Sasquatch Museum Georgia | Wacky &amp; Weird Places...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Expedition Bigfoot The Sasquatch Museum Georgia | Wacky & Weird Places  
-   Link: <a href="https://www.youtube.com/watch?v=vX7l0FiZtVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vX7l0FiZtVg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vX7l0FiZtVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vX7l0FiZtVg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Expedition Bigfoot Museum (Blue Ridge GA) - I Wasn&#x27;t Expecting This...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: exploregeorgia.org  
    Title: expedition bigfoot  
-   Link: <a href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</p></details>
+   Link:<a href="https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://exploregeorgia.org/cherry-log/arts-culture/museums/expedition-bigfoot</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Explore GeorgiaExpedition: Bigfoot!1934 Hwy. 515 Cherry Log GA 30522 largest permanent display of genuine bigfoot artifacts, life sized e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: atlasobscura.com  
    Title: expedition bigfoot the sasquatch museum  
-   Link: <a href="https://www.atlasobscura.com/places/expedition-bigfoot-the-sasquatch-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/expedition-bigfoot-the-sasquatch-museum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot (The Sasquatch Museum) in Cherry Log5 Jan 2018 — The 4,000-square foot museum is comprised of newspaper articles docum...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/expedition-bigfoot-the-sasquatch-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/expedition-bigfoot-the-sasquatch-museum</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition Bigfoot (The Sasquatch Museum) in Cherry Log5 Jan 2018 — The 4,000-square foot museum is comprised of newspaper articles docum...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blueskycabinrentals.com  
    Title: Blue Sky Cabin Rentals Visiting EXPEDITION:BIGFOOT!  
-   Link: <a href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueskycabinrentals.com/expedition-bigfoot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</p></details>
+   Link:<a href="https://www.blueskycabinrentals.com/expedition-bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueskycabinrentals.com/expedition-bigfoot/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch Museum In...The Sasquatch Museum in Cherry Log, GA. The 4,000-square foot facility houses the Sasquatch Theater, molded ca...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tripadvisor.co.uk  
    Title: Tripadvisor EXPEDITION:BIGFOOT!  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026) All You SHOULD Know...North Georgia&#x27;s newest family attraction, where entertainment meets education. See the countries largest pe...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g3646709-d9821081-Reviews-Expedition_BIGFOOT-Cherry_Log_Gilmer_County_Georgia.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(2026) All You SHOULD Know...North Georgia&#x27;s newest family attraction, where entertainment meets education. See the countries largest pe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bgtsafari.com  
    Title: review of expedition bigfoot the sasquatch museum in blue ridge georgia  
-   Link: <a href="https://bgtsafari.com/2026/05/19/review-of-expedition-bigfoot-the-sasquatch-museum-in-blue-ridge-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://bgtsafari.com/2026/05/19/review-of-expedition-bigfoot-the-sasquatch-museum-in-blue-ridge-georgia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BIGFOOT! The Sasquatch Museum in Blue Ridge, Georgia19 May 2026 — The attraction is 3,700 square feet of self-guided exploration of Sasqu...</p></details>
+   Link:<a href="https://bgtsafari.com/2026/05/19/review-of-expedition-bigfoot-the-sasquatch-museum-in-blue-ridge-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://bgtsafari.com/2026/05/19/review-of-expedition-bigfoot-the-sasquatch-museum-in-blue-ridge-georgia/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>BIGFOOT! The Sasquatch Museum in Blue Ridge, Georgia19 May 2026 — The attraction is 3,700 square feet of self-guided exploration of Sasqu...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5atlanta/posts/expedition-bigfoot-the-sasquatch-museum-is-a-north-georgia-attraction-dedicated-/1383065739857765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/expedition-bigfoot-the-sasquatch-museum-is-a-north-georgia-attraction-dedicated-/1383065739857765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>casts of handprints and footprints gathered by Bigfoot...</p></details>
+   Link:<a href="https://www.facebook.com/fox5atlanta/posts/expedition-bigfoot-the-sasquatch-museum-is-a-north-georgia-attraction-dedicated-/1383065739857765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/expedition-bigfoot-the-sasquatch-museum-is-a-north-georgia-attraction-dedicated-/1383065739857765/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>casts of handprints and footprints gathered by Bigfoot...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PaulMillikenFox5/posts/happy-halloweenfrom-a-monster-of-a-museum-expedition-bigfoot-the-sasquatch-museu/1374567967358553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PaulMillikenFox5/posts/happy-halloweenfrom-a-monster-of-a-museum-expedition-bigfoot-the-sasquatch-museu/1374567967358553/</a>  
+   Link:<a href="https://www.facebook.com/PaulMillikenFox5/posts/happy-halloweenfrom-a-monster-of-a-museum-expedition-bigfoot-the-sasquatch-museu/1374567967358553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PaulMillikenFox5/posts/happy-halloweenfrom-a-monster-of-a-museum-expedition-bigfoot-the-sasquatch-museu/1374567967358553/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQWiV5YARYV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQWiV5YARYV/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on is $8 for adults, $6 for children aged 5-15. Children...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQWiV5YARYV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQWiV5YARYV/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>on is $8 for adults, $6 for children aged 5-15. Children...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=93-bOK3xnHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93-bOK3xnHw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vidence of Sasquatch at the southern edge of the Appalachians...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93-bOK3xnHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93-bOK3xnHw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>vidence of Sasquatch at the southern edge of the Appalachians...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blueridgecountry.com  
-   Link: <a href="https://blueridgecountry.com/features/georgia-bigfoot-museum/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgecountry.com/features/georgia-bigfoot-museum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain Curios: North Georgia&#x27;s Bigfoot MuseumFive years ago, Bakara moved to the mountains of Georgia to be “closer to the woods” and...</p></details>
+   Link:<a href="https://blueridgecountry.com/features/georgia-bigfoot-museum/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgecountry.com/features/georgia-bigfoot-museum/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain Curios: North Georgia&#x27;s Bigfoot MuseumFive years ago, Bakara moved to the mountains of Georgia to be “closer to the woods” and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HattiesburgPocketMuseum/posts/the-pocket-theater-has-a-brand-new-feature-and-this-one-captures-a-historic-firs/1604083468386117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HattiesburgPocketMuseum/posts/the-pocket-theater-has-a-brand-new-feature-and-this-one-captures-a-historic-firs/1604083468386117/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to casts of handprints and footprints gathered by Bigfoot...</p></details>
+   Link:<a href="https://www.facebook.com/HattiesburgPocketMuseum/posts/the-pocket-theater-has-a-brand-new-feature-and-this-one-captures-a-historic-firs/1604083468386117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HattiesburgPocketMuseum/posts/the-pocket-theater-has-a-brand-new-feature-and-this-one-captures-a-historic-firs/1604083468386117/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>to casts of handprints and footprints gathered by Bigfoot...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TravelswithDarley/posts/search-for-bigfoot-in-georgia-at-expedition-bigfoot-the-sasquatch-museum-learn-a/907885204494494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelswithDarley/posts/search-for-bigfoot-in-georgia-at-expedition-bigfoot-the-sasquatch-museum-learn-a/907885204494494/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>asts, pictures, audibles and siting maps they have a...</p></details>
+   Link:<a href="https://www.facebook.com/TravelswithDarley/posts/search-for-bigfoot-in-georgia-at-expedition-bigfoot-the-sasquatch-museum-learn-a/907885204494494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelswithDarley/posts/search-for-bigfoot-in-georgia-at-expedition-bigfoot-the-sasquatch-museum-learn-a/907885204494494/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>asts, pictures, audibles and siting maps they have a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Inside the Expedition Bigfoot Museum (Blue Ridge GA)  
-   Link: <a href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKpz9E8VhE0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=yKpz9E8VhE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKpz9E8VhE0</a>  

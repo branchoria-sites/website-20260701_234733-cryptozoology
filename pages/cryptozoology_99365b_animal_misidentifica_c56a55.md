@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:55:45'
+date:'2026-07-01 19:55:45'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,11 +448,8 @@ image: /assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-overview-
 
 ## Introduction
 
-Many monster reports become less mysterious when the first question changes from “What unknown creature was this?” to “What known animal could look strange in those [conditions]({{ 'conditions/' | relative_url }})?” In [cryptozoology]({{ 'cryptozoology/' | relative_url }}), misidentification is not a lazy dismissal of witnesses; it is one of the main mechanisms by which ordinary wildlife becomes extraordinary. A bear briefly standing on its hind legs, a sturgeon surfacing in dark water, a diseased coyote with most of its fur gone, a deep-sea oarfish washing ashore, or a rotting basking shark losing its familiar shape can all produce reports that feel sincere, vivid and wrong at the same time.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-overview.webp" | relative_url }}" alt="Overview image for Misidentification" loading="eager" decoding="sync" fetchpriority="high">
-The strongest cases are not simply guesses. [DNA tests]({{ 'dna-tests/' | relative_url }}), environmental [DNA surveys]({{ 'dna-survey/' | relative_url }}), carcass analysis, wildlife disease knowledge and repeated field observations have shown that many alleged cryptids are better explained by known animals seen at bad angles, at long distance, in poor light, out of habitat, or after decomposition has changed their appearance. That does not explain every story ever told, but it changes the evidential starting point: before invoking a hidden monster, investigators have to rule out the animals already present.
+Many monster reports become less mysterious when the first question changes from “What unknown creature was this?” to “What known animal could look strange in those [conditions]({{'conditions/' | relative_url }})?” In [cryptozoology]({{'cryptozoology/' | relative_url }}), misidentification is not a lazy dismissal of witnesses; it is one of the main mechanisms by which ordinary wildlife becomes extraordinary. A bear briefly standing on its hind legs, a sturgeon surfacing in dark water, a diseased coyote with most of its fur gone, a deep-sea oarfish washing ashore, or a rotting basking shark losing its familiar shape can all produce reports that feel sincere, vivid and wrong at the same time.<img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-overview.webp" | relative_url }}" alt="Overview image for Misidentification" loading="eager" decoding="sync" fetchpriority="high">
+The strongest cases are not simply guesses. [DNA tests]({{'dna-tests/' | relative_url }}), environmental [DNA surveys]({{'dna-survey/' | relative_url }}), carcass analysis, wildlife disease knowledge and repeated field observations have shown that many alleged cryptids are better explained by known animals seen at bad angles, at long distance, in poor light, out of habitat, or after decomposition has changed their appearance. That does not explain every story ever told, but it changes the evidential starting point: before invoking a hidden monster, investigators have to rule out the animals already present.
 
 ## Animals often mistaken for cryptids
 
@@ -460,36 +457,30 @@ The strongest cases are not simply guesses. [DNA tests]({{ 'dna-tests/' | relati
 
 Large bears are among the most plausible sources of ape-like monster reports because they can look briefly human when standing upright, walking on hind legs, or glimpsed through trees. This does not mean every Bigfoot or Yeti account is “just a bear”, but it gives investigators a strong baseline explanation in regions where bears live.
 
-A 2024 paper in the *Journal of Zoology* tested the idea that North American Bigfoot or Sasquatch sightings might correlate with American black bear [populations]({{ 'populations/' | relative_url }}). The study modelled sightings across the United States and Canada while adjusting for human population and forest area, and found that sightings were statistically associated with bear populations: on average, every additional 1,000 bears was linked with a 4% increase in reported Sasquatch sightings. The careful wording matters. The study did not prove that every reported Bigfoot was a bear; it showed that where there are more bears, there tend to be more Bigfoot reports, which is exactly what a misidentification hypothesis would predict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span></span></span>
+A 2024 paper in the *Journal of Zoology* tested the idea that North American Bigfoot or Sasquatch sightings might correlate with American black bear [populations]({{'populations/' | relative_url }}). The study modelled sightings across the United States and Canada while adjusting for human population and forest area, and found that sightings were statistically associated with bear populations: on average, every additional 1,000 bears was linked with a 4% increase in reported Sasquatch sightings. The careful wording matters. The study did not prove that every reported Bigfoot was a bear; it showed that where there are more bears, there tend to be more Bigfoot reports, which is exactly what a misidentification hypothesis would predict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zslpublications.onlinelibrary.wiley.com">[ZSL Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zslpublications.onlinelibrary.wiley.com</span><span class="citation-popover-title">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span><span class="citation-popover-snippet">ZSL Publications Bigfoot: If it&#x27;s there, could it be a bear?</span></span></span>
 
-Hair and relic [samples]({{ 'samples/' | relative_url }}) tell a similar story. A 2014 *Proceedings of the Royal Society B* study analysed hair samples attributed to Yeti, Bigfoot and other “anomalous primates”. The results matched known animals rather than an unknown ape, including bears, horses, canids, deer, sheep, a porcupine, a raccoon and a human sample. Science reporting on the study noted that none of the analysed samples provided evidence for a cryptid primate, even though two Himalayan samples initially raised questions about unusual bear ancestry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
+Hair and relic [samples]({{'samples/' | relative_url }}) tell a similar story. A 2014 *Proceedings of the Royal Society B* study analysed hair samples attributed to Yeti, Bigfoot and other “anomalous primates”. The results matched known animals rather than an unknown ape, including bears, horses, canids, deer, sheep, a porcupine, a raccoon and a human sample. Science reporting on the study noted that none of the analysed samples provided evidence for a cryptid primate, even though two Himalayan samples initially raised questions about unusual bear ancestry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
 
-Yeti-linked material has also repeatedly resolved into bear evidence. Later work on alleged Yeti samples from the Himalayan region found that most came from local bear species, with one outlier identified as dog; the broader implication was that the biological foundation of some Yeti traditions could include encounters with Himalayan brown bears, Tibetan brown bears, Asian black bears or related local wildlife rather than a hidden hominin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Are Yetis Real? They&#x27;re Probably Just Himalayan Brown Bears, Scientists Say</span><span class="citation-popover-snippet">Are Yetis Real? They&#x27;re Probably Just Himalayan Brown Bears, Scientists Say</span></span></span>
+Yeti-linked material has also repeatedly resolved into bear evidence. Later work on alleged Yeti samples from the Himalayan region found that most came from local bear species, with one outlier identified as dog; the broader implication was that the biological foundation of some Yeti traditions could include encounters with Himalayan brown bears, Tibetan brown bears, Asian black bears or related local wildlife rather than a hidden hominin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Are Yetis Real? They&#x27;re Probably Just Himalayan Brown Bears, Scientists Say</span><span class="citation-popover-snippet">Are Yetis Real? They&#x27;re Probably Just Himalayan Brown Bears, Scientists Say</span></span></span>
 
-The important lesson is not that witnesses are foolish. A large bear in snow, fog, dense forest or steep terrain is a genuinely ambiguous stimulus. If a person already knows local stories about an ape-like wild man, the mind has a ready-made category into which that brief sighting can fall.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-dark.svg" | relative_url }}" alt="Misidentification illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The important lesson is not that witnesses are foolish. A large bear in snow, fog, dense forest or steep terrain is a genuinely ambiguous stimulus. If a person already knows local stories about an ape-like wild man, the mind has a ready-made category into which that brief sighting can fall.<img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-dark.svg" | relative_url }}" alt="Misidentification illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Eels, sturgeon and other “lake monster” candidates
 
 Lake monsters often depend on distance and surface distortion. A witness sees a dark moving form, a hump, a neck-like shape, a wake, a rolling body or a long shadow below the surface. Without a clear scale reference, a fish, bird, otter, seal, log or wave train can be promoted into something far larger.
 
-Loch Ness is the classic test case. In 2019, a University of Otago-led environmental DNA survey reported no evidence in Loch Ness for a plesiosaur-like reptile, shark, catfish or sturgeon. The survey did find eel DNA at many sampling locations, leading Professor Neil Gemmell to say that a very large eel remained a hypothesis the data could not refute, although the DNA could not show eel size. The result did not prove a giant eel is responsible for Nessie reports, but it did narrow the discussion from prehistoric reptile towards known life in the loch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
+Loch Ness is the classic test case. In 2019, a University of Otago-led environmental DNA survey reported no evidence in Loch Ness for a plesiosaur-like reptile, shark, catfish or sturgeon. The survey did find eel DNA at many sampling locations, leading Professor Neil Gemmell to say that a very large eel remained a hypothesis the data could not refute, although the DNA could not show eel size. The result did not prove a giant eel is responsible for Nessie reports, but it did narrow the discussion from prehistoric reptile towards known life in the loch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
 
-Older surface watches at Loch Ness also show how ordinary events can generate “sightings” under controlled observation. The Loch Ness Project’s archive records a 1962 expedition that placed film cameras around the loch, covering large portions of the surface for hundreds of hours. Observers made 19 “sightings” and concluded that multi-hump “sea serpent” effects were caused by boat wakes, while diving birds explained some long-neck reports. Some echo-sounding contacts remained unexplained, but the exercise showed that monster-like appearances can be generated by known surface activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[lochnessproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
+Older surface watches at Loch Ness also show how ordinary events can generate “sightings” under controlled observation. The Loch Ness Project’s archive records a 1962 expedition that placed film cameras around the loch, covering large portions of the surface for hundreds of hours. Observers made 19 “sightings” and concluded that multi-hump “sea serpent” effects were caused by boat wakes, while diving birds explained some long-neck reports. Some echo-sounding contacts remained unexplained, but the exercise showed that monster-like appearances can be generated by known surface activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[lochnessproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
 
-In North American lakes, sturgeon are a particularly important comparison animal. The U.S. Fish & Wildlife Service notes that lake sturgeon can weigh up to 300 pounds and measure around seven feet long, with armour-like bodies and barbels hanging from the snout. Its own public explainer says lake sturgeon could easily be mistaken for mythical Great Lakes monsters such as Bessie of Lake Erie, Kingstie of Lake Ontario or Mishipeshu of Lake Superior. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fws.gov/story/2024-02/tails-deep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fws.gov">[U.S. Fish and Wildlife Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fws.gov</span><span class="citation-popover-title">U.S. Fish and Wildlife Service“Tails” from the deep</span><span class="citation-popover-snippet">U.S. Fish and Wildlife Service“Tails” from the deep</span></span></span>
+In North American lakes, sturgeon are a particularly important comparison animal. The U.S. Fish & Wildlife Service notes that lake sturgeon can weigh up to 300 pounds and measure around seven feet long, with armour-like bodies and barbels hanging from the snout. Its own public explainer says lake sturgeon could easily be mistaken for mythical Great Lakes monsters such as Bessie of Lake Erie, Kingstie of Lake Ontario or Mishipeshu of Lake Superior.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fws.gov/story/2024-02/tails-deep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fws.gov">[U.S. Fish and Wildlife Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fws.gov</span><span class="citation-popover-title">U.S. Fish and Wildlife Service“Tails” from the deep</span><span class="citation-popover-snippet">U.S. Fish and Wildlife Service“Tails” from the deep</span></span></span>
 
-This does not mean sturgeon explain every lake monster. Some lakes lack resident sturgeon populations, and some eyewitness descriptions do not fit fish anatomy well. But sturgeon show why “known animal” does not always mean “small” or “ordinary-looking”. A rare, armoured, long-lived fish surfacing unexpectedly can feel prehistoric because, visually, it almost is.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzRWr4cYHBs" title="The Shark Mistaken for a Dead Plesiosaur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzRWr4cYHBs" target="_blank" rel="noopener noreferrer">The Shark Mistaken for a Dead Plesiosaur</a></p><p class="youtube-embed-meta">Channel: Enchiridion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzRWr4cYHBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzRWr4cYHBs">Open on YouTube</a></p></div></div></div>
+This does not mean sturgeon explain every lake monster. Some lakes lack resident sturgeon populations, and some eyewitness descriptions do not fit fish anatomy well. But sturgeon show why “known animal” does not always mean “small” or “ordinary-looking”. A rare, armoured, long-lived fish surfacing unexpectedly can feel prehistoric because, visually, it almost is.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzRWr4cYHBs" title="The Shark Mistaken for a Dead Plesiosaur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzRWr4cYHBs" target="_blank" rel="noopener noreferrer">The Shark Mistaken for a Dead Plesiosaur</a></p><p class="youtube-embed-meta">Channel: Enchiridion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzRWr4cYHBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzRWr4cYHBs">Open on YouTube</a></p></div></div></div>
 
 ### Oarfish and living sea-serpent impressions
 
-At sea, the giant oarfish is one of the strongest real-world sources for sea-serpent imagery. NOAA Fisheries describes the giant oarfish as a deep-sea animal that can grow beyond 20 feet, with a long tapering body and a striking dorsal fin running from the head to the tail. NOAA geneticist Russ Vetter said its body form has “all the qualities you would want in a sea serpent”, making it easy to see why rare encounters could feed sea-monster stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisheries.noaa.gov">[NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisheries.noaa.gov</span><span class="citation-popover-title">giant oarfish</span><span class="citation-popover-snippet">giant oarfish</span></span></span>
+At sea, the giant oarfish is one of the strongest real-world sources for sea-serpent imagery. NOAA Fisheries describes the giant oarfish as a deep-sea animal that can grow beyond 20 feet, with a long tapering body and a striking dorsal fin running from the head to the tail. NOAA geneticist Russ Vetter said its body form has “all the qualities you would want in a sea serpent”, making it easy to see why rare encounters could feed sea-monster stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisheries.noaa.gov">[NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisheries.noaa.gov</span><span class="citation-popover-title">giant oarfish</span><span class="citation-popover-snippet">giant oarfish</span></span></span>
 
-The Biodiversity Heritage Library makes the same point through historical natural-history sources. Older sea-serpent accounts often included manes, hair-like growths or crests near the head. Oarfish have a red crest and a long dorsal fin, and their ribbon-like bodies can look startling when seen at the surface or washed up dead. The same source also notes that basking sharks, the second-largest living fish, have been mistaken for [sea serpents]({{ 'sea-serpents/' | relative_url }}), especially when decomposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.biodiversitylibrary.org">[Biodiversity Heritage Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.biodiversitylibrary.org</span><span class="citation-popover-title">the quest for sea serpent oarfish or</span><span class="citation-popover-snippet">the quest for sea serpent oarfish or</span></span></span>
+The Biodiversity Heritage Library makes the same point through historical natural-history sources. Older sea-serpent accounts often included manes, hair-like growths or crests near the head. Oarfish have a red crest and a long dorsal fin, and their ribbon-like bodies can look startling when seen at the surface or washed up dead. The same source also notes that basking sharks, the second-largest living fish, have been mistaken for [sea serpents]({{'sea-serpents/' | relative_url }}), especially when decomposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.biodiversitylibrary.org">[Biodiversity Heritage Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.biodiversitylibrary.org</span><span class="citation-popover-title">the quest for sea serpent oarfish or</span><span class="citation-popover-snippet">the quest for sea serpent oarfish or</span></span></span>
 
 The oarfish is useful because it shows how cryptid reports can begin with a truly remarkable animal. A witness does not need to invent anything. A rarely seen deep-sea fish, already long and strange, arrives at the surface where humans lack experience with it. Folklore then does the rest.
 
@@ -497,272 +488,78 @@ The oarfish is useful because it shows how cryptid reports can begin with a trul
 
 Some of the most dramatic sea-monster claims come from carcasses, not live sightings. Decomposition can turn a familiar animal into a false anatomical puzzle. Basking sharks are especially notorious because their cartilaginous bodies decay in ways that can leave a long spine-like “neck”, a small-looking head and paddle-like remains.
 
-A recent Guardian investigation into a 1937 Canadian “Cadborosaurus” carcass explains why many scientists now regard the remains as likely to have been a decomposing basking shark, while some cryptozoologists still dispute that identification. Marine biologist Ben Speers-Roesch described the “pseudo-plesiosaur carcass” phenomenon: when basking sharks decay, they can appear to have a long neck, small head and large paddles, closely matching popular expectations of a prehistoric marine reptile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Experts now believe the carcass was likely a decomposing basking shark, known to transform significantly during decay, often appearing as...</span></span></span>
+A recent Guardian investigation into a 1937 Canadian “Cadborosaurus” carcass explains why many scientists now regard the remains as likely to have been a decomposing basking shark, while some cryptozoologists still dispute that identification. Marine biologist Ben Speers-Roesch described the “pseudo-plesiosaur carcass” phenomenon: when basking sharks decay, they can appear to have a long neck, small head and large paddles, closely matching popular expectations of a prehistoric marine reptile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Experts now believe the carcass was likely a decomposing basking shark, known to transform significantly during decay, often appearing as...</span></span></span>
 
-The same pattern appeared in the 1977 Zuiyō Maru case, when a Japanese trawler pulled up a carcass near New Zealand that some interpreted as a surviving plesiosaur. Later analysis of amino acids in muscle tissue suggested that the carcass was most likely a basking shark. This case remains famous because it shows the power of decomposition to produce a monster-like body even when photographs and tissue samples exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+The same pattern appeared in the 1977 Zuiyō Maru case, when a Japanese trawler pulled up a carcass near New Zealand that some interpreted as a surviving plesiosaur. Later analysis of amino acids in muscle tissue suggested that the carcass was most likely a basking shark. This case remains famous because it shows the power of decomposition to produce a monster-like body even when photographs and tissue samples exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
-Basking sharks also create live-sighting problems. The Library of Congress notes that a basking shark feeding near the surface can present a long conical snout, gill slits that may look like a mane, and an enormous body just under the waves. A startled observer expecting a serpent may therefore assemble separate visible parts into a single snake-like creature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">great american sea serpent</span><span class="citation-popover-snippet">great american sea serpent</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-dark.svg" | relative_url }}" alt="Misidentification illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Basking sharks also create live-sighting problems. The Library of Congress notes that a basking shark feeding near the surface can present a long conical snout, gill slits that may look like a mane, and an enormous body just under the waves. A startled observer expecting a serpent may therefore assemble separate visible parts into a single snake-like creature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">great american sea serpent</span><span class="citation-popover-snippet">great american sea serpent</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-dark.svg" | relative_url }}" alt="Misidentification illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mange, coyotes and the chupacabra
 
 Not all misidentified animals are large. Sometimes the “monster” effect comes from illness. The chupacabra, often described in North American reports as a hairless, grey, predatory creature with an uncanny body shape, is one of the clearest examples.
 
-Texas A&M AgriLife Research explains that many chupacabra sightings are likely coyotes with late-stage mange. Mange is caused by mites that burrow into the skin, producing irritation, lesions, fur loss, scabbing, thickened skin and weight loss. In canids, those symptoms can turn a familiar animal into a gaunt, hairless, dark-skinned figure that looks unlike a normal coyote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[AgriLife Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
+Texas A&M AgriLife Research explains that many chupacabra sightings are likely coyotes with late-stage mange. Mange is caused by mites that burrow into the skin, producing irritation, lesions, fur loss, scabbing, thickened skin and weight loss. In canids, those symptoms can turn a familiar animal into a gaunt, hairless, dark-skinned figure that looks unlike a normal coyote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[AgriLife Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
 
-The behavioural side also fits. Texas A&M wildlife specialist John Tomeček notes that a coyote in late-stage mange may become bolder around residential areas because it is weak and desperate for food. That can place a sick animal near livestock pens, bins or houses, exactly where folklore expects the chupacabra to appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[AgriLife Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
+The behavioural side also fits. Texas A&M wildlife specialist John Tomeček notes that a coyote in late-stage mange may become bolder around residential areas because it is weak and desperate for food. That can place a sick animal near livestock pens, bins or houses, exactly where folklore expects the chupacabra to appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[AgriLife Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
 
 This is a powerful misidentification mechanism because the animal is not merely mis-seen; it is genuinely abnormal. A mange-stricken coyote does not look like the healthy animal pictured in a field guide. The witness is right that something is wrong, but wrong about the cause.
 
 ### Raccoons and “mystery carcass” monsters
 
-The Montauk Monster shows how a small carcass can become an internet-age cryptid when decomposition, missing scale and viral sharing combine. In 2008, a strange animal carcass photographed on a Long Island beach was widely circulated as an unknown creature. Zoologist Darren Naish later argued from visible dentition, skull shape and front paws that it was most consistent with a raccoon whose appearance had been altered by decomposition and water action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">montauk monster a look back</span><span class="citation-popover-snippet">montauk monster a look back</span></span></span>
+The Montauk Monster shows how a small carcass can become an internet-age cryptid when decomposition, missing scale and viral sharing combine. In 2008, a strange animal carcass photographed on a Long Island beach was widely circulated as an unknown creature. Zoologist Darren Naish later argued from visible dentition, skull shape and front paws that it was most consistent with a raccoon whose appearance had been altered by decomposition and water action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">montauk monster a look back</span><span class="citation-popover-snippet">montauk monster a look back</span></span></span>
 
-The case matters because it is not a traditional remote-wilderness monster story. It is a modern [media]({{ 'media/' | relative_url }}) event built around one image. Without the carcass being preserved, measured and sampled, the photograph had to carry more weight than it could bear. The “monster” label spread faster than anatomical checking, and by the time experts discussed raccoon features, the image had already become folklore.
+The case matters because it is not a traditional remote-wilderness monster story. It is a modern [media]({{'media/' | relative_url }}) event built around one image. Without the carcass being preserved, measured and sampled, the photograph had to carry more weight than it could bear. The “monster” label spread faster than anatomical checking, and by the time experts discussed raccoon features, the image had already become folklore.
 
-The same pattern recurs whenever a bloated, hairless or partly scavenged animal washes ashore. Decomposition removes familiar cues first: fur slips, lips retract, jaws and teeth look exaggerated, and paws appear hand-like. A raccoon, dog, seal or shark can become briefly unrecognisable, especially when photographed without a ruler, location context or multiple angles.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5E9QkyB27k" title="Oarfish: The Ultimate Fish Tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5E9QkyB27k" target="_blank" rel="noopener noreferrer">Oarfish: The Ultimate Fish Tale</a></p><p class="youtube-embed-meta">Channel: SciFri</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5E9QkyB27k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5E9QkyB27k">Open on YouTube</a></p></div></div></div>
+The same pattern recurs whenever a bloated, hairless or partly scavenged animal washes ashore. Decomposition removes familiar cues first: fur slips, lips retract, jaws and teeth look exaggerated, and paws appear hand-like. A raccoon, dog, seal or shark can become briefly unrecognisable, especially when photographed without a ruler, location context or multiple angles.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5E9QkyB27k" title="Oarfish: The Ultimate Fish Tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5E9QkyB27k" target="_blank" rel="noopener noreferrer">Oarfish: The Ultimate Fish Tale</a></p><p class="youtube-embed-meta">Channel: SciFri</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5E9QkyB27k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5E9QkyB27k">Open on YouTube</a></p></div></div></div>
 
 ## Why scale and context fool witnesses
 
 Misidentification is not just a problem of ignorance. It is a problem of perception under poor conditions. Monster reports often arise in exactly the settings where humans are weakest at judging size, distance and identity: open water, twilight, forests, snowfields, surf, fog, headlight glare and fast movement.
 
-On water, scale is especially treacherous. A bird, otter, seal, fish, log or wave may be far away with no nearby object for comparison. A small dark head on a flat loch can look enormous if the observer assumes it is closer than it is. A line of waves can be read as humps on a single body. A diving bird can create a neck-like silhouette and then vanish, giving the impression of a large creature submerging. The Loch Ness Project archive’s record of boat wakes and diving birds producing controlled “sightings” is a good example of this mechanism in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[lochnessproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
+On water, scale is especially treacherous. A bird, otter, seal, fish, log or wave may be far away with no nearby object for comparison. A small dark head on a flat loch can look enormous if the observer assumes it is closer than it is. A line of waves can be read as humps on a single body. A diving bird can create a neck-like silhouette and then vanish, giving the impression of a large creature submerging. The Loch Ness Project archive’s record of boat wakes and diving birds producing controlled “sightings” is a good example of this mechanism in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochnessproject.org">[lochnessproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochnessproject.org</span><span class="citation-popover-snippet">Open source on lochnessproject.org.</span></span></span>
 
 In forests, the problem is partial visibility. A bear, moose, deer or human in dark clothing may be seen for only seconds through branches. The brain fills in hidden parts from expectation. If a large black shape rises, turns, smells strongly, crashes through brush or leaves large ambiguous tracks, the witness may remember a coherent creature rather than a sequence of uncertain glimpses.
 
-At sea, unfamiliarity compounds the problem. Most people rarely see living oarfish, basking sharks, large rays, whales, seals or decomposing marine carcasses at close range. A giant oarfish is a real animal with sea-serpent proportions; a basking shark carcass can genuinely mimic a long-necked reptile. In these cases, the witness is not converting a mundane pigeon into a dragon. They are encountering wildlife so unusual that it already sits near the edge of ordinary experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisheries.noaa.gov">[NOAA Fisheries+2NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisheries.noaa.gov</span><span class="citation-popover-title">giant oarfish</span><span class="citation-popover-snippet">giant oarfish</span></span></span>
+At sea, unfamiliarity compounds the problem. Most people rarely see living oarfish, basking sharks, large rays, whales, seals or decomposing marine carcasses at close range. A giant oarfish is a real animal with sea-serpent proportions; a basking shark carcass can genuinely mimic a long-necked reptile. In these cases, the witness is not converting a mundane pigeon into a dragon. They are encountering wildlife so unusual that it already sits near the edge of ordinary experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fisheries.noaa.gov">[NOAA Fisheries+2NOAA Fisheries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fisheries.noaa.gov</span><span class="citation-popover-title">giant oarfish</span><span class="citation-popover-snippet">giant oarfish</span></span></span>
 
-Context also changes interpretation after the sighting. A report from “Loch Ness” is filtered through Nessie before it is filtered through eel, bird or wake. A hairless canid in Texas or Puerto Rican-influenced folklore is interpreted through chupacabra imagery. A large upright animal in the Pacific Northwest is compared with Sasquatch before it is compared with a bear. Cryptozoological categories can therefore shape the report as much as the animal did.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-dark.svg" | relative_url }}" alt="Misidentification illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Context also changes interpretation after the sighting. A report from “Loch Ness” is filtered through Nessie before it is filtered through eel, bird or wake. A hairless canid in Texas or Puerto Rican-influenced folklore is interpreted through chupacabra imagery. A large upright animal in the Pacific Northwest is compared with Sasquatch before it is compared with a bear. Cryptozoological categories can therefore shape the report as much as the animal did.<img src="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-dark.svg" | relative_url }}" alt="Misidentification illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_animal_misidentifica_c56a55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How better identification changes the claim
 
 The value of better identification is that it moves a monster report from story to testable claim. Instead of asking whether a witness seemed honest, investigators can ask what evidence should exist if the proposed animal were real, and whether known animals account for the available data.
 
-Environmental DNA is one example. The Loch Ness survey did not rely on a single photograph or eyewitness memory; it sampled genetic traces in the water. Its failure to find DNA from large candidate animals such as sturgeon, catfish or sharks, combined with abundant eel DNA, changed the range of plausible explanations. A hidden plesiosaur-like reptile became much harder to defend, while eels remained within the local biological evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
+Environmental DNA is one example. The Loch Ness survey did not rely on a single photograph or eyewitness memory; it sampled genetic traces in the water. Its failure to find DNA from large candidate animals such as sturgeon, catfish or sharks, combined with abundant eel DNA, changed the range of plausible explanations. A hidden plesiosaur-like reptile became much harder to defend, while eels remained within the local biological evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
 
-DNA testing of alleged Bigfoot or Yeti hair performs a similar function. A hair sample is a stronger form of evidence than a sighting only if it can be identified independently. When such samples repeatedly match known mammals, the claim changes: the question is no longer “Was the witness excited?” but “Why did material presented as anomalous resolve into bear, horse, dog, deer, sheep, raccoon or human DNA?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
+DNA testing of alleged Bigfoot or Yeti hair performs a similar function. A hair sample is a stronger form of evidence than a sighting only if it can be identified independently. When such samples repeatedly match known mammals, the claim changes: the question is no longer “Was the witness excited?” but “Why did material presented as anomalous resolve into bear, horse, dog, deer, sheep, raccoon or human DNA?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing+2Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
 
-Carcass cases show the importance of preservation. The Zuiyō Maru remains could be tested, which allowed later analysis to support a basking-shark explanation. The Montauk Monster, by contrast, became harder to settle because the original body was not secured for formal examination. A photograph can suggest raccoon, dog, seal or shark, but without the specimen, uncertainty becomes part of the legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+Carcass cases show the importance of preservation. The Zuiyō Maru remains could be tested, which allowed later analysis to support a basking-shark explanation. The Montauk Monster, by contrast, became harder to settle because the original body was not secured for formal examination. A photograph can suggest raccoon, dog, seal or shark, but without the specimen, uncertainty becomes part of the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
-Better identification also protects real animals. Calling a mange-stricken coyote a chupacabra obscures a wildlife disease problem. Calling a basking shark carcass a sea monster can distract from the fact that basking sharks are rare, vulnerable and historically persecuted in some waters. Calling sturgeon “monsters” may hide a conservation success story: these huge fish are not imaginary beasts but threatened, slow-maturing animals whose recovery requires decades of habitat and fisheries work. U.S. Fish and Wildlife Service+3AgriLife Today+3AgriLife Today <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[agrilifetoday.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
+Better identification also protects real animals. Calling a mange-stricken coyote a chupacabra obscures a wildlife disease problem. Calling a basking shark carcass a sea monster can distract from the fact that basking sharks are rare, vulnerable and historically persecuted in some waters. Calling sturgeon “monsters” may hide a conservation success story: these huge fish are not imaginary beasts but threatened, slow-maturing animals whose recovery requires decades of habitat and fisheries work. U.S. Fish and Wildlife Service+3AgriLife Today+3AgriLife Today<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agrilifetoday.tamu.edu">[agrilifetoday.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agrilifetoday.tamu.edu</span><span class="citation-popover-title">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span><span class="citation-popover-snippet">Agri Life Today From spooky lore to science fact: Unmasking the &#x27;chupacabra</span></span></span>
 
-The strongest cryptozoological investigations therefore begin with ordinary zoology. They ask whether the place supports bears, eels, sturgeon, seals, coyotes, raccoons, sharks or oarfish; whether disease or decomposition could alter appearance; whether the sighting conditions distort scale; and whether physical evidence can be tested. When the answer is yes, the monster report does not necessarily become worthless. It becomes evidence of a different thing: how real animals, human perception and local legend combine to create cryptids.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FZG4FJi8mRI" title="Is This North American Sea Serpent Real or a Hoax? | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer">Is This North American Sea Serpent Real or a Hoax? | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FZG4FJi8mRI">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Monsters Are Ordinary Animals. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly examines misidentification and natural explanations for monster reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Provides many cases that can be compared with misidentification explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Shows how reports develop and persist around ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
-        
-        <p class="fr-book-desc">Focuses on mistaken observations and conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8b38eabe4278ee812152.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/48e14befcca6b9ef8503.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The strongest cryptozoological investigations therefore begin with ordinary zoology. They ask whether the place supports bears, eels, sturgeon, seals, coyotes, raccoons, sharks or oarfish; whether disease or decomposition could alter appearance; whether the sighting conditions distort scale; and whether physical evidence can be tested. When the answer is yes, the monster report does not necessarily become worthless. It becomes evidence of a different thing: how real animals, human perception and local legend combine to create cryptids.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FZG4FJi8mRI" title="Is This North American Sea Serpent Real or a Hoax? | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer">Is This North American Sea Serpent Real or a Hoax? | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FZG4FJi8mRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FZG4FJi8mRI">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to When Monsters Are Ordinary Animals. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Directly examines misidentification and natural explanations for monster reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a></h4><p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p><p class="fr-book-desc">Provides many cases that can be compared with misidentification explanations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a></h4><p class="fr-book-author">By Joshua Blu Buhs</p><p class="fr-book-desc">Shows how reports develop and persist around ambiguous observations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bigfoot+by+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a></h4><p class="fr-book-author">By Steuart Campbell</p><p class="fr-book-desc">Focuses on mistaken observations and conventional explanations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+by+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/8b38eabe4278ee812152.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/6a4996c4d6a2e50ad8aa.jpg' | relative_url }}" alt="Listing image for Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Addict Cryptozoology Cryptid Crypti Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/48e14befcca6b9ef8503.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology poster" data-ebay-reference="misidentification-when-monsters-are-ordinary-animals-cryptozoology-cryptozoology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,24 +573,24 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -804,7 +601,7 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -812,45 +609,43 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -866,10 +661,10 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -889,11 +684,11 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -902,16 +697,16 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,9 +720,9 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -946,204 +741,200 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.org  
    Title: bigfoot samples analyzed lab  
-   Link: <a href="https://www.science.org/content/article/bigfoot-samples-analyzed-lab" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/bigfoot-samples-analyzed-lab</a>  
+   Link:<a href="https://www.science.org/content/article/bigfoot-samples-analyzed-lab" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/bigfoot-samples-analyzed-lab</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: Are Yetis Real? They're Probably Just Himalayan Brown Bears, Scientists Say  
-   Link: <a href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5040754/yeti-bear-study/</a>  
+   Link:<a href="https://time.com/5040754/yeti-bear-study/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5040754/yeti-bear-study/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm</a>  
+   Link:<a href="https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/ARCHIVE%20ROOM/loch_ness_archive_timeline.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fisheries.noaa.gov  
    Title: giant oarfish  
-   Link: <a href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.fisheries.noaa.gov/podcast/giant-oarfish</a>  
+   Link:<a href="https://www.fisheries.noaa.gov/podcast/giant-oarfish" target="_blank" rel="noopener noreferrer nofollow">https://www.fisheries.noaa.gov/podcast/giant-oarfish</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Zuiyo-maru carcass  
-   Link: <a href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuiyo-maru_carcass</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuiyo-maru_carcass</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Montauk Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Montauk_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montauk_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Montauk_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Montauk_Monster</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oarfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Oarfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oarfish</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sea.vc  
-   Link: <a href="https://sea.vc/" target="_blank" rel="noopener noreferrer nofollow">https://sea.vc/</a>  
+   Link:<a href="https://sea.vc/" target="_blank" rel="noopener noreferrer nofollow">https://sea.vc/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: repository.library.noaa.gov  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/23772" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/23772</a>  
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/23772" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/23772</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
+   Link:<a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: zslpublications.onlinelibrary.wiley.com  
    Title: ZSL Publications Bigfoot: If it's there, could it be a bear?  
-   Link: <a href="https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148</a>  
+   Link:<a href="https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.13148</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to</a>  
+   Link:<a href="https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/281/1789/20140161/77194/Genetic-analysis-of-hair-samples-attributed-to</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: otago.ac.nz  
    Title: first edna study of loch ness points to something fishy  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fws.gov  
    Title: U.S. Fish and Wildlife Service“Tails” from the deep  
-   Link: <a href="https://www.fws.gov/story/2024-02/tails-deep" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/story/2024-02/tails-deep</a>  
+   Link:<a href="https://www.fws.gov/story/2024-02/tails-deep" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/story/2024-02/tails-deep</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blog.biodiversitylibrary.org  
    Title: the quest for sea serpent oarfish or  
-   Link: <a href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow">https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or</a>  
+   Link:<a href="https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or" target="_blank" rel="noopener noreferrer nofollow">https://blog.biodiversitylibrary.org/2014/10/the-quest-for-sea-serpent-oarfish-or</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts now believe the carcass was likely a decomposing basking shark, known to transform significantly during decay, often appearing as...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Experts now believe the carcass was likely a decomposing basking shark, known to transform significantly during decay, often appearing as...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.loc.gov  
    Title: great american sea serpent  
-   Link: <a href="https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2016/08/great-american-sea-serpent/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: agrilifetoday.tamu.edu  
-   Title: Agri Life Today From spooky lore to science fact: Unmasking the 'chupacabra'  
-   Link: <a href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow">https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/</a>  
+   Title: Agri Life Today From spooky lore to science fact: Unmasking the'chupacabra'  
+   Link:<a href="https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/" target="_blank" rel="noopener noreferrer nofollow">https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tetzoo.com  
    Title: montauk monster a look back  
-   Link: <a href="https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back</a>  
+   Link:<a href="https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2021/10/23/montauk-monster-a-look-back</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: loch ness monster could be a giant eel say scientists  
-   Link: <a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
+   Link:<a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: zslpublications.onlinelibrary.wiley.com  
-   Link: <a href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148</a>  
+   Link:<a href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.13148</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf</a>  
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/46979/1/George%20M.%20Eberhart.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lairofmythics.com  
    Title: the montauk monster  
-   Link: <a href="https://lairofmythics.com/blogs/cryptid-case-files/the-montauk-monster?srsltid=AfmBOooyGmyUlpKyffAR-HiQ-8UmTkKHHpPkyOnC662tPF9K0I-U7vNo" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/the-montauk-monster?srsltid=AfmBOooyGmyUlpKyffAR-HiQ-8UmTkKHHpPkyOnC662tPF9K0I-U7vNo</a>  
+   Link:<a href="https://lairofmythics.com/blogs/cryptid-case-files/the-montauk-monster?srsltid=AfmBOooyGmyUlpKyffAR-HiQ-8UmTkKHHpPkyOnC662tPF9K0I-U7vNo" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/the-montauk-monster?srsltid=AfmBOooyGmyUlpKyffAR-HiQ-8UmTkKHHpPkyOnC662tPF9K0I-U7vNo</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: snopes.com  
    Title: the montauk monster  
-   Link: <a href="https://www.snopes.com/fact-check/the-montauk-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/the-montauk-monster/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/the-montauk-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/the-montauk-monster/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tetzoo.com  
    Title: sea monster sightings and the plesiosaur effect  
-   Link: <a href="https://tetzoo.com/blog/2019/4/27/sea-monster-sightings-and-the-plesiosaur-effect" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2019/4/27/sea-monster-sightings-and-the-plesiosaur-effect</a>  
+   Link:<a href="https://tetzoo.com/blog/2019/4/27/sea-monster-sightings-and-the-plesiosaur-effect" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2019/4/27/sea-monster-sightings-and-the-plesiosaur-effect</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tetzoo.com  
    Title: shine natural history of sea serpents  
-   Link: <a href="https://tetzoo.com/blog/2025/3/18/shine-natural-history-of-sea-serpents" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2025/3/18/shine-natural-history-of-sea-serpents</a>  
+   Link:<a href="https://tetzoo.com/blog/2025/3/18/shine-natural-history-of-sea-serpents" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2025/3/18/shine-natural-history-of-sea-serpents</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lochness.com  
    Title: methods in madness with adrian shine mistaken monsters part 3  
-   Link: <a href="https://lochness.com/news/methods-in-madness-with-adrian-shine-mistaken-monsters-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/methods-in-madness-with-adrian-shine-mistaken-monsters-part-3/</a>  
+   Link:<a href="https://lochness.com/news/methods-in-madness-with-adrian-shine-mistaken-monsters-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/news/methods-in-madness-with-adrian-shine-mistaken-monsters-part-3/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: monster.fandom.com  
    Title: Montauk Monster  
-   Link: <a href="https://monster.fandom.com/wiki/Montauk_Monster" target="_blank" rel="noopener noreferrer nofollow">https://monster.fandom.com/wiki/Montauk_Monster</a>  
+   Link:<a href="https://monster.fandom.com/wiki/Montauk_Monster" target="_blank" rel="noopener noreferrer nofollow">https://monster.fandom.com/wiki/Montauk_Monster</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sociallifemagazine.com  
    Title: montauk monster  
-   Link: <a href="https://sociallifemagazine.com/the-archive/montauk-monster/" target="_blank" rel="noopener noreferrer nofollow">https://sociallifemagazine.com/the-archive/montauk-monster/</a>  
+   Link:<a href="https://sociallifemagazine.com/the-archive/montauk-monster/" target="_blank" rel="noopener noreferrer nofollow">https://sociallifemagazine.com/the-archive/montauk-monster/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: otago.ac.nz  
    Title: otago scientist reveals loch ness monster could be a giant eel  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: science.howstuffworks.com  
    Title: sea monster  
-   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/sea-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/sea-monster.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/sea-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/sea-monster.htm</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: 8 Mythical Creatures Archaeologists Finally Proved Real  
-   Link: <a href="https://www.youtube.com/watch?v=jFlgiaxCwyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jFlgiaxCwyE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Mythical Creatures That Actually Existed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jFlgiaxCwyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jFlgiaxCwyE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>7 Mythical Creatures That Actually Existed...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367247671_If_it%27s_there_could_it_be_a_bear" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367247671_If_it%27s_there_could_it_be_a_bear</a>  
+   Link:<a href="https://www.researchgate.net/publication/367247671_If_it%27s_there_could_it_be_a_bear" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367247671_If_it%27s_there_could_it_be_a_bear</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html</a>  
+   Link:<a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-nessie-and-other-famous-cryptids-9780231526814.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sociatycom/posts/after-decades-of-searching-for-nessie-renowned-loch-ness-expert-adrian-shine-has/1426923499467302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sociatycom/posts/after-decades-of-searching-for-nessie-renowned-loch-ness-expert-adrian-shine-has/1426923499467302/</a>  
+   Link:<a href="https://www.facebook.com/sociatycom/posts/after-decades-of-searching-for-nessie-renowned-loch-ness-expert-adrian-shine-has/1426923499467302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sociatycom/posts/after-decades-of-searching-for-nessie-renowned-loch-ness-expert-adrian-shine-has/1426923499467302/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/memezarrr/posts/after-spending-more-than-six-decades-searching-the-waters-of-loch-ness-for-evide/1072493345350117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/memezarrr/posts/after-spending-more-than-six-decades-searching-the-waters-of-loch-ness-for-evide/1072493345350117/</a>  
+   Link:<a href="https://www.facebook.com/memezarrr/posts/after-spending-more-than-six-decades-searching-the-waters-of-loch-ness-for-evide/1072493345350117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/memezarrr/posts/after-spending-more-than-six-decades-searching-the-waters-of-loch-ness-for-evide/1072493345350117/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1294386217413894/posts/2535251949993975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1294386217413894/posts/2535251949993975/</a>  
+   Link:<a href="https://www.facebook.com/groups/1294386217413894/posts/2535251949993975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1294386217413894/posts/2535251949993975/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/19di7nu/bigfoot_and_black_bears_a_correlational_analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/19di7nu/bigfoot_and_black_bears_a_correlational_analysis/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/19di7nu/bigfoot_and_black_bears_a_correlational_analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/19di7nu/bigfoot_and_black_bears_a_correlational_analysis/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1002571683091379/posts/26926821730239686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1002571683091379/posts/26926821730239686/</a>  
+   Link:<a href="https://www.facebook.com/groups/1002571683091379/posts/26926821730239686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1002571683091379/posts/26926821730239686/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/324124619374230/posts/1521680666285280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324124619374230/posts/1521680666285280/</a>  
+   Link:<a href="https://www.facebook.com/groups/324124619374230/posts/1521680666285280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324124619374230/posts/1521680666285280/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/245324444/Man-and-Mystery-Vol-13-Monsters-and-Cryptids-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324444/Man-and-Mystery-Vol-13-Monsters-and-Cryptids-Rev06</a>  
+   Link:<a href="https://www.scribd.com/document/245324444/Man-and-Mystery-Vol-13-Monsters-and-Cryptids-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324444/Man-and-Mystery-Vol-13-Monsters-and-Cryptids-Rev06</a>  

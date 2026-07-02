@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:56:00'
+date:'2026-07-01 19:56:00'
 parent_title: How Cryptid Hoaxes Fool the Public
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
@@ -274,48 +274,33 @@ image: /assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_
 
 ## Introduction
 
-The Feejee Mermaid became one of the most influential [cryptid hoaxes]({{ 'hoaxes/' | relative_url }}) in history because it looked less like a story and more like a specimen. Displayed by showman P. T. Barnum in the 1840s, the object was presented as the preserved body of a mermaid and promoted through language that echoed museums, natural history collections and scientific investigation. Visitors were invited not merely to believe but to inspect. That distinction mattered. In the history of [cryptozoology]({{ 'cryptozoology/' | relative_url }}), the Feejee Mermaid illustrates how a fabricated body can gain authority by appearing to be physical evidence while remaining largely outside the normal processes of scientific testing and verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science The Feejee Mermaid: Early Barnum Hoax</span><span class="citation-popover-snippet">Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</span><span class="citation-popover-meta">Published: September 9, 2016</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The specimen was not [proof]({{ 'proof/' | relative_url }}) of an unknown species. It was a carefully constructed curiosity. Yet its success established a pattern that would recur in later cryptid culture: present a mysterious body, surround it with claims of expert interest, limit meaningful examination, and allow public fascination to do the rest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horniman.ac.uk">[Horniman Museum and Gardens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horniman.ac.uk</span><span class="citation-popover-title">unmasking the mysterious merman</span><span class="citation-popover-snippet">Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</span></span></span>
-
-
+The Feejee Mermaid became one of the most influential [cryptid hoaxes]({{'hoaxes/' | relative_url }}) in history because it looked less like a story and more like a specimen. Displayed by showman P. T. Barnum in the 1840s, the object was presented as the preserved body of a mermaid and promoted through language that echoed museums, natural history collections and scientific investigation. Visitors were invited not merely to believe but to inspect. That distinction mattered. In the history of [cryptozoology]({{'cryptozoology/' | relative_url }}), the Feejee Mermaid illustrates how a fabricated body can gain authority by appearing to be physical evidence while remaining largely outside the normal processes of scientific testing and verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science The Feejee Mermaid: Early Barnum Hoax</span><span class="citation-popover-snippet">Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</span><span class="citation-popover-meta">Published: September 9, 2016</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_d-CbURZh1I" title="The Feejee Mermaid : An American Tradition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer">The Feejee Mermaid : An American Tradition</a></p><p class="youtube-embed-meta">Channel: Doctor Drake&#x27;s Exhibition of the Bizarre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_d-CbURZh1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_d-CbURZh1I">Open on YouTube</a></p></div></div></div>
 
 ## Barnum's Specimen-Style Exhibition
 
-When Barnum acquired the Feejee Mermaid for exhibition in 1842, he did not simply place it on display and declare it genuine. Instead, he built a promotional campaign that borrowed the appearance of scientific legitimacy. Newspapers received stories about a supposedly distinguished naturalist, “Dr. Griffin”, who had obtained an extraordinary specimen from distant waters. Journalists were invited to view the object, and woodcut illustrations circulated before most people had seen the actual exhibit. The publicity created anticipation that a remarkable zoological discovery might be about to enter public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
+When Barnum acquired the Feejee Mermaid for exhibition in 1842, he did not simply place it on display and declare it genuine. Instead, he built a promotional campaign that borrowed the appearance of scientific legitimacy. Newspapers received stories about a supposedly distinguished naturalist, “Dr. Griffin”, who had obtained an extraordinary specimen from distant waters. Journalists were invited to view the object, and woodcut illustrations circulated before most people had seen the actual exhibit. The publicity created anticipation that a remarkable zoological discovery might be about to enter public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
 
-A key feature of the campaign was the contrast between expectation and reality. Promotional imagery often suggested a graceful, humanlike mermaid. Visitors instead encountered a small, shrivelled and unsettling figure with sharp teeth and a distorted face. The shock itself became part of the attraction. Whether viewers accepted the claim was almost secondary; the exhibit generated discussion because it appeared to be a tangible object that demanded explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
-
-Barnum understood that a specimen has advantages over a witness story. A story can be dismissed. A body in a display case feels available for inspection. Visitors could look at the creature and debate its anatomy, origin and authenticity. The exhibit therefore encouraged participation in a mystery while carefully controlling the [conditions]({{ 'conditions/' | relative_url }}) under which that mystery could be examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
-
+A key feature of the campaign was the contrast between expectation and reality. Promotional imagery often suggested a graceful, humanlike mermaid. Visitors instead encountered a small, shrivelled and unsettling figure with sharp teeth and a distorted face. The shock itself became part of the attraction. Whether viewers accepted the claim was almost secondary; the exhibit generated discussion because it appeared to be a tangible object that demanded explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qQL5pJgM-XM" title="Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer">Feejee Mermaid &amp; Centaur of Tymfi | Bizarre Secrets of Barnum Museum!</a></p><p class="youtube-embed-meta">Channel: BarnumMuseum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qQL5pJgM-XM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qQL5pJgM-XM">Open on YouTube</a></p></div></div></div>
 
 ## Composite Bodies and What Modern Scans Revealed
 
-For many years, the Feejee Mermaid was commonly described as a monkey sewn to a fish. That explanation captured the basic idea of a composite fabrication, but modern investigations of surviving Feejee-[type specimens]({{ 'type-specimens/' | relative_url }}) have shown that the reality was often more complicated. Different examples were assembled from different materials and techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science The Feejee Mermaid: Early Barnum Hoax</span><span class="citation-popover-snippet">Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</span><span class="citation-popover-meta">Published: September 9, 2016</span></span></span>
+For many years, the Feejee Mermaid was commonly described as a monkey sewn to a fish. That explanation captured the basic idea of a composite fabrication, but modern investigations of surviving Feejee-[type specimens]({{'type-specimens/' | relative_url }}) have shown that the reality was often more complicated. Different examples were assembled from different materials and techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science The Feejee Mermaid: Early Barnum Hoax</span><span class="citation-popover-snippet">Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</span><span class="citation-popover-meta">Published: September 9, 2016</span></span></span>
 
-Research on preserved mermaid [specimens]({{ 'specimens/' | relative_url }}) in museum collections has used X-radiography, CT scanning, microscopy and DNA sampling to look beneath their surfaces. These studies have repeatedly found sophisticated constructions involving fish parts, papier-mâché, wood, wire, fabric and other materials rather than simple monkey-and-fish combinations. The Horniman Museum's well-known specimen, for example, was found to contain fish-derived elements alongside manufactured components rather than an intact monkey torso. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperallergic.com">[Hyperallergic+2Museu.MS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperallergic.com</span><span class="citation-popover-title">how a fake monster creeped into our museums</span><span class="citation-popover-snippet">How a Fake Monster Crept Into our Museums15 Jan 2018 — However, it&#x27;s not clear if the Peabody mermaid is Barnum&#x27;s Feejee mer...</span></span></span>
+Research on preserved mermaid [specimens]({{'specimens/' | relative_url }}) in museum collections has used X-radiography, CT scanning, microscopy and DNA sampling to look beneath their surfaces. These studies have repeatedly found sophisticated constructions involving fish parts, papier-mâché, wood, wire, fabric and other materials rather than simple monkey-and-fish combinations. The Horniman Museum's well-known specimen, for example, was found to contain fish-derived elements alongside manufactured components rather than an intact monkey torso.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperallergic.com">[Hyperallergic+2Museu.MS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperallergic.com</span><span class="citation-popover-title">how a fake monster creeped into our museums</span><span class="citation-popover-snippet">How a Fake Monster Crept Into our Museums15 Jan 2018 — However, it&#x27;s not clear if the Peabody mermaid is Barnum&#x27;s Feejee mer...</span></span></span>
 
-The results are important because they reveal how the hoax operated mechanically. The creators were not merely stitching animals together. They were building convincing artefacts designed to survive close visual inspection. Features such as teeth, scales, claws and skeletal-looking contours created the impression of biological structure even when internal examination showed a largely artificial framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://museu.ms/article/details/109413" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museu.ms">[Museu.MS+2Coney Island USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museu.ms</span><span class="citation-popover-snippet">A mermaid model of a sprite: The Horniman Museum&#x27;s 19th...1 May 2015 — People used to think they were made by sewing a monkey to a fish...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+The results are important because they reveal how the hoax operated mechanically. The creators were not merely stitching animals together. They were building convincing artefacts designed to survive close visual inspection. Features such as teeth, scales, claws and skeletal-looking contours created the impression of biological structure even when internal examination showed a largely artificial framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://museu.ms/article/details/109413" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museu.ms">[Museu.MS+2Coney Island USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museu.ms</span><span class="citation-popover-snippet">A mermaid model of a sprite: The Horniman Museum&#x27;s 19th...1 May 2015 — People used to think they were made by sewing a monkey to a fish...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-Modern scanning has also demonstrated how difficult it can be to identify the exact construction history of individual specimens. Many surviving examples differ substantially from one another, and claims that a particular specimen is Barnum's original mermaid are generally unsupported. The uncertainty itself has helped sustain the object's mythology over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261704591_Mermaids_Uncovered" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Mermaids Uncovered</span><span class="citation-popover-snippet">ResearchGate(PDF) Mermaids UncoveredApril 1, 2014 — Lack of honest depictions of, and information about, the Feejee Mermaid has allowed s...</span><span class="citation-popover-meta">Published: April 1, 2014</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Modern scanning has also demonstrated how difficult it can be to identify the exact construction history of individual specimens. Many surviving examples differ substantially from one another, and claims that a particular specimen is Barnum's original mermaid are generally unsupported. The uncertainty itself has helped sustain the object's mythology over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261704591_Mermaids_Uncovered" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Mermaids Uncovered</span><span class="citation-popover-snippet">ResearchGate(PDF) Mermaids UncoveredApril 1, 2014 — Lack of honest depictions of, and information about, the Feejee Mermaid has allowed s...</span><span class="citation-popover-meta">Published: April 1, 2014</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Restricted Access Helps Specimen Hoaxes
 
 The Feejee Mermaid highlights an enduring feature of specimen-based hoaxes: they gain credibility from being visible but not fully accessible.
 
-Visitors to Barnum's exhibition could inspect the mermaid from outside its display setting, but they could not conduct anatomical dissection, material testing or systematic scientific analysis. The object therefore occupied a useful middle ground. It appeared testable because it was physical, yet meaningful testing remained unavailable to most observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
+Visitors to Barnum's exhibition could inspect the mermaid from outside its display setting, but they could not conduct anatomical dissection, material testing or systematic scientific analysis. The object therefore occupied a useful middle ground. It appeared testable because it was physical, yet meaningful testing remained unavailable to most observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
 
-This dynamic appears repeatedly in cryptid history. A body in a case creates a stronger impression than a rumour because it seems to offer direct evidence. At the same time, restrictions on examination prevent easy resolution of the mystery. As long as questions remain unanswered, audiences can continue debating possibilities. The Feejee Mermaid's fame depended less on proving anything than on sustaining uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horniman.ac.uk">[Horniman Museum and Gardens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horniman.ac.uk</span><span class="citation-popover-title">unmasking the mysterious merman</span><span class="citation-popover-snippet">Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</span></span></span>
-
-Even after modern technology exposed the artificial construction of many Feejee-type specimens, the objects retained cultural power. Museums continue to study them not because they are evidence of mermaids, but because they demonstrate how physical artefacts can acquire authority through presentation, [provenance]({{ 'provenance/' | relative_url }}) claims and institutional settings. A fabricated specimen displayed in a museum-like environment can appear far more credible than an identical object shown without those signals of expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperallergic.com">[Hyperallergic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperallergic.com</span><span class="citation-popover-title">how a fake monster creeped into our museums</span><span class="citation-popover-snippet">How a Fake Monster Crept Into our Museums15 Jan 2018 — However, it&#x27;s not clear if the Peabody mermaid is Barnum&#x27;s Feejee mer...</span></span></span>
-
+This dynamic appears repeatedly in cryptid history. A body in a case creates a stronger impression than a rumour because it seems to offer direct evidence. At the same time, restrictions on examination prevent easy resolution of the mystery. As long as questions remain unanswered, audiences can continue debating possibilities. The Feejee Mermaid's fame depended less on proving anything than on sustaining uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horniman.ac.uk">[Horniman Museum and Gardens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horniman.ac.uk</span><span class="citation-popover-title">unmasking the mysterious merman</span><span class="citation-popover-snippet">Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1g7QbP4rM4" title="FeeJee Mermaid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer">FeeJee Mermaid</a></p><p class="youtube-embed-meta">Channel: Peabody Museum of Archaeology &amp; Ethnology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1g7QbP4rM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1g7QbP4rM4">Open on YouTube</a></p></div></div></div>
 
@@ -323,229 +308,40 @@ Even after modern technology exposed the artificial construction of many Feejee-
 
 The lasting significance of the Feejee Mermaid is not that many people believed in mermaids. Its importance lies in showing how a hoax can imitate the appearance of scientific evidence.
 
-The specimen borrowed several features normally associated with genuine discovery:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+The specimen borrowed several features normally associated with genuine discovery:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A preserved physical body rather than a verbal claim.
 * A story of exotic geographic origin.
 * References to experts and naturalists.
 * Public exhibition in settings associated with education and investigation.
-* Limited opportunities for independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span>
+* Limited opportunities for independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker What P</span><span class="citation-popover-snippet">T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</span></span></span></div>
 
-</div>
-
-Those elements created an illusion of testability. People felt they were confronting evidence rather than hearsay, even though the evidence itself had been manufactured. In the broader history of cryptozoology, the Feejee Mermaid remains a classic example of how specimen hoaxes spread: not by avoiding science entirely, but by borrowing scientific language, display practices and authority while keeping decisive scrutiny just out of reach. Horniman Museum and Gardens+2Horniman Museum and Gardens <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horniman.ac.uk">[horniman.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horniman.ac.uk</span><span class="citation-popover-title">unmasking the mysterious merman</span><span class="citation-popover-snippet">Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Fake Mermaid Looked Like Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Covers famous cryptid claims and the role of hoaxes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Museum of Hoaxes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q5PaAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Museum of Hoaxes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Museum of Hoaxes">The Museum of Hoaxes</a>
-        </h4>
-        <p class="fr-book-author">By Alex Boese</p>
-        
-        <p class="fr-book-desc">Places the Feejee Mermaid within a larger history of fabricated evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Humbugs of the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Humbugs of the World">The Humbugs of the World</a>
-        </h4>
-        <p class="fr-book-author">By P. T. Barnum</p>
-        
-        <p class="fr-book-desc">Provides firsthand context for the era and culture that produced the Feejee Mermaid.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Museum of Hoaxes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Humbugs+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Humbugs of the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Lapel Pin Run You Run"><img src="{{ '/assets/images/marketplace-covers/0eb06f6c13e9ba6a3796.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Lapel Pin Run You Run" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Lapel Pin Run You Run</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin"><img src="{{ '/assets/images/marketplace-covers/4f8c8998dd0f2f972c1e.jpg' | relative_url }}" alt="Listing image for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+Those elements created an illusion of testability. People felt they were confronting evidence rather than hearsay, even though the evidence itself had been manufactured. In the broader history of cryptozoology, the Feejee Mermaid remains a classic example of how specimen hoaxes spread: not by avoiding science entirely, but by borrowing scientific language, display practices and authority while keeping decisive scrutiny just out of reach. Horniman Museum and Gardens+2Horniman Museum and Gardens<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horniman.ac.uk">[horniman.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horniman.ac.uk</span><span class="citation-popover-title">unmasking the mysterious merman</span><span class="citation-popover-snippet">Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-dark.svg" | relative_url }}" alt="Feejee Mermaid illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_hoaxes_15bf4d_feejee_mermaid_speci_d9a7ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to When a Fake Mermaid Looked Like Proof. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Covers famous cryptid claims and the role of hoaxes.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Museum of Hoaxes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q5PaAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Museum of Hoaxes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Museum of Hoaxes">The Museum of Hoaxes</a></h4><p class="fr-book-author">By Alex Boese</p><p class="fr-book-desc">Places the Feejee Mermaid within a larger history of fabricated evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes+by+Alex+Boese&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Humbugs of the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Humbugs of the World">The Humbugs of the World</a></h4><p class="fr-book-author">By P. T. Barnum</p><p class="fr-book-desc">Provides firsthand context for the era and culture that produced the Feejee Mermaid.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Humbugs+of+the+World+by+P.+T.+Barnum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a></h4><p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p><p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Museum+of+Hoaxes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Museum of Hoaxes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Humbugs+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Humbugs of the World</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Lapel Pin Run You Run"><img src="{{'/assets/images/marketplace-covers/0eb06f6c13e9ba6a3796.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Lapel Pin Run You Run" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Lapel Pin Run You Run</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin"><img src="{{'/assets/images/marketplace-covers/4f8c8998dd0f2f972c1e.jpg' | relative_url }}" alt="Listing image for Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman Fan Club Badge 43mm &amp; Iron On Patch Cryptid Monster Embroidered 85mm Pin</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{'/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{'/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible pin" data-ebay-reference="feejee-mermaid-when-a-fake-mermaid-looked-like-proof-cryptozoology-cryptid-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,24 +355,24 @@ Those elements created an illusion of testability. People felt they were confron
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -587,7 +383,7 @@ Those elements created an illusion of testability. People felt they were confron
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -595,45 +391,43 @@ Those elements created an illusion of testability. People felt they were confron
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -649,10 +443,10 @@ Those elements created an illusion of testability. People felt they were confron
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -672,11 +466,11 @@ Those elements created an illusion of testability. People felt they were confron
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -685,16 +479,16 @@ Those elements created an illusion of testability. People felt they were confron
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,9 +502,9 @@ Those elements created an illusion of testability. People felt they were confron
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -729,131 +523,109 @@ Those elements created an illusion of testability. People felt they were confron
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: P. T. Barnum  
-   Link: <a href="https://en.wikipedia.org/wiki/P._T._Barnum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P._T._Barnum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/P._T._Barnum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P._T._Barnum</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: coneyisland.com  
-   Link: <a href="https://www.coneyisland.com/shof-attractions/feejee-mermaid" target="_blank" rel="noopener noreferrer nofollow">https://www.coneyisland.com/shof-attractions/feejee-mermaid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coney Island USAFeejee MermaidMany of these feejee mermaids are made from parts of fish and paper mache. Few actually appear to contain m...</p></details>
+   Link:<a href="https://www.coneyisland.com/shof-attractions/feejee-mermaid" target="_blank" rel="noopener noreferrer nofollow">https://www.coneyisland.com/shof-attractions/feejee-mermaid</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Coney Island USAFeejee MermaidMany of these feejee mermaids are made from parts of fish and paper mache. Few actually appear to contain m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hyperallergic.com  
    Title: how a fake monster creeped into our museums  
-   Link: <a href="https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/" target="_blank" rel="noopener noreferrer nofollow">https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fake Monster Crept Into our Museums15 Jan 2018 — However, it&#x27;s not clear if the Peabody mermaid is Barnum&#x27;s Feejee mer...</p></details>
+   Link:<a href="https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/" target="_blank" rel="noopener noreferrer nofollow">https://hyperallergic.com/how-a-fake-monster-creeped-into-our-museums/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fake Monster Crept Into our Museums15 Jan 2018 — However, it&#x27;s not clear if the Peabody mermaid is Barnum&#x27;s Feejee mer...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: museu.ms  
-   Link: <a href="https://museu.ms/article/details/109413" target="_blank" rel="noopener noreferrer nofollow">https://museu.ms/article/details/109413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A mermaid model of a sprite: The Horniman Museum&#x27;s 19th...1 May 2015 — People used to think they were made by sewing a monkey to a fish...</p></details>
+   Link:<a href="https://museu.ms/article/details/109413" target="_blank" rel="noopener noreferrer nofollow">https://museu.ms/article/details/109413</a><details class="endnote-snippet"><summary>Source snippet</summary><p>A mermaid model of a sprite: The Horniman Museum&#x27;s 19th...1 May 2015 — People used to think they were made by sewing a monkey to a fish...</p></details>
    Published: May 2015  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Mermaids Uncovered  
-   Link: <a href="https://www.researchgate.net/publication/261704591_Mermaids_Uncovered" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261704591_Mermaids_Uncovered</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Mermaids UncoveredApril 1, 2014 — Lack of honest depictions of, and information about, the Feejee Mermaid has allowed s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261704591_Mermaids_Uncovered" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261704591_Mermaids_Uncovered</a><details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Mermaids UncoveredApril 1, 2014 — Lack of honest depictions of, and information about, the Feejee Mermaid has allowed s...</p></details>
    Published: April 1, 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Fiji mermaid  
-   Link: <a href="https://en.wikipedia.org/wiki/Fiji_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fiji_mermaid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji mermaidThe Fiji mermaid (also Feejee mermaid) was an object composed of the torso and head of a juvenile monkey sewn to the back...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fiji_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fiji_mermaid</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji mermaidThe Fiji mermaid (also Feejee mermaid) was an object composed of the torso and head of a juvenile monkey sewn to the back...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hoaxes.org  
    Title: the feejee mermaid  
-   Link: <a href="https://hoaxes.org/archive/permalink/the_feejee_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://hoaxes.org/archive/permalink/the_feejee_mermaid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1842)A reference guide to hoaxes, pranks, practical jokes, frauds, tricks, and other forms of deception...</p></details>
+   Link:<a href="https://hoaxes.org/archive/permalink/the_feejee_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://hoaxes.org/archive/permalink/the_feejee_mermaid</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(1842)A reference guide to hoaxes, pranks, practical jokes, frauds, tricks, and other forms of deception...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: livescience.com  
    Title: Live Science The Feejee Mermaid: Early Barnum Hoax  
-   Link: <a href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/56037-feejee-mermaid.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</p></details>
+   Link:<a href="https://www.livescience.com/56037-feejee-mermaid.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/56037-feejee-mermaid.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThe Feejee Mermaid: Early Barnum HoaxSeptember 9, 2016 — 8 Sept 2016 — The Feejee Mermaid (sometimes spelled Fiji Mermaid and...</p></details>
    Published: September 9, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: horniman.ac.uk  
    Title: unmasking the mysterious merman  
-   Link: <a href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow">https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</p></details>
+   Link:<a href="https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/" target="_blank" rel="noopener noreferrer nofollow">https://www.horniman.ac.uk/story/unmasking-the-mysterious-merman/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Our specimen was acquired by the Wellcome Collection in 1919 under the name Japanese Monkey-fish.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newyorker.com  
    Title: The New Yorker What P  
-   Link: <a href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2019/08/05/what-p-t-barnum-understood-about-america</a><details class="endnote-snippet"><summary>Source snippet</summary><p>T. Barnum Understood About AmericaThe article discusses P. T. Barnum, a 19th-century American showman, who skillfully understood and capi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: horniman.ac.uk  
    Title: manmade mermaids  
-   Link: <a href="https://www.horniman.ac.uk/story/manmade-mermaids/" target="_blank" rel="noopener noreferrer nofollow">https://www.horniman.ac.uk/story/manmade-mermaids/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Horniman Museum and GardensManmade Mermaids6 Apr 2014 — A more famous (or perhaps infamous) example of a ningyo type mermaid was the &#x27;Fee...</p></details>
+   Link:<a href="https://www.horniman.ac.uk/story/manmade-mermaids/" target="_blank" rel="noopener noreferrer nofollow">https://www.horniman.ac.uk/story/manmade-mermaids/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Horniman Museum and GardensManmade Mermaids6 Apr 2014 — A more famous (or perhaps infamous) example of a ningyo type mermaid was the &#x27;Fee...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brucemuseum.org  
-   Link: <a href="https://brucemuseum.org/exhibitions/unraveled/" target="_blank" rel="noopener noreferrer nofollow">https://brucemuseum.org/exhibitions/unraveled/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling Natural History&#x27;s Greatest Hoaxes&quot;Monsters and Mermaids&quot; explores the history of hoaxes, the motivations of the hoaxers, and t...</p></details>
+   Link:<a href="https://brucemuseum.org/exhibitions/unraveled/" target="_blank" rel="noopener noreferrer nofollow">https://brucemuseum.org/exhibitions/unraveled/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling Natural History&#x27;s Greatest Hoaxes&quot;Monsters and Mermaids&quot; explores the history of hoaxes, the motivations of the hoaxers, and t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/27140463/mummified-half-monkey-half-fish-fiji-mermaid/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/27140463/mummified-half-monkey-half-fish-fiji-mermaid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ursprünglich 1906 von einem amerikanischen Seemann entdeckt und später dem historischen Museum von Clark County in Springfield, Ohio, ge...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/27140463/mummified-half-monkey-half-fish-fiji-mermaid/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/27140463/mummified-half-monkey-half-fish-fiji-mermaid/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ursprünglich 1906 von einem amerikanischen Seemann entdeckt und später dem historischen Museum von Clark County in Springfield, Ohio, ge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: in 1842 pt barnum began promoting a new curiosity he called the feejee mermaid i  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1842-pt-barnum-began-promoting-a-new-curiosity-he-called-the-feejee-mermaid-i/10156286501596184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1842-pt-barnum-began-promoting-a-new-curiosity-he-called-the-feejee-mermaid-i/10156286501596184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnum began promoting a new curiosity he...Barnum began promoting a new curiosity he called the “Feejee Mermaid.” It was actually the t...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/in-1842-pt-barnum-began-promoting-a-new-curiosity-he-called-the-feejee-mermaid-i/10156286501596184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1842-pt-barnum-began-promoting-a-new-curiosity-he-called-the-feejee-mermaid-i/10156286501596184/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Barnum began promoting a new curiosity he...Barnum began promoting a new curiosity he called the “Feejee Mermaid.” It was actually the t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ripleys.com  
    Title: The Fiji Mermaid: History's Most Infamous Maritime Hoax6 days ago —  
-   Link: <a href="https://www.ripleys.com/stories/fiji-mermaid-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/fiji-mermaid-hoax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sideshow specimen remains one of history&#x27;s most famous maritime hoaxes... The Fiji Mermaid: History&#x27;s Most Infamous Maritime Hoax. Step...</p></details>
+   Link:<a href="https://www.ripleys.com/stories/fiji-mermaid-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/fiji-mermaid-hoax</a><details class="endnote-snippet"><summary>Source snippet</summary><p>sideshow specimen remains one of history&#x27;s most famous maritime hoaxes... The Fiji Mermaid: History&#x27;s Most Infamous Maritime Hoax. Step...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SideshowPerformer/comments/1nes7rf/a_fijifeejee_mermaid_is_a_sideshow_gaff_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SideshowPerformer/comments/1nes7rf/a_fijifeejee_mermaid_is_a_sideshow_gaff_fake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a grotesque hoax crafted by stitching a monkey&#x27;s head and torso to a fish tail, backed...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/SideshowPerformer/comments/1nes7rf/a_fijifeejee_mermaid_is_a_sideshow_gaff_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SideshowPerformer/comments/1nes7rf/a_fijifeejee_mermaid_is_a_sideshow_gaff_fake/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>a grotesque hoax crafted by stitching a monkey&#x27;s head and torso to a fish tail, backed...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: it's one of my favourite things in the British Museum  
-   Link: <a href="https://www.facebook.com/groups/londontraveltipsandhacks/posts/775042880827488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/londontraveltipsandhacks/posts/775042880827488/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feejee Mermaid, a famous example of a hoax, was created by combining a monkey&#x27;s head and torso with the body of a fish. This cre...</p></details>
+   Link:<a href="https://www.facebook.com/groups/londontraveltipsandhacks/posts/775042880827488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/londontraveltipsandhacks/posts/775042880827488/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Feejee Mermaid, a famous example of a hoax, was created by combining a monkey&#x27;s head and torso with the body of a fish. This cre...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Archaeology.Prehistoric/posts/2502014069947787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Archaeology.Prehistoric/posts/2502014069947787/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, researchers have been able to closely examine the materials and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Archaeology.Prehistoric/posts/2502014069947787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Archaeology.Prehistoric/posts/2502014069947787/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>, researchers have been able to closely examine the materials and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientoriginsweb/posts/explore-the-intriguing-story-of-the-mummified-mermaid-discovered-in-japan-from-i/906033501565181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/posts/explore-the-intriguing-story-of-the-mummified-mermaid-discovered-in-japan-from-i/906033501565181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ese creatures were actually intricate &quot;cryptid&quot; fabrications...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientoriginsweb/posts/explore-the-intriguing-story-of-the-mummified-mermaid-discovered-in-japan-from-i/906033501565181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/posts/explore-the-intriguing-story-of-the-mummified-mermaid-discovered-in-japan-from-i/906033501565181/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>ese creatures were actually intricate &quot;cryptid&quot; fabrications...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: radiologybusiness.com  
    Title: fiji mermaid northern kentucky university  
-   Link: <a href="https://radiologybusiness.com/topics/medical-imaging/radiography/fiji-mermaid-northern-kentucky-university" target="_blank" rel="noopener noreferrer nofollow">https://radiologybusiness.com/topics/medical-imaging/radiography/fiji-mermaid-northern-kentucky-university</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiology students to run scans on &#x27;mermaid&#x27;17 Oct 2023 — A group of radiology students at Northern Kentucky University are analyzing the...</p></details>
+   Link:<a href="https://radiologybusiness.com/topics/medical-imaging/radiography/fiji-mermaid-northern-kentucky-university" target="_blank" rel="noopener noreferrer nofollow">https://radiologybusiness.com/topics/medical-imaging/radiography/fiji-mermaid-northern-kentucky-university</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Radiology students to run scans on &#x27;mermaid&#x27;17 Oct 2023 — A group of radiology students at Northern Kentucky University are analyzing the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: travsd.wordpress.com  
    Title: barnums best bunkum 1 the feejee mermaid  
-   Link: <a href="https://travsd.wordpress.com/2015/03/18/barnums-best-bunkum-1-the-feejee-mermaid/" target="_blank" rel="noopener noreferrer nofollow">https://travsd.wordpress.com/2015/03/18/barnums-best-bunkum-1-the-feejee-mermaid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comBarnum&#x27;s FeeJee Mermaid - Travalanche - WordPress.com18 Mar 2015 — Clearly the top half of a dead monkey sewn on the bottom...</p></details>
+   Link:<a href="https://travsd.wordpress.com/2015/03/18/barnums-best-bunkum-1-the-feejee-mermaid/" target="_blank" rel="noopener noreferrer nofollow">https://travsd.wordpress.com/2015/03/18/barnums-best-bunkum-1-the-feejee-mermaid/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comBarnum&#x27;s FeeJee Mermaid - Travalanche - WordPress.com18 Mar 2015 — Clearly the top half of a dead monkey sewn on the bottom...</p></details>

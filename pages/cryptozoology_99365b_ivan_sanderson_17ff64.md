@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:55:17'
+date:'2026-07-01 19:55:17'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,79 +448,56 @@ image: /assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-overview-social
 
 ## Introduction
 
-That mixture made cryptozoology more accessible and memorable, but also more vulnerable. Sanderson’s work showed how curiosity about unknown animals could open genuine questions about testimony, [folklore]({{ 'folklore/' | relative_url }}) and unexplored habitats. It also showed how weak evidence, recycled anecdotes and entertainment value could be mistaken for proof. His career is therefore one of the clearest examples of cryptozoology’s central tension: the same media skills that made “[hidden animals]({{ 'hidden-animals/' | relative_url }})” exciting also made them harder to separate from spectacle.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-overview.webp" | relative_url }}" alt="Overview image for Sanderson" loading="eager" decoding="sync" fetchpriority="high">
+That mixture made cryptozoology more accessible and memorable, but also more vulnerable. Sanderson’s work showed how curiosity about unknown animals could open genuine questions about testimony, [folklore]({{'folklore/' | relative_url }}) and unexplored habitats. It also showed how weak evidence, recycled anecdotes and entertainment value could be mistaken for proof. His career is therefore one of the clearest examples of cryptozoology’s central tension: the same media skills that made “[hidden animals]({{'hidden-animals/' | relative_url }})” exciting also made them harder to separate from spectacle.<img src="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-overview.webp" | relative_url }}" alt="Overview image for Sanderson" loading="eager" decoding="sync" fetchpriority="high">
 ## Sanderson’s role in the field
 
-Sanderson came to monster hunting with credentials that made him more persuasive than a casual enthusiast. Born in Scotland in 1911, he was educated at Eton, Cambridge and the University of London, travelled widely as an animal collector, and collected for institutions including the British Museum. Reference accounts describe him as a naturalist, traveller, collector and exhibitor of rare animals, as well as a radio and television commentator and author. His early career therefore gave him a recognisable bridge between professional natural history and public performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence-1911-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">sanderson ivan terence 1911 1973</span><span class="citation-popover-snippet">sanderson ivan terence 1911 1973</span></span></span>
+Sanderson came to monster hunting with credentials that made him more persuasive than a casual enthusiast. Born in Scotland in 1911, he was educated at Eton, Cambridge and the University of London, travelled widely as an animal collector, and collected for institutions including the British Museum. Reference accounts describe him as a naturalist, traveller, collector and exhibitor of rare animals, as well as a radio and television commentator and author. His early career therefore gave him a recognisable bridge between professional natural history and public performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">sanderson ivan terence</span><span class="citation-popover-snippet">sanderson ivan terence</span></span></span>
 
-That bridge mattered because mid-twentieth-century cryptozoology needed more than stories. It needed people who could present reports of strange animals as if they belonged in the same broad conversation as field zoology, exploration and museum collecting. Bernard [Heuvelmans]({{ 'heuvelmans/' | relative_url }}) is often treated as the more systematising figure, especially through *On the Track of Unknown Animals*, but Sanderson’s contribution was different: he was exceptionally good at popularising the chase. He made cryptids feel less like isolated legends and more like a world-spanning natural-history problem.
+That bridge mattered because mid-twentieth-century cryptozoology needed more than stories. It needed people who could present reports of strange animals as if they belonged in the same broad conversation as field zoology, exploration and museum collecting. Bernard [Heuvelmans]({{'heuvelmans/' | relative_url }}) is often treated as the more systematising figure, especially through *On the Track of Unknown Animals*, but Sanderson’s contribution was different: he was exceptionally good at popularising the chase. He made cryptids feel less like isolated legends and more like a world-spanning natural-history problem.
 
-His 1961 book *Abominable Snowmen: Legend Come to Life* is central to that role. It did not limit itself to the Himalayan Yeti. Sanderson treated reports of wild, hairy, human-like creatures from many regions as part of a broader pattern, arguing that such beings were not merely local folklore but possible zoological realities. The book’s own framing presented “factual reports” of strange, hairy people from every continent except Australia and Antarctica, and later editions preserved its status as a classic cryptozoological text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+His 1961 book *Abominable Snowmen: Legend Come to Life* is central to that role. It did not limit itself to the Himalayan Yeti. Sanderson treated reports of wild, hairy, human-like creatures from many regions as part of a broader pattern, arguing that such beings were not merely local folklore but possible zoological realities. The book’s own framing presented “factual reports” of strange, hairy people from every continent except Australia and Antarctica, and later editions preserved its status as a classic cryptozoological text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
-Sanderson’s approach was expansive. In one chapter, he divided the history of Abominable Snowman reports into stages, including ancient knowledge, explorers, mountaineers and modern “searchers”. He also argued that what Western readers treated as new discoveries were often better understood as “revelations” of knowledge long held outside Western science. That was one of the more interesting features of his writing: he took local testimony and folklore seriously, not just as colourful background, but as material he believed could point towards real animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/lcr/abs/abs05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
+Sanderson’s approach was expansive. In one chapter, he divided the history of Abominable Snowman reports into stages, including ancient knowledge, explorers, mountaineers and modern “searchers”. He also argued that what Western readers treated as new discoveries were often better understood as “revelations” of knowledge long held outside Western science. That was one of the more interesting features of his writing: he took local testimony and folklore seriously, not just as colourful background, but as material he believed could point towards real animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/lcr/abs/abs05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
 
-The problem was that Sanderson often moved too quickly from “worth investigating” to “probably zoological”. That leap is what made him influential within cryptozoology and controversial outside it. He helped establish a style in which scattered testimony, old travel accounts, footprints, legends and speculative biological reasoning were arranged into a persuasive narrative. For readers already open to hidden animals, that was thrilling. For scientists asking for physical specimens, repeatable observations or strong biological evidence, it was not enough.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-dark.svg" | relative_url }}" alt="Sanderson illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The problem was that Sanderson often moved too quickly from “worth investigating” to “probably zoological”. That leap is what made him influential within cryptozoology and controversial outside it. He helped establish a style in which scattered testimony, old travel accounts, footprints, legends and speculative biological reasoning were arranged into a persuasive narrative. For readers already open to hidden animals, that was thrilling. For scientists asking for physical specimens, repeatable observations or strong biological evidence, it was not enough.<img src="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-dark.svg" | relative_url }}" alt="Sanderson illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Adventure, animals and entertainment
 
-Sanderson’s monster hunting cannot be separated from his career as a media naturalist. The American Philosophical Society’s description of his papers notes that, after the Second World War, he worked in broadcasting, lecturing and writing about natural science for a public audience. Beginning in 1948, he made regular American radio and television appearances, first with a weekly WNBC radio programme in New York and then through additional radio and television work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
+Sanderson’s monster hunting cannot be separated from his career as a media naturalist. The American Philosophical Society’s description of his papers notes that, after the Second World War, he worked in broadcasting, lecturing and writing about natural science for a public audience. Beginning in 1948, he made regular American radio and television appearances, first with a weekly WNBC radio programme in New York and then through additional radio and television work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
 
-Television was especially important. Sanderson’s CBS programme was described by the American Philosophical Society finding aid as the first commercial colour television programme in the channel’s history, and from 1951 to 1958 he had a regular segment on *The Garry Moore Show*, appearing with live animals. He also imported rare wild animals for television, zoos and exhibitions, ran a company called Animodels, and operated a summer roadside zoo in New Jersey. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
+Television was especially important. Sanderson’s CBS programme was described by the American Philosophical Society finding aid as the first commercial colour television programme in the channel’s history, and from 1951 to 1958 he had a regular segment on *The Garry Moore Show*, appearing with live animals. He also imported rare wild animals for television, zoos and exhibitions, ran a company called Animodels, and operated a summer roadside zoo in New Jersey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
 
-This made him a different kind of cryptozoological figure. He was not only writing for readers who already cared about mysterious animals. He was building a public persona as someone who could bring the living animal world into the studio: strange mammals, birds, reptiles, field stories and traveller’s authority. When he later discussed Sasquatch, the Yeti, [sea serpents]({{ 'sea-serpents/' | relative_url }}) or lake monsters, he did so from within an already established image of the adventurous animal expert.
+This made him a different kind of cryptozoological figure. He was not only writing for readers who already cared about mysterious animals. He was building a public persona as someone who could bring the living animal world into the studio: strange mammals, birds, reptiles, field stories and traveller’s authority. When he later discussed Sasquatch, the Yeti, [sea serpents]({{'sea-serpents/' | relative_url }}) or lake monsters, he did so from within an already established image of the adventurous animal expert.
 
-That media background shaped the tone of popular monster hunting in three important ways:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+That media background shaped the tone of popular monster hunting in three important ways:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **It made cryptids feel visual and immediate.** Sanderson’s world was not just text; it was animals on television, photographs, drawings, exhibits and dramatic accounts of fieldwork.
 * **It linked monsters to entertainment without fully admitting the boundary.** The same public wanted education, spectacle and surprise. Cryptids could be presented as possible science while also functioning as adventure stories.
-* **It gave anecdote a stage.** A witness account, a track cast or a traveller’s rumour became more compelling when delivered by someone already known for handling real animals and telling natural-history stories.
-
-</div>
-
-Sanderson also wrote for popular magazines and worked in publishing. The American Philosophical Society notes that from 1961 to 1965 he was a senior trade editor and special science editor for Chilton Books, later worked as a freelance editor, and became a science editor at *Argosy*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span> That matters because *Argosy*, adventure magazines and mass-market paperbacks were important habitats for monster hunting. They rewarded stories that felt plausible, vivid and unresolved — exactly the atmosphere in which cryptozoology thrived.
-
+* **It gave anecdote a stage.** A witness account, a track cast or a traveller’s rumour became more compelling when delivered by someone already known for handling real animals and telling natural-history stories.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6tRUvtyAMOg" title="Flatwoods Monster Solved!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer">Flatwoods Monster Solved!</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 287.8K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6tRUvtyAMOg">Open on YouTube</a></p></div></div></div>
 
 ## From natural history to the unexplained
 
-Sanderson’s shift towards the unexplained appears to have sharpened in the 1950s. The American Philosophical Society finding aid says that, while working as a freelance reporter for the North American Newspaper Alliance, he investigated the 1952 Flatwoods incident in West Virginia, where residents reported a spaceship and a monster. The archive describes this as an episode that drew him towards anomalous phenomena, cryptozoology and ufology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
+Sanderson’s shift towards the unexplained appears to have sharpened in the 1950s. The American Philosophical Society finding aid says that, while working as a freelance reporter for the North American Newspaper Alliance, he investigated the 1952 Flatwoods incident in West Virginia, where residents reported a spaceship and a monster. The archive describes this as an episode that drew him towards anomalous phenomena, cryptozoology and ufology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
 
-That transition helps explain why Sanderson’s later work did not remain inside narrow zoological boundaries. His interests came to include UFOs, the Loch Ness Monster, Sasquatch, the Abominable Snowman, the Bermuda Triangle and other anomalies. In 1965 he established the Ivan T. Sanderson Foundation, later called the Society for the Investigation of the Unexplained, to promote the study of the unknown; the organisation set up a research centre at his farm in Columbia, New Jersey. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
+That transition helps explain why Sanderson’s later work did not remain inside narrow zoological boundaries. His interests came to include UFOs, the Loch Ness Monster, Sasquatch, the Abominable Snowman, the Bermuda Triangle and other anomalies. In 1965 he established the Ivan T. Sanderson Foundation, later called the Society for the Investigation of the Unexplained, to promote the study of the unknown; the organisation set up a research centre at his farm in Columbia, New Jersey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Open source on amphilsoc.org.</span></span></span>
 
-SITU was important because it treated monster reports as part of a wider ecology of anomalies. That helped popular monster hunting by giving it institutional form: a society, a research centre, files, correspondence, newsletters and an implied community of investigators. The American Philosophical Society’s 2022 note on the Sanderson papers states that the collection includes material on natural history, radio and television programming, cryptozoology, and SITU’s interests in UFOs, Loch Ness, Sasquatch, the Abominable Snowman and the Bermuda Triangle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amphilsoc.org</span><span class="citation-popover-title">American Philosophical Society New to the Digital Library: Ivan Sanderson papers</span><span class="citation-popover-snippet">American Philosophical Society New to the Digital Library: Ivan Sanderson papers</span></span></span>
+SITU was important because it treated monster reports as part of a wider ecology of anomalies. That helped popular monster hunting by giving it institutional form: a society, a research centre, files, correspondence, newsletters and an implied community of investigators. The American Philosophical Society’s 2022 note on the Sanderson papers states that the collection includes material on natural history, radio and television programming, cryptozoology, and SITU’s interests in UFOs, Loch Ness, Sasquatch, the Abominable Snowman and the Bermuda Triangle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amphilsoc.org</span><span class="citation-popover-title">American Philosophical Society New to the Digital Library: Ivan Sanderson papers</span><span class="citation-popover-snippet">American Philosophical Society New to the Digital Library: Ivan Sanderson papers</span></span></span>
 
 For cryptozoology, this was both a strength and a weakness. The strength was network-building. Sanderson helped create a culture in which reports could be collected, compared and circulated rather than simply forgotten. The weakness was category drift. When Bigfoot, lake monsters, UFOs and mysterious disappearances were housed under the same “unexplained” umbrella, the public could easily read them as mutually reinforcing mysteries, even though each required different kinds of evidence.
 
-This is one reason Sanderson remains such a useful figure for understanding cryptozoology. He did not merely argue that unknown animals might exist. He helped build the style, infrastructure and media habits through which monster hunting became a recognisable public activity.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-dark.svg" | relative_url }}" alt="Sanderson illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is one reason Sanderson remains such a useful figure for understanding cryptozoology. He did not merely argue that unknown animals might exist. He helped build the style, infrastructure and media habits through which monster hunting became a recognisable public activity.<img src="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-dark.svg" | relative_url }}" alt="Sanderson illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The line between curiosity and proof
 
 Sanderson’s best defence is that he asked people to take reports seriously before dismissing them. That impulse is not absurd. Natural history has always depended partly on listening to travellers, local observers, hunters, fishers and field workers. Many real animals were known to local communities before they were formally described by Western science. Sanderson’s writing drew attention to that imbalance and criticised the idea that unfamiliar reports should automatically be treated as nonsense.
 
 His weakness was evidential discipline. In cryptozoology, the crucial question is not whether a report is interesting, but what kind of claim it can support. A footprint may show that something pressed into mud or sand; it does not by itself establish an unknown species. A local name may preserve ecological knowledge, but it may also refer to a known animal, a story-being, a taboo, a metaphor or a mixture of memories. A traveller’s account may be sincere and still mistaken.
 
-Scientific criticism of *Abominable Snowmen* centred on that problem. A 1962 review in *Science*, titled “Myth, Obsession, Quarry?”, treated Sanderson’s book as a serious object of criticism rather than a reliable zoological case. The review record identifies the book as a 525-page illustrated Chilton volume, but its wider reputation has rested heavily on the charge that Sanderson’s standards of evidence were far too low for the scientific conclusions he wanted to draw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.136.3512.252.a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Open source on science.org.</span></span></span>
+Scientific criticism of *Abominable Snowmen* centred on that problem. A 1962 review in *Science*, titled “Myth, Obsession, Quarry?”, treated Sanderson’s book as a serious object of criticism rather than a reliable zoological case. The review record identifies the book as a 525-page illustrated Chilton volume, but its wider reputation has rested heavily on the charge that Sanderson’s standards of evidence were far too low for the scientific conclusions he wanted to draw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.136.3512.252.a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Open source on science.org.</span></span></span>
 
-The Clearwater “giant penguin” case shows the danger in a more concrete way. In 1948, large three-toed [tracks]({{ 'tracks/' | relative_url }}) appeared around Clearwater Beach, Florida, and later became associated with claims of a huge penguin-like creature. The case was eventually exposed as a hoax involving metal feet used to create tracks. Skeptical accounts emphasise Sanderson’s role because he first had reason to suspect fakery, yet later helped give the story cryptozoological life as a possible giant penguin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Giant_penguin_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Giant penguin hoax</span><span class="citation-popover-snippet">Giant penguin hoax</span></span></span>
+The Clearwater “giant penguin” case shows the danger in a more concrete way. In 1948, large three-toed [tracks]({{'tracks/' | relative_url }}) appeared around Clearwater Beach, Florida, and later became associated with claims of a huge penguin-like creature. The case was eventually exposed as a hoax involving metal feet used to create tracks. Skeptical accounts emphasise Sanderson’s role because he first had reason to suspect fakery, yet later helped give the story cryptozoological life as a possible giant penguin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Giant_penguin_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Giant penguin hoax</span><span class="citation-popover-snippet">Giant penguin hoax</span></span></span>
 
-That episode is not just an embarrassing footnote. It illustrates a recurring failure mode in popular monster hunting: dramatic traces can outlive the conditions that produced them. Once a track, photograph or witness story enters the monster-hunting circuit, it can be retold, illustrated, expanded and detached from its original uncertainties. Sanderson’s career helped create that circuit, and the Clearwater case shows how easily it could reward the most exciting version of a weak claim.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3r6L-SGP0E" title="Lost Monster Files | Season 1 | OFFICIAL Promo Trailer [HD] [2024]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer">Lost Monster Files | Season 1 | OFFICIAL Promo Trailer [HD] [2024]</a></p><p class="youtube-embed-meta">Channel: WotNot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3r6L-SGP0E">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zdTb8XgZF9U" title="Abominable Snowmen, Legend Comes to Life by Ivan Sanderson Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zdTb8XgZF9U" target="_blank" rel="noopener noreferrer">Abominable Snowmen, Legend Comes to Life by Ivan Sanderson Overview</a></p><p class="youtube-embed-meta">Channel: Connect Paranormal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zdTb8XgZF9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zdTb8XgZF9U">Open on YouTube</a></p></div></div></div>
+That episode is not just an embarrassing footnote. It illustrates a recurring failure mode in popular monster hunting: dramatic traces can outlive the conditions that produced them. Once a track, photograph or witness story enters the monster-hunting circuit, it can be retold, illustrated, expanded and detached from its original uncertainties. Sanderson’s career helped create that circuit, and the Clearwater case shows how easily it could reward the most exciting version of a weak claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3r6L-SGP0E" title="Lost Monster Files | Season 1 | OFFICIAL Promo Trailer [HD] [2024]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer">Lost Monster Files | Season 1 | OFFICIAL Promo Trailer [HD] [2024]</a></p><p class="youtube-embed-meta">Channel: WotNot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3r6L-SGP0E">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zdTb8XgZF9U" title="Abominable Snowmen, Legend Comes to Life by Ivan Sanderson Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zdTb8XgZF9U" target="_blank" rel="noopener noreferrer">Abominable Snowmen, Legend Comes to Life by Ivan Sanderson Overview</a></p><p class="youtube-embed-meta">Channel: Connect Paranormal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zdTb8XgZF9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zdTb8XgZF9U">Open on YouTube</a></p></div></div></div>
 
 ## Why Sanderson still matters
 
@@ -530,216 +507,32 @@ He also helped define a type: the monster hunter as naturalist-showman. Later cr
 
 But Sanderson’s legacy is not simply celebratory. He is also a warning about the cost of making mystery too entertaining. His work often blurred three different activities: documenting folklore, investigating eyewitness reports and arguing for living unknown animals. Each can be valuable, but they are not the same. When they are fused too tightly, the result may be culturally fascinating but scientifically weak.
 
-That is why Sanderson sits so near the centre of cryptozoology’s history. He gave popular monster hunting much of its modern voice: adventurous, literate, zoological, media-friendly and impatient with dismissal. At the same time, his career shows why cryptozoology remains disputed. The search for unknown animals can begin in curiosity, but it only becomes zoology when the evidence can survive without the atmosphere of the chase.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-dark.svg" | relative_url }}" alt="Sanderson illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Monster Hunting Became Popular Media. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Snowmen, Legend Come to Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MVZSSkqDCU4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Snowmen, Legend Come to Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen, Legend Come to Life">Abominable Snowmen, Legend Come to Life</a>
-        </h4>
-        <p class="fr-book-author">By Ivan T. Sanderson</p>
-        
-        <p class="fr-book-desc">Directly tied to the subject of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OYudQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On the Track of Unknown Animals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
-        </h4>
-        <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
-        <p class="fr-book-desc">Shows Sanderson&#x27;s intellectual milieu.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Covers subjects Sanderson popularized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Animal Treasure on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Animal Treasure">Animal Treasure</a>
-        </h4>
-        <p class="fr-book-author">By Ivan Terence Sanderson</p>
-        
-        <p class="fr-book-desc">Reflects his blend of zoology and entertainment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen, Legend Come to Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad"><img src="{{ '/assets/images/marketplace-covers/c5faf53d773c1ed5a5c9.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster"><img src="{{ '/assets/images/marketplace-covers/40d38f45842752b75878.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977"><img src="{{ '/assets/images/marketplace-covers/22d0bdc0d5e952c8a8b5.jpg' | relative_url }}" alt="Listing image for THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Crater Lake Monster (1977) Movie Poster"><img src="{{ '/assets/images/marketplace-covers/eb0c745be8b4806a5e99.jpg' | relative_url }}" alt="Listing image for The Crater Lake Monster (1977) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">The Crater Lake Monster (1977) Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+That is why Sanderson sits so near the centre of cryptozoology’s history. He gave popular monster hunting much of its modern voice: adventurous, literate, zoological, media-friendly and impatient with dismissal. At the same time, his career shows why cryptozoology remains disputed. The search for unknown animals can begin in curiosity, but it only becomes zoology when the evidence can survive without the atmosphere of the chase.<img src="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-dark.svg" | relative_url }}" alt="Sanderson illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_ivan_sanderson_17ff64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How Monster Hunting Became Popular Media. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Snowmen, Legend Come to Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MVZSSkqDCU4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Snowmen, Legend Come to Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen, Legend Come to Life">Abominable Snowmen, Legend Come to Life</a></h4><p class="fr-book-author">By Ivan T. Sanderson</p><p class="fr-book-desc">Directly tied to the subject of the page.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+by+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OYudQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On the Track of Unknown Animals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a></h4><p class="fr-book-author">By Bernard Heuvelmans</p><p class="fr-book-desc">Shows Sanderson&#x27;s intellectual milieu.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+by+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a></h4><p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p><p class="fr-book-desc">Covers subjects Sanderson popularized.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Animal Treasure on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Animal Treasure">Animal Treasure</a></h4><p class="fr-book-author">By Ivan Terence Sanderson</p><p class="fr-book-desc">Reflects his blend of zoology and entertainment.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Animal+Treasure+by+Ivan+Terence+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen, Legend Come to Life</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad"><img src="{{'/assets/images/marketplace-covers/c5faf53d773c1ed5a5c9.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 02 Movie Poster Art Print Screening Fan Matte Art Stylish Ad</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster"><img src="{{'/assets/images/marketplace-covers/40d38f45842752b75878.jpg' | relative_url }}" alt="Listing image for Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">Crater Lake Monster 01 Movie Poster Art Print Timeless Iconic Format Art Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977"><img src="{{'/assets/images/marketplace-covers/22d0bdc0d5e952c8a8b5.jpg' | relative_url }}" alt="Listing image for THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">THE CRATER LAKE MONSTER FOLDED US ONE SHEET POSTER RICHARD CARDELLA 1977</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Crater Lake Monster (1977) Movie Poster"><img src="{{'/assets/images/marketplace-covers/eb0c745be8b4806a5e99.jpg' | relative_url }}" alt="Listing image for The Crater Lake Monster (1977) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">The Crater Lake Monster (1977) Movie Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lake monster poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: lake monster poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lake+monster+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lake monster poster" data-ebay-reference="sanderson-how-monster-hunting-became-popular-media-cryptozoology-lake-monster-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,24 +546,24 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -781,7 +574,7 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -789,45 +582,43 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -843,10 +634,10 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -866,11 +657,11 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -879,16 +670,16 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -902,9 +693,9 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -923,166 +714,162 @@ That is why Sanderson sits so near the centre of cryptozoology’s history. He g
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
    Title: sanderson ivan terence 1911 1973  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence-1911-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence-1911-1973</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sanderson-ivan-terence</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC</a>  
+   Link:<a href="https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abominable_Snowmen.html?id=lCse5NMfMMAC</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: as.amphilsoc.org  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/1789</a>  
+   Link:<a href="https://as.amphilsoc.org/repositories/2/resources/1789" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/1789</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: amphilsoc.org  
    Title: American Philosophical Society New to the Digital Library: Ivan Sanderson papers  
-   Link: <a href="https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers</a>  
+   Link:<a href="https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.amphilsoc.org/blog/new-digital-library-ivan-sanderson-papers</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Giant penguin hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Giant_penguin_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giant_penguin_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Giant_penguin_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giant_penguin_hoax</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ivan T. Sanderson  
-   Link: <a href="https://en.wikipedia.org/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ivan_T._Sanderson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ivan_T._Sanderson</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/in.ernet.dli.2015.221079" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/in.ernet.dli.2015.221079</a>  
+   Link:<a href="https://archive.org/details/in.ernet.dli.2015.221079" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/in.ernet.dli.2015.221079</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: situ no 1 5 combined  
-   Link: <a href="https://archive.org/details/situ-no-1-5-combined" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/situ-no-1-5-combined</a>  
+   Link:<a href="https://archive.org/details/situ-no-1-5-combined" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/situ-no-1-5-combined</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: as.amphilsoc.org  
-   Link: <a href="https://as.amphilsoc.org/repositories/resources?field%5B%5D=title&amp;filter_fields%5B%5D=subjects&amp;filter_values%5B%5D=Cryptozoology&amp;from_year%5B%5D=&amp;limit=resource&amp;op%5B%5D=&amp;q%5B%5D=%2A&amp;sort=title_sort+asc&amp;to_year%5B%5D=" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/resources?field%5B%5D=title&amp;filter_fields%5B%5D=subjects&amp;filter_values%5B%5D=Cryptozoology&amp;from_year%5B%5D=&amp;limit=resource&amp;op%5B%5D=&amp;q%5B%5D=%2A&amp;sort=title_sort+asc&amp;to_year%5B%5D=</a>  
+   Link:<a href="https://as.amphilsoc.org/repositories/resources?field%5B%5D=title&amp;filter_fields%5B%5D=subjects&amp;filter_values%5B%5D=Cryptozoology&amp;from_year%5B%5D=&amp;limit=resource&amp;op%5B%5D=&amp;q%5B%5D=%2A&amp;sort=title_sort+asc&amp;to_year%5B%5D=" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/resources?field%5B%5D=title&amp;filter_fields%5B%5D=subjects&amp;filter_values%5B%5D=Cryptozoology&amp;from_year%5B%5D=&amp;limit=resource&amp;op%5B%5D=&amp;q%5B%5D=%2A&amp;sort=title_sort+asc&amp;to_year%5B%5D=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: as.amphilsoc.org  
    Title: top containers  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/top_containers/40866" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/top_containers/40866</a>  
+   Link:<a href="https://as.amphilsoc.org/repositories/2/top_containers/40866" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/top_containers/40866</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: encyclopedia.com  
    Title: coleman loren 1947  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coleman-loren-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coleman-loren-1947</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coleman-loren-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coleman-loren-1947</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: books.google.com  
    Title: Abominable Snowmen Legend Come to Life  
-   Link: <a href="https://books.google.com/books/about/Abominable_Snowmen_Legend_Come_to_Life.html?id=MVZSSkqDCU4C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abominable_Snowmen_Legend_Come_to_Life.html?id=MVZSSkqDCU4C</a>  
+   Link:<a href="https://books.google.com/books/about/Abominable_Snowmen_Legend_Come_to_Life.html?id=MVZSSkqDCU4C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abominable_Snowmen_Legend_Come_to_Life.html?id=MVZSSkqDCU4C</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/lcr/abs/abs05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/lcr/abs/abs05.htm</a>  
+   Link:<a href="https://sacred-texts.com/lcr/abs/abs05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/lcr/abs/abs05.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.136.3512.252.a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.136.3512.252.a</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.136.3512.252.a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.136.3512.252.a</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bahaistudies.net  
    Title: abominable snowmen  
-   Link: <a href="https://www.bahaistudies.net/asma/abominable_snowmen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/abominable_snowmen.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/abominable_snowmen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/abominable_snowmen.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cryptidarchives.fandom.com  
    Title: Society for the Investigation of the Unexplained  
-   Link: <a href="https://cryptidarchives.fandom.com/wiki/Society_for_the_Investigation_of_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Society_for_the_Investigation_of_the_Unexplained</a>  
+   Link:<a href="https://cryptidarchives.fandom.com/wiki/Society_for_the_Investigation_of_the_Unexplained" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Society_for_the_Investigation_of_the_Unexplained</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cryptidarchives.fandom.com  
    Title: Ivan T. Sanderson  
-   Link: <a href="https://cryptidarchives.fandom.com/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Ivan_T._Sanderson</a>  
+   Link:<a href="https://cryptidarchives.fandom.com/wiki/Ivan_T._Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Ivan_T._Sanderson</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cryptidarchives.fandom.com  
    Title: Abominable Snowmen: Legend Come to Life  
-   Link: <a href="https://cryptidarchives.fandom.com/wiki/Abominable_Snowmen%3A_Legend_Come_to_Life" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Abominable_Snowmen%3A_Legend_Come_to_Life</a>  
+   Link:<a href="https://cryptidarchives.fandom.com/wiki/Abominable_Snowmen%3A_Legend_Come_to_Life" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Abominable_Snowmen%3A_Legend_Come_to_Life</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/lcr/abs/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/lcr/abs/index.htm</a>  
+   Link:<a href="https://sacred-texts.com/lcr/abs/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/lcr/abs/index.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: goodreads.com  
    Title: Abominable Snowmen  
-   Link: <a href="https://www.goodreads.com/book/show/7550279" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/7550279</a>  
+   Link:<a href="https://www.goodreads.com/book/show/7550279" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/7550279</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ripjaggerdojo.blogspot.com  
    Title: Abominable Snowmen  
-   Link: <a href="https://ripjaggerdojo.blogspot.com/2024/03/abominable-snowmen-legend-come-to-life.html" target="_blank" rel="noopener noreferrer nofollow">https://ripjaggerdojo.blogspot.com/2024/03/abominable-snowmen-legend-come-to-life.html</a>  
+   Link:<a href="https://ripjaggerdojo.blogspot.com/2024/03/abominable-snowmen-legend-come-to-life.html" target="_blank" rel="noopener noreferrer nofollow">https://ripjaggerdojo.blogspot.com/2024/03/abominable-snowmen-legend-come-to-life.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: diginsider.com  
-   Link: <a href="https://diginsider.com/tag/ivan-t-sanderson/" target="_blank" rel="noopener noreferrer nofollow">https://diginsider.com/tag/ivan-t-sanderson/</a>  
+   Link:<a href="https://diginsider.com/tag/ivan-t-sanderson/" target="_blank" rel="noopener noreferrer nofollow">https://diginsider.com/tag/ivan-t-sanderson/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.136.3512.251.b" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.136.3512.251.b</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.136.3512.251.b" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.136.3512.251.b</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/pdf/10.1126/science.136.3512.252.b?download=true" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/pdf/10.1126/science.136.3512.252.b?download=true</a>  
+   Link:<a href="https://www.science.org/doi/pdf/10.1126/science.136.3512.252.b?download=true" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/pdf/10.1126/science.136.3512.252.b?download=true</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ampersandbooks.org  
-   Link: <a href="https://ampersandbooks.org/book/9781602068858" target="_blank" rel="noopener noreferrer nofollow">https://ampersandbooks.org/book/9781602068858</a>  
+   Link:<a href="https://ampersandbooks.org/book/9781602068858" target="_blank" rel="noopener noreferrer nofollow">https://ampersandbooks.org/book/9781602068858</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6tRUvtyAMOg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Monster Files | Season 1 Episode 6 Preview | Cave Dragon Of Arkansas [HD] [2024]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6tRUvtyAMOg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Monster Files | Season 1 Episode 6 Preview | Cave Dragon Of Arkansas [HD] [2024]...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3r6L-SGP0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Flatwoods monster&quot; witnessed after 1952 UFO landing discussed by Ivan Sanderson &amp; Stanton Friedman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E3r6L-SGP0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3r6L-SGP0E</a><details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Flatwoods monster&quot; witnessed after 1952 UFO landing discussed by Ivan Sanderson &amp; Stanton Friedman...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330848500_Cold_War_Creatures_Soviet_Science_and_the_Problem_of_the_Abominable_Snowman" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330848500_Cold_War_Creatures_Soviet_Science_and_the_Problem_of_the_Abominable_Snowman</a>  
+   Link:<a href="https://www.researchgate.net/publication/330848500_Cold_War_Creatures_Soviet_Science_and_the_Problem_of_the_Abominable_Snowman" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330848500_Cold_War_Creatures_Soviet_Science_and_the_Problem_of_the_Abominable_Snowman</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/a-mystery-involving-a-15-foot-penguin-on-floridas-beaches-was-finally-solved-in-/1478641887050009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/a-mystery-involving-a-15-foot-penguin-on-floridas-beaches-was-finally-solved-in-/1478641887050009/</a>  
+   Link:<a href="https://www.facebook.com/ScienceNaturePage/posts/a-mystery-involving-a-15-foot-penguin-on-floridas-beaches-was-finally-solved-in-/1478641887050009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/a-mystery-involving-a-15-foot-penguin-on-floridas-beaches-was-finally-solved-in-/1478641887050009/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/808803630/ABOMINABLE-SNOWMEN-Legend-Come-To-Life-Ivan-Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/808803630/ABOMINABLE-SNOWMEN-Legend-Come-To-Life-Ivan-Sanderson</a>  
+   Link:<a href="https://www.scribd.com/document/808803630/ABOMINABLE-SNOWMEN-Legend-Come-To-Life-Ivan-Sanderson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/808803630/ABOMINABLE-SNOWMEN-Legend-Come-To-Life-Ivan-Sanderson</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie</a>  
+   Link:<a href="https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/abominable-science-origins-of-the-yeti-[nessie</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: audible.com  
-   Link: <a href="https://www.audible.com/pd/Abominable-Snowmen-Legend-Come-to-Life-Audiobook/B07B1LHCXQ?srsltid=AfmBOorCoXn_nNvdFhy28REjNj7kastrd0JYu65yG_EY-xjuRcOMs1P7" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Abominable-Snowmen-Legend-Come-to-Life-Audiobook/B07B1LHCXQ?srsltid=AfmBOorCoXn_nNvdFhy28REjNj7kastrd0JYu65yG_EY-xjuRcOMs1P7</a>  
+   Link:<a href="https://www.audible.com/pd/Abominable-Snowmen-Legend-Come-to-Life-Audiobook/B07B1LHCXQ?srsltid=AfmBOorCoXn_nNvdFhy28REjNj7kastrd0JYu65yG_EY-xjuRcOMs1P7" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Abominable-Snowmen-Legend-Come-to-Life-Audiobook/B07B1LHCXQ?srsltid=AfmBOorCoXn_nNvdFhy28REjNj7kastrd0JYu65yG_EY-xjuRcOMs1P7</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: vintagebooksmd.com  
-   Link: <a href="https://www.vintagebooksmd.com/pages/books/13046/ivan-sanderson/abominable-snowmen-legend-come-to-life-the-story-of-sub-humans-on-five-continents-from-the-early-ice?soldItem=true" target="_blank" rel="noopener noreferrer nofollow">https://www.vintagebooksmd.com/pages/books/13046/ivan-sanderson/abominable-snowmen-legend-come-to-life-the-story-of-sub-humans-on-five-continents-from-the-early-ice?soldItem=true</a>  
+   Link:<a href="https://www.vintagebooksmd.com/pages/books/13046/ivan-sanderson/abominable-snowmen-legend-come-to-life-the-story-of-sub-humans-on-five-continents-from-the-early-ice?soldItem=true" target="_blank" rel="noopener noreferrer nofollow">https://www.vintagebooksmd.com/pages/books/13046/ivan-sanderson/abominable-snowmen-legend-come-to-life-the-story-of-sub-humans-on-five-continents-from-the-early-ice?soldItem=true</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/first-edition/Abominable-Snowmen-Legend-Life-Story-Sub-Humans/32197052275/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/first-edition/Abominable-Snowmen-Legend-Life-Story-Sub-Humans/32197052275/bd</a>  
+   Link:<a href="https://www.abebooks.com/first-edition/Abominable-Snowmen-Legend-Life-Story-Sub-Humans/32197052275/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/first-edition/Abominable-Snowmen-Legend-Life-Story-Sub-Humans/32197052275/bd</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ebay.com  
-   Link: <a href="https://www.ebay.com/itm/318096089355?hash=item4a1001210b%3Ag%3Ak8YAAeSwJQppzpzl&amp;itmmeta=01KN89HHBK4TE2AP4XEBACR490&amp;itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lupijxu%2F%2B9sR1XIxv%2FexQLeEhkXSzKkosBydtwwdLpSRVfCar64g391cU%2F3hzJtoXIYxSxGZHxkgAylEYy5ZMZe2RbpvRF50qyD0PiD9lynCWPLoTbMTxEIjmQZgU2P7rnNg16%2FJHrGvTB%2BWV%2BpXFlJgXBKrdm1v%2FmHu%2FhB1QBtf40dl48o5Gva%2FYT%2BXmCt%2F%2BHBrtgwXkGetXB3o%2BGFg%2Fy23jq6oPrdGwp%2FxOOHhec1hMMygN93DyaQ6Te%2FnN9p3RLuuZpDGMUzpBzzdgE1Q0EPx%7Ctkp%3ABk9SR_aVxomqZw&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/318096089355?hash=item4a1001210b%3Ag%3Ak8YAAeSwJQppzpzl&amp;itmmeta=01KN89HHBK4TE2AP4XEBACR490&amp;itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lupijxu%2F%2B9sR1XIxv%2FexQLeEhkXSzKkosBydtwwdLpSRVfCar64g391cU%2F3hzJtoXIYxSxGZHxkgAylEYy5ZMZe2RbpvRF50qyD0PiD9lynCWPLoTbMTxEIjmQZgU2P7rnNg16%2FJHrGvTB%2BWV%2BpXFlJgXBKrdm1v%2FmHu%2FhB1QBtf40dl48o5Gva%2FYT%2BXmCt%2F%2BHBrtgwXkGetXB3o%2BGFg%2Fy23jq6oPrdGwp%2FxOOHhec1hMMygN93DyaQ6Te%2FnN9p3RLuuZpDGMUzpBzzdgE1Q0EPx%7Ctkp%3ABk9SR_aVxomqZw&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+   Link:<a href="https://www.ebay.com/itm/318096089355?hash=item4a1001210b%3Ag%3Ak8YAAeSwJQppzpzl&amp;itmmeta=01KN89HHBK4TE2AP4XEBACR490&amp;itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lupijxu%2F%2B9sR1XIxv%2FexQLeEhkXSzKkosBydtwwdLpSRVfCar64g391cU%2F3hzJtoXIYxSxGZHxkgAylEYy5ZMZe2RbpvRF50qyD0PiD9lynCWPLoTbMTxEIjmQZgU2P7rnNg16%2FJHrGvTB%2BWV%2BpXFlJgXBKrdm1v%2FmHu%2FhB1QBtf40dl48o5Gva%2FYT%2BXmCt%2F%2BHBrtgwXkGetXB3o%2BGFg%2Fy23jq6oPrdGwp%2FxOOHhec1hMMygN93DyaQ6Te%2FnN9p3RLuuZpDGMUzpBzzdgE1Q0EPx%7Ctkp%3ABk9SR_aVxomqZw&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/318096089355?hash=item4a1001210b%3Ag%3Ak8YAAeSwJQppzpzl&amp;itmmeta=01KN89HHBK4TE2AP4XEBACR490&amp;itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lupijxu%2F%2B9sR1XIxv%2FexQLeEhkXSzKkosBydtwwdLpSRVfCar64g391cU%2F3hzJtoXIYxSxGZHxkgAylEYy5ZMZe2RbpvRF50qyD0PiD9lynCWPLoTbMTxEIjmQZgU2P7rnNg16%2FJHrGvTB%2BWV%2BpXFlJgXBKrdm1v%2FmHu%2FhB1QBtf40dl48o5Gva%2FYT%2BXmCt%2F%2BHBrtgwXkGetXB3o%2BGFg%2Fy23jq6oPrdGwp%2FxOOHhec1hMMygN93DyaQ6Te%2FnN9p3RLuuZpDGMUzpBzzdgE1Q0EPx%7Ctkp%3ABk9SR_aVxomqZw&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  

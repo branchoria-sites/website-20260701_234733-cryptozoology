@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:51'
+date:'2026-07-01 12:55:51'
 parent_title: Why the Okapi Became Real Science
 parent_permalink: /okapi/
 parent_nav_short_title: Okapi
@@ -280,18 +280,12 @@ image: /assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi
 
 ## Introduction
 
-The [okapi]({{ 'okapi/' | relative_url }}) is frequently invoked in [cryptozoology]({{ 'cryptozoology/' | relative_url }}) as proof that large animals can remain unknown to science. Yet the crucial lesson of the okapi is not that reports existed; it is that reports were eventually backed by physical specimens. Harry Johnston’s role in obtaining strips of skin, a complete hide, and skulls illustrates the evidence threshold that transformed a rumoured forest animal into a recognised species. The transition from testimony to examinable remains is what made the okapi scientifically persuasive. For cryptozoology, this episode is less a celebration of rumours than a demonstration of the kind of evidence required before an extraordinary zoological claim becomes accepted fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[Royal Museum for Central Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-dark.svg" | relative_url }}" alt="Specimens illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The [okapi]({{'okapi/' | relative_url }}) is frequently invoked in [cryptozoology]({{'cryptozoology/' | relative_url }}) as proof that large animals can remain unknown to science. Yet the crucial lesson of the okapi is not that reports existed; it is that reports were eventually backed by physical specimens. Harry Johnston’s role in obtaining strips of skin, a complete hide, and skulls illustrates the evidence threshold that transformed a rumoured forest animal into a recognised species. The transition from testimony to examinable remains is what made the okapi scientifically persuasive. For cryptozoology, this episode is less a celebration of rumours than a demonstration of the kind of evidence required before an extraordinary zoological claim becomes accepted fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[Royal Museum for Central Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-dark.svg" | relative_url }}" alt="Specimens illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Rumours to Collected Remains
 
-Before specimens reached European zoologists, stories of a strange forest animal circulated among travellers, administrators, and local communities in the Congo region. These accounts were intriguing but insufficient for scientific classification. Johnston himself never initially relied on reports alone; he actively sought physical traces that could be examined and compared with known animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
+Before specimens reached European zoologists, stories of a strange forest animal circulated among travellers, administrators, and local communities in the Congo region. These accounts were intriguing but insufficient for scientific classification. Johnston himself never initially relied on reports alone; he actively sought physical traces that could be examined and compared with known animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
 
-The first material evidence Johnston obtained was remarkably limited: two narrow strips of striped hide. These pieces were important because they provided tangible [proof]({{ 'proof/' | relative_url }}) that an unusual large mammal existed. However, they also demonstrated the dangers of incomplete evidence. The striped skin suggested a zebra-like animal, leading zoologist Philip Lutley Sclater in 1901 to describe the creature as *Equus johnstoni*, effectively treating it as a horse relative. The hides showed that something real existed, but they did not yet reveal what it actually was. Royal Museum for Central Africa+2Wikimedia Commons <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
-
-The decisive change came when Johnston acquired a complete skin and two skulls from the Semliki–Watalinga region. These specimens provided anatomical information that isolated skin fragments could not. The skulls, in particular, allowed direct comparison with museum collections and known mammalian groups. Once specialists could inspect these remains, the apparent zebra ceased to look like a zebra at all. Royal Museum for Central Africa+2IUCN Portals <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
-
+The first material evidence Johnston obtained was remarkably limited: two narrow strips of striped hide. These pieces were important because they provided tangible [proof]({{'proof/' | relative_url }}) that an unusual large mammal existed. However, they also demonstrated the dangers of incomplete evidence. The striped skin suggested a zebra-like animal, leading zoologist Philip Lutley Sclater in 1901 to describe the creature as *Equus johnstoni*, effectively treating it as a horse relative. The hides showed that something real existed, but they did not yet reveal what it actually was. Royal Museum for Central Africa+2Wikimedia Commons<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3XLjztKDOrA" title="Discovery of a Cryptid, OKAPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3XLjztKDOrA" target="_blank" rel="noopener noreferrer">Discovery of a Cryptid, OKAPI</a></p><p class="youtube-embed-meta">Channel: Anthöny Pain</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3XLjztKDOrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3XLjztKDOrA">Open on YouTube</a></p></div></div></div>
 
@@ -299,254 +293,56 @@ The decisive change came when Johnston acquired a complete skin and two skulls f
 
 Scientific acceptance depends on evidence that can be independently examined. The complete skin and skulls met that requirement in a way that eyewitness reports never could.
 
-Several features made the specimens transformative:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Several features made the specimens transformative:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Repeatability:** Museum specialists could study the same material rather than relying on second-hand descriptions.
 * **Comparative anatomy:** The skulls could be compared directly with known mammals.
 * **Correction of earlier errors:** Initial assumptions based on stripes could be tested against the animal’s full anatomy.
-* **Permanent reference material:** The specimens became preserved evidence available to future researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This is the skin figured and described in my...</span></span></span>
+* **Permanent reference material:** The specimens became preserved evidence available to future researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This is the skin figured and described in my...</span></span></span></div>
 
-</div>
+The skulls were especially important because they revealed relationships hidden by the animal’s external appearance. The okapi’s striped legs had encouraged comparisons with zebras, but cranial features indicated affinity with giraffids. Examination of the complete remains led zoologists away from the horse family and toward recognition of a previously unknown giraffe relative. The result was the establishment of the genus *Okapia* and the species name *Okapia johnstoni*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jzoblog.wordpress.com">[Journal of Zoology Blog+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jzoblog.wordpress.com</span><span class="citation-popover-title">Journal of Zoology Blog Hidden Gem</span><span class="citation-popover-snippet">Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</span><span class="citation-popover-meta">Published: July 18, 2013</span></span></span>
 
-The skulls were especially important because they revealed relationships hidden by the animal’s external appearance. The okapi’s striped legs had encouraged comparisons with zebras, but cranial features indicated affinity with giraffids. Examination of the complete remains led zoologists away from the horse family and toward recognition of a previously unknown giraffe relative. The result was the establishment of the genus *Okapia* and the species name *Okapia johnstoni*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jzoblog.wordpress.com">[Journal of Zoology Blog+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jzoblog.wordpress.com</span><span class="citation-popover-title">Journal of Zoology Blog Hidden Gem</span><span class="citation-popover-snippet">Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</span><span class="citation-popover-meta">Published: July 18, 2013</span></span></span>
-
-This episode demonstrates that evidence is not merely about quantity. A hundred stories describing a horse-like forest creature could not accomplish what a single diagnostic skull could. The quality of evidence mattered more than the number of reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jzoblog.wordpress.com">[Journal of Zoology Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jzoblog.wordpress.com</span><span class="citation-popover-title">Journal of Zoology Blog Hidden Gem</span><span class="citation-popover-snippet">Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</span><span class="citation-popover-meta">Published: July 18, 2013</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-dark.svg" | relative_url }}" alt="Specimens illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This episode demonstrates that evidence is not merely about quantity. A hundred stories describing a horse-like forest creature could not accomplish what a single diagnostic skull could. The quality of evidence mattered more than the number of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jzoblog.wordpress.com">[Journal of Zoology Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jzoblog.wordpress.com</span><span class="citation-popover-title">Journal of Zoology Blog Hidden Gem</span><span class="citation-popover-snippet">Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</span><span class="citation-popover-meta">Published: July 18, 2013</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-dark.svg" | relative_url }}" alt="Specimens illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Specimens as Scientific Objects
 
-Another often-overlooked aspect of the okapi story is that the specimens entered institutional networks. They were shipped, preserved, displayed, illustrated, and discussed by zoologists. Johnston’s complete skin became a reference specimen used in early reconstructions of the animal, while the skulls informed taxonomic decisions. Because the material existed independently of any witness, later researchers could revisit the evidence and reassess earlier conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
-
-This ability to re-examine evidence is a defining feature of zoological confirmation. The okapi was accepted not because authorities trusted Johnston personally, but because the remains could be inspected by others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This is the skin figured and described in my...</span></span></span>
-
+Another often-overlooked aspect of the okapi story is that the specimens entered institutional networks. They were shipped, preserved, displayed, illustrated, and discussed by zoologists. Johnston’s complete skin became a reference specimen used in early reconstructions of the animal, while the skulls informed taxonomic decisions. Because the material existed independently of any witness, later researchers could revisit the evidence and reassess earlier conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</span><span class="citation-popover-meta">Published: April 12, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXbDHhmoAHM" title="Sir Henry Hamilton Johnston and his search for Africa&#x27;s Unicorn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXbDHhmoAHM" target="_blank" rel="noopener noreferrer">Sir Henry Hamilton Johnston and his search for Africa&#x27;s Unicorn</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXbDHhmoAHM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXbDHhmoAHM">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qb4zumgj_ZY" title="The Cryptid That Turned Out To Be Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qb4zumgj_ZY" target="_blank" rel="noopener noreferrer">The Cryptid That Turned Out To Be Real</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qb4zumgj_ZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qb4zumgj_ZY">Open on YouTube</a></p></div></div></div>
 
 ## How the Okapi Sets a Standard for Cryptids
 
 The okapi occupies a special place in cryptozoological discussions because it represents a genuine case of a large animal entering scientific knowledge relatively late. However, the pathway to acceptance is often misunderstood.
 
-The okapi was not validated when reports accumulated. It was validated when physical remains crossed a threshold that allowed independent verification. Even then, the first interpretation was partly wrong: the animal was initially classified as zebra-like before better specimens corrected the mistake. The case therefore shows both the power of specimens and the fallibility of interpretation when evidence is incomplete. Royal Museum for Central Africa+2IUCN Portals <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
+The okapi was not validated when reports accumulated. It was validated when physical remains crossed a threshold that allowed independent verification. Even then, the first interpretation was partly wrong: the animal was initially classified as zebra-like before better specimens corrected the mistake. The case therefore shows both the power of specimens and the fallibility of interpretation when evidence is incomplete. Royal Museum for Central Africa+2IUCN Portals<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
 
-For modern cryptid claims, the lesson is straightforward. Anecdotes, [footprints]({{ 'footprints/' | relative_url }}), sketches, and local traditions may indicate that a claim deserves investigation, just as reports of the okapi encouraged further searching. Yet the okapi became zoological fact only after researchers could examine material evidence that carried anatomical information. The threshold was not curiosity but verifiability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 2</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</span><span class="citation-popover-meta">Published: April 28, 2023</span></span></span>
+For modern cryptid claims, the lesson is straightforward. Anecdotes, [footprints]({{'footprints/' | relative_url }}), sketches, and local traditions may indicate that a claim deserves investigation, just as reports of the okapi encouraged further searching. Yet the okapi became zoological fact only after researchers could examine material evidence that carried anatomical information. The threshold was not curiosity but verifiability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 2</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</span><span class="citation-popover-meta">Published: April 28, 2023</span></span></span>
 
-This is why the okapi serves as both an inspiration and a caution within cryptozoology. It demonstrates that unknown animals can exist, but it also demonstrates the standard required for acceptance. Johnston’s skins and skulls did not merely support the claim; they transformed it from a story about an unusual forest animal into a testable biological reality. Royal Museum for Central Africa+2Taylor &amp; Francis Online <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-dark.svg" | relative_url }}" alt="Specimens illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Okapi Reports Needed Skins and Skulls. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Emphasizes specimen-based evidence and scientific verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdon Field Guide to African Mammals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gcrBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kingdon Field Guide to African Mammals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdon Field Guide to African Mammals">The Kingdon Field Guide to African Mammals</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Kingdon</p>
-        
-        <p class="fr-book-desc">Provides reliable information on the okapi and its identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Fish Caught in Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UDHAaqOk7jwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Fish Caught in Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Fish Caught in Time">A Fish Caught in Time</a>
-        </h4>
-        <p class="fr-book-author">By Samantha Weinberg</p>
-        
-        <p class="fr-book-desc">Offers a parallel example where specimens settled scientific debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beasts That Hide from Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QNFR4xHHIegC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beasts That Hide from Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beasts That Hide from Man">The Beasts That Hide from Man</a>
-        </h4>
-        <p class="fr-book-author">By Karl Shuker</p>
-        
-        <p class="fr-book-desc">Explores the transition from reports to tangible evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kingdon+Field+to+African+Mammals+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kingdon Field to African Mammals books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Fish Caught in Time</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gorgeous okapi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/124b9e462b225ca2359e.jpg' | relative_url }}" alt="Listing image for Gorgeous okapi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Gorgeous okapi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/957388ca2957feab68fd.jpg' | relative_url }}" alt="Listing image for Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e8dd4f2ae77e79a794de.jpg' | relative_url }}" alt="Listing image for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11e0a961ca2bfba3061a.jpg' | relative_url }}" alt="Listing image for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+This is why the okapi serves as both an inspiration and a caution within cryptozoology. It demonstrates that unknown animals can exist, but it also demonstrates the standard required for acceptance. Johnston’s skins and skulls did not merely support the claim; they transformed it from a story about an unusual forest animal into a testable biological reality. Royal Museum for Central Africa+2Taylor &amp; Francis Online<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-dark.svg" | relative_url }}" alt="Specimens illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Okapi Reports Needed Skins and Skulls. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Emphasizes specimen-based evidence and scientific verification.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdon Field Guide to African Mammals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gcrBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kingdon Field Guide to African Mammals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdon Field Guide to African Mammals">The Kingdon Field Guide to African Mammals</a></h4><p class="fr-book-author">By Jonathan Kingdon</p><p class="fr-book-desc">Provides reliable information on the okapi and its identification.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Fish Caught in Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UDHAaqOk7jwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Fish Caught in Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Fish Caught in Time">A Fish Caught in Time</a></h4><p class="fr-book-author">By Samantha Weinberg</p><p class="fr-book-desc">Offers a parallel example where specimens settled scientific debate.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time+by+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beasts That Hide from Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QNFR4xHHIegC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beasts That Hide from Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beasts That Hide from Man">The Beasts That Hide from Man</a></h4><p class="fr-book-author">By Karl Shuker</p><p class="fr-book-desc">Explores the transition from reports to tangible evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+by+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kingdon+Field+to+African+Mammals+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kingdon Field to African Mammals books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Fish+Caught+in+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Fish Caught in Time</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gorgeous okapi Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/124b9e462b225ca2359e.jpg' | relative_url }}" alt="Listing image for Gorgeous okapi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Gorgeous okapi Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/957388ca2957feab68fd.jpg' | relative_url }}" alt="Listing image for Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi 1 Folk Style Animal Illustrat Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/e8dd4f2ae77e79a794de.jpg' | relative_url }}" alt="Listing image for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/11e0a961ca2bfba3061a.jpg' | relative_url }}" alt="Listing image for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="specimens-why-okapi-reports-needed-skins-and-skulls-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,24 +356,24 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -588,7 +384,7 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -596,45 +392,43 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -650,10 +444,10 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -673,11 +467,11 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -686,16 +480,16 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,9 +503,9 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -730,122 +524,100 @@ This is why the okapi serves as both an inspiration and a caution within cryptoz
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: portals.iucn.org  
    Title: Realising this was in fact a relative  
-   Link: <a href="https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN PortalsOkapi (Okapia johnstoni)by NF Kümpel · 2015 · Cited by 17 — Some months later, Johnston received an entire skin and two skull...</p></details>
+   Link:<a href="https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN PortalsOkapi (Okapia johnstoni)by NF Kümpel · 2015 · Cited by 17 — Some months later, Johnston received an entire skin and two skull...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: File:Pieces from Okapi leather, obtained by Sir Harry Johnston (crop).jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3APieces_from_Okapi_leather%2C_obtained_by_Sir_Harry_Johnston_%28crop%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3APieces_from_Okapi_leather%2C_obtained_by_Sir_Harry_Johnston_%28crop%29.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>skin of an Okapi, which, when sent home by Sir Harry Johnston, were at first thought to have been cut fron the skin of a new kind of zebra...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3APieces_from_Okapi_leather%2C_obtained_by_Sir_Harry_Johnston_%28crop%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3APieces_from_Okapi_leather%2C_obtained_by_Sir_Harry_Johnston_%28crop%29.jpg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>skin of an Okapi, which, when sent home by Sir Harry Johnston, were at first thought to have been cut fron the skin of a new kind of zebra...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: africamuseum.be  
    Title: Royal Museum for Central Africa Okapis | Royal Museum for Central Africa  
-   Link: <a href="https://www.africamuseum.be/en/learn/[provenance" target="_blank" rel="noopener noreferrer nofollow">https://www.africamuseum.be/en/learn/[provenance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museum for Central AfricaOkapis | Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</p></details>
+   Link:<a href="https://www.africamuseum.be/en/learn/[provenance" target="_blank" rel="noopener noreferrer nofollow">https://www.africamuseum.be/en/learn/[provenance</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museum for Central AfricaOkapis | Royal Museum for Central Africa - Tervuren10 Mar 2022 — In the same year, Johnston managed to obt...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tetzoo.com  
    Title: the discovery of the okapi part 1  
-   Link: <a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 1April 12, 2023 — 12 Apr 2023 — Caption: taxiderm mount of the complete Okapi skin obtai...</p></details>
    Published: April 12, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OkapiIllustration from an original painting by Sir Harry Johnston, based on preserved skins (1901)... Johnston, who first acquired an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a><details class="endnote-snippet"><summary>Source snippet</summary><p>OkapiIllustration from an original painting by Sir Harry Johnston, based on preserved skins (1901)... Johnston, who first acquired an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the skin figured and described in my...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/pdf/10.1080/00222930208678695</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This is the skin figured and described in my...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jzoblog.wordpress.com  
    Title: Journal of Zoology Blog Hidden Gem  
-   Link: <a href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow">https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</p></details>
+   Link:<a href="https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/" target="_blank" rel="noopener noreferrer nofollow">https://jzoblog.wordpress.com/2013/07/18/hidden-gem-3/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Zoology BlogHidden Gem - Journal of Zoology Blog - WordPress.comJuly 18, 2013 — 18 Jul 2013 — However, it was not until Johnst...</p></details>
    Published: July 18, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tetzoo.com  
    Title: the discovery of the okapi part 2  
-   Link: <a href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</p></details>
    Published: April 28, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gbif.org  
-   Link: <a href="https://www.gbif.org/zh-tw/species/113392070" target="_blank" rel="noopener noreferrer nofollow">https://www.gbif.org/zh-tw/species/113392070</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Okapia johnstoni (P.L.Sclater, 1901)Illustration from an original painting by Sir Harry Johnston, based on preserved skins (1901) Though...</p></details>
+   Link:<a href="https://www.gbif.org/zh-tw/species/113392070" target="_blank" rel="noopener noreferrer nofollow">https://www.gbif.org/zh-tw/species/113392070</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Okapia johnstoni (P.L.Sclater, 1901)Illustration from an original painting by Sir Harry Johnston, based on preserved skins (1901) Though...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: creation.com  
-   Link: <a href="https://creation.com/en/articles/okapi" target="_blank" rel="noopener noreferrer nofollow">https://creation.com/en/articles/okapi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive Okapi, &#x27;[living fossil](&amp;#123;&amp;#123; &#x27;living-fossil/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; of the Congo30 Jan 2023 — He duly sent to Johnston in Uganda a complete okapi skin, two skulls, and so...</p></details>
+   Link:<a href="https://creation.com/en/articles/okapi" target="_blank" rel="noopener noreferrer nofollow">https://creation.com/en/articles/okapi</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive Okapi, &#x27;[living fossil](&amp;#123;&amp;#123; &#x27;living-fossil/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; of the Congo30 Jan 2023 — He duly sent to Johnston in Uganda a complete okapi skin, two skulls, and so...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/witspress/posts/discovering-the-okapi-by-simon-pooley-offers-a-riveting-portrait-of-the-okapi-an/1686486205754140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/witspress/posts/discovering-the-okapi-by-simon-pooley-offers-a-riveting-portrait-of-the-okapi-an/1686486205754140/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Discovering the Okapi&#x27; by Simon Pooley offers a riveting...It wasn&#x27;t until 1901 that British governor Sir Harry Johnston obtained skins...</p></details>
+   Link:<a href="https://www.facebook.com/witspress/posts/discovering-the-okapi-by-simon-pooley-offers-a-riveting-portrait-of-the-okapi-an/1686486205754140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/witspress/posts/discovering-the-okapi-by-simon-pooley-offers-a-riveting-portrait-of-the-okapi-an/1686486205754140/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Discovering the Okapi&#x27; by Simon Pooley offers a riveting...It wasn&#x27;t until 1901 that British governor Sir Harry Johnston obtained skins...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in 1900 by Bri...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in 1900 by Bri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zslpublications.onlinelibrary.wiley.com  
    Title: On the Existence of Rudimentary Antlers in the Okapi  
-   Link: <a href="https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1096-3642.1907.tb01804.x" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1096-3642.1907.tb01804.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1907by ER Lankester · 1907 · Cited by 20 — The specimen is a little older (as indicated by the dentition) than Sir Harry Johnston&#x27;s large...</p></details>
+   Link:<a href="https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1096-3642.1907.tb01804.x" target="_blank" rel="noopener noreferrer nofollow">https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1096-3642.1907.tb01804.x</a><details class="endnote-snippet"><summary>Source snippet</summary><p>1907by ER Lankester · 1907 · Cited by 20 — The specimen is a little older (as indicated by the dentition) than Sir Harry Johnston&#x27;s large...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: the history guy covers the discovery of the okapi  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/aceahr/the_history_guy_covers_the_discovery_of_the_okapi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/aceahr/the_history_guy_covers_the_discovery_of_the_okapi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1901: r...The okapi was discovered in 1901 in the Congo jungle and no one believed the initial reports of an animal that looked like...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/aceahr/the_history_guy_covers_the_discovery_of_the_okapi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/aceahr/the_history_guy_covers_the_discovery_of_the_okapi/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>in 1901: r...The okapi was discovered in 1901 in the Congo jungle and no one believed the initial reports of an animal that looked like...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLp6icSNukl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLp6icSNukl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>was the first European to acquire the striped skin and a skull of...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLp6icSNukl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLp6icSNukl/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>was the first European to acquire the striped skin and a skull of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Mittmuseum/[photos" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mittmuseum/[photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European to acquire the striped skin and a skull of...</p></details>
+   Link:<a href="https://www.facebook.com/Mittmuseum/[photos" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mittmuseum/[photos</a><details class="endnote-snippet"><summary>Source snippet</summary><p>European to acquire the striped skin and a skull of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3XLjztKDOrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3XLjztKDOrA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Johnston the explorer himself...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3XLjztKDOrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3XLjztKDOrA</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Johnston the explorer himself...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iheart.com  
    Title: The Okapi and the Western World  
-   Link: <a href="https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/the-okapi-and-the-western-world-96333554/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/the-okapi-and-the-western-world-96333554/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So this species, again incorrectly identified as different from the other two, was called...Read more...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/the-okapi-and-the-western-world-96333554/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/the-okapi-and-the-western-world-96333554/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>So this species, again incorrectly identified as different from the other two, was called...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ielc.libguides.com  
-   Link: <a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain forest habitats) unti...</p></details>
+   Link:<a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain forest habitats) unti...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: everything-everywhere.com  
-   Link: <a href="https://everything-everywhere.com/real-life-cryptids/" target="_blank" rel="noopener noreferrer nofollow">https://everything-everywhere.com/real-life-cryptids/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>skins and skull was enough for...</p></details>
+   Link:<a href="https://everything-everywhere.com/real-life-cryptids/" target="_blank" rel="noopener noreferrer nofollow">https://everything-everywhere.com/real-life-cryptids/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>skins and skull was enough for...</p></details>

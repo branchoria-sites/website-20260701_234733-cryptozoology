@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:55:39'
+date:'2026-07-01 19:55:39'
 parent_title: Why Cryptozoology Is Called Pseudoscience
 parent_permalink: /pseudoscience/
 parent_nav_short_title: Pseudoscience
@@ -280,18 +280,12 @@ image: /assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_b
 
 ## Introduction
 
-A cryptid claim becomes scientifically serious when it produces evidence that can identify a real animal, not merely suggest that something unusual was seen. In zoology, eyewitness reports, folklore, [footprints]({{ 'footprints/' | relative_url }}) and photographs may justify an investigation, but they do not establish a species. What changes a claim from speculation to science is the arrival of physical evidence that can be independently examined: a body, skeleton, tissue sample, hair with a verified origin, or genetic material that clearly belongs to an unknown organism. The distinction matters because [cryptozoology]({{ 'cryptozoology/' | relative_url }}) often asks readers to accept large, distinctive animals on evidence that would be considered preliminary in mainstream wildlife biology. Scientific acceptance begins when evidence can be collected, tested, preserved and re-examined by other researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-dark.svg" | relative_url }}" alt="Need a Body illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+A cryptid claim becomes scientifically serious when it produces evidence that can identify a real animal, not merely suggest that something unusual was seen. In zoology, eyewitness reports, folklore, [footprints]({{'footprints/' | relative_url }}) and photographs may justify an investigation, but they do not establish a species. What changes a claim from speculation to science is the arrival of physical evidence that can be independently examined: a body, skeleton, tissue sample, hair with a verified origin, or genetic material that clearly belongs to an unknown organism. The distinction matters because [cryptozoology]({{'cryptozoology/' | relative_url }}) often asks readers to accept large, distinctive animals on evidence that would be considered preliminary in mainstream wildlife biology. Scientific acceptance begins when evidence can be collected, tested, preserved and re-examined by other researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-dark.svg" | relative_url }}" alt="Need a Body illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Anecdotes Can Start but Not Finish a Species Claim
 
-Sightings have played a role in many genuine zoological discoveries. Local reports may alert scientists to unusual animals, and eyewitness accounts can help direct fieldwork. However, human observation is vulnerable to [misidentification]({{ 'misidentification/' | relative_url }}), memory errors, expectation effects and environmental [conditions]({{ 'conditions/' | relative_url }}) such as darkness, distance or poor visibility.
+Sightings have played a role in many genuine zoological discoveries. Local reports may alert scientists to unusual animals, and eyewitness accounts can help direct fieldwork. However, human observation is vulnerable to [misidentification]({{'misidentification/' | relative_url }}), memory errors, expectation effects and environmental [conditions]({{'conditions/' | relative_url }}) such as darkness, distance or poor visibility.
 
-For that reason, zoology treats testimony as a lead rather than a conclusion. A witness may honestly report seeing a large unknown creature, but the report alone cannot determine whether the animal was a [new species]({{ 'new-species/' | relative_url }}), a known species seen under unusual circumstances, a hoax or a mistaken interpretation. Scientific claims require evidence that remains available after the observer has gone home.
-
-This difference explains why decades of reports do not automatically accumulate into [proof]({{ 'proof/' | relative_url }}). One hundred sightings of an unidentified animal are still one hundred sightings of an unidentified animal. The evidence becomes stronger only when independent lines of investigation converge on a verifiable biological specimen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
-
+For that reason, zoology treats testimony as a lead rather than a conclusion. A witness may honestly report seeing a large unknown creature, but the report alone cannot determine whether the animal was a [new species]({{'new-species/' | relative_url }}), a known species seen under unusual circumstances, a hoax or a mistaken interpretation. Scientific claims require evidence that remains available after the observer has gone home.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eOW8116e2AE" title="Specimen Spotlight-Coelacanth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eOW8116e2AE" target="_blank" rel="noopener noreferrer">Specimen Spotlight-Coelacanth</a></p><p class="youtube-embed-meta">Channel: Harvard Museum of Natural History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eOW8116e2AE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eOW8116e2AE">Open on YouTube</a></p></div></div></div>
 
@@ -299,36 +293,25 @@ This difference explains why decades of reports do not automatically accumulate 
 
 Physical remains matter because they can answer questions that anecdotes cannot.
 
-A specimen allows researchers to determine:
-
-
-<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
+A specimen allows researchers to determine:<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Whether the animal is genuinely unknown to science.
 * Its anatomy and diagnostic features.
 * Its relationship to other species.
 * Its age, sex and health.
 * Its genetic identity.
-* Whether independent laboratories obtain the same results.
+* Whether independent laboratories obtain the same results.</div>
 
-</div>
+Modern taxonomy is built around this principle. New species are formally described from physical reference material, traditionally a holotype specimen that other scientists can examine. Without such material, there is no reliable way to compare claims, resolve disputes or verify identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
 
-Modern taxonomy is built around this principle. New species are formally described from physical reference material, traditionally a holotype specimen that other scientists can examine. Without such material, there is no reliable way to compare claims, resolve disputes or verify identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
+DNA has expanded these capabilities. Tissue, hair, blood, faeces and environmental DNA (eDNA) can reveal the presence of species that are difficult to observe directly. Scientists now detect rare amphibians, mammals and aquatic species through genetic traces left in water, soil and other environments. Importantly, these methods generate evidence that can be sequenced, archived and independently analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2National Wildlife Federation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">environmental dna sheds light on animal lives edna</span><span class="citation-popover-snippet">National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</span></span></span>
 
-DNA has expanded these capabilities. Tissue, hair, blood, faeces and environmental DNA (eDNA) can reveal the presence of species that are difficult to observe directly. Scientists now detect rare amphibians, mammals and aquatic species through genetic traces left in water, soil and other environments. Importantly, these methods generate evidence that can be sequenced, archived and independently analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2National Wildlife Federation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">environmental dna sheds light on animal lives edna</span><span class="citation-popover-snippet">National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</span></span></span>
-
-For a cryptid claim, therefore, a verified tissue sample or distinctive genetic sequence would be far more persuasive than another photograph. A photograph can show that something was present. DNA can show what it was.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" alt="Need a Body illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For a cryptid claim, therefore, a verified tissue sample or distinctive genetic sequence would be far more persuasive than another photograph. A photograph can show that something was present. DNA can show what it was.<img src="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" alt="Need a Body illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Coelacanth Shows How Science Changes Its Mind
 
 Cryptozoology supporters often cite the coelacanth as proof that extraordinary animals can remain undiscovered. The example is real, but its lesson is frequently misunderstood.
 
-Before 1938, coelacanths were known only from fossils and were believed to have disappeared millions of years earlier. That view changed when a physical specimen was caught off South Africa and preserved for examination. Scientists did not accept the coelacanth because fishermen reported strange fish. They accepted it because an actual fish existed that could be studied, described and classified. Conservation International+3Natural History Museum+3American Museum of Natural History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[nhm.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
-
-The same pattern appears repeatedly in zoology. When a previously unknown or unexpected animal is discovered, acceptance follows the evidence. Researchers inspect [specimens]({{ 'specimens/' | relative_url }}), compare anatomy, conduct genetic analyses and publish descriptions that other specialists can evaluate. The coelacanth's scientific success was not a triumph of anecdote; it was a triumph of specimen-based evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
-
+Before 1938, coelacanths were known only from fossils and were believed to have disappeared millions of years earlier. That view changed when a physical specimen was caught off South Africa and preserved for examination. Scientists did not accept the coelacanth because fishermen reported strange fish. They accepted it because an actual fish existed that could be studied, described and classified. Conservation International+3Natural History Museum+3American Museum of Natural History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[nhm.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
 
@@ -340,227 +323,39 @@ A breeding population of large mammals, reptiles or aquatic vertebrates should l
 
 This ecological reality creates a major challenge for famous cryptids such as Bigfoot or the Loch Ness Monster. Claims often involve animals large enough to sustain breeding populations for decades or centuries, yet the expected trail of biological evidence remains elusive.
 
-Modern detection methods have made this problem harder to ignore. Environmental DNA surveys, camera traps, acoustic monitoring and other techniques routinely detect rare wildlife. Even species that are secretive, nocturnal or difficult to observe often reveal themselves through traces. When a large animal is repeatedly reported but continues to leave no verifiable specimen or genetic signature, scientists become increasingly sceptical. National Wildlife Federation+3National Geographic+3sciencefocus.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">environmental dna sheds light on animal lives edna</span><span class="citation-popover-snippet">National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-dark.svg" | relative_url }}" alt="Need a Body illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Modern detection methods have made this problem harder to ignore. Environmental DNA surveys, camera traps, acoustic monitoring and other techniques routinely detect rare wildlife. Even species that are secretive, nocturnal or difficult to observe often reveal themselves through traces. When a large animal is repeatedly reported but continues to leave no verifiable specimen or genetic signature, scientists become increasingly sceptical. National Wildlife Federation+3National Geographic+3sciencefocus.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">environmental dna sheds light on animal lives edna</span><span class="citation-popover-snippet">National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-dark.svg" | relative_url }}" alt="Need a Body illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_pseudoscience_claims_4480da_cryptid_body_evidenc_9a8b55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a Body Changes the Conversation
 
 The phrase “show me the body” is sometimes portrayed as an unfair demand, but in biology it reflects a practical standard. A body, skeleton, tissue sample or other diagnostic material transforms a claim from a story about an animal into evidence of an animal.
 
 Once that threshold is crossed, the discussion changes completely. Scientists can stop debating whether something exists and start investigating what it is. The claim leaves the realm of cryptozoology and enters ordinary zoology.
 
-That is why physical evidence remains the central dividing line. Unknown species continue to be discovered, and science remains open to surprises. But history shows that acceptance arrives not when sightings become numerous, but when evidence becomes testable. The most famous cryptids remain controversial precisely because that transition has not yet occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Do Mythic Creatures Exist?</span><span class="citation-popover-snippet">Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, Nessie, et al. They also have in common—a body! In order to na...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKScbbwuivw" title="Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer">Searching for Sasquatch: Cryptozoology and the Science &amp; Folklore of Hidden Animals | Thom Powell</a></p><p class="youtube-embed-meta">Channel: University of Oregon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKScbbwuivw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKScbbwuivw">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cryptids Need More Than Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
-        
-        <p class="fr-book-desc">Explains the evidentiary standards required for species recognition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+by+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tangled Tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WnlJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tangled Tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tangled Tree">The Tangled Tree</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-        
-        <p class="fr-book-desc">Provides context for how DNA evidence transforms biological understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly addresses why physical specimens matter more than anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Reinforces why testable physical evidence carries special weight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tangled+Tree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tangled Tree</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mandrake Globe Curiosities Cabinet Oddities Cryptozoology"><img src="{{ '/assets/images/marketplace-covers/a07e76bc7f02c7d72165.jpg' | relative_url }}" alt="Listing image for Mandrake Globe Curiosities Cabinet Oddities Cryptozoology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Mandrake Globe Curiosities Cabinet Oddities Cryptozoology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology"><img src="{{ '/assets/images/marketplace-covers/cb8150bb9c2be79c84a2.jpg' | relative_url }}" alt="Listing image for Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore"><img src="{{ '/assets/images/marketplace-covers/985bbbe71c82d9eb8ef5.jpg' | relative_url }}" alt="Listing image for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x"><img src="{{ '/assets/images/marketplace-covers/61a584a2165639835ce4.jpg' | relative_url }}" alt="Listing image for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tangled Tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WnlJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tangled Tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tangled Tree">The Tangled Tree</a></h4><p class="fr-book-author">By David Quammen</p><p class="fr-book-desc">Provides context for how DNA evidence transforms biological understanding.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Tangled+Tree+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Directly addresses why physical specimens matter more than anecdotes.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Reinforces why testable physical evidence carries special weight.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tangled+Tree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tangled Tree</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mandrake Globe Curiosities Cabinet Oddities Cryptozoology"><img src="{{'/assets/images/marketplace-covers/a07e76bc7f02c7d72165.jpg' | relative_url }}" alt="Listing image for Mandrake Globe Curiosities Cabinet Oddities Cryptozoology" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Mandrake Globe Curiosities Cabinet Oddities Cryptozoology</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology"><img src="{{'/assets/images/marketplace-covers/cb8150bb9c2be79c84a2.jpg' | relative_url }}" alt="Listing image for Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Loch Ness and the Monster J. Arthur Dixon SC Folklore Scotland Cryptozoology</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore"><img src="{{'/assets/images/marketplace-covers/985bbbe71c82d9eb8ef5.jpg' | relative_url }}" alt="Listing image for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x"><img src="{{'/assets/images/marketplace-covers/61a584a2165639835ce4.jpg' | relative_url }}" alt="Listing image for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="need-a-body-why-cryptids-need-more-than-sightings-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,24 +369,24 @@ That is why physical evidence remains the central dividing line. Unknown species
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -602,7 +397,7 @@ That is why physical evidence remains the central dividing line. Unknown species
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -610,45 +405,43 @@ That is why physical evidence remains the central dividing line. Unknown species
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -664,10 +457,10 @@ That is why physical evidence remains the central dividing line. Unknown species
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -687,11 +480,11 @@ That is why physical evidence remains the central dividing line. Unknown species
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -700,16 +493,16 @@ That is why physical evidence remains the central dividing line. Unknown species
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,9 +516,9 @@ That is why physical evidence remains the central dividing line. Unknown species
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -744,116 +537,95 @@ That is why physical evidence remains the central dividing line. Unknown species
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/cryptozoology.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/cryptozoology.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>howstuffworks.comCryptozoology: Hunting Bigfoot and Other Mysterious Beasts1 Aug 2023 — Cryptozoology is the study of creatures that are...</p></details>
+   Link:<a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/cryptozoology.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/cryptozoology.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>howstuffworks.comCryptozoology: Hunting Bigfoot and Other Mysterious Beasts1 Aug 2023 — Cryptozoology is the study of creatures that are...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: conservation.org  
-   Link: <a href="https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge" target="_blank" rel="noopener noreferrer nofollow">https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conservation InternationalFish story: How a coelacanth discovery set off a flurry of...16 Jan 2019 — The 1938 discovery of a coelacanth...</p></details>
+   Link:<a href="https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge" target="_blank" rel="noopener noreferrer nofollow">https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Conservation InternationalFish story: How a coelacanth discovery set off a flurry of...16 Jan 2019 — The 1938 discovery of a coelacanth...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencefocus.com  
    Title: loch ness monster how edna helps us discover what lurks beneath  
-   Link: <a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now, by seeking out monster DNA from the loch&#x27;s waters, scientists think they know what&#x27;s down there.Read more...</p></details>
+   Link:<a href="https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/loch-ness-monster-how-edna-helps-us-discover-what-lurks-beneath</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Now, by seeking out monster DNA from the loch&#x27;s waters, scientists think they know what&#x27;s down there.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discovermagazine.com  
-   Link: <a href="https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Coelacanth Species Was Hiding in a Museum for...22 Apr 2026 — In a new study published in Papers in Palaeontology, researchers hav...</p></details>
+   Link:<a href="https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003</a><details class="endnote-snippet"><summary>Source snippet</summary><p>A New Coelacanth Species Was Hiding in a Museum for...22 Apr 2026 — In a new study published in Papers in Palaeontology, researchers hav...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scientificamerican.com  
    Title: Scientific American Do Mythic Creatures Exist?  
-   Link: <a href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, [Nessie](&amp;#123;&amp;#123; &#x27;nessie/&#x27; | relative_url &amp;#125;&amp;#125;), et al. They also have in common—a body! In order to na...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/show-me-the-body-mythic-creatures/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Show Me the BodyAugust 4, 2008 — 4 Aug 2008 —... cryptid cousins Bigfoot, [Nessie](&amp;#123;&amp;#123; &#x27;nessie/&#x27; | relative_url &amp;#125;&amp;#125;), et al. They also have in common—a body! In order to na...</p></details>
    Published: August 4, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ocean.si.edu  
-   Link: <a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian OceanCoelacanth | Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</p></details>
+   Link:<a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian OceanCoelacanth | Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalgeographic.com  
    Title: environmental dna sheds light on animal lives edna  
-   Link: <a href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicHidden DNA is revealing secrets of animals&#x27; lives5 Aug 2022 — At Eagle Pass, Ruppert found enough environmental DNA—tr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nwf.org  
    Title: Edna Environmental Dna  
-   Link: <a href="https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Edna-Environmental-Dna" target="_blank" rel="noopener noreferrer nofollow">https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Edna-Environmental-Dna</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Wildlife FederationFollowing the Trail of eDNA26 Sept 2024 — Environmental DNA, or eDNA, is helping scientists locate elusive wi...</p></details>
+   Link:<a href="https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Edna-Environmental-Dna" target="_blank" rel="noopener noreferrer nofollow">https://www.nwf.org/Magazines/National-Wildlife/2024/Fall/Conservation/Edna-Environmental-Dna</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Wildlife FederationFollowing the Trail of eDNA26 Sept 2024 — Environmental DNA, or eDNA, is helping scientists locate elusive wi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nhm.ac.uk  
    Title: Discover the story of this strange fish  
-   Link: <a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
+   Link:<a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coelacanth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoelacanthThe first living species, Latimeria chalumnae, the West Indian Ocean coelacanth, was described from specimens fished off the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coelacanth</a><details class="endnote-snippet"><summary>Source snippet</summary><p>CoelacanthThe first living species, Latimeria chalumnae, the West Indian Ocean coelacanth, was described from specimens fished off the...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amnh.org  
-   Link: <a href="https://www.amnh.org/explore/videos/shelf-life/coelacanth-discovery-preservation" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/explore/videos/shelf-life/coelacanth-discovery-preservation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Museum of Natural HistoryDiscovery and Preservation of a CoelacanthThe specimen pulled from the trawling nets of a South African...</p></details>
+   Link:<a href="https://www.amnh.org/explore/videos/shelf-life/coelacanth-discovery-preservation" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/explore/videos/shelf-life/coelacanth-discovery-preservation</a><details class="endnote-snippet"><summary>Source snippet</summary><p>American Museum of Natural HistoryDiscovery and Preservation of a CoelacanthThe specimen pulled from the trawling nets of a South African...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2017/12/15/rare-species-are-leaving-behind-traces-of-dna-1513302736" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2017/12/15/rare-species-are-leaving-behind-traces-of-dna-1513302736</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This method involves collecting DNA from the environment, which can include remnants from skin, feces, and hair, and has proven effective...</p></details>
+   Link:<a href="https://www.axios.com/2017/12/15/rare-species-are-leaving-behind-traces-of-dna-1513302736" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2017/12/15/rare-species-are-leaving-behind-traces-of-dna-1513302736</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This method involves collecting DNA from the environment, which can include remnants from skin, feces, and hair, and has proven effective...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/288975639_A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288975639_A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Review of Cryptozoology: Towards a Scientific...Cryptozoology is still generally considered a non-academic discipline based on a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/288975639_A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288975639_A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Review of Cryptozoology: Towards a Scientific...Cryptozoology is still generally considered a non-academic discipline based on a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: port.ac.uk  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>150-year-old museum specimen revealed as missing link...21 Apr 2026 — A new species of coelacanth has been identified from a 150-year-ol...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish</a><details class="endnote-snippet"><summary>Source snippet</summary><p>150-year-old museum specimen revealed as missing link...21 Apr 2026 — A new species of coelacanth has been identified from a 150-year-ol...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eOW8116e2AE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eOW8116e2AE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specimen Spotlight-CoelacanthFish biologist, volunteer, and Harvard alum Dr. Kelsey Lucas shines a light on the museum&#x27;s coelacanth. What...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eOW8116e2AE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eOW8116e2AE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Specimen Spotlight-CoelacanthFish biologist, volunteer, and Harvard alum Dr. Kelsey Lucas shines a light on the museum&#x27;s coelacanth. What...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__Woo6L1bl0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__Woo6L1bl0</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/20109683/A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/20109683/A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tial and witness evidence, indicating a potential existence unexplored by science.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/20109683/A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/20109683/A_Review_of_Cryptozoology_Towards_a_Scientific_Approach_to_the_Study_of_Hidden_Animals_</a><details class="endnote-snippet"><summary>Source snippet</summary><p>tial and witness evidence, indicating a potential existence unexplored by science.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: thought extinct for 66 million years and known  
-   Link: <a href="https://www.reddit.com/r/Awwducational/comments/sr5pfg/thought_extinct_for_66_million_years_and_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Awwducational/comments/sr5pfg/thought_extinct_for_66_million_years_and_known/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>previously only...A coelacanth was caught by African fisherman in 1938. A second species of coelacanth was later discovered in an Indone...</p></details>
+   Link:<a href="https://www.reddit.com/r/Awwducational/comments/sr5pfg/thought_extinct_for_66_million_years_and_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Awwducational/comments/sr5pfg/thought_extinct_for_66_million_years_and_known/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>previously only...A coelacanth was caught by African fisherman in 1938. A second species of coelacanth was later discovered in an Indone...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/InYourArea.co.uk/posts/if-youve-got-a-soft-spot-for-the-mysterious-and-the-unexplained-then-youre-alrea/1476042864535395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InYourArea.co.uk/posts/if-youve-got-a-soft-spot-for-the-mysterious-and-the-unexplained-then-youre-alrea/1476042864535395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n proven to exist as yet like Bigfoot or the Loch Ness...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/InYourArea.co.uk/posts/if-youve-got-a-soft-spot-for-the-mysterious-and-the-unexplained-then-youre-alrea/1476042864535395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/InYourArea.co.uk/posts/if-youve-got-a-soft-spot-for-the-mysterious-and-the-unexplained-then-youre-alrea/1476042864535395/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>n proven to exist as yet like Bigfoot or the Loch Ness...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Facts.Random.Weird/posts/scientists-have-deployed-advanced-sonar-mapping-environmental-dna-sampling-and-u/1336687401937406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Facts.Random.Weird/posts/scientists-have-deployed-advanced-sonar-mapping-environmental-dna-sampling-and-u/1336687401937406/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>water cameras in Loch Ness for years without detecting any unknown...</p></details>
+   Link:<a href="https://www.facebook.com/Facts.Random.Weird/posts/scientists-have-deployed-advanced-sonar-mapping-environmental-dna-sampling-and-u/1336687401937406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Facts.Random.Weird/posts/scientists-have-deployed-advanced-sonar-mapping-environmental-dna-sampling-and-u/1336687401937406/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>water cameras in Loch Ness for years without detecting any unknown...</p></details>

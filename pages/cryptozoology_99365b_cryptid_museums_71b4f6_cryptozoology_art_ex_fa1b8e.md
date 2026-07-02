@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:55:05'
+date:'2026-07-01 19:55:05'
 parent_title: Inside the World of Cryptid Museums
 parent_permalink: /museums/
 parent_nav_short_title: Museums
@@ -274,53 +274,36 @@ image: /assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_
 
 ## Introduction
 
-When cryptids enter an art museum, the question is no longer whether Bigfoot, the Loch Ness Monster or the thylacine survives somewhere beyond human knowledge. Instead, the museum itself becomes the subject. How should an institution dedicated to classification, evidence and public trust display creatures that may not exist, may be misidentified, or may survive only as stories and desires? One of the clearest explorations of this problem was the 2006 exhibition *[Cryptozoology]({{ 'cryptozoology/' | relative_url }}): Out of Time Place Scale*, organised by the Bates College Museum of Art and later shown at the H&R Block Artspace. Rather than arguing for or against cryptids, the exhibition treated cryptozoology as a lens through which to examine taxonomy, spectacle, fraud, longing and institutional authority. In doing so, it transformed museum doubt into a display object in its own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+When cryptids enter an art museum, the question is no longer whether Bigfoot, the Loch Ness Monster or the thylacine survives somewhere beyond human knowledge. Instead, the museum itself becomes the subject. How should an institution dedicated to classification, evidence and public trust display creatures that may not exist, may be misidentified, or may survive only as stories and desires? One of the clearest explorations of this problem was the 2006 exhibition *[Cryptozoology]({{'cryptozoology/' | relative_url }}): Out of Time Place Scale*, organised by the Bates College Museum of Art and later shown at the H&R Block Artspace. Rather than arguing for or against cryptids, the exhibition treated cryptozoology as a lens through which to examine taxonomy, spectacle, fraud, longing and institutional authority. In doing so, it transformed museum doubt into a display object in its own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Curiosity Cabinets and Taxonomy
 
-The Bates exhibition approached cryptozoology as a cultural practice built around classification. Curators Mark H. C. Bessire and Raechell Smith described cryptozoology as a search for unknown, hidden or rumoured animals that exists in an unstable space between scientific investigation and imaginative projection. The exhibition argued that both science and art are concerned with making the unseen visible, even though they use different methods and standards of [proof]({{ 'proof/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
+The Bates exhibition approached cryptozoology as a cultural practice built around classification. Curators Mark H. C. Bessire and Raechell Smith described cryptozoology as a search for unknown, hidden or rumoured animals that exists in an unstable space between scientific investigation and imaginative projection. The exhibition argued that both science and art are concerned with making the unseen visible, even though they use different methods and standards of [proof]({{'proof/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
 
-This focus shifted attention away from individual monsters and towards the systems used to organise knowledge. Museums traditionally depend on [specimens]({{ 'specimens/' | relative_url }}), labels and taxonomic order. Cryptozoology challenges those conventions because its central objects are absent. There is no accepted specimen of Bigfoot or [Nessie]({{ 'nessie/' | relative_url }}) to place in a display case. As a result, cryptozoological evidence often consists of photographs, witness reports, casts, stories, reconstructions and disputed artefacts. The exhibition used this condition to explore what happens when museums encounter subjects that cannot be conclusively classified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
-Several participating artists worked directly with museum forms. Installations echoed natural-history displays, archive rooms and institutional collections. By borrowing the visual language of scientific authority while withholding certainty, the artworks encouraged visitors to notice how much trust museums normally ask from their audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">cryptozoology exhibit</span><span class="citation-popover-snippet">Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</span></span></span>
-
+This focus shifted attention away from individual monsters and towards the systems used to organise knowledge. Museums traditionally depend on [specimens]({{'specimens/' | relative_url }}), labels and taxonomic order. Cryptozoology challenges those conventions because its central objects are absent. There is no accepted specimen of Bigfoot or [Nessie]({{'nessie/' | relative_url }}) to place in a display case. As a result, cryptozoological evidence often consists of photographs, witness reports, casts, stories, reconstructions and disputed artefacts. The exhibition used this condition to explore what happens when museums encounter subjects that cannot be conclusively classified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gVvO9sEloP8" title="International Cryptozoology Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gVvO9sEloP8" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gVvO9sEloP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gVvO9sEloP8">Open on YouTube</a></p></div></div></div>
 
 ## Artists, Fraud and Spectacle
 
-The curators repeatedly emphasised three themes beneath cryptozoology's surface: myth, spectacle and fraud. They argued that these themes are not merely side issues but central forces shaping how cryptids become public phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">cryptozoology exhibit</span><span class="citation-popover-snippet">Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</span></span></span>
+The curators repeatedly emphasised three themes beneath cryptozoology's surface: myth, spectacle and fraud. They argued that these themes are not merely side issues but central forces shaping how cryptids become public phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">cryptozoology exhibit</span><span class="citation-popover-snippet">Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</span></span></span>
 
-Fraud occupied a particularly important place. Cryptozoology has long been associated with [hoaxes]({{ 'hoaxes/' | relative_url }}), fabricated evidence and disputed claims. Rather than treating fraud as a reason to dismiss the topic, the exhibition examined why forged specimens and dubious artefacts remain culturally powerful. A fake specimen can still reveal something about public desire, curiosity and belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">cryptozoology exhibit</span><span class="citation-popover-snippet">Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</span></span></span>
+Fraud occupied a particularly important place. Cryptozoology has long been associated with [hoaxes]({{'hoaxes/' | relative_url }}), fabricated evidence and disputed claims. Rather than treating fraud as a reason to dismiss the topic, the exhibition examined why forged specimens and dubious artefacts remain culturally powerful. A fake specimen can still reveal something about public desire, curiosity and belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">cryptozoology exhibit</span><span class="citation-popover-snippet">Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</span></span></span>
 
-Artists in the exhibition explored this territory through taxidermy, fabricated creatures, reconstructed animals and pseudo-scientific presentations. Sarina Brewer's reimagined [Feejee Mermaid]({{ 'feejee-mermaid/' | relative_url }}) referenced the famous nineteenth-century attraction popularised by showman P. T. Barnum, while other works blurred the distinction between [documentation]({{ 'documentation/' | relative_url }}) and invention. Visitors were often left uncertain whether they were viewing evidence, parody, institutional critique or some combination of all three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artpapers.org">[artpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artpapers.org</span><span class="citation-popover-snippet">Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</span></span></span>
+Artists in the exhibition explored this territory through taxidermy, fabricated creatures, reconstructed animals and pseudo-scientific presentations. Sarina Brewer's reimagined [Feejee Mermaid]({{'feejee-mermaid/' | relative_url }}) referenced the famous nineteenth-century attraction popularised by showman P. T. Barnum, while other works blurred the distinction between [documentation]({{'documentation/' | relative_url }}) and invention. Visitors were often left uncertain whether they were viewing evidence, parody, institutional critique or some combination of all three.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artpapers.org">[artpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artpapers.org</span><span class="citation-popover-snippet">Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</span></span></span>
 
-This uncertainty was deliberate. Cryptozoology depends heavily on visual encounters—photographs, glimpses, casts and alleged specimens. The Bates project argued that contemporary art similarly investigates how images create authority and belief. In both fields, viewers must decide how much confidence to place in what they see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This uncertainty was deliberate. Cryptozoology depends heavily on visual encounters—photographs, glimpses, casts and alleged specimens. The Bates project argued that contemporary art similarly investigates how images create authority and belief. In both fields, viewers must decide how much confidence to place in what they see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Absence Becomes Display Material
 
 The most distinctive contribution of cryptozoology-themed art exhibitions is their treatment of absence as an exhibit.
 
-Natural-history museums traditionally display physical evidence: bones, skins, fossils or preserved organisms. Cryptozoological subjects frequently lack such material confirmation. Instead of seeing absence as a problem to conceal, *Cryptozoology: Out of Time Place Scale* made absence visible. The exhibition highlighted creatures known only through rumours, disputed sightings or historical traces, alongside species once thought mythical or extinct but later accepted by science. Examples such as the coelacanth and giant squid complicated easy distinctions between impossibility and discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
+Natural-history museums traditionally display physical evidence: bones, skins, fossils or preserved organisms. Cryptozoological subjects frequently lack such material confirmation. Instead of seeing absence as a problem to conceal, *Cryptozoology: Out of Time Place Scale* made absence visible. The exhibition highlighted creatures known only through rumours, disputed sightings or historical traces, alongside species once thought mythical or extinct but later accepted by science. Examples such as the coelacanth and giant squid complicated easy distinctions between impossibility and discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
 
-This strategy transformed the exhibition from a display about monsters into a display about uncertainty. The visitor encountered not a resolved narrative but a series of unresolved questions:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+This strategy transformed the exhibition from a display about monsters into a display about uncertainty. The visitor encountered not a resolved narrative but a series of unresolved questions:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What qualifies as evidence?
 * Who decides when a claim becomes legitimate knowledge?
 * How do museums handle objects that are desired but unavailable?
-* What happens when stories persist despite the absence of proof?
-
-</div>
-
-By foregrounding these questions, the exhibition treated museum practice itself as a subject for examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
+* What happens when stories persist despite the absence of proof?</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qzd-Xf-CrWQ" title="Cryptozoology Museum | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer">Cryptozoology Museum | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qzd-Xf-CrWQ">Open on YouTube</a></p></div></div></div>
 
@@ -328,229 +311,41 @@ By foregrounding these questions, the exhibition treated museum practice itself 
 
 A key governance issue running through the exhibition concerned institutional authority. Museums are often perceived as neutral repositories of verified knowledge. Cryptozoology exposes how fragile that perception can be because it sits precisely at the boundary between accepted and disputed claims.
 
-The Bates project explicitly connected cryptozoology to broader debates about objectivity. Exhibition materials described the field as a place where evidence is constantly accumulated, questioned, classified and sometimes discarded. The resulting process resembles the work of museums and archives, which continually decide what deserves preservation and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
+The Bates project explicitly connected cryptozoology to broader debates about objectivity. Exhibition materials described the field as a place where evidence is constantly accumulated, questioned, classified and sometimes discarded. The resulting process resembles the work of museums and archives, which continually decide what deserves preservation and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
 
-Critics noted that the exhibition functioned partly as institutional critique. By presenting cryptozoological material within a respected art-museum setting, it encouraged visitors to reflect on how authority is produced through display techniques, architectural settings, labels and curatorial decisions. The exhibition did not claim that cryptids exist. Instead, it asked how institutions establish the difference between knowledge, speculation and belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artpapers.org">[artpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artpapers.org</span><span class="citation-popover-snippet">Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</span></span></span>
+Critics noted that the exhibition functioned partly as institutional critique. By presenting cryptozoological material within a respected art-museum setting, it encouraged visitors to reflect on how authority is produced through display techniques, architectural settings, labels and curatorial decisions. The exhibition did not claim that cryptids exist. Instead, it asked how institutions establish the difference between knowledge, speculation and belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artpapers.org">[artpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artpapers.org</span><span class="citation-popover-snippet">Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</span></span></span>
 
-The result was a museum experience built around doubt rather than certainty. Visitors were not asked to choose between belief and scepticism. They were asked to observe how those positions are created, negotiated and displayed.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The result was a museum experience built around doubt rather than certainty. Visitors were not asked to choose between belief and scepticism. They were asked to observe how those positions are created, negotiated and displayed.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-dark.svg" | relative_url }}" alt="When Cryptids Enter An Art Museum, The Question illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_museums_71b4f6_cryptozoology_art_ex_fa1b8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Distinct Place in Cryptozoology Culture
 
-Most cryptozoology museums and attractions focus on local legends, witness testimony, memorabilia or [tourism]({{ 'tourism/' | relative_url }}). The Bates exhibition occupied a different niche. It treated cryptozoology not primarily as a mystery to solve but as a cultural mechanism that reveals how societies classify the unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
-Its importance lies in demonstrating that cryptids can function as museum objects even when they are absent. The exhibition showed that the real display material may be uncertainty itself: the traces, categories, desires, hoaxes and institutional practices that emerge whenever people attempt to organise the borderland between myth and knowledge. In that sense, the exhibition turned cryptozoology into a question about museums rather than a question about monsters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College+2artpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
-
+Most cryptozoology museums and attractions focus on local legends, witness testimony, memorabilia or [tourism]({{'tourism/' | relative_url }}). The Bates exhibition occupied a different niche. It treated cryptozoology not primarily as a mystery to solve but as a cultural mechanism that reveals how societies classify the unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bates.edu">[Bates College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bates.edu</span><span class="citation-popover-title">College Cryptozoology: Out of Time Place Scale &#124; Museum of Art</span><span class="citation-popover-snippet">Bates CollegeCryptozoology: Out of Time Place Scale &#124; Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</span><span class="citation-popover-meta">Published: April 16, 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PqZoLTNaHto" title="International Cryptozoology Museum now open in Bangor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PqZoLTNaHto" target="_blank" rel="noopener noreferrer">International Cryptozoology Museum now open in Bangor</a></p><p class="youtube-embed-meta">Channel: NEWS CENTER Maine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PqZoLTNaHto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PqZoLTNaHto">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Cryptids Enter the Art Museum. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Provides context for how cryptids move between science, skepticism, and culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Museum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xm5IEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Museum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Museum">The Museum</a>
-        </h4>
-        <p class="fr-book-author">By Samuel J Redman</p>
-        
-        <p class="fr-book-desc">Helps frame how institutions present contested subjects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious creatures : a guide to cryptozoology. 2. [N - Z] on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious creatures : a guide to cryptozoology. 2. [N - Z]">Mysterious creatures : a guide to cryptozoology. 2. [N - Z]</a>
-        </h4>
-        <p class="fr-book-author">By George M. Eberhart</p>
-        
-        <p class="fr-book-desc">Supports discussion of taxonomy and classification of alleged creatures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cabinets of Curiosities on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cabinets of Curiosities">Cabinets of Curiosities</a>
-        </h4>
-        <p class="fr-book-author">By Lynn Maranda, Carol E. (Carol Elizabeth) Mayer et al.</p>
-        
-        <p class="fr-book-desc">Explores collecting, spectacle, monsters, and museum-like presentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Museum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Museum</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+to+cryptozoology.+2.+%5BN+Z%5D+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious creatures : a to cryptozoology. 2. [N Z] books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art"><img src="{{ '/assets/images/marketplace-covers/5f7f3d09d72a192502ef.jpg' | relative_url }}" alt="Listing image for Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist"><img src="{{ '/assets/images/marketplace-covers/9764103933b94c051f5f.jpg' | relative_url }}" alt="Listing image for A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art"><img src="{{ '/assets/images/marketplace-covers/b867e15a0bec78dc0322.jpg' | relative_url }}" alt="Listing image for Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art"><img src="{{ '/assets/images/marketplace-covers/017db43921fe1614771e.jpg' | relative_url }}" alt="Listing image for Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Museum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xm5IEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Museum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Museum">The Museum</a></h4><p class="fr-book-author">By Samuel J Redman</p><p class="fr-book-desc">Helps frame how institutions present contested subjects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Museum+by+Samuel+J+Redman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious creatures : a guide to cryptozoology. 2. [N - Z] on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious creatures : a guide to cryptozoology. 2. [N - Z]">Mysterious creatures : a guide to cryptozoology. 2. [N - Z]</a></h4><p class="fr-book-author">By George M. Eberhart</p><p class="fr-book-desc">Supports discussion of taxonomy and classification of alleged creatures.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+by+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cabinets of Curiosities on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cabinets of Curiosities">Cabinets of Curiosities</a></h4><p class="fr-book-author">By Lynn Maranda, Carol E. (Carol Elizabeth) Mayer et al.</p><p class="fr-book-desc">Explores collecting, spectacle, monsters, and museum-like presentation.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Cabinets+of+Curiosities+by+Lynn+Maranda&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Museum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Museum</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+to+cryptozoology.+2.+%5BN+Z%5D+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious creatures : a to cryptozoology. 2. [N Z] books</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art"><img src="{{'/assets/images/marketplace-covers/5f7f3d09d72a192502ef.jpg' | relative_url }}" alt="Listing image for Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Common Hawker Dragonfly Print Aeshna juncea | Natural History Wall Art</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist"><img src="{{'/assets/images/marketplace-covers/9764103933b94c051f5f.jpg' | relative_url }}" alt="Listing image for A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">A4 Rare Watercolour Wildlife Bird Print Natural History Wall Art Ornithologist</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art"><img src="{{'/assets/images/marketplace-covers/b867e15a0bec78dc0322.jpg' | relative_url }}" alt="Listing image for Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lion&#x27;s Mane Jellyfish Print Cyanea capillata | Natural History Wall Art</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art"><img src="{{'/assets/images/marketplace-covers/017db43921fe1614771e.jpg' | relative_url }}" alt="Listing image for Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bracken Fern Print Pteridium aquilinum | Botanical Natural History Wall Art</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural history wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: natural history wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+history+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="natural history wall art" data-ebay-reference="when-cryptids-enter-an-art-museum-the-when-cryptids-enter-the-art-museum-cryptozoology-natural-history-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,24 +359,24 @@ Its importance lies in demonstrating that cryptids can function as museum object
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -592,7 +387,7 @@ Its importance lies in demonstrating that cryptids can function as museum object
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -600,45 +395,43 @@ Its importance lies in demonstrating that cryptids can function as museum object
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -654,10 +447,10 @@ Its importance lies in demonstrating that cryptids can function as museum object
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -677,11 +470,11 @@ Its importance lies in demonstrating that cryptids can function as museum object
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -690,16 +483,16 @@ Its importance lies in demonstrating that cryptids can function as museum object
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,9 +506,9 @@ Its importance lies in demonstrating that cryptids can function as museum object
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -734,89 +527,75 @@ Its importance lies in demonstrating that cryptids can function as museum object
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bates.edu  
    Title: College Cryptozoology: Out of Time Place Scale | Museum of Art  
-   Link: <a href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bates CollegeCryptozoology: Out of Time Place Scale | Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</p></details>
+   Link:<a href="https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/museum/exhibitions/y2006/cryptozoology/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bates CollegeCryptozoology: Out of Time Place Scale | Museum of ArtApril 16, 2010 — Often considered a marginalized science or a farcical...</p></details>
    Published: April 16, 2010  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bates.edu  
    Title: cryptozoology exhibit  
-   Link: <a href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</p></details>
+   Link:<a href="https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/news/2006/06/14/cryptozoology-exhibit/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bates College&#x27;Cryptozoology&#x27; transcends Nessie, yeti in exploring hidden...14 Jun 2006 — “Then, underneath those big ideas were ideas th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: artpapers.org  
-   Link: <a href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://www.artpapers.org/cryptozoology-out-of-time-place-scale/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</p></details>
+   Link:<a href="https://www.artpapers.org/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://www.artpapers.org/cryptozoology-out-of-time-place-scale/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology: Out of Time Place ScaleThe exhibition was appropriately launched at the Bates College Museum of Art in Lewiston, Maine [Ju...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bates.edu  
    Title: cryptozoology 2  
-   Link: <a href="https://www.bates.edu/news/2005/10/27/cryptozoology-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/news/2005/10/27/cryptozoology-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bates CollegeSymposium examines intersection of art and cryptozoology27 Oct 2005 — A symposium at the Bates College Museum of Art this we...</p></details>
+   Link:<a href="https://www.bates.edu/news/2005/10/27/cryptozoology-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/news/2005/10/27/cryptozoology-2/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bates CollegeSymposium examines intersection of art and cryptozoology27 Oct 2005 — A symposium at the Bates College Museum of Art this we...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bates.edu  
    Title: cryptozoology symposium out of time place scale  
-   Link: <a href="https://www.bates.edu/museum/2010/04/19/cryptozoology-symposium-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/museum/2010/04/19/cryptozoology-symposium-out-of-time-place-scale/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Cryptozoologist hosts Symposium | Museum of Art19 Apr 2010 — The keynote speaker on Friday night will be the famous cryptozoologis...</p></details>
+   Link:<a href="https://www.bates.edu/museum/2010/04/19/cryptozoology-symposium-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://www.bates.edu/museum/2010/04/19/cryptozoology-symposium-out-of-time-place-scale/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Cryptozoologist hosts Symposium | Museum of Art19 Apr 2010 — The keynote speaker on Friday night will be the famous cryptozoologis...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: store.bates.edu  
    Title: cryptozoology out of time place scale  
-   Link: <a href="https://store.bates.edu/products/cryptozoology-out-of-time-place-scale" target="_blank" rel="noopener noreferrer nofollow">https://store.bates.edu/products/cryptozoology-out-of-time-place-scale</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bates.eduCryptozoology: Out of Time Place ScaleThis catalogue accompanied the exhibition Crytozoology: Out of Time, Place, Scale, curated...</p></details>
+   Link:<a href="https://store.bates.edu/products/cryptozoology-out-of-time-place-scale" target="_blank" rel="noopener noreferrer nofollow">https://store.bates.edu/products/cryptozoology-out-of-time-place-scale</a><details class="endnote-snippet"><summary>Source snippet</summary><p>bates.eduCryptozoology: Out of Time Place ScaleThis catalogue accompanied the exhibition Crytozoology: Out of Time, Place, Scale, curated...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kcai.edu  
-   Link: <a href="https://kcai.edu/artspace/artspace-exhibitions/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://kcai.edu/artspace/artspace-exhibitions/cryptozoology-out-of-time-place-scale/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology: Out of Time Place ScaleCryptozoology: Out of Time Place Scale, presents work by 16 artists in a wide-ranging examination o...</p></details>
+   Link:<a href="https://kcai.edu/artspace/artspace-exhibitions/cryptozoology-out-of-time-place-scale/" target="_blank" rel="noopener noreferrer nofollow">https://kcai.edu/artspace/artspace-exhibitions/cryptozoology-out-of-time-place-scale/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology: Out of Time Place ScaleCryptozoology: Out of Time Place Scale, presents work by 16 artists in a wide-ranging examination o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: absolutearts.com  
-   Link: <a href="https://www.absolutearts.com/artsnews/2006/06/23/34000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.absolutearts.com/artsnews/2006/06/23/34000.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Nessie to yeti, - Bates College Museum of Art23 Jun 2006 — This summer, in the major exhibition &quot;Cryptozoology: Out of Time...</p></details>
+   Link:<a href="https://www.absolutearts.com/artsnews/2006/06/23/34000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.absolutearts.com/artsnews/2006/06/23/34000.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>From Nessie to yeti, - Bates College Museum of Art23 Jun 2006 — This summer, in the major exhibition &quot;Cryptozoology: Out of Time...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Cryptozoology Museum: Portland's CREEPIEST Tourist Attraction  
-   Link: <a href="https://www.youtube.com/watch?v=hTRQy9R7qXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hTRQy9R7qXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Cryptozoology Museum now open in Bangor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hTRQy9R7qXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hTRQy9R7qXw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>International Cryptozoology Museum now open in Bangor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: International Cryptozoology Museum  
-   Link: <a href="https://www.youtube.com/watch?v=gVvO9sEloP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gVvO9sEloP8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology Museum: Portland&#x27;s CREEPIEST Tourist Attraction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gVvO9sEloP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gVvO9sEloP8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptozoology Museum: Portland&#x27;s CREEPIEST Tourist Attraction...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Cryptozoology Museum | Travel Channel  
-   Link: <a href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qzd-Xf-CrWQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Cryptozoology Museum - Portland Maine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qzd-Xf-CrWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qzd-Xf-CrWQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>International Cryptozoology Museum - Portland Maine...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: International Cryptozoology Museum  
-   Link: <a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=camXhM9usPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Record Academy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=camXhM9usPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=camXhM9usPk</a><details class="endnote-snippet"><summary>Source snippet</summary><p>World Record Academy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: International Cryptozoology Museum now open in Bangor  
-   Link: <a href="https://www.youtube.com/watch?v=PqZoLTNaHto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PqZoLTNaHto</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PqZoLTNaHto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PqZoLTNaHto</a>  

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:40'
+date:'2026-07-01 12:55:40'
 parent_title: Could Prehistoric Monsters Still Be Alive?
 parent_permalink: /prehistoric-claims/
 parent_nav_short_title: Prehistoric Claims
@@ -280,63 +280,43 @@ image: /assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_
 
 ## Introduction
 
-One of the most important reasons that apparent “late-surviving” prehistoric animals often disappear under scrutiny is a geological process called fossil reworking. A reworked fossil is an old fossil that has been eroded out of its original rock layer and redeposited into a younger sedimentary layer, making it appear younger than it really is. In cryptozoological discussions, this matters because claims that dinosaurs, ammonites, or other extinct groups survived beyond their accepted extinction dates sometimes depend on fossils found in unexpectedly young rocks. Before such finds can be treated as evidence of survival, palaeontologists must determine whether the fossils genuinely belong to the younger deposit or were transported there from older strata. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-dark.svg" | relative_url }}" alt="Reworked fossils illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The distinction is crucial. A dinosaur bone found in a Paleocene rock layer does not automatically mean dinosaurs lived in the Paleocene. It may instead be a Cretaceous bone that was weathered out of older rocks and reburied later. Much of the scientific debate surrounding supposed post-extinction dinosaur fossils has centred on exactly this issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-title">Paleocene non avian dinosaurs</span><span class="citation-popover-snippet">Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</span></span></span>
-
-
+One of the most important reasons that apparent “late-surviving” prehistoric animals often disappear under scrutiny is a geological process called fossil reworking. A reworked fossil is an old fossil that has been eroded out of its original rock layer and redeposited into a younger sedimentary layer, making it appear younger than it really is. In cryptozoological discussions, this matters because claims that dinosaurs, ammonites, or other extinct groups survived beyond their accepted extinction dates sometimes depend on fossils found in unexpectedly young rocks. Before such finds can be treated as evidence of survival, palaeontologists must determine whether the fossils genuinely belong to the younger deposit or were transported there from older strata.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-dark.svg" | relative_url }}" alt="Reworked fossils illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFpwz_TZZZk" title="How Long Did The Dinosaurs Actually Survive After The Asteroid?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer">How Long Did The Dinosaurs Actually Survive After The Asteroid?</a></p><p class="youtube-embed-meta">Channel: ExtinctZoo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFpwz_TZZZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFpwz_TZZZk">Open on YouTube</a></p></div></div></div>
 
 ## How Bones Can Move Between Sediments
 
-Fossils are not permanently fixed in place once they form. Geological processes can expose older fossil-bearing rocks to erosion, releasing bones, shells, teeth, and other remains into rivers, coastal systems, or other environments. Those fossils may then be transported and incorporated into younger sediments. This process is known as reworking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
+Fossils are not permanently fixed in place once they form. Geological processes can expose older fossil-bearing rocks to erosion, releasing bones, shells, teeth, and other remains into rivers, coastal systems, or other environments. Those fossils may then be transported and incorporated into younger sediments. This process is known as reworking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
 
-Several mechanisms can produce reworked fossils: <span class="citation-chip-wrap"><a class="citation-chip" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[vmnhpaleontology.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
+Several mechanisms can produce reworked fossils:<span class="citation-chip-wrap"><a class="citation-chip" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[vmnhpaleontology.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
 
 * **River erosion:** Streams can cut into older fossil-bearing rocks, carry fossil fragments downstream, and deposit them within younger sediments.
 * **Marine erosion:** Rising sea levels or shifting coastlines can erode older seabed deposits and redistribute fossils into younger marine layers.
 * **Storms and currents:** Powerful water movement can excavate older sediments and redeposit their contents elsewhere.
-* **Biological disturbance:** Burrowing organisms can move material vertically through sediments, sometimes complicating the original age relationships. Updates from the Paleontology Lab+2Smithsonian Research Online <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[vmnhpaleontology.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
-
-Taphonomy—the study of what happens to remains between death and discovery—shows that transport and redeposition can mix materials from different times and environments. Fossil assemblages may therefore contain remains that did not originally belong together. Fish, terrestrial animals, plants, and older fossils can all become concentrated within the same deposit through sedimentary processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/taphonomy.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service+2Smithsonian Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Taphonomy—Death &amp; Decay</span><span class="citation-popover-snippet">National Park ServiceTaphonomy—Death &amp; Decay - Fossils and Paleontology...Dec 11, 2024 — Taphonomy is the study of what happens to the r...</span></span></span>
-
+* **Biological disturbance:** Burrowing organisms can move material vertically through sediments, sometimes complicating the original age relationships. Updates from the Paleontology Lab+2Smithsonian Research Online<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[vmnhpaleontology.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Z2a0B3CEYc" title="PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer">PhD Geology Expert: This Fossil Makes It Absolutely CLEAR the Earth Is Young</a></p><p class="youtube-embed-meta">Channel: Institute for Creation Research (ICR)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Z2a0B3CEYc">Open on YouTube</a></p></div></div></div>
 
 ## Why Geological Context Matters More Than the Fossil Alone
 
-A fossil's age is not determined solely by the fossil itself. Palaeontologists evaluate the surrounding geology, sedimentary structures, associated fossils, and dating evidence to establish whether a specimen is in its original position, known as being *in [situ]({{ 'situ/' | relative_url }})*, or has been reworked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-snippet">When paleontologists dig deeper in sedimentary rock they are, in effect, looking...Read more...</span></span></span>
+A fossil's age is not determined solely by the fossil itself. Palaeontologists evaluate the surrounding geology, sedimentary structures, associated fossils, and dating evidence to establish whether a specimen is in its original position, known as being *in [situ]({{'situ/' | relative_url }})*, or has been reworked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-snippet">When paleontologists dig deeper in sedimentary rock they are, in effect, looking...Read more...</span></span></span>
 
-This is why fossil discoveries are documented with such attention to their exact [location]({{ 'location/' | relative_url }}) within a rock layer. If erosion has disturbed the specimen, the apparent age of the surrounding sediment may not represent the age of the fossil itself. A bone that is millions of years older than the deposit containing it can create a false impression of survival beyond an extinction boundary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
+This is why fossil discoveries are documented with such attention to their exact [location]({{'location/' | relative_url }}) within a rock layer. If erosion has disturbed the specimen, the apparent age of the surrounding sediment may not represent the age of the fossil itself. A bone that is millions of years older than the deposit containing it can create a false impression of survival beyond an extinction boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
 
-Researchers look for clues that suggest reworking, including:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Researchers look for clues that suggest reworking, including:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Abrasion, rounding, or weathering inconsistent with the surrounding fossils.
 * Differences in mineralisation compared with other fossils in the same layer.
 * Sedimentary evidence that older material was being eroded nearby.
-* Fossil assemblages that contain species known from very different geological periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Smithsonian Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</span></span></span>
+* Fossil assemblages that contain species known from very different geological periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Smithsonian Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</span></span></span></div>
 
-</div>
-
-The broader geological setting often proves more informative than the specimen itself. A seemingly extraordinary fossil can become far less remarkable when placed within a sedimentary system known to recycle older material.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-dark.svg" | relative_url }}" alt="Reworked fossils illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The broader geological setting often proves more informative than the specimen itself. A seemingly extraordinary fossil can become far less remarkable when placed within a sedimentary system known to recycle older material.<img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-dark.svg" | relative_url }}" alt="Reworked fossils illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Dinosaur Survival Debate and Reworked Fossils
 
-One of the best-known examples involves claims that non-avian dinosaurs survived beyond the end-Cretaceous extinction event. Over the years, several dinosaur bones have been reported from rocks interpreted as Paleocene in age, theoretically placing them after the extinction boundary. Some researchers proposed that small [populations]({{ 'populations/' | relative_url }}) of dinosaurs persisted for a limited time after the mass extinction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Evidence for Paleocene dinosaurs in the Ojo Alamo...January 1, 2002 — These findings indicate that the dinosaur bone from th...</span><span class="citation-popover-meta">Published: January 1, 2002</span></span></span>
+One of the best-known examples involves claims that non-avian dinosaurs survived beyond the end-Cretaceous extinction event. Over the years, several dinosaur bones have been reported from rocks interpreted as Paleocene in age, theoretically placing them after the extinction boundary. Some researchers proposed that small [populations]({{'populations/' | relative_url }}) of dinosaurs persisted for a limited time after the mass extinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Evidence for Paleocene dinosaurs in the Ojo Alamo...January 1, 2002 — These findings indicate that the dinosaur bone from th...</span><span class="citation-popover-meta">Published: January 1, 2002</span></span></span>
 
-However, many subsequent analyses concluded that these fossils were more likely reworked Cretaceous [specimens]({{ 'specimens/' | relative_url }}) rather than evidence of living Paleocene dinosaurs. Reviews of the evidence from the San Juan Basin in New Mexico have argued that purported Paleocene dinosaur remains can be explained by redeposition or by earlier errors in assigning the age of the host rocks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-title">Paleocene non avian dinosaurs</span><span class="citation-popover-snippet">Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</span></span></span>
+However, many subsequent analyses concluded that these fossils were more likely reworked Cretaceous [specimens]({{'specimens/' | relative_url }}) rather than evidence of living Paleocene dinosaurs. Reviews of the evidence from the San Juan Basin in New Mexico have argued that purported Paleocene dinosaur remains can be explained by redeposition or by earlier errors in assigning the age of the host rocks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-title">Paleocene non avian dinosaurs</span><span class="citation-popover-snippet">Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</span></span></span>
 
-The debate illustrates a recurring pattern in palaeontology. An isolated fossil found in younger sediments may initially appear to challenge an established extinction date. Yet when geological context, sedimentology, and taphonomy are examined in detail, the extraordinary claim often becomes unnecessary. Reworking provides a simpler explanation consistent with known geological processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</span></span></span>
-
-Recent work on alleged post-extinction ammonites has followed a similar line of reasoning. Fossils once interpreted as evidence that ammonites survived the Cretaceous–Paleogene boundary have been re-examined in light of redeposition processes, with researchers arguing that transport from older deposits may explain the observations more effectively than genuine survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-34479-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Ammonite survival across the Cretaceous–Paleogene...by M Machalski · 2025 · Cited by 1 — We provide a reassessment of the hypothes...</span></span></span>
-
+The debate illustrates a recurring pattern in palaeontology. An isolated fossil found in younger sediments may initially appear to challenge an established extinction date. Yet when geological context, sedimentology, and taphonomy are examined in detail, the extraordinary claim often becomes unnecessary. Reworking provides a simpler explanation consistent with known geological processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CunN7ARpsAQ" title="Geology: Relative Dating of Rocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer">Geology: Relative Dating of Rocks</a></p><p class="youtube-embed-meta">Channel: Earth Rocks!</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CunN7ARpsAQ">Open on YouTube</a></p></div></div></div>
 
@@ -344,218 +324,34 @@ Recent work on alleged post-extinction ammonites has followed a similar line of 
 
 Cryptozoological claims about surviving dinosaurs or other supposedly extinct prehistoric animals often rely on the idea that the fossil record leaves room for hidden survivors. Reworked fossils demonstrate why palaeontologists are cautious about such arguments.
 
-A fossil found in unexpectedly young rocks is not automatically evidence that a lineage survived longer than believed. The first question is whether the fossil is genuinely contemporary with the younger sediments. Only after reworking and other geological explanations have been excluded can a late-survival hypothesis be taken seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</span></span></span>
+A fossil found in unexpectedly young rocks is not automatically evidence that a lineage survived longer than believed. The first question is whether the fossil is genuinely contemporary with the younger sediments. Only after reworking and other geological explanations have been excluded can a late-survival hypothesis be taken seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</span></span></span>
 
-This does not mean that extinction dates can never be revised. Scientific understanding changes when robust evidence appears. However, the history of alleged post-extinction fossils shows that geological context frequently provides a more convincing explanation than survival. In many cases, what initially looks like a prehistoric animal lingering into a later age turns out to be an older fossil that has simply taken a second journey through the sedimentary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-dark.svg" | relative_url }}" alt="Reworked fossils illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fossils Look Younger Than They Are. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0Dg9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rise and Fall of the Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Dinosaurs">The Rise and Fall of the Dinosaurs</a>
-        </h4>
-        <p class="fr-book-author">By Steve Brusatte</p>
-        
-        <p class="fr-book-desc">Provides context for extinction timing and fossil interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YuC0fRUwnUgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Thomas R. Holtz, Jr.</p>
-        
-        <p class="fr-book-desc">Explains how paleontologists evaluate fossil evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Addresses claims of surviving prehistoric creatures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dinosaur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FOViD-lDPy0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Dinosaur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dinosaur">The Complete Dinosaur</a>
-        </h4>
-        <p class="fr-book-author">By James Orville Farlow, M. K. Brett-Surman</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate claims involving surviving dinosaurs and ancient lineages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Dinosaurs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x"><img src="{{ '/assets/images/marketplace-covers/61a584a2165639835ce4.jpg' | relative_url }}" alt="Listing image for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore"><img src="{{ '/assets/images/marketplace-covers/985bbbe71c82d9eb8ef5.jpg' | relative_url }}" alt="Listing image for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!"><img src="{{ '/assets/images/marketplace-covers/e006626ebe983969c986.jpg' | relative_url }}" alt="Listing image for Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy"><img src="{{ '/assets/images/marketplace-covers/9556729067d269fe5862.jpg' | relative_url }}" alt="Listing image for Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+This does not mean that extinction dates can never be revised. Scientific understanding changes when robust evidence appears. However, the history of alleged post-extinction fossils shows that geological context frequently provides a more convincing explanation than survival. In many cases, what initially looks like a prehistoric animal lingering into a later age turns out to be an older fossil that has simply taken a second journey through the sedimentary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmnhpaleontology.wordpress.com">[Updates from the Paleontology Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmnhpaleontology.wordpress.com</span><span class="citation-popover-title">reworked fossils part 1</span><span class="citation-popover-snippet">Updates from the Paleontology LabReworked fossils, Part 1 &#124; Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-dark.svg" | relative_url }}" alt="Reworked fossils illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_prehistoric_cryptids_55e4ac_reworked_fossil_surv_015628-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to When Fossils Look Younger Than They Are. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0Dg9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rise and Fall of the Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Dinosaurs">The Rise and Fall of the Dinosaurs</a></h4><p class="fr-book-author">By Steve Brusatte</p><p class="fr-book-desc">Provides context for extinction timing and fossil interpretation.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs+by+Steve+Brusatte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dinosaurs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YuC0fRUwnUgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dinosaurs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a></h4><p class="fr-book-author">By Dr. Thomas R. Holtz, Jr.</p><p class="fr-book-desc">Explains how paleontologists evaluate fossil evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Dinosaurs+by+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Addresses claims of surviving prehistoric creatures.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Dinosaur on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FOViD-lDPy0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Dinosaur" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Dinosaur">The Complete Dinosaur</a></h4><p class="fr-book-author">By James Orville Farlow, M. K. Brett-Surman</p><p class="fr-book-popularity">Rating: 3.5/5 from 9 Google Books ratings</p><p class="fr-book-desc">Helps readers evaluate claims involving surviving dinosaurs and ancient lineages.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Complete+Dinosaur+by+James+Orville+Farlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Dinosaurs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x"><img src="{{'/assets/images/marketplace-covers/61a584a2165639835ce4.jpg' | relative_url }}" alt="Listing image for Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology Patch Set UFO cryptid Alien Embroidered Badges Iron On Bundle 4x</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore"><img src="{{'/assets/images/marketplace-covers/985bbbe71c82d9eb8ef5.jpg' | relative_url }}" alt="Listing image for Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Cryptids Cryptozoology, badge set of 4x 32mm metal pin back buttons. folklore</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!"><img src="{{'/assets/images/marketplace-covers/e006626ebe983969c986.jpg' | relative_url }}" alt="Listing image for Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Nicky Davis ARTIST PROOF Chomp. Cryptozoology NYCC 2023. Signed AP! #36 of 75!</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy"><img src="{{'/assets/images/marketplace-covers/9556729067d269fe5862.jpg' | relative_url }}" alt="Listing image for Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">Loch Ness Cryptozoology Embroidered Iron sew on Patch Badge Fancy</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptozoology collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptozoology collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptozoology+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptozoology collectible" data-ebay-reference="reworked-fossils-when-fossils-look-younger-than-they-are-cryptozoology-cryptozoology-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,24 +365,24 @@ This does not mean that extinction dates can never be revised. Scientific unders
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -597,7 +393,7 @@ This does not mean that extinction dates can never be revised. Scientific unders
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -605,45 +401,43 @@ This does not mean that extinction dates can never be revised. Scientific unders
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -659,10 +453,10 @@ This does not mean that extinction dates can never be revised. Scientific unders
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -682,11 +476,11 @@ This does not mean that extinction dates can never be revised. Scientific unders
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -695,16 +489,16 @@ This does not mean that extinction dates can never be revised. Scientific unders
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,9 +512,9 @@ This does not mean that extinction dates can never be revised. Scientific unders
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -739,166 +533,136 @@ This does not mean that extinction dates can never be revised. Scientific unders
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cretaceous–Paleogene extinction event  
-   Link: <a href="https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cretaceous–Paleogene extinction eventThe event caused the extinction of all of the non-avian dinosaurs and most other tetrapods weighi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Cretaceous–Paleogene extinction eventThe event caused the extinction of all of the non-avian dinosaurs and most other tetrapods weighi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255132637_Evidence_of_Reworked_Cretaceous_Fossils_and_Their_Bearing_on_the_Existence_of_Tertiary_Dinosaurs</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Taphonomic analysis assessing the degree of abrasion on fossil specimens from reworked sediments may approximate distance of transport or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Paleocene dinosaurs in the Ojo Alamo...January 1, 2002 — These findings indicate that the dinosaur bone from th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282238650_Dinosaurs_that_did_not_die_Evidence_for_Paleocene_dinosaurs_in_the_Ojo_Alamo_Sandstone_San_Juan_Basin_New_Mexico</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Paleocene dinosaurs in the Ojo Alamo...January 1, 2002 — These findings indicate that the dinosaur bone from th...</p></details>
    Published: January 1, 2002  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-34479-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-34479-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ammonite survival across the Cretaceous–Paleogene...by M Machalski · 2025 · Cited by 1 — We provide a reassessment of the hypothes...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-34479-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-34479-1</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ammonite survival across the Cretaceous–Paleogene...by M Machalski · 2025 · Cited by 1 — We provide a reassessment of the hypothes...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fossil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fossil</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FossilReworked fossils are created by erosion exhuming (freeing) fossils from the rock formation in which they were originally deposit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fossil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fossil</a><details class="endnote-snippet"><summary>Source snippet</summary><p>FossilReworked fossils are created by erosion exhuming (freeing) fossils from the rock formation in which they were originally deposit...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Sedimentary rock  
-   Link: <a href="https://en.wikipedia.org/wiki/Sedimentary_rock" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sedimentary_rock</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sedimentary rockAs sediments accumulate in a depositional environment, older sediments are buried by younger sediments, and they under...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sedimentary_rock" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sedimentary_rock</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Sedimentary rockAs sediments accumulate in a depositional environment, older sediments are buried by younger sediments, and they under...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Taphonomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taphonomy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TaphonomyTaphonomy is the study of how organisms decay and become fossilized or preserved in the paleontological record. The term taph...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Taphonomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taphonomy</a><details class="endnote-snippet"><summary>Source snippet</summary><p>TaphonomyTaphonomy is the study of how organisms decay and become fossilized or preserved in the paleontological record. The term taph...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/285337364_Taphonomy_and_Paleoecology_A_Critical_Review_of_Archaeology%27s_Sister_Disciplines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285337364_Taphonomy_and_Paleoecology_A_Critical_Review_of_Archaeology%27s_Sister_Disciplines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A. Efremov from the Greek words for tomb or burial—taphos—and for law or systems of laws—nomos—to...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/285337364_Taphonomy_and_Paleoecology_A_Critical_Review_of_Archaeology%27s_Sister_Disciplines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285337364_Taphonomy_and_Paleoecology_A_Critical_Review_of_Archaeology%27s_Sister_Disciplines</a><details class="endnote-snippet"><summary>Source snippet</summary><p>A. Efremov from the Greek words for tomb or burial—taphos—and for law or systems of laws—nomos—to...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/glossary-of-paleontological-terms.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceGlossary of Paleontological Terms - Fossils and...Aug 13, 2024 — Reworked (geology), A fossil or other object that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vmnhpaleontology.wordpress.com  
    Title: reworked fossils part 1  
-   Link: <a href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates from the Paleontology LabReworked fossils, Part 1 | Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</p></details>
+   Link:<a href="https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://vmnhpaleontology.wordpress.com/2010/09/28/reworked-fossils-part-1/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Updates from the Paleontology LabReworked fossils, Part 1 | Updates from the Paleontology LabSep 28, 2010 — It simply means that the foss...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubs.geoscienceworld.org  
    Title: Paleocene non avian dinosaurs  
-   Link: <a href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</p></details>
+   Link:<a href="https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/sgi/italianjgeo/article/144/2/147/659200/Paleocene-non-avian-dinosaurs</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience WorldPaleocene non-avian dinosaurs21 Feb 2025 — So, the various claims of Paleocene dinosaur fossils in the San Juan Basin hav...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: repository.si.edu  
    Title: Smithsonian Research Online Taphonomy  
-   Link: <a href="https://repository.si.edu/bitstreams/c2474480-068e-4881-a956-2c6ef8a67f71/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.si.edu/bitstreams/c2474480-068e-4881-a956-2c6ef8a67f71/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Research OnlineTaphonomy - Smithsonian Research Onlineby AK Behrensmeyer · 2021 · Cited by 35 — Remains from animals living i...</p></details>
+   Link:<a href="https://repository.si.edu/bitstreams/c2474480-068e-4881-a956-2c6ef8a67f71/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.si.edu/bitstreams/c2474480-068e-4881-a956-2c6ef8a67f71/download</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Research OnlineTaphonomy - Smithsonian Research Onlineby AK Behrensmeyer · 2021 · Cited by 35 — Remains from animals living i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nps.gov  
    Title: National Park Service Taphonomy—Death & Decay  
-   Link: <a href="https://www.nps.gov/subjects/fossils/taphonomy.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/taphonomy.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceTaphonomy—Death &amp; Decay - Fossils and Paleontology...Dec 11, 2024 — Taphonomy is the study of what happens to the r...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/fossils/taphonomy.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/taphonomy.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceTaphonomy—Death &amp; Decay - Fossils and Paleontology...Dec 11, 2024 — Taphonomy is the study of what happens to the r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amnh.org  
-   Link: <a href="https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When paleontologists dig deeper in sedimentary rock they are, in effect, looking...Read more...</p></details>
+   Link:<a href="https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/exhibitions/permanent/human-origins/understanding-our-past/fossil-dating-methods</a><details class="endnote-snippet"><summary>Source snippet</summary><p>When paleontologists dig deeper in sedimentary rock they are, in effect, looking...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bgs.ac.uk  
-   Link: <a href="https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/fossils/" target="_blank" rel="noopener noreferrer nofollow">https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/fossils/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Geological SurveyFossils are the preserved remains of plants and animals whose bodies were buried in sediments, such as sand and...</p></details>
+   Link:<a href="https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/fossils/" target="_blank" rel="noopener noreferrer nofollow">https://www.bgs.ac.uk/discovering-geology/fossils-and-geological-time/fossils/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>British Geological SurveyFossils are the preserved remains of plants and animals whose bodies were buried in sediments, such as sand and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nps.gov  
    Title: case study grand canyon evolution  
-   Link: <a href="https://www.nps.gov/subjects/fossils/case-study-grand-canyon-evolution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/case-study-grand-canyon-evolution.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Grand Canyon Evolution through the AgesFeb 28, 2025 — This park contains fossiliferous sedimentary rocks that range in age fr...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/fossils/case-study-grand-canyon-evolution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/case-study-grand-canyon-evolution.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Grand Canyon Evolution through the AgesFeb 28, 2025 — This park contains fossiliferous sedimentary rocks that range in age fr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nps.gov  
    Title: fossils and evolution  
-   Link: <a href="https://www.nps.gov/subjects/fossils/fossils-and-evolution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/fossils-and-evolution.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Feb 2025 — Older rock layers contain fossils of simpler organisms and younger rock layers contain those of more complex and more moder...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/fossils/fossils-and-evolution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/fossils-and-evolution.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>28 Feb 2025 — Older rock layers contain fossils of simpler organisms and younger rock layers contain those of more complex and more moder...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nps.gov  
    Title: A Fossil's Journey  
-   Link: <a href="https://www.nps.gov/teachers/classrooms/a-fossil-s-journey.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/teachers/classrooms/a-fossil-s-journey.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)Apr 15, 2020 — A fossil can be defined as any naturally occurring evidence of past life. Fossils need not be minera...</p></details>
+   Link:<a href="https://www.nps.gov/teachers/classrooms/a-fossil-s-journey.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/teachers/classrooms/a-fossil-s-journey.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)Apr 15, 2020 — A fossil can be defined as any naturally occurring evidence of past life. Fossils need not be minera...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nps.gov  
    Title: volcanoes and fossils  
-   Link: <a href="https://www.nps.gov/subjects/fossils/volcanoes-and-fossils.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/volcanoes-and-fossils.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 11, 2024 — Ash deposits like any other type of sediment can be reworked and redistributed by rivers and streams. Since volcanic ash i...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/fossils/volcanoes-and-fossils.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/fossils/volcanoes-and-fossils.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 11, 2024 — Ash deposits like any other type of sediment can be reworked and redistributed by rivers and streams. Since volcanic ash i...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: opengeology.org  
-   Link: <a href="https://opengeology.org/historicalgeology/geologic-time/" target="_blank" rel="noopener noreferrer nofollow">https://opengeology.org/historicalgeology/geologic-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time – Historical GeologyThe oldest well-understood fossils are from rocks dating back to around 600 Ma, and the sedimentary rec...</p></details>
+   Link:<a href="https://opengeology.org/historicalgeology/geologic-time/" target="_blank" rel="noopener noreferrer nofollow">https://opengeology.org/historicalgeology/geologic-time/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time – Historical GeologyThe oldest well-understood fossils are from rocks dating back to around 600 Ma, and the sedimentary rec...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: epgp.inflibnet.ac.in  
-   Link: <a href="https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000001AN/P001775/M024488/ET/1508923009Quadrant1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000001AN/P001775/M024488/ET/1508923009Quadrant1.pdf</a>  
+   Link:<a href="https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000001AN/P001775/M024488/ET/1508923009Quadrant1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000001AN/P001775/M024488/ET/1508923009Quadrant1.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: publishing.cdlib.org  
-   Link: <a href="https://publishing.cdlib.org/ucpressebooks/public/book/the-bug-creek-problem-and-the-cretaceous-tertiary-transition-at-mcguire-creek-montana.html" target="_blank" rel="noopener noreferrer nofollow">https://publishing.cdlib.org/ucpressebooks/public/book/the-bug-creek-problem-and-the-cretaceous-tertiary-transition-at-mcguire-creek-montana.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bug Creek Problem and the Cretaceous-Tertiary...Reworking of Fossils: I concluded that Bug Creek assemblages certainly contain reworked...</p></details>
+   Link:<a href="https://publishing.cdlib.org/ucpressebooks/public/book/the-bug-creek-problem-and-the-cretaceous-tertiary-transition-at-mcguire-creek-montana.html" target="_blank" rel="noopener noreferrer nofollow">https://publishing.cdlib.org/ucpressebooks/public/book/the-bug-creek-problem-and-the-cretaceous-tertiary-transition-at-mcguire-creek-montana.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bug Creek Problem and the Cretaceous-Tertiary...Reworking of Fossils: I concluded that Bug Creek assemblages certainly contain reworked...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CunN7ARpsAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geology: Relative Dating of RocksFor an introductory college-level earth sciences class: a review of relative dating principles for arran...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CunN7ARpsAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CunN7ARpsAQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Geology: Relative Dating of RocksFor an introductory college-level earth sciences class: a review of relative dating principles for arran...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Z2a0B3CEYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhD Geology Expert: This Fossil Makes It Absolutely CLEAR...Buried in the grounds of the Canadian high arctic, scientists have found the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Z2a0B3CEYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Z2a0B3CEYc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>PhD Geology Expert: This Fossil Makes It Absolutely CLEAR...Buried in the grounds of the Canadian high arctic, scientists have found the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: earthathome.org  
-   Link: <a href="https://earthathome.org/quick-faqs/how-do-scientists-date-rocks-and-fossils/" target="_blank" rel="noopener noreferrer nofollow">https://earthathome.org/quick-faqs/how-do-scientists-date-rocks-and-fossils/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do scientists date rocks and fossils?Relative age dating is used to determine whether one rock layer (or the fossils in it) are older...</p></details>
+   Link:<a href="https://earthathome.org/quick-faqs/how-do-scientists-date-rocks-and-fossils/" target="_blank" rel="noopener noreferrer nofollow">https://earthathome.org/quick-faqs/how-do-scientists-date-rocks-and-fossils/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>How do scientists date rocks and fossils?Relative age dating is used to determine whether one rock layer (or the fossils in it) are older...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Paleontology/comments/1iudcnu/if_a_fossil_of_nonavian_dinosaur_that_was_younger/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paleontology/comments/1iudcnu/if_a_fossil_of_nonavian_dinosaur_that_was_younger/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ears after the K/T impact, the [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) would ABSOLUTELY dub the island Skull Island.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Paleontology/comments/1iudcnu/if_a_fossil_of_nonavian_dinosaur_that_was_younger/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paleontology/comments/1iudcnu/if_a_fossil_of_nonavian_dinosaur_that_was_younger/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>ears after the K/T impact, the [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) would ABSOLUTELY dub the island Skull Island.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: I don't understand how rocks are aged specifically  
-   Link: <a href="https://www.reddit.com/r/geology/comments/1cg9fox/i_dont_understand_how_rocks_are_aged_specifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1cg9fox/i_dont_understand_how_rocks_are_aged_specifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aren&#x27;...The chart of rock layers confuses me, because even if something is in a layer, wasn&#x27;t it somewhere else earlier? Is there an &quot;ex...</p></details>
+   Link:<a href="https://www.reddit.com/r/geology/comments/1cg9fox/i_dont_understand_how_rocks_are_aged_specifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1cg9fox/i_dont_understand_how_rocks_are_aged_specifically/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Aren&#x27;...The chart of rock layers confuses me, because even if something is in a layer, wasn&#x27;t it somewhere else earlier? Is there an &quot;ex...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: opengeology.org  
-   Link: <a href="https://opengeology.org/historicalgeology/tools-of-historical-geology/fossil-taphonomy/" target="_blank" rel="noopener noreferrer nofollow">https://opengeology.org/historicalgeology/tools-of-historical-geology/fossil-taphonomy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taphonomy: The Science of Death and DecayTaphonomy is the subdiscipline of paleontology related to the processes of fossilization...</p></details>
+   Link:<a href="https://opengeology.org/historicalgeology/tools-of-historical-geology/fossil-taphonomy/" target="_blank" rel="noopener noreferrer nofollow">https://opengeology.org/historicalgeology/tools-of-historical-geology/fossil-taphonomy/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Taphonomy: The Science of Death and DecayTaphonomy is the subdiscipline of paleontology related to the processes of fossilization...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Paleontology/comments/u5dewe/any_papers_or_studies_on_erosion_and_redeposition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paleontology/comments/u5dewe/any_papers_or_studies_on_erosion_and_redeposition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re eroded out and reburied in the layer they were discovered?...</p></details>
+   Link:<a href="https://www.reddit.com/r/Paleontology/comments/u5dewe/any_papers_or_studies_on_erosion_and_redeposition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paleontology/comments/u5dewe/any_papers_or_studies_on_erosion_and_redeposition/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>re eroded out and reburied in the layer they were discovered?...</p></details>

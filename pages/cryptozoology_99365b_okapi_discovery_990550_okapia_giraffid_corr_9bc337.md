@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 12:55:53'
+date:'2026-07-01 12:55:53'
 parent_title: Why the Okapi Became Real Science
 parent_permalink: /okapi/
 parent_nav_short_title: Okapi
@@ -280,22 +280,16 @@ image: /assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffi
 
 ## Introduction
 
-The crucial step in making the [okapi]({{ 'okapi/' | relative_url }}) scientifically intelligible was not finding a living animal in the forest. It was recognising that the animal belonged to a known mammalian lineage. Early reports and striped skins encouraged comparisons with horses and zebras, leading to the provisional name *Equus johnstoni*. That interpretation changed when skulls and other anatomical material reached zoologists. The evidence showed that the okapi was not an unknown kind of horse at all, but a highly unusual member of the giraffe family, now known as *Okapia johnstoni*. This taxonomic correction transformed the animal from a mystery creature into a testable biological species and remains one of the clearest examples of how anatomy can resolve cryptozoological uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-dark.svg" | relative_url }}" alt="Giraffid Link illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The crucial step in making the [okapi]({{'okapi/' | relative_url }}) scientifically intelligible was not finding a living animal in the forest. It was recognising that the animal belonged to a known mammalian lineage. Early reports and striped skins encouraged comparisons with horses and zebras, leading to the provisional name *Equus johnstoni*. That interpretation changed when skulls and other anatomical material reached zoologists. The evidence showed that the okapi was not an unknown kind of horse at all, but a highly unusual member of the giraffe family, now known as *Okapia johnstoni*. This taxonomic correction transformed the animal from a mystery creature into a testable biological species and remains one of the clearest examples of how anatomy can resolve cryptozoological uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-dark.svg" | relative_url }}" alt="Giraffid Link illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Skull Evidence Behind the Correction
 
-The decisive evidence came from the skull. Early descriptions based on skins and second-hand accounts emphasised striped hindquarters, making a zebra relationship seem plausible. However, once complete cranial material became available, the horse hypothesis quickly became difficult to defend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The decisive evidence came from the skull. Early descriptions based on skins and second-hand accounts emphasised striped hindquarters, making a zebra relationship seem plausible. However, once complete cranial material became available, the horse hypothesis quickly became difficult to defend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Several anatomical features pointed away from equids and towards giraffids:
 
-* The skull carried ossicones, skin-covered bony structures characteristic of giraffes and their relatives rather than horses. Male okapis possess these structures, which are fundamentally different from horns or antlers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2IELC LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* The animal possessed the cloven-hoof anatomy expected of an even-toed ungulate rather than the single-toed foot structure of horses. Johnston himself realised this when [tracks]({{ 'tracks/' | relative_url }}) revealed an artiodactyl, not an equid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Okapia_johnstoni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Okapia johnstoni</span><span class="citation-popover-snippet">Okapia johnstoni</span></span></span>
-* Cranial proportions and dental characteristics aligned more closely with giraffids than with horses. Subsequent anatomical work strengthened that interpretation and justified placing the species in its own giraffid genus, *Okapia*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-The importance of the skull evidence was that it supplied a comparative framework. Zoologists no longer had to ask whether the okapi represented an entirely unprecedented mammal. Instead, they could compare it directly with giraffes and fossil giraffids already known from museums and scientific collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
+* The skull carried ossicones, skin-covered bony structures characteristic of giraffes and their relatives rather than horses. Male okapis possess these structures, which are fundamentally different from horns or antlers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2IELC LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* The animal possessed the cloven-hoof anatomy expected of an even-toed ungulate rather than the single-toed foot structure of horses. Johnston himself realised this when [tracks]({{'tracks/' | relative_url }}) revealed an artiodactyl, not an equid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Okapia_johnstoni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Okapia johnstoni</span><span class="citation-popover-snippet">Okapia johnstoni</span></span></span>
+* Cranial proportions and dental characteristics aligned more closely with giraffids than with horses. Subsequent anatomical work strengthened that interpretation and justified placing the species in its own giraffid genus, *Okapia*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTui14SrjC8" title="The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer">The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTui14SrjC8">Open on YouTube</a></p></div></div></div>
 
@@ -303,248 +297,50 @@ The importance of the skull evidence was that it supplied a comparative framewor
 
 The reclassification did more than correct a name. It changed the scientific question itself.
 
-A horse-like mystery animal implied the possibility of a radically unexpected large mammal. A giraffid interpretation suggested something different: a specialised forest relative of a familiar African lineage. The animal still looked surprising, but it no longer sat outside biological expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A horse-like mystery animal implied the possibility of a radically unexpected large mammal. A giraffid interpretation suggested something different: a specialised forest relative of a familiar African lineage. The animal still looked surprising, but it no longer sat outside biological expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Several characteristics made sense once the giraffid relationship was recognised:
+Several characteristics made sense once the giraffid relationship was recognised:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
-* The long, prehensile tongue resembles the browsing adaptations seen in giraffes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* Ossicones fit a giraffid pattern rather than any horse-like anatomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* Shared locomotor features and aspects of skull structure linked the species with giraffes despite its much shorter neck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* Fossil giraffids provided evolutionary context for understanding how a forest-adapted form could differ dramatically from the tall savannah giraffe while remaining part of the same family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-</div>
-
-In other words, the giraffid placement converted apparent strangeness into evolutionary variation. The okapi stopped being an anomaly without relatives and became a branch of a recognised family tree. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7151920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MF Bertelsen · 2014 · Cited by 56 — Two species exist within the artiodactylid family of Giraffidae; the giraffe (Giraffa camelopar...</span></span></span>
-
+* The long, prehensile tongue resembles the browsing adaptations seen in giraffes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Ossicones fit a giraffid pattern rather than any horse-like anatomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Shared locomotor features and aspects of skull structure linked the species with giraffes despite its much shorter neck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Fossil giraffids provided evolutionary context for understanding how a forest-adapted form could differ dramatically from the tall savannah giraffe while remaining part of the same family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GDFKH42Sseg" title="Okapi :The Secret Giraffe of the Congo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer">Okapi :The Secret Giraffe of the Congo</a></p><p class="youtube-embed-meta">Channel: The Shoebill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GDFKH42Sseg">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-3-dark.svg" | relative_url }}" alt="Giraffid Link illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-2-dark.svg" | relative_url }}" alt="Giraffid Link illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_okapi_discovery_990550_okapia_giraffid_corr_9bc337-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Taxonomic Fit as a Cryptid Reality Check
 
-For [cryptozoology]({{ 'cryptozoology/' | relative_url }}), the okapi is often cited as [proof]({{ 'proof/' | relative_url }}) that mysterious animals can be real. The giraffid correction reveals a more precise lesson.
+For [cryptozoology]({{'cryptozoology/' | relative_url }}), the okapi is often cited as [proof]({{'proof/' | relative_url }}) that mysterious animals can be real. The giraffid correction reveals a more precise lesson.
 
-The okapi did not enter science because reports of a strange forest creature persisted. It entered science because anatomical evidence allowed the animal to be fitted into an existing biological framework. Physical remains generated predictions about anatomy, relationships, behaviour, and evolution that could be tested against additional [specimens]({{ 'specimens/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The okapi did not enter science because reports of a strange forest creature persisted. It entered science because anatomical evidence allowed the animal to be fitted into an existing biological framework. Physical remains generated predictions about anatomy, relationships, behaviour, and evolution that could be tested against additional [specimens]({{'specimens/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-This is an important distinction. A cryptid claim becomes scientifically stronger when it gains taxonomic coherence. Once zoologists recognised giraffid traits in the okapi, they could evaluate the animal using comparative anatomy rather than speculation. The mystery narrowed. Instead of asking, “What could this creature be?”, researchers could ask, “How does this animal relate to known giraffids?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in zoological discovery. Unknown animals become scientifically credible not merely when they are reported, but when their anatomy places them within a testable evolutionary context. In the okapi’s case, the move from “forest horse” to “forest giraffid” was the turning point that made the species make sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
+This is an important distinction. A cryptid claim becomes scientifically stronger when it gains taxonomic coherence. Once zoologists recognised giraffid traits in the okapi, they could evaluate the animal using comparative anatomy rather than speculation. The mystery narrowed. Instead of asking, “What could this creature be?”, researchers could ask, “How does this animal relate to known giraffids?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bzgfNMXdOfc" title="“Okapi: The Forest Giraffe of the Congo”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer">“Okapi: The Forest Giraffe of the Congo”</a></p><p class="youtube-embed-meta">Channel: Rewilding the future</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bzgfNMXdOfc">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Anatomy Made the Okapi Make Sense. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdon Field Guide to African Mammals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gcrBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kingdon Field Guide to African Mammals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdon Field Guide to African Mammals">The Kingdon Field Guide to African Mammals</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Kingdon</p>
-        
-        <p class="fr-book-desc">Explains the giraffid placement and anatomy of the okapi.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kingdon+Field+Guide+to+African+Mammals+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mammals of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_07noCPc4kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mammals of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mammals of Africa">Mammals of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Kingdon, David Happold et al.</p>
-        
-        <p class="fr-book-desc">Details the anatomical evidence that resolved classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Evolution is True on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J91Z6ED7MgEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Evolution is True" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Evolution is True">Why Evolution is True</a>
-        </h4>
-        <p class="fr-book-author">By Jerry A. Coyne</p>
-        
-        <p class="fr-book-desc">Illustrates how biological relationships are inferred from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Shows how stronger evidence resolves zoological uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kingdon+Field+to+African+Mammals+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kingdon Field to African Mammals books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mammals+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mammals of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e8dd4f2ae77e79a794de.jpg' | relative_url }}" alt="Listing image for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)"><img src="{{ '/assets/images/marketplace-covers/f5f32acb71c59b938d9f.jpg' | relative_url }}" alt="Listing image for &#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Copenhagen Zoo Okapi Poster A3/A4 Print"><img src="{{ '/assets/images/marketplace-covers/2f4ec27628c3ce74a3a1.jpg' | relative_url }}" alt="Listing image for Vintage Copenhagen Zoo Okapi Poster A3/A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Copenhagen Zoo Okapi Poster A3/A4 Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11e0a961ca2bfba3061a.jpg' | relative_url }}" alt="Listing image for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mammals of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_07noCPc4kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mammals of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mammals of Africa">Mammals of Africa</a></h4><p class="fr-book-author">By Jonathan Kingdon, David Happold et al.</p><p class="fr-book-desc">Details the anatomical evidence that resolved classification.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Mammals+of+Africa+by+Jonathan+Kingdon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Evolution is True on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J91Z6ED7MgEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Evolution is True" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Evolution is True">Why Evolution is True</a></h4><p class="fr-book-author">By Jerry A. Coyne</p><p class="fr-book-desc">Illustrates how biological relationships are inferred from evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Why+Evolution+is+True+by+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Shows how stronger evidence resolves zoological uncertainty.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kingdon+Field+to+African+Mammals+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kingdon Field to African Mammals books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mammals+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mammals of Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/e8dd4f2ae77e79a794de.jpg' | relative_url }}" alt="Listing image for Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Okapi Chef Portrait Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)"><img src="{{'/assets/images/marketplace-covers/f5f32acb71c59b938d9f.jpg' | relative_url }}" alt="Listing image for &#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Okapi&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP016003)</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Copenhagen Zoo Okapi Poster A3/A4 Print"><img src="{{'/assets/images/marketplace-covers/2f4ec27628c3ce74a3a1.jpg' | relative_url }}" alt="Listing image for Vintage Copenhagen Zoo Okapi Poster A3/A4 Print" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Copenhagen Zoo Okapi Poster A3/A4 Print</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/11e0a961ca2bfba3061a.jpg' | relative_url }}" alt="Listing image for Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">Skater Okapi Framed Art Print Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for okapi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: okapi poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=okapi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="okapi poster" data-ebay-reference="giraffid-link-how-anatomy-made-the-okapi-make-sense-cryptozoology-okapi-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,24 +354,24 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -586,7 +382,7 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -594,45 +390,43 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -648,10 +442,10 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -671,11 +465,11 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -684,16 +478,16 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,9 +501,9 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -728,117 +522,99 @@ The history of *Okapia johnstoni* therefore illustrates a recurring mechanism in
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Okapia johnstoni  
-   Link: <a href="https://es.wikipedia.org/wiki/Okapia_johnstoni" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Okapia_johnstoni</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Okapia_johnstoni" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Okapia_johnstoni</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ossicone</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ossicone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ossicone</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ielc.libguides.com  
-   Link: <a href="https://ielc.libguides.com/sdzg/factsheets/okapi/characteristics" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/characteristics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Note the skin-covered ossicones. These show the okapi is related to giraffes, which also have these...Read more...</p></details>
+   Link:<a href="https://ielc.libguides.com/sdzg/factsheets/okapi/characteristics" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/characteristics</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Note the skin-covered ossicones. These show the okapi is related to giraffes, which also have these...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Giraffidae" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giraffidae</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Giraffidae" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Giraffidae</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Cervical Osteology of Okapia johnstoni and Giraffa  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4547811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4547811/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Danowitz · 2015 · Cited by 27 — We compare the serial morphologic characteristics of the okapi and giraffe cervical vertebrae, an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4547811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4547811/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>by M Danowitz · 2015 · Cited by 27 — We compare the serial morphologic characteristics of the okapi and giraffe cervical vertebrae, an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7151920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7151920/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MF Bertelsen · 2014 · Cited by 56 — Two species exist within the artiodactylid family of Giraffidae; the giraffe (Giraffa camelopar...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7151920/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7151920/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>by MF Bertelsen · 2014 · Cited by 56 — Two species exist within the artiodactylid family of Giraffidae; the giraffe (Giraffa camelopar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ielc.libguides.com  
-   Link: <a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain forest habitats) unti...</p></details>
+   Link:<a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain forest habitats) unti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tetzoo.com  
    Title: the discovery of the okapi part 1  
-   Link: <a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — Sclater&#x27;s &#x27;forest horse&#x27; Equus johnstoni clearly pertained to the same sp...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — Sclater&#x27;s &#x27;forest horse&#x27; Equus johnstoni clearly pertained to the same sp...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gbif.org  
-   Link: <a href="https://www.gbif.org/zh-tw/species/113392070" target="_blank" rel="noopener noreferrer nofollow">https://www.gbif.org/zh-tw/species/113392070</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Okapia johnstoni (P.L.Sclater, 1901)From this skull, the okapi was correctly classified as a relative of the giraffe; in 1901, the specie...</p></details>
+   Link:<a href="https://www.gbif.org/zh-tw/species/113392070" target="_blank" rel="noopener noreferrer nofollow">https://www.gbif.org/zh-tw/species/113392070</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Okapia johnstoni (P.L.Sclater, 1901)From this skull, the okapi was correctly classified as a relative of the giraffe; in 1901, the specie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11658530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11658530/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>up–Four Giraffa species have distinct cranial morphologyby N Kargopoulos · 2024 · Cited by 20 — The differences mainly concern the ossico...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11658530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11658530/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>up–Four Giraffa species have distinct cranial morphologyby N Kargopoulos · 2024 · Cited by 20 — The differences mainly concern the ossico...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). eaza.net  
+12.<a id="endnote-12"></a>
+   Source: [media](&#123;&#123;'media/' | relative_url &#125;&#125;). eaza.net  
    Title: 2024 EAZA Okapi Best Practice Guidelines APPROVED c901c668ed  
-   Link: <a href="https://media.eaza.net/uploads/2024_EAZA_Okapi_Best_Practice_Guidelines_APPROVED_c901c668ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.eaza.net/uploads/2024_EAZA_Okapi_Best_Practice_Guidelines_APPROVED_c901c668ed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practice GuidelinesThe backbone of these current EAZA best practice guidelines is the information present in the SSP Okapi Husbandry Manu...</p></details>
+   Link:<a href="https://media.eaza.net/uploads/2024_EAZA_Okapi_Best_Practice_Guidelines_APPROVED_c901c668ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.eaza.net/uploads/2024_EAZA_Okapi_Best_Practice_Guidelines_APPROVED_c901c668ed.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Practice GuidelinesThe backbone of these current EAZA best practice guidelines is the information present in the SSP Okapi Husbandry Manu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faunafocus.com  
-   Link: <a href="https://faunafocus.com/portfolio/okapi/" target="_blank" rel="noopener noreferrer nofollow">https://faunafocus.com/portfolio/okapi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the three or four of the giraffe. Okapi also...Read more...</p></details>
+   Link:<a href="https://faunafocus.com/portfolio/okapi/" target="_blank" rel="noopener noreferrer nofollow">https://faunafocus.com/portfolio/okapi/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>to the three or four of the giraffe. Okapi also...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/2/11/150521/7276/The-cervical-anatomy-of-Samotherium-an" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/2/11/150521/7276/The-cervical-anatomy-of-Samotherium-an</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cervical anatomy of Samotherium, an intermediate...1 Nov 2015 — However, the only other living giraffid, the okapi (Okapia johnstoni...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/2/11/150521/7276/The-cervical-anatomy-of-Samotherium-an" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/2/11/150521/7276/The-cervical-anatomy-of-Samotherium-an</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The cervical anatomy of Samotherium, an intermediate...1 Nov 2015 — However, the only other living giraffid, the okapi (Okapia johnstoni...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tb.plazi.org  
-   Link: <a href="https://tb.plazi.org/GgServer/html/039F7D71A96CAD1C081CF80D7046DAD4" target="_blank" rel="noopener noreferrer nofollow">https://tb.plazi.org/GgServer/html/039F7D71A96CAD1C081CF80D7046DAD4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>johnstoni (Sclater, 1901)27 Nov 2024 — The body shape resembles that of the Giraffe, except that Okapis have much shorter necks. The pela...</p></details>
+   Link:<a href="https://tb.plazi.org/GgServer/html/039F7D71A96CAD1C081CF80D7046DAD4" target="_blank" rel="noopener noreferrer nofollow">https://tb.plazi.org/GgServer/html/039F7D71A96CAD1C081CF80D7046DAD4</a><details class="endnote-snippet"><summary>Source snippet</summary><p>johnstoni (Sclater, 1901)27 Nov 2024 — The body shape resembles that of the Giraffe, except that Okapis have much shorter necks. The pela...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100072727746445/posts/one-family-two-worlds-the-giraffe-and-the-okapi-separated-by-millions-of-years-o/928656029568647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100072727746445/posts/one-family-two-worlds-the-giraffe-and-the-okapi-separated-by-millions-of-years-o/928656029568647/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One Family, Two Worlds: The Giraffe and the Okapi 💭🦒...Both belong to the Giraffidae family, sharing a common ancestry despite their dis...</p></details>
+   Link:<a href="https://www.facebook.com/100072727746445/posts/one-family-two-worlds-the-giraffe-and-the-okapi-separated-by-millions-of-years-o/928656029568647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100072727746445/posts/one-family-two-worlds-the-giraffe-and-the-okapi-separated-by-millions-of-years-o/928656029568647/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>One Family, Two Worlds: The Giraffe and the Okapi 💭🦒...Both belong to the Giraffidae family, sharing a common ancestry despite their dis...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: perinataldiscovery.ucsd.edu  
-   Link: <a href="https://perinataldiscovery.ucsd.edu/comparative-placentation/species-index/mammalia/order-artiodactyla/okapi/index.html" target="_blank" rel="noopener noreferrer nofollow">https://perinataldiscovery.ucsd.edu/comparative-placentation/species-index/mammalia/order-artiodactyla/okapi/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>okapi is a rare, beautiful animal from the dense forests of the Congo. Its position in nature has been disputed ever since it was discove...</p></details>
+   Link:<a href="https://perinataldiscovery.ucsd.edu/comparative-placentation/species-index/mammalia/order-artiodactyla/okapi/index.html" target="_blank" rel="noopener noreferrer nofollow">https://perinataldiscovery.ucsd.edu/comparative-placentation/species-index/mammalia/order-artiodactyla/okapi/index.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>okapi is a rare, beautiful animal from the dense forests of the Congo. Its position in nature has been disputed ever since it was discove...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387223059_Heads_up-Four_Giraffa_species_have_distinct_cranial_morphology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387223059_Heads_up-Four_Giraffa_species_have_distinct_cranial_morphology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Heads up–Four Giraffa species have distinct cranial...19 Dec 2024 — Okapia&#x27;s ossicones are also different in that the shaft is smo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387223059_Heads_up-Four_Giraffa_species_have_distinct_cranial_morphology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387223059_Heads_up-Four_Giraffa_species_have_distinct_cranial_morphology</a><details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Heads up–Four Giraffa species have distinct cranial...19 Dec 2024 — Okapia&#x27;s ossicones are also different in that the shaft is smo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: “Okapi: The Forest Giraffe of the Congo”  
-   Link: <a href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bzgfNMXdOfc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bzgfNMXdOfc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bzgfNMXdOfc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The History Guy Podcast - Unique Animals: Pere David&#x27;s Deer and Okapi Johnstoni...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Okapi:The Secret Giraffe of the Congo  
-   Link: <a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GDFKH42Sseg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Okapi: The Forest Giraffe of the Congo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GDFKH42Sseg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GDFKH42Sseg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Okapi: The Forest Giraffe of the Congo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The History Guy Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qTui14SrjC8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=qTui14SrjC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qTui14SrjC8</a>  

@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-07-01 19:54:19'
+date:'2026-07-01 19:54:19'
 parent_title: Cryptozoology
 parent_permalink: /cryptozoology/
 parent_nav_short_title: Cryptozoology
@@ -448,46 +448,32 @@ image: /assets/images/cryptozoology_99365b_cryptid_samples_280506-overview-socia
 
 ## Introduction
 
-Hair, tissue and other biological samples are often presented as the moment [cryptozoology]({{ 'cryptozoology/' | relative_url }}) becomes testable: not another footprint, blurry photograph or eyewitness account, but something a laboratory can examine. In practice, a sample counts as evidence only when its origin, handling, storage and testing can survive independent scrutiny. A hair found in a forest, a scrap of skin kept in a private collection or a relic said to be from a yeti may be interesting, but it is not strong evidence unless investigators can show where it came from, who handled it, how [contamination]({{ 'contamination/' | relative_url }}) was prevented, what laboratory method was used and whether enough material remains for retesting.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-overview.webp" | relative_url }}" alt="Overview image for Samples" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because the best-known genetic tests of alleged cryptid material have not confirmed unknown primates or lake monsters. They have mostly identified known animals: bears, deer, dogs, horses, cows, wolves, raccoons, porcupines and humans. The lesson is not that biological testing is useless; it is that testing is powerful precisely because it turns dramatic claims into ordinary, checkable questions about sampling, chain of custody and species identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Hair, tissue and other biological samples are often presented as the moment [cryptozoology]({{'cryptozoology/' | relative_url }}) becomes testable: not another footprint, blurry photograph or eyewitness account, but something a laboratory can examine. In practice, a sample counts as evidence only when its origin, handling, storage and testing can survive independent scrutiny. A hair found in a forest, a scrap of skin kept in a private collection or a relic said to be from a yeti may be interesting, but it is not strong evidence unless investigators can show where it came from, who handled it, how [contamination]({{'contamination/' | relative_url }}) was prevented, what laboratory method was used and whether enough material remains for retesting.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-overview.webp" | relative_url }}" alt="Overview image for Samples" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters because the best-known genetic tests of alleged cryptid material have not confirmed unknown primates or lake monsters. They have mostly identified known animals: bears, deer, dogs, horses, cows, wolves, raccoons, porcupines and humans. The lesson is not that biological testing is useless; it is that testing is powerful precisely because it turns dramatic claims into ordinary, checkable questions about sampling, chain of custody and species identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 ## What hair and tissue can prove
 
 Hair and tissue can answer a narrower question than many cryptid headlines suggest. A DNA result can usually identify the animal source of a sample, or show that the sample is too degraded, contaminated or incomplete to interpret. It does not prove that a witness saw what they thought they saw, that a whole population exists, or that every report from a region has the same explanation. A positive cryptid claim would need more than “unusual DNA”: it would need a recoverable sequence, a reliable comparison against known species, transparent methods, independent replication and a credible route from animal to sample.
 
-The 2014 Oxford-Lausanne study led by Bryan Sykes is the clearest example. Researchers invited hair samples attributed to anomalous primates such as yeti, Bigfoot, sasquatch and almasty, then used decontamination and mitochondrial 12S RNA sequencing to identify the species origin of 30 samples. The result was not a new ape. Most samples came from known mammals; two Himalayan samples were reported as having closest affinity with an ancient polar bear lineage, while the rest matched ordinary extant animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The 2014 Oxford-Lausanne study led by Bryan Sykes is the clearest example. Researchers invited hair samples attributed to anomalous primates such as yeti, Bigfoot, sasquatch and almasty, then used decontamination and mitochondrial 12S RNA sequencing to identify the species origin of 30 samples. The result was not a new ape. Most samples came from known mammals; two Himalayan samples were reported as having closest affinity with an ancient polar bear lineage, while the rest matched ordinary extant animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-That study also shows both the value and the limits of cryptid sample testing. It gave believers and sceptics a shared laboratory result, but it did not transform [folklore]({{ 'folklore/' | relative_url }}) into zoology. Hair without roots may contain little nuclear DNA, old material can be degraded, and mitochondrial DNA identifies maternal lineage rather than providing a full genome. Even when a result is intriguing, it has to be checked against contamination, database gaps and alternative explanations before it becomes evidence for an unknown animal.
+That study also shows both the value and the limits of cryptid sample testing. It gave believers and sceptics a shared laboratory result, but it did not transform [folklore]({{'folklore/' | relative_url }}) into zoology. Hair without roots may contain little nuclear DNA, old material can be degraded, and mitochondrial DNA identifies maternal lineage rather than providing a full genome. Even when a result is intriguing, it has to be checked against contamination, database gaps and alternative explanations before it becomes evidence for an unknown animal.
 
-A later yeti-related study made the pattern even clearer. Charlotte Lindqvist and colleagues analysed samples described as yeti material, including bone, tooth, skin, hair and faecal material collected in the Himalayas and Tibetan Plateau. Of nine purported yeti specimens, one was identified as dog and the other eight as Asian bears: Asian black bear, [Himalayan brown bear]({{ 'brown-bears/' | relative_url }}) and Tibetan brown bear. The work did not simply debunk a claim; it also improved understanding of bear lineages in the region, showing how cryptid-labelled material can still produce useful zoological knowledge when handled scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">Royal Society Mysteries of the yeti &#124; Royal Society</span><span class="citation-popover-snippet">Royal Society Mysteries of the yeti &#124; Royal Society</span></span></span>
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-dark.svg" | relative_url }}" alt="Samples illustration 1" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+A later yeti-related study made the pattern even clearer. Charlotte Lindqvist and colleagues analysed samples described as yeti material, including bone, tooth, skin, hair and faecal material collected in the Himalayas and Tibetan Plateau. Of nine purported yeti specimens, one was identified as dog and the other eight as Asian bears: Asian black bear, [Himalayan brown bear]({{'brown-bears/' | relative_url }}) and Tibetan brown bear. The work did not simply debunk a claim; it also improved understanding of bear lineages in the region, showing how cryptid-labelled material can still produce useful zoological knowledge when handled scientifically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">Royal Society Mysteries of the yeti &#124; Royal Society</span><span class="citation-popover-snippet">Royal Society Mysteries of the yeti &#124; Royal Society</span></span></span><img src="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-dark.svg" | relative_url }}" alt="Samples illustration 1" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why chain of custody matters
 
-Chain of custody is the documented history of a sample: who collected it, where and when it was collected, how it was packaged, who received it, where it was stored, when it was opened, and who transferred it to the laboratory. In forensic science, poor chain of custody can make biological evidence inadmissible or unreliable because the sample can no longer be confidently linked to the claimed source. NIST’s biological evidence guidance stresses packaging, maintenance, tracking and preservation after collection, and the NIST/NIJ handbook states that chain-of-custody records should account for movements, changes to packaging, who had custody, who received the evidence, the purpose of transfer and what happened on arrival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Handbook on Biological Evidence Preservation</span><span class="citation-popover-snippet">Handbook on Biological Evidence Preservation</span></span></span>
+Chain of custody is the documented history of a sample: who collected it, where and when it was collected, how it was packaged, who received it, where it was stored, when it was opened, and who transferred it to the laboratory. In forensic science, poor chain of custody can make biological evidence inadmissible or unreliable because the sample can no longer be confidently linked to the claimed source. NIST’s biological evidence guidance stresses packaging, maintenance, tracking and preservation after collection, and the NIST/NIJ handbook states that chain-of-custody records should account for movements, changes to packaging, who had custody, who received the evidence, the purpose of transfer and what happened on arrival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Handbook on Biological Evidence Preservation</span><span class="citation-popover-snippet">Handbook on Biological Evidence Preservation</span></span></span>
 
 Cryptid testing is not usually a court case, but the same logic applies. A sample found in a cabin, kept in a drawer, posted in an envelope, displayed as a relic or passed between enthusiasts can still be tested, yet the result is weaker because the path from alleged animal to laboratory is uncertain. If a hair is said to have come from a Bigfoot encounter but no one can verify where it was collected, whether it was mixed with other animal hair, or whether people handled it without gloves, a laboratory result can identify the material but cannot rescue the original claim.
 
-For a cryptid sample to carry serious evidential weight, the collection record should answer practical questions:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+For a cryptid sample to carry serious evidential weight, the collection record should answer practical questions:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Exact location and context:** GPS position, date, weather, habitat, nearby tracks, carcasses, nests, scat, feeding signs or human activity.
 * **Collection method:** sterile tweezers, gloves, clean containers, single-use tools and clear separation from other samples.
 * **Photographic record:** images before collection, during packaging and after sealing, with scale and surroundings.
 * **Packaging and storage:** dry hair in breathable paper packaging where appropriate; wet tissue chilled or frozen according to laboratory advice; no casual plastic-bag storage that encourages mould or degradation.
 * **Transfer log:** names, times, signatures or electronic records for every handover.
-* **Independent reserve material:** enough of the original sample retained for a second laboratory to test.
-
-</div>
-
-Forensic DNA standards make these requirements concrete. FBI quality assurance standards for forensic DNA testing require laboratories to use documented evidence-control systems, mark evidence packages with unique identifiers, maintain chain of custody in hard-copy or electronic form, record each transfer and follow procedures to minimise loss, contamination or damaging change. They also require validated methods for DNA analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucr.fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucr.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of Investigation</span></span></span>
-
+* **Independent reserve material:** enough of the original sample retained for a second laboratory to test.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZnAo_2cpYY" title="Evidence of the Yeti | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZnAo_2cpYY" target="_blank" rel="noopener noreferrer">Evidence of the Yeti | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZnAo_2cpYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZnAo_2cpYY">Open on YouTube</a></p></div></div></div>
 
@@ -495,26 +481,20 @@ Forensic DNA standards make these requirements concrete. FBI quality assurance s
 
 Contamination is not a minor technicality in cryptid testing; it is often the difference between a meaningful result and a false lead. Modern DNA methods are sensitive enough to detect tiny traces from collectors, handlers, domestic animals, museum storage, laboratory reagents or nearby biological material. This is especially important for alleged cryptid evidence because the expected material is often old, small, shed, weathered or handled long before scientific testing.
 
-Good laboratories therefore separate work areas, use validated procedures, document cleaning and decontamination, and apply controls. FBI DNA quality standards require separation of evidence examination, DNA extraction, PCR set-up and amplified DNA areas, along with written cleaning and decontamination procedures. SWGDAM, the Scientific Working Group on DNA Analysis Methods, maintains contamination-prevention and interpretation guidance for forensic DNA laboratories, including mitochondrial DNA guidance relevant to hair and degraded samples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucr.fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucr.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of Investigation</span></span></span>
+Good laboratories therefore separate work areas, use validated procedures, document cleaning and decontamination, and apply controls. FBI DNA quality standards require separation of evidence examination, DNA extraction, PCR set-up and amplified DNA areas, along with written cleaning and decontamination procedures. SWGDAM, the Scientific Working Group on DNA Analysis Methods, maintains contamination-prevention and interpretation guidance for forensic DNA laboratories, including mitochondrial DNA guidance relevant to hair and degraded samples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucr.fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucr.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of Investigation</span></span></span>
 
-For field cryptozoology, this means a “promising” sample should be treated less like a souvenir and more like fragile trace evidence. Gloves should be changed between items. Tools should be clean or sterile. Samples should be individually sealed. Collectors should avoid breathing, talking or smoking over material. A blank control — for example, an unused swab or a sample from the clean collection surface — can help a laboratory detect contamination or inhibition. The National Institute of Justice notes that substrate controls can help troubleshoot contamination, PCR inhibition and fluorescence interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+For field cryptozoology, this means a “promising” sample should be treated less like a souvenir and more like fragile trace evidence. Gloves should be changed between items. Tools should be clean or sterile. Samples should be individually sealed. Collectors should avoid breathing, talking or smoking over material. A blank control — for example, an unused swab or a sample from the clean collection surface — can help a laboratory detect contamination or inhibition. The National Institute of Justice notes that substrate controls can help troubleshoot contamination, PCR inhibition and fluorescence interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
-The hardest cases are old trophy-like objects: scalps, skins, bones, teeth, relics and museum pieces with colourful histories. These can still be scientifically useful, but their evidential value depends on [provenance]({{ 'provenance/' | relative_url }}). A monastery relic, private collection specimen or decades-old “mystery hair” may produce DNA, yet the result must be interpreted alongside its storage history and the possibility that it came from a known animal, was repaired, was contaminated, or was mislabelled long before testing.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-dark.svg" | relative_url }}" alt="Samples illustration 2" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The hardest cases are old trophy-like objects: scalps, skins, bones, teeth, relics and museum pieces with colourful histories. These can still be scientifically useful, but their evidential value depends on [provenance]({{'provenance/' | relative_url }}). A monastery relic, private collection specimen or decades-old “mystery hair” may produce DNA, yet the result must be interpreted alongside its storage history and the possibility that it came from a known animal, was repaired, was contaminated, or was mislabelled long before testing.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-dark.svg" | relative_url }}" alt="Samples illustration 2" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Known animals in famous sample tests
 
 The most important pattern in cryptid sample testing is not that every case is a hoax. It is that biological material often comes from a real animal, just not the animal claimed. That is why sample testing can be valuable even when it disappoints believers: it replaces a vague mystery with a specific identification.
 
-The FBI’s 1970s Bigfoot file is a useful early case. Peter Byrne of the Bigfoot Information Center asked whether the FBI had examined possible Bigfoot hair and later persuaded the laboratory to examine submitted hair and tissue. The FBI analysed 15 unidentified samples “for the sake of scientific inquiry” and concluded that the hairs were of deer-family origin. The case matters because it shows an official laboratory can test an extraordinary claim without endorsing it, and because the result turned a headline-friendly sample into an ordinary animal identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
+The FBI’s 1970s Bigfoot file is a useful early case. Peter Byrne of the Bigfoot Information Center asked whether the FBI had examined possible Bigfoot hair and later persuaded the laboratory to examine submitted hair and tissue. The FBI analysed 15 unidentified samples “for the sake of scientific inquiry” and concluded that the hairs were of deer-family origin. The case matters because it shows an official laboratory can test an extraordinary claim without endorsing it, and because the result turned a headline-friendly sample into an ordinary animal identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
 
-The Oxford-Lausanne hair survey gave the same lesson on a broader scale. Samples submitted as possible anomalous primates produced matches to known animals rather than an unknown hominin. Reporting at the time highlighted bears, cows, dogs, horses and other familiar species among the tested material, while the peer-reviewed paper emphasised that the tested hairs did not support the existence of relict populations of unknown primates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The Oxford-Lausanne hair survey gave the same lesson on a broader scale. Samples submitted as possible anomalous primates produced matches to known animals rather than an unknown hominin. Reporting at the time highlighted bears, cows, dogs, horses and other familiar species among the tested material, while the peer-reviewed paper emphasised that the tested hairs did not support the existence of relict populations of unknown primates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-The yeti studies are especially instructive because they did not merely say “not yeti”. The 2017 work linked purported yeti specimens to local bear species and used the material to examine the evolutionary history of Himalayan and Tibetan bears. In other words, cryptid-labelled samples may be scientifically useful even when they fail as cryptid evidence. They can reveal which known animals are being encountered, misidentified, mythologised or preserved under legendary labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">Royal Society Mysteries of the yeti &#124; Royal Society</span><span class="citation-popover-snippet">Royal Society Mysteries of the yeti &#124; Royal Society</span></span></span>
-
-Lake-monster testing follows a related pattern, though the sample is often environmental DNA rather than hair or tissue. In the Loch Ness eDNA project, researchers sampled water to look for DNA shed by organisms into the environment. The University of Otago team reported no evidence for plesiosaur-like reptile DNA, shark, catfish or sturgeon, while eel DNA was abundant across sampling locations. Neil Gemmell was careful not to claim a giant eel had been found; the data could not reveal eel size, only presence and abundance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">first edna study of loch ness points to something fishy</span></span></span>
-
+The yeti studies are especially instructive because they did not merely say “not yeti”. The 2017 work linked purported yeti specimens to local bear species and used the material to examine the evolutionary history of Himalayan and Tibetan bears. In other words, cryptid-labelled samples may be scientifically useful even when they fail as cryptid evidence. They can reveal which known animals are being encountered, misidentified, mythologised or preserved under legendary labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">Royal Society Mysteries of the yeti &#124; Royal Society</span><span class="citation-popover-snippet">Royal Society Mysteries of the yeti &#124; Royal Society</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1E3XID7z8ZQ" title="FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer">FBI releases &#x27;Bigfoot&#x27; files from 1970s, decades after &#x27;credible&#x27; Northwest sighting</a></p><p class="youtube-embed-meta">Channel: KREM 2 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1E3XID7z8ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1E3XID7z8ZQ">Open on YouTube</a></p></div></div></div>
 
@@ -528,229 +508,41 @@ A practical protocol would have four decision points.
 
 **Second, separate identification from interpretation.** The laboratory should be asked a narrow question: what species is this sample consistent with? It should not be asked to confirm Bigfoot, yeti or any other named cryptid. This reduces bias and keeps the result tied to the data.
 
-**Third, require independent replication for extraordinary results.** If a test produces an unusual sequence, the next step is not publicity. It is re-extraction, contamination review, database comparison and testing by an independent accredited laboratory using retained material. FBI standards and broader forensic practice emphasise validated methods, documented controls and retained evidence where possible; cryptid investigations need the same discipline if they want scientific attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucr.fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucr.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of Investigation</span></span></span>
+**Third, require independent replication for extraordinary results.** If a test produces an unusual sequence, the next step is not publicity. It is re-extraction, contamination review, database comparison and testing by an independent accredited laboratory using retained material. FBI standards and broader forensic practice emphasise validated methods, documented controls and retained evidence where possible; cryptid investigations need the same discipline if they want scientific attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucr.fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucr.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of Investigation</span></span></span>
 
-**Fourth, publish enough detail to be checked.** A convincing report should include sample provenance, collection notes, laboratory accreditation or competence, extraction methods, primers or sequencing approach, controls, database comparisons, raw or deposited sequence data where appropriate, and a plain statement of uncertainty. A claim that “the lab said unknown” is not enough, because “unknown” may mean degraded, contaminated, not in the database, not interpretable, or simply not identified by that particular method.
-
-
-<img src="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-dark.svg" | relative_url }}" alt="Samples illustration 3" data-theme-src-dark="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+**Fourth, publish enough detail to be checked.** A convincing report should include sample provenance, collection notes, laboratory accreditation or competence, extraction methods, primers or sequencing approach, controls, database comparisons, raw or deposited sequence data where appropriate, and a plain statement of uncertainty. A claim that “the lab said unknown” is not enough, because “unknown” may mean degraded, contaminated, not in the database, not interpretable, or simply not identified by that particular method.<img src="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-dark.svg" | relative_url }}" alt="Samples illustration 3" data-theme-src-dark="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/cryptozoology_99365b_cryptid_samples_280506-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why weak sample handling keeps cryptid claims unresolved
 
 Cryptozoology often treats biological samples as the way out of endless argument, but poor sample handling can simply move the argument into the laboratory. A believer may say a result was dismissed because scientists are closed-minded. A sceptic may say the sample was never credible. Both debates become harder to resolve when the chain of custody is missing.
 
 The strongest cryptid-testing lesson is therefore procedural rather than dramatic: evidence must be made auditable before the result arrives. A hair with an unbroken chain of custody, clean collection, proper storage, validated testing and retained material can meaningfully change a discussion. A hair with a legendary story but no provenance is usually only a mystery object.
 
-This does not make biological testing hostile to cryptozoology. It gives cryptozoology its clearest route to being taken seriously. If an unknown animal exists, it should leave biological traces that can be collected, protected and retested. Until then, the record from famous sample tests points in a consistent direction: alleged cryptid material usually becomes evidence for known animals, contaminated or degraded samples, or local folklore built around real wildlife rather than [proof]({{ 'proof/' | relative_url }}) of an undiscovered large creature.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M_rijBw0A5U" title="Bigfoot and Loch Ness Monster DNA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer">Bigfoot and Loch Ness Monster DNA?</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M_rijBw0A5U">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Cryptid Samples Count as Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Explains how physical evidence claims are tested.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WfCxAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot Exposed">Bigfoot Exposed</a>
-        </h4>
-        <p class="fr-book-author">By David J. Daegling</p>
-        
-        <p class="fr-book-desc">Addresses biological evidence and sample claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Daughters of Eve on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yqD2ngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Seven Daughters of Eve" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Daughters of Eve">The Seven Daughters of Eve</a>
-        </h4>
-        <p class="fr-book-author">By Bryan Sykes</p>
-        
-        <p class="fr-book-desc">Provides DNA-testing context relevant to sample analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Offers context for biological sample claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot+Exposed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Exposed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Daughters of Eve</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/d204fcdf020117f55381.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{ '/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+This does not make biological testing hostile to cryptozoology. It gives cryptozoology its clearest route to being taken seriously. If an unknown animal exists, it should leave biological traces that can be collected, protected and retested. Until then, the record from famous sample tests points in a consistent direction: alleged cryptid material usually becomes evidence for known animals, contaminated or degraded samples, or local folklore built around real wildlife rather than [proof]({{'proof/' | relative_url }}) of an undiscovered large creature.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M_rijBw0A5U" title="Bigfoot and Loch Ness Monster DNA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer">Bigfoot and Loch Ness Monster DNA?</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M_rijBw0A5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M_rijBw0A5U">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to When Cryptid Samples Count as Evidence. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a></h4><p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p><p class="fr-book-desc">Explains how physical evidence claims are tested.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WfCxAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot Exposed">Bigfoot Exposed</a></h4><p class="fr-book-author">By David J. Daegling</p><p class="fr-book-desc">Addresses biological evidence and sample claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bigfoot+Exposed+by+David+J.+Daegling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Daughters of Eve on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yqD2ngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Seven Daughters of Eve" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Daughters of Eve">The Seven Daughters of Eve</a></h4><p class="fr-book-author">By Bryan Sykes</p><p class="fr-book-desc">Provides DNA-testing context relevant to sample analysis.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve+by+Bryan+Sykes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a></h4><p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p><p class="fr-book-desc">Offers context for biological sample claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+by+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot+Exposed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Exposed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Daughters+of+Eve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Daughters of Eve</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{'/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{'/assets/images/marketplace-covers/d204fcdf020117f55381.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{'/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{'/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="samples-when-cryptid-samples-count-as-evidence-cryptozoology-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -764,24 +556,24 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -792,7 +584,7 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -800,45 +592,43 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -854,10 +644,10 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,11 +667,11 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -890,16 +680,16 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -913,9 +703,9 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -934,164 +724,161 @@ This does not make biological testing hostile to cryptozoology. It gives cryptoz
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
    Title: Handbook on Biological Evidence Preservation  
-   Link: <a href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf</a>  
+   Link:<a href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nist.gov  
    Title: Biological Evidence Guidance | NIST  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ucr.fbi.gov  
    Title: Federal Bureau of Investigation  
-   Link: <a href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories</a>  
+   Link:<a href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: swgdam.org  
    Title: PUBLICATIONS | swgdam  
-   Link: <a href="https://www.swgdam.org/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.swgdam.org/publications</a>  
+   Link:<a href="https://www.swgdam.org/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.swgdam.org/publications</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination</a>  
+   Link:<a href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/bigfoot/Bigfoot%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/bigfoot/Bigfoot%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/bigfoot/Bigfoot%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/bigfoot/Bigfoot%20Part%2001%20%28Final%29/at_download/file</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: bigfoot fbi file investigation discovery  
-   Link: <a href="https://www.history.com/articles/bigfoot-fbi-file-investigation-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/bigfoot-fbi-file-investigation-discovery</a>  
+   Link:<a href="https://www.history.com/articles/bigfoot-fbi-file-investigation-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/bigfoot-fbi-file-investigation-discovery</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: bigfoot dna bear animal  
-   Link: <a href="https://time.com/2949457/bigfoot-dna-bear-animal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2949457/bigfoot-dna-bear-animal/</a>  
+   Link:<a href="https://time.com/2949457/bigfoot-dna-bear-animal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2949457/bigfoot-dna-bear-animal/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477</a>  
+   Link:<a href="https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/fbi-unveils-documents-related-1970s-bigfoot-investigation/story?id=63511477</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2014.0161" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2014.0161</a>  
+   Link:<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2014.0161" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2014.0161</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: royalsociety.org  
    Title: Royal Society Mysteries of the yeti | Royal Society  
-   Link: <a href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/</a>  
+   Link:<a href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques</a>  
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/collection-techniques</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: otago.ac.nz  
    Title: first edna study of loch ness points to something fishy  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cfslchandigarh.gov.in  
-   Link: <a href="https://www.cfslchandigarh.gov.in/Uploads/[Media" target="_blank" rel="noopener noreferrer nofollow">https://www.cfslchandigarh.gov.in/Uploads/[Media</a>  
+   Link:<a href="https://www.cfslchandigarh.gov.in/Uploads/[Media" target="_blank" rel="noopener noreferrer nofollow">https://www.cfslchandigarh.gov.in/Uploads/[Media</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the</a>  
+   Link:<a href="https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/284/1868/20171804/78775/Evolutionary-history-of-enigmatic-bears-in-the</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: royalsocietypublishing.org  
    Title: Ancient DNA reveals multiple origins and migration  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/8/8/210518/96399/Ancient-DNA-reveals-multiple-origins-and-migration" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/8/8/210518/96399/Ancient-DNA-reveals-multiple-origins-and-migration</a>  
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/8/8/210518/96399/Ancient-DNA-reveals-multiple-origins-and-migration" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/8/8/210518/96399/Ancient-DNA-reveals-multiple-origins-and-migration</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4121952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4121952/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4121952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4121952/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10833102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10833102/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10833102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10833102/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4298200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4298200/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4298200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4298200/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: otago.ac.nz  
    Title: otago scientist reveals loch ness monster could be a giant eel  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: abcnews.com  
-   Title: new [bigfoot evidence](&#123;&#123; 'bigfoot/' | relative_url &#125;&#125;) screened as expert claims proof of existence  
-   Link: <a href="https://abcnews.com/blogs/technology/2013/10/new-bigfoot-evidence-screened-as-expert-claims-proof-of-existence" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/technology/2013/10/new-bigfoot-evidence-screened-as-expert-claims-proof-of-existence</a>  
+   Title: new [bigfoot evidence](&#123;&#123;'bigfoot/' | relative_url &#125;&#125;) screened as expert claims proof of existence  
+   Link:<a href="https://abcnews.com/blogs/technology/2013/10/new-bigfoot-evidence-screened-as-expert-claims-proof-of-existence" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/technology/2013/10/new-bigfoot-evidence-screened-as-expert-claims-proof-of-existence</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: illumina.com  
    Title: loch ness edna  
-   Link: <a href="https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
+   Link:<a href="https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Evidence of the Yeti | National Geographic  
-   Link: <a href="https://www.youtube.com/watch?v=LZnAo_2cpYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZnAo_2cpYY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Yeti: Myth or Deadly Predator? | History&#x27;s Greatest Mysteries (Season 6)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LZnAo_2cpYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZnAo_2cpYY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Yeti: Myth or Deadly Predator? | History&#x27;s Greatest Mysteries (Season 6)...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283265260_The_Biological_Evidence_Handbook_Best_Practices_for_Evidence_Handlers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283265260_The_Biological_Evidence_Handbook_Best_Practices_for_Evidence_Handlers</a>  
+   Link:<a href="https://www.researchgate.net/publication/283265260_The_Biological_Evidence_Handbook_Best_Practices_for_Evidence_Handlers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283265260_The_Biological_Evidence_Handbook_Best_Practices_for_Evidence_Handlers</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates</a>  
+   Link:<a href="https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/culturacolectivaplus/posts/a-few-years-ago-the-university-of-oxford-gathered-a-group-of-geneticists-and-zoo/2545206075496840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturacolectivaplus/posts/a-few-years-ago-the-university-of-oxford-gathered-a-group-of-geneticists-and-zoo/2545206075496840/</a>  
+   Link:<a href="https://www.facebook.com/culturacolectivaplus/posts/a-few-years-ago-the-university-of-oxford-gathered-a-group-of-geneticists-and-zoo/2545206075496840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturacolectivaplus/posts/a-few-years-ago-the-university-of-oxford-gathered-a-group-of-geneticists-and-zoo/2545206075496840/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/expeditionbigfoot/posts/9764313963658463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/expeditionbigfoot/posts/9764313963658463/</a>  
+   Link:<a href="https://www.facebook.com/groups/expeditionbigfoot/posts/9764313963658463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/expeditionbigfoot/posts/9764313963658463/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/</a>  
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: puregoldforensics.com  
-   Link: <a href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.puregoldforensics.com/evidence-handling-guidelines/</a>  
+   Link:<a href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.puregoldforensics.com/evidence-handling-guidelines/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/412488107/FBI-records-on-Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/412488107/FBI-records-on-Bigfoot</a>  
+   Link:<a href="https://www.scribd.com/document/412488107/FBI-records-on-Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/412488107/FBI-records-on-Bigfoot</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/</a>  
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/269695589_Himalayan_%27yeti%27_DNA_Polar_bear_or_DNA_degradation_A_comment_on_%27Genetic_analysis_of_hair_samples_attributed_to_Yeti%27_by_Sykes_et_al_2014" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269695589_Himalayan_%27yeti%27_DNA_Polar_bear_or_DNA_degradation_A_comment_on_%27Genetic_analysis_of_hair_samples_attributed_to_Yeti%27_by_Sykes_et_al_2014</a>  
+   Link:<a href="https://www.researchgate.net/publication/269695589_Himalayan_%27yeti%27_DNA_Polar_bear_or_DNA_degradation_A_comment_on_%27Genetic_analysis_of_hair_samples_attributed_to_Yeti%27_by_Sykes_et_al_2014" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269695589_Himalayan_%27yeti%27_DNA_Polar_bear_or_DNA_degradation_A_comment_on_%27Genetic_analysis_of_hair_samples_attributed_to_Yeti%27_by_Sykes_et_al_2014</a>  
