@@ -327,16 +327,16 @@ For cryptozoology, the lesson is narrower than often claimed. The coelacanth doe
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Inner Fish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pSlbPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Inner Fish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+          <a href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Inner Fish">Your Inner Fish</a>
         </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Emphasizes the importance of physical evidence over stories.</p>
+        <p class="fr-book-author">By Neil Shubin</p>
+
+        <p class="fr-book-desc">Shows how physical specimens drive major scientific conclusions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -344,16 +344,16 @@ For cryptozoology, the lesson is narrower than often claimed. The coelacanth doe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Inner Fish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pSlbPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Inner Fish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Inner Fish">Your Inner Fish</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By Neil Shubin</p>
-        
-        <p class="fr-book-desc">Shows how physical specimens drive major scientific conclusions.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">&quot;A sharp analysis of the quest for unreal critters―cryptids, as they are called―and the people who pursue them . . . entertaining and tho...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+Inner+Fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -367,8 +367,8 @@ For cryptozoology, the lesson is narrower than often claimed. The coelacanth doe
           <a href="https://www.amazon.com/s?k=Dinosaurs+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs">Dinosaurs</a>
         </h4>
         <p class="fr-book-author">By Dr. Thomas R. Holtz, Jr.</p>
-        
-        <p class="fr-book-desc">Illustrates how anatomical comparison and classification work.</p>
+
+        <p class="fr-book-desc">An award-winning encyclopedia written for young people but perfect for all ages, written to help everyone understand and appreciate the m...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dinosaurs+Dr.+Thomas+R.+Holtz%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -378,16 +378,16 @@ For cryptozoology, the lesson is narrower than often claimed. The coelacanth doe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intracranial Movement in the Coelacanth Latimeria Chalumnae Smith (Osteichthyes, Crossopterygii). on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the Last Undiscovered Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intracranial Movement in the Coelacanth Latimeria Chalumnae Smith (Osteichthyes, Crossopterygii).">Intracranial Movement in the Coelacanth Latimeria Chalumnae S...</a>
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the Last Undiscovered Animals">The Search for the Last Undiscovered Animals</a>
         </h4>
-        <p class="fr-book-author">By Keith Stewart Thomson</p>
-        
-        <p class="fr-book-desc">Covers the specimen that transformed scientific understanding.</p>
+        <p class="fr-book-author">By Karl Shuker</p>
+
+        <p class="fr-book-desc">Discusses discoveries that moved from rumor to specimen.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ For cryptozoology, the lesson is narrower than often claimed. The coelacanth doe
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Inner+Fish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Inner Fish</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Inner+Fish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Inner Fish</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dinosaurs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dinosaurs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

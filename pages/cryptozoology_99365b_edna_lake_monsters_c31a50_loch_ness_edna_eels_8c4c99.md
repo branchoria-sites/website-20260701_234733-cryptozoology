@@ -359,7 +359,7 @@ That outcome is significant because it illustrates both the power and the limits
           <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beasts That Hide from Man">The Beasts That Hide from Man</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Includes discussion of famous monster reports and interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That outcome is significant because it illustrates both the power and the limits
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
         </h4>
         <p class="fr-book-author">By Steuart Campbell</p>
-        
+
         <p class="fr-book-desc">Directly relevant to Nessie evidence and competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That outcome is significant because it illustrates both the power and the limits
           <a href="https://www.amazon.com/s?k=Monster+Of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Of God">Monster Of God</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explores how large-animal myths persist alongside scientific inquiry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monster+Of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,13 +404,13 @@ That outcome is significant because it illustrates both the power and the limits
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=In+Search+of+Lake+Monsters+Peter+Costello&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Search of Lake Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Search+of+Lake+Monsters+Peter+Costello&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Search of Lake Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jIwLAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Search of Lake Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=In+Search+of+Lake+Monsters+Peter+Costello&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Search of Lake Monsters">In Search of Lake Monsters</a>
         </h4>
         <p class="fr-book-author">By Peter Costello</p>
-        
+
         <p class="fr-book-desc">Provides historical background for eel and non-eel theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Search+of+Lake+Monsters+Peter+Costello&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

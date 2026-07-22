@@ -572,7 +572,7 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
           <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
         <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
+
         <p class="fr-book-desc">Directly examines misidentification and natural explanations for monster reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -589,7 +589,7 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
           <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
+
         <p class="fr-book-desc">Provides many cases that can be compared with misidentification explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -600,16 +600,16 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
+          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
         </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Shows how reports develop and persist around ambiguous observations.</p>
+        <p class="fr-book-author">By Steuart Campbell</p>
+
+        <p class="fr-book-desc">Focuses on mistaken observations and conventional explanations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -623,7 +623,7 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
           <a href="https://www.amazon.com/s?k=Monster+Hunt+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Hunt">Monster Hunt</a>
         </h4>
         <p class="fr-book-author">By Rory Storm</p>
-        
+
         <p class="fr-book-desc">Explores how ordinary animals and errors generate monster stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monster+Hunt+Rory+Storm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -634,7 +634,7 @@ The strongest cryptozoological investigations therefore begin with ordinary zool
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness Monster</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

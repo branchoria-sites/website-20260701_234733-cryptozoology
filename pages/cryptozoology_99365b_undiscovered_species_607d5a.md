@@ -570,10 +570,27 @@ That is why undiscovered species are central to understanding cryptozoology, but
           <a href="https://www.amazon.com/s?k=The+Species+Seekers%3A+Heroes%2C+Fools%2C+and+the+Mad+Pursuit+of+Life+on+Earth+Richard+Conniff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Species Seekers: Heroes, Fools, and the Mad Pursuit of Life on Earth">The Species Seekers: Heroes, Fools, and the Mad Pursuit of Li...</a>
         </h4>
         <p class="fr-book-author">By Richard Conniff</p>
-        
+
         <p class="fr-book-desc">Directly examines species discovery and how new organisms enter science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Species+Seekers%3A+Heroes%2C+Fools%2C+and+the+Mad+Pursuit+of+Life+on+Earth+Richard+Conniff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Clarifies differences between real discoveries and cryptid claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -587,7 +604,7 @@ That is why undiscovered species are central to understanding cryptozoology, but
           <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Evolution is True">Why Evolution is True</a>
         </h4>
         <p class="fr-book-author">By Jerry A. Coyne</p>
-        
+
         <p class="fr-book-desc">Provides background on biodiversity, species, and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -604,7 +621,7 @@ That is why undiscovered species are central to understanding cryptozoology, but
           <a href="https://www.amazon.com/s?k=The+Variety+of+Life+Colin+Tudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Variety of Life">The Variety of Life</a>
         </h4>
         <p class="fr-book-author">By Colin Tudge</p>
-        
+
         <p class="fr-book-desc">Explains the scale of known and unknown life on Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Variety+of+Life+Colin+Tudge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -613,26 +630,9 @@ That is why undiscovered species are central to understanding cryptozoology, but
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Represents the cryptozoological side of the comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Species+Seekers%3A+Heroes%2C+Fools%2C+and+the+Mad+Pursuit+of+Life+on+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Species Seekers: Heroes, Fools, and the Mad Pursuit of Life on Earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Variety+of+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Variety of Life</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Species+Seekers%3A+Heroes%2C+Fools%2C+and+the+Mad+Pursuit+of+Life+on+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Species Seekers: Heroes, Fools, and the Mad Pursuit of Life on Earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

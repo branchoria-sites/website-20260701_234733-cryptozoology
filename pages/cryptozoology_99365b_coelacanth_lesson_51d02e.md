@@ -548,30 +548,13 @@ For cryptozoology, that is the final corrective. The coelacanth does not prove t
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Directly addresses how extraordinary animal claims should be evaluated against evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Evolution+is+True+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Evolution is True on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J91Z6ED7MgEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Evolution is True" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Evolution is True">Why Evolution is True</a>
         </h4>
         <p class="fr-book-author">By Jerry A. Coyne</p>
-        
+
         <p class="fr-book-desc">Helps readers understand evidence standards in biology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Evolution+is+True+Jerry+A.+Coyne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -588,7 +571,7 @@ For cryptozoology, that is the final corrective. The coelacanth does not prove t
           <a href="https://www.amazon.com/s?k=Wonderful+Life+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life">Wonderful Life</a>
         </h4>
         <p class="fr-book-author">By Stephen Jay Gould</p>
-        
+
         <p class="fr-book-desc">Provides context for how scientists interpret major discoveries and evolutionary history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wonderful+Life+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -599,16 +582,33 @@ For cryptozoology, that is the final corrective. The coelacanth does not prove t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intracranial Movement in the Coelacanth Latimeria Chalumnae Smith (Osteichthyes, Crossopterygii). on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intracranial Movement in the Coelacanth Latimeria Chalumnae Smith (Osteichthyes, Crossopterygii).">Intracranial Movement in the Coelacanth Latimeria Chalumnae S...</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By Keith Stewart Thomson</p>
-        
-        <p class="fr-book-desc">Focuses on the coelacanth and its scientific significance.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">&quot;A sharp analysis of the quest for unreal critters―cryptids, as they are called―and the people who pursue them . . . entertaining and tho...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intracranial+Movement+in+the+Coelacanth+Latimeria+Chalumnae+Smith+%28Osteichthyes%2C+Crossopterygii%29.+Keith+Stewart+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the Last Undiscovered Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the Last Undiscovered Animals">The Search for the Last Undiscovered Animals</a>
+        </h4>
+        <p class="fr-book-author">By Karl Shuker</p>
+
+        <p class="fr-book-desc">Explores real and alleged discoveries of unknown animals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Last+Undiscovered+Animals+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -616,7 +616,7 @@ For cryptozoology, that is the final corrective. The coelacanth does not prove t
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Evolution+is+True&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Evolution is True</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

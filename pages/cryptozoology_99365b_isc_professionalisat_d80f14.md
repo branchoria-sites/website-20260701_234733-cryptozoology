@@ -568,7 +568,7 @@ The International Society of Cryptozoology sits at that boundary. It was the fie
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
         </h4>
         <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
+
         <p class="fr-book-desc">Explains the intellectual ambitions behind cryptozoology as a discipline.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -579,16 +579,16 @@ The International Society of Cryptozoology sits at that boundary. It was the fie
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Snowmen, Legend Come to Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MVZSSkqDCU4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Snowmen, Legend Come to Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen, Legend Come to Life">Abominable Snowmen, Legend Come to Life</a>
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
         </h4>
-        <p class="fr-book-author">By Ivan T. Sanderson</p>
-        
-        <p class="fr-book-desc">Shows how cryptozoological claims were framed in scientific language.</p>
+        <p class="fr-book-author">By Michael Shermer</p>
+
+        <p class="fr-book-desc">Addresses why controversial claims struggle for scientific acceptance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -602,7 +602,7 @@ The International Society of Cryptozoology sits at that boundary. It was the fie
           <a href="https://www.amazon.com/s?k=Abominable+Snowmen+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen">Abominable Snowmen</a>
         </h4>
         <p class="fr-book-author">By Ivan T. Sanderson</p>
-        
+
         <p class="fr-book-desc">Shows how cryptozoological claims were framed in scientific language.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Snowmen+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -619,7 +619,7 @@ The International Society of Cryptozoology sits at that boundary. It was the fie
           <a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious creatures : a guide to cryptozoology. 2. [N - Z]">Mysterious creatures : a guide to cryptozoology. 2. [N - Z]</a>
         </h4>
         <p class="fr-book-author">By George M. Eberhart</p>
-        
+
         <p class="fr-book-desc">Covers the field, its institutions, and its recurring evidence problems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysterious+creatures+%3A+a+guide+to+cryptozoology.+2.+%5BN+-+Z%5D+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -630,7 +630,7 @@ The International Society of Cryptozoology sits at that boundary. It was the fie
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen, Legend Come to Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

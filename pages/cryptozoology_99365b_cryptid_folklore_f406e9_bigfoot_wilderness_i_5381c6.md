@@ -327,30 +327,13 @@ Many cryptids become associated with particular environments, but Bigfoot is unu
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O_ZbRQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Examines Bigfoot as a cultural symbol tied to wilderness and identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sasquatch: Legend Meets Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hPST5ZLI4dAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sasquatch: Legend Meets Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
         </h4>
         <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
         <p class="fr-book-desc">Explores evidence debates surrounding the forest-dwelling cryptid.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +350,7 @@ Many cryptids become associated with particular environments, but Bigfoot is unu
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where Bigfoot Walks">Where Bigfoot Walks</a>
         </h4>
         <p class="fr-book-author">By Robert Michael Pyle</p>
-        
+
         <p class="fr-book-desc">Strong focus on forests, place and the Bigfoot imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +367,7 @@ Many cryptids become associated with particular environments, but Bigfoot is unu
           <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
         </h4>
         <p class="fr-book-author">By J. W. Ocker</p>
-        
+
         <p class="fr-book-desc">Places Bigfoot within a wider network of regional legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,9 +376,26 @@ Many cryptids become associated with particular environments, but Bigfoot is unu
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Locals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6EHAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Locals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Locals">The Locals</a>
+        </h4>
+        <p class="fr-book-author">By Thom Powell</p>
+
+        <p class="fr-book-desc">Connects Sasquatch traditions with landscape and community stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where Bigfoot Walks</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where Bigfoot Walks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

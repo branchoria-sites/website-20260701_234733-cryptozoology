@@ -391,30 +391,13 @@ This tension became a defining feature of modern cryptozoology. Sanderson's arti
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Snowmen, Legend Come to Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MVZSSkqDCU4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Snowmen, Legend Come to Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen, Legend Come to Life">Abominable Snowmen, Legend Come to Life</a>
-        </h4>
-        <p class="fr-book-author">By Ivan T. Sanderson</p>
-        
-        <p class="fr-book-desc">Demonstrates the storytelling style that magazine audiences embraced.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OYudQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On the Track of Unknown Animals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
         </h4>
         <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
+
         <p class="fr-book-desc">Represents the broader monster-hunting culture magazines promoted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,10 +414,27 @@ This tension became a defining feature of modern cryptozoology. Sanderson's arti
           <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman</p>
-        
+
         <p class="fr-book-desc">Captures the entertainment-driven environment that helped monster stories spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Residents+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Residents on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_BKYTHMBLj8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Invisible Residents" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Invisible+Residents+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Residents">Invisible Residents</a>
+        </h4>
+        <p class="fr-book-author">By Ivan T. Sanderson</p>
+
+        <p class="fr-book-desc">Shows how mass-market presentation expanded interest in unexplained phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Invisible+Residents+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -448,7 +448,7 @@ This tension became a defining feature of modern cryptozoology. Sanderson's arti
           <a href="https://www.amazon.com/s?k=Abominable+Snowmen+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Snowmen">Abominable Snowmen</a>
         </h4>
         <p class="fr-book-author">By Ivan T. Sanderson</p>
-        
+
         <p class="fr-book-desc">Demonstrates the storytelling style that magazine audiences embraced.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Snowmen+Ivan+T.+Sanderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ This tension became a defining feature of modern cryptozoology. Sanderson's arti
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Snowmen%2C+Legend+Come+to+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Snowmen, Legend Come to Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On the Track of Unknown Animals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Invisible+Residents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Invisible Residents</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

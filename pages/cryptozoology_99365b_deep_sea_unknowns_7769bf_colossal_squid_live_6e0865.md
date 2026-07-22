@@ -348,16 +348,16 @@ This distinction is important. Rare footage can be valuable evidence, but its st
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kraken+Wendy+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kraken on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AABQrsVz0e8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Kraken" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Squid Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=udIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Squid Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kraken+Wendy+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kraken">Kraken</a>
+          <a href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Squid Empire">Squid Empire</a>
         </h4>
-        <p class="fr-book-author">By Wendy Williams</p>
-        
-        <p class="fr-book-desc">Directly addresses giant squid, colossal squid, and deep-sea cephalopods.</p>
+        <p class="fr-book-author">By Danna Staaf</p>
+
+        <p class="fr-book-desc">Explains squid biology and why observation often lags behind discovery.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kraken+Wendy+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -365,16 +365,16 @@ This distinction is important. Rare footage can be valuable evidence, but its st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Squid Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=udIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Squid Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Search+for+the+Giant+Squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the Giant Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XoZPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Search for the Giant Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Squid Empire">Squid Empire</a>
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Giant+Squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the Giant Squid">The Search for the Giant Squid</a>
         </h4>
-        <p class="fr-book-author">By Danna Staaf</p>
-        
-        <p class="fr-book-desc">Explains squid biology and why observation often lags behind discovery.</p>
+        <p class="fr-book-author">By Richard Ellis</p>
+
+        <p class="fr-book-desc">Examines the history of documenting giant deep-sea cephalopods.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Squid+Empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+Giant+Squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -388,7 +388,7 @@ This distinction is important. Rare footage can be valuable evidence, but its st
           <a href="https://www.amazon.com/s?k=Other+Minds+Peter+Godfrey-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Other Minds">Other Minds</a>
         </h4>
         <p class="fr-book-author">By Peter Godfrey-Smith</p>
-        
+
         <p class="fr-book-desc">Provides insight into the lives of intelligent marine invertebrates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Other+Minds+Peter+Godfrey-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ This distinction is important. Rare footage can be valuable evidence, but its st
           <a href="https://www.amazon.com/s?k=The+Deep+Claire+Nouvian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Deep">The Deep</a>
         </h4>
         <p class="fr-book-author">By Claire Nouvian</p>
-        
+
         <p class="fr-book-desc">Illustrates the poorly observed environment where colossal squid live.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Deep+Claire+Nouvian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ This distinction is important. Rare footage can be valuable evidence, but its st
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kraken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kraken</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Squid+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Squid Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Other+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Other Minds</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Squid+Empire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Squid Empire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+the+Giant+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for the Giant Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Other+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Other Minds</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

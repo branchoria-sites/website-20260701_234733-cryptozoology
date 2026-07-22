@@ -365,7 +365,7 @@ For cryptozoological claims, this creates an asymmetry. The more elusive and inf
           <a href="https://www.amazon.com/s?k=Environmental+DNA+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Environmental DNA">Environmental DNA</a>
         </h4>
         <p class="fr-book-author">By Pierre Taberlet, Aurélie Bonin et al.</p>
-        
+
         <p class="fr-book-desc">Covers detection limits, false negatives, and interpretation of non-detection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Environmental+DNA+Pierre+Taberlet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For cryptozoological claims, this creates an asymmetry. The more elusive and inf
           <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
         <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
+
         <p class="fr-book-desc">Shows how missing evidence affects extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For cryptozoological claims, this creates an asymmetry. The more elusive and inf
           <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beasts That Hide from Man">The Beasts That Hide from Man</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Discusses elusive animals and the difficulty of proving absence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beasts+That+Hide+from+Man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,16 +410,16 @@ For cryptozoological claims, this creates an asymmetry. The more elusive and inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Theory+of+Ecological+Communities+%28MPB-57%29+Mark+Vellend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Theory of Ecological Communities (MPB-57) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2Yn8CwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Theory of Ecological Communities (MPB-57)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTHXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Loch Ness Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Theory+of+Ecological+Communities+%28MPB-57%29+Mark+Vellend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Theory of Ecological Communities (MPB-57)">The Theory of Ecological Communities (MPB-57)</a>
+          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster">The Loch Ness Monster</a>
         </h4>
-        <p class="fr-book-author">By Mark Vellend</p>
-        
-        <p class="fr-book-desc">Provides context for species detection, rarity, and survey interpretation.</p>
+        <p class="fr-book-author">By Steuart Campbell</p>
+
+        <p class="fr-book-desc">Examines what conclusions can and cannot be drawn from absent evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Theory+of+Ecological+Communities+%28MPB-57%29+Mark+Vellend&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
