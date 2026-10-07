@@ -1,0 +1,15 @@
+# Curated video-media opt-in (alpha-build:site-generator:video-media-
+# enrichment-pilot:v1). pages map: absolute page url -> curated public
+# embed list. Allowlisted providers only (youtube -> youtube-nocookie
+# embed host, vimeo -> player.vimeo.com); each entry renders a lazy
+# iframe plus VideoObject JSON-LD and an og:video meta.
+pages:
+  "/patterson-film/":
+    - provider: youtube
+      id: "Us6jo8bl2lk"
+      title: "Bigfoot caught on tape (Patterson footage stabilized)"
+      description: "The original 1967 Patterson-Gimlin footage, with a zoomed and stabilized second pass."
+    - provider: youtube
+      id: "Myjmci5RLS8"
+      title: "Patterson Gimlin Bigfoot Film - Rare Unedited Version"
+      description: "The unedited 1967 Bluff Creek film as shot by Roger Patterson and Robert Gimlin."

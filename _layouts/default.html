@@ -224,6 +224,7 @@
             {% endif %}
             <article class="article-body">
               {{ content }}
+              {%- include video-media.html %}
             </article>
             {% assign has_sibling_links = false %}
             {% if page.sibling_links %}

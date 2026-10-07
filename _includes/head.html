@@ -9,6 +9,15 @@
   {% unless page.image or page.header.og_image %}
   <meta property="og:image" content="{{ site.og_image_default | absolute_url }}">
   {% endunless %}
+  {%- if site.data.video_media.pages[page.url] -%}
+  {%- for vm in site.data.video_media.pages[page.url] -%}
+  {%- if vm.provider == 'youtube' -%}
+  <meta property="og:video" content="https://www.youtube-nocookie.com/embed/{{ vm.id | escape }}">
+  {%- elsif vm.provider == 'vimeo' -%}
+  <meta property="og:video" content="https://player.vimeo.com/video/{{ vm.id | escape }}">
+  {%- endif -%}
+  {%- endfor -%}
+  {%- endif %}
   <script>
     (function () {
       var root = document.documentElement;
