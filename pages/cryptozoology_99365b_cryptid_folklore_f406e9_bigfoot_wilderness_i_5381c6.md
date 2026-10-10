@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_cryptid_folklore_f406e9_bigfoot_wilderness_i_5381c6
 parent_basename: cryptozoology_99365b_cryptid_folklore_f406e9

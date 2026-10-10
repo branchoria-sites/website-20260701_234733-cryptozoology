@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_cryptid_hoaxes_15bf4d_minnesota_iceman_cf3881
 parent_basename: cryptozoology_99365b_cryptid_hoaxes_15bf4d

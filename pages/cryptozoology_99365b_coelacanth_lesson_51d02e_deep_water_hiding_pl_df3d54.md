@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_coelacanth_lesson_51d02e_deep_water_hiding_pl_df3d54
 parent_basename: cryptozoology_99365b_coelacanth_lesson_51d02e

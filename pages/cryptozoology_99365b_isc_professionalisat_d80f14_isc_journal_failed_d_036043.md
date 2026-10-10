@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_isc_professionalisat_d80f14_isc_journal_failed_d_036043
 parent_basename: cryptozoology_99365b_isc_professionalisat_d80f14

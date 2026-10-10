@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_monster_legend_meani_56343e_monster_hunt_wildern_9db00f
 parent_basename: cryptozoology_99365b_monster_legend_meani_56343e

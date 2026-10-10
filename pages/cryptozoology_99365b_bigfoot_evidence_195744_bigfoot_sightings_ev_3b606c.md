@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_sightings_ev_3b606c
 parent_basename: cryptozoology_99365b_bigfoot_evidence_195744

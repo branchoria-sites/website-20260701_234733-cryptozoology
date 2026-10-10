@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_ivan_sanderson_17ff64_situ_monster_institu_6934d4
 parent_basename: cryptozoology_99365b_ivan_sanderson_17ff64

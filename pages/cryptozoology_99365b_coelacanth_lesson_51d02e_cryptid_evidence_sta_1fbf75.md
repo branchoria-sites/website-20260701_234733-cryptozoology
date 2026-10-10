@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_coelacanth_lesson_51d02e_cryptid_evidence_sta_1fbf75
 parent_basename: cryptozoology_99365b_coelacanth_lesson_51d02e
