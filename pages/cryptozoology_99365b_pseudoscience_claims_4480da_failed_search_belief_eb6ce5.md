@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_pseudoscience_claims_4480da_failed_search_belief_eb6ce5
 parent_basename: cryptozoology_99365b_pseudoscience_claims_4480da

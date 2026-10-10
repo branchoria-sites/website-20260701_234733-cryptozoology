@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_coelacanth_lesson_51d02e_chalumna_specimen_pr_ce0931
 parent_basename: cryptozoology_99365b_coelacanth_lesson_51d02e

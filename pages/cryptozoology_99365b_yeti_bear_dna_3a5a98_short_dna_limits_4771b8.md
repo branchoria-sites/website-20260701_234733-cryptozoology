@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_yeti_bear_dna_3a5a98_short_dna_limits_4771b8
 parent_basename: cryptozoology_99365b_yeti_bear_dna_3a5a98

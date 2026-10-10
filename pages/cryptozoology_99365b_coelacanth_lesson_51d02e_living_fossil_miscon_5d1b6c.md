@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_coelacanth_lesson_51d02e_living_fossil_miscon_5d1b6c
 parent_basename: cryptozoology_99365b_coelacanth_lesson_51d02e

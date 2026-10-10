@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_eyewitness_sightings_76b10a_lake_monster_scale_m_967a5b
 parent_basename: cryptozoology_99365b_eyewitness_sightings_76b10a

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_cryptid_photos_f13bdf_cropping_scale_illus_448176
 parent_basename: cryptozoology_99365b_cryptid_photos_f13bdf

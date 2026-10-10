@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_monster_legend_meani_56343e_official_explanation_b984d5
 parent_basename: cryptozoology_99365b_monster_legend_meani_56343e

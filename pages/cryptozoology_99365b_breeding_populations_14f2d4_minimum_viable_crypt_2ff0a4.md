@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_breeding_populations_14f2d4_minimum_viable_crypt_2ff0a4
 parent_basename: cryptozoology_99365b_breeding_populations_14f2d4

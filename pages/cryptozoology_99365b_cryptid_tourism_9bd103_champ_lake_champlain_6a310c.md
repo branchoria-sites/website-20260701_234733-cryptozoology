@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_cryptid_tourism_9bd103_champ_lake_champlain_6a310c
 parent_basename: cryptozoology_99365b_cryptid_tourism_9bd103

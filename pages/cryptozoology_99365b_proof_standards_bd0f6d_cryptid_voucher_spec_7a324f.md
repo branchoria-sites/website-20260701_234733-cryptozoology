@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_proof_standards_bd0f6d_cryptid_voucher_spec_7a324f
 parent_basename: cryptozoology_99365b_proof_standards_bd0f6d

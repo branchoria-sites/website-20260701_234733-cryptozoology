@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_okapi_discovery_990550_equus_johnstoni_mist_84ea75
 parent_basename: cryptozoology_99365b_okapi_discovery_990550

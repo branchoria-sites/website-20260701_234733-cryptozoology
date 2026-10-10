@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_yeti_bear_dna_3a5a98_yeti_relic_identitie_7df5b7
 parent_basename: cryptozoology_99365b_yeti_bear_dna_3a5a98
