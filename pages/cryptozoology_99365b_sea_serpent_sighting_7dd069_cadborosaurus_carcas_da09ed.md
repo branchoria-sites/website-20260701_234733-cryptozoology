@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_sea_serpent_sighting_7dd069_cadborosaurus_carcas_da09ed
 parent_basename: cryptozoology_99365b_sea_serpent_sighting_7dd069

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_cryptid_museums_71b4f6_mothman_museum_archi_e84f45
 parent_basename: cryptozoology_99365b_cryptid_museums_71b4f6

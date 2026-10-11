@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_cryptid_museums_71b4f6_expedition_bigfoot_m_8016ba
 parent_basename: cryptozoology_99365b_cryptid_museums_71b4f6

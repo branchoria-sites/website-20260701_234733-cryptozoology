@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_cryptid_folklore_f406e9_nessie_highlands_sym_981e5d
 parent_basename: cryptozoology_99365b_cryptid_folklore_f406e9

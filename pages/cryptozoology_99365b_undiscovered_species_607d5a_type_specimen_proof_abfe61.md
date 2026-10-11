@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_undiscovered_species_607d5a_type_specimen_proof_abfe61
 parent_basename: cryptozoology_99365b_undiscovered_species_607d5a

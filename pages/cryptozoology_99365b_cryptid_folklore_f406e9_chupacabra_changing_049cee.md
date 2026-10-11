@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_cryptid_folklore_f406e9_chupacabra_changing_049cee
 parent_basename: cryptozoology_99365b_cryptid_folklore_f406e9

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_proof_standards_bd0f6d_holotype_naming_rule_b6fd6a
 parent_basename: cryptozoology_99365b_proof_standards_bd0f6d

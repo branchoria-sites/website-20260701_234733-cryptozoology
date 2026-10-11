@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_prehistoric_cryptids_55e4ac_coelacanth_monster_l_03488f
 parent_basename: cryptozoology_99365b_prehistoric_cryptids_55e4ac

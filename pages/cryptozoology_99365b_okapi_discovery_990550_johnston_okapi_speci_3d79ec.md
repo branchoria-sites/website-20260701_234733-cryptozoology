@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_okapi_discovery_990550_johnston_okapi_speci_3d79ec
 parent_basename: cryptozoology_99365b_okapi_discovery_990550

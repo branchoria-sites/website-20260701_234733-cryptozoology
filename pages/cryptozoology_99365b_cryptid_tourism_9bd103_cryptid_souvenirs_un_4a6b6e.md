@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_cryptid_tourism_9bd103_cryptid_souvenirs_un_4a6b6e
 parent_basename: cryptozoology_99365b_cryptid_tourism_9bd103

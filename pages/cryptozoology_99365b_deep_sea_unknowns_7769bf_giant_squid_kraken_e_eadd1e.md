@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:24'
 level: 3
 basename: cryptozoology_99365b_deep_sea_unknowns_7769bf_giant_squid_kraken_e_eadd1e
 parent_basename: cryptozoology_99365b_deep_sea_unknowns_7769bf

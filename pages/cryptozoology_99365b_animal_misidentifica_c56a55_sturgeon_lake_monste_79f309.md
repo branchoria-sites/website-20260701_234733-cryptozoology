@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_animal_misidentifica_c56a55_sturgeon_lake_monste_79f309
 parent_basename: cryptozoology_99365b_animal_misidentifica_c56a55

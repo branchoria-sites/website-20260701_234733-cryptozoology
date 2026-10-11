@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_bigfoot_evidence_195744_bigfoot_dna_tests_e6c8ee
 parent_basename: cryptozoology_99365b_bigfoot_evidence_195744

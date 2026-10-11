@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:23:51'
 level: 3
 basename: cryptozoology_99365b_monster_legend_meani_56343e_mothman_tnt_area_33978b
 parent_basename: cryptozoology_99365b_monster_legend_meani_56343e

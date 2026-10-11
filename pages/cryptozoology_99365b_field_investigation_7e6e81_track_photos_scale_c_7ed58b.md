@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_field_investigation_7e6e81_track_photos_scale_c_7ed58b
 parent_basename: cryptozoology_99365b_field_investigation_7e6e81

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:06'
 level: 3
 basename: cryptozoology_99365b_yeti_bear_dna_3a5a98_sykes_hair_samples_6c73aa
 parent_basename: cryptozoology_99365b_yeti_bear_dna_3a5a98
